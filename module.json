@@ -1,0 +1,66 @@
+{
+  "id": "starforged-custom-oracles",
+  "title": "Starforged Custom Oracles",
+  "description": "A collection of fan-created oracles for the Ironsworn: Starforged system.",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11
+  },
+  "authors": [
+    {
+      "name": "David Y. Hudson",
+      "discord": "jendave",
+      "url": "https://github.com/jendave"
+    },
+    {
+      "name": "Julius Hennig",
+      "url": "https://birb-nerb.itch.io"
+    }
+  ],
+  "packs": [
+    {
+      "name": "starforgedcustomoracles",
+      "label": "Starforged Custom Oracles",
+      "path": "./packs/starforged-custom-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starforgedcustomoraclesmacros",
+      "label": "Starforged Custom Oracles Macros",
+      "path": "./packs/starforged-custom-oracles-macros",
+      "type": "Macro",
+      "system": "foundry-ironsworn"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Starforged Custom Oracles",
+      "packs": [
+        "starforgedcustomoracles",
+        "starforgedcustomoraclesmacros"
+      ]
+    }
+  ],
+  "manifest": "#{MANIFEST}#",
+  "url": "#{URL}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "https://raw.githubusercontent.com/jendave/starforged-custom-oracles/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/starforged-custom-oracles/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/starforged-custom-oracles/main/README.md",
+  "bugs": "https://github.com/jendave/starforged-custom-oracles/issues",
+  "relationships": {
+    "systems": [
+      {
+        "id": "foundry-ironsworn",
+        "type": "system",
+        "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1.22.4",
+          "verified": "1.22"
+        }
+      }
+    ]
+  }
+}
