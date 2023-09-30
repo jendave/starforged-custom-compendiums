@@ -35,7 +35,7 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
 
 # Credits
-[Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle) and [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged) by Julius Hennig are used with permission from the author.
+[Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle) and [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged) by Julius Hennig are used with permission from the author. They were created during the Starforged 2022 Jam on itch.io.
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
