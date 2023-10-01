@@ -9,6 +9,7 @@ A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged sys
 
 # Features and Notes
 * Oracle tables contributed by fans are included in the compendium.
+* Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord](https://discord.com/channels/437120373436186625/867434336201605160)!
 
 # Module Installation
 To install the module, search for `Starforged` in the `Add-On Modules` tab of Foundry.
