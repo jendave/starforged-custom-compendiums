@@ -1,0 +1,1688 @@
+The first set of Oracles are for generating an (enhanced) set of NPCs in your game. As always, I
+can't resist adding instant "color". The way the Oracles are intended is that you can use them to
+generate antagonists or protagonists, as you need, without making any distinction about "good"
+and "bad". If I meet a "bitter arms trader" who wants my help, I can make a potential moral decision
+about whether or not I'm going to take that NPC up on the offer.
+As for plot generators - I can never resist such things!
+
+The concept is simple - roll on NPC Descriptor and NPC Noun Oracles and combine!
+
+d250 NPC Descriptor
+1   addicted
+2   adventurous
+3   afflicted
+4   affluent
+5   aggressive
+6   ambitious
+7   angry
+8   anxious
+9   apathetic
+10  authoritarian
+11  banal
+12  belligerent
+13  big-time
+14  bitter
+15  boastful
+16  boisterous
+17  bold
+18  brave
+19  careful
+20  careless
+21  caring
+22  cautious
+23  charismatic
+24  childish
+25  clever
+26  coarse
+27  compliant
+28  conceited
+29  confident
+30  conformist
+31  confused
+32  connected
+33  conniving
+34  conservative
+35  controversial
+36  corrupt
+37  cowardly
+38  crafty
+39  creative
+40  critical
+41  cruel
+42  cultured
+43  cultureless
+44  cunning
+45  curious
+46  dangerous
+47  deceitful
+48  defiant
+49  delightful
+50  dependable
+51   despondent
+52   destitute
+53   determined
+54   devoted
+55   dignified
+56   dirty
+57   disgruntled
+58   dishonest
+59   dishonourable
+60   doomed
+61   driven
+62   dying
+63   elderly
+64   elite
+65   envious
+66   established
+67   experienced
+68   faithful
+69   fake
+70   famous
+71   fanatic
+72   favored
+73   fickle
+74   foolish
+75   former
+76   forthright
+77   freelance
+78   frightened
+79   generous
+80   gifted
+81   glum
+82   grateful
+83   greedy
+84   grief-stricken
+85   habitual
+86   handy
+87   hardhearted
+88   haunted
+89   helpful
+90   high-brow
+91   high-class
+92   high-profile
+93   honest
+94   honorable
+95   hopeless
+96   hostile
+97   hot-tempered
+98   idealistic
+99   ignorant
+100  impulsive
+101  incompetent
+102  inconsiderate
+103  independent
+104  indifferent
+105  indispensable
+106  inept
+107  inexperienced
+108  infamous
+109  influential
+110  innocent
+111  inquisitive
+112  insensitive
+113  insightful
+114  intelligent
+115  intolerant
+116  investigative
+117  ironsworn
+118  jovial
+119  judgmental
+120  kind
+121  law-abiding
+122  lazy
+123  legal
+124  legitimate
+125  lethargic
+126  liberal
+127  likable
+128  lively
+129  logical
+130  lonely
+131  loving
+132  loyal
+133  malicious
+134  manipulative
+135  meek
+136  merciful
+137  mindless
+138  miserly
+139  mysterious
+140  naive
+141  needy
+142  nefarious
+143  neglectful
+144  oblivious
+145  obnoxious
+146  obsessed
+147  old
+148  oppressed
+149  optimistic
+150  paranoid
+151  passing
+152  passionate
+153  passive
+154  perceptive
+155  pessimistic
+156  pious
+157  pleasant
+158  plebeian
+159  powerful
+160  pragmatic
+161  privileged
+162  professional
+163  proud
+164  prying
+165  pushy
+166  quiet
+167  quirky
+168  rational
+169  reasonable
+170  rebellious
+171  reclusive
+172  refined
+173  relaxed
+174  remorseful
+175  reputable
+176  resourceful
+177  revolting
+178  righteous
+179  rival
+180  romantic
+181  scarred
+182  scheming
+183  scholarly
+184  secretive
+185  selfish
+186  senior
+187  sensible
+188  serene
+189  shocked
+190  shrewd
+191  simple
+192  sinful
+193  skilled
+194  small-time
+195  sociable
+196  solemn
+197  spiralling
+198  stealthy
+199  stern
+200  stingy
+201  stoic
+202  strong
+203  stubborn
+204  subtle
+205  successful
+206  suicidal
+207  superfluous
+208  suspicious
+209  tactless
+210  talented
+211  talkative
+212  technical
+213  territorial
+214  thoughtful
+215  timid
+216  tired
+217  titled
+218  tolerant
+219  touchy
+220  tough
+221  traitorous
+222  uncaring
+223  unconcerned
+224  uncouth
+225  uneducated
+226  unlicensed
+227  unrealistic
+228  unreasonable
+229  unseemly
+230  unstable
+231  unsupportive
+232  untrained
+233  vengeful
+234  veteran
+235  vigilant
+236  violent
+237  visiting
+238  wannabe
+239  wary
+240  washed out
+241  watchful
+242  wayward
+243  weak
+244  weary
+245  weird
+246  well-informed
+247  wicked
+248  wild
+249  willful
+250  wise
+
+d400 NPC Noun
+1    acquaintance
+2    acquisition specialist
+3    activist
+4    actor
+5    adept
+6    admirer
+7    adventurer
+8    agricultural landowner
+9    AI
+10   ally
+11   anti-armour specialist
+12   antiquity peddler
+13   apprentice
+14   aristocrat
+15   armoured trooper
+16   arms trader
+17   artisan
+18   artiste
+19   assassin
+20   assault expert
+21   associate
+22   astrologer
+23   back-alley butcher
+24   back-alley chemist
+25   battlefield psycho
+26   beggar
+27   belter
+28   benefactor
+29   betrayer
+30   beverage stand clerk
+31   black market boss
+32   bounty hunter
+33   broker
+34   brute
+35   building superintendent
+36   bum
+37   bureaucrat
+38   burglar
+39   business owner
+40   buyer
+41   caretaker
+42   cartographer
+43   celebrity
+44   champion
+45   charity fundamentalist
+46   charmer
+47   chef
+48   chemist
+49   chief of medicine
+50   chief of police
+51   chieftain
+52   child
+53   citizen
+54   citizen group leader
+55   civil servant
+56   clairvoyant
+57   cleaner
+58   cleric
+59   clerk
+60   client
+61   clinical medic
+62   colleague
+63   commercial informant
+64   commissioner
+65   commoner
+66   con artist
+67   con man
+68   concubine
+69   conscript
+70   conspiracy theorist
+71   constable
+72   consumer
+73   contact
+74   contract soldier
+75   cop
+76   corporate exec
+77   corporate litigator
+78   courier
+79   courtier
+80   coward
+81   craftsman
+82   crimelord
+83   criminal
+84   criminal suspect
+85   cultist
+86   customer
+87   customs agent
+88   dealer
+89   debtor
+90   defence specialist
+91   defence technology dealer
+92   delivery driver
+93   designer
+94   detective
+95   diplomat
+96   distraction
+97   doctor
+98   document manager
+99   double-agent
+100  draftsman
+101  drifter
+102  driver
+103  drop pilot
+104  drug dealer
+105  duelist
+106  employee
+107  enemy
+108  enforcer
+109  engineer
+110  entertainer
+111  escort pilot
+112  evidence officer
+113  ex-con
+114  ex-customer
+115  exotic dancer
+116  expedition pilot
+117  expert
+118  explorer
+119  explosives retailer
+120  family man
+121  fanatic/extremist
+122  farmer
+123  fence
+124  field specialist
+125  fiscal backer
+126  fixer
+127  forger
+128  fortune-hunter
+129  free trader
+130  freelance agent
+131  frontiersman
+132  fugitive
+133  galactic researcher
+134  gang leader
+135  gang recruiter
+136  gangland supporter
+137  getaway driver
+138  ghost-in-the-machine
+139  globetrotter
+140  good samaritan
+141  go-to man
+142  government agent
+143  government aide
+144  government black operator
+145  government project leader
+146  government supporter
+147  governmental attorney
+148  governmental buyer
+149  governor
+150  grav-lander pilot
+151  grunt
+152  guard
+153  guide
+154  gun runner
+155  gunman
+156  hacker
+157  haggler
+158  head of state
+159  healer
+160  heavy gunner
+161  heckler
+162  henchman
+163  hermit
+164  hero
+165  hired bodyguard
+166  historian
+167  hitman
+168  homeless person
+169  homemaker
+170  host
+171  hotel housekeeper
+172  hotel manager
+173  hunter
+174  idea man
+175  industrial broker
+176  industrial gunsmith
+177  inmate
+178  inquisitor
+179  inside man
+180  intelligence officer
+181  intern
+182  intruder
+183  inventor
+184  investigator
+185  investor
+186  jack-of-all-trades
+187  journeyman
+188  judge
+189  junk dealer
+190  junkie
+191  kiosk manager
+192  lab assistant
+193  lab researcher
+194  laborer
+195  late night janitor
+196  lawkeeper
+197  leader
+198  loan shark
+199  local
+200  local conscript
+201  local guide
+202  local survivalist
+203  lookout
+204  loose end
+205  lost soul
+206  loyalist militiaman
+207  loyalist pilot
+208  mechanic
+209  mediator
+210  medical professional
+211  medical student
+212  mercantile commodore
+213  mercenary
+214  merchant
+215  merchant captain
+216  military investigator
+217  miner
+218  minesweeper
+219  missionary
+220  mobster
+221  mogul
+222  monk
+223  mugger
+224  munitions hoarder
+225  mystic
+226  naval ship's captain
+227  navigator
+228  neighbour
+229  neighbourhood constable
+230  new face in town
+231  news reporter
+232  night security
+233  night watchman
+234  nomad
+235  occultist
+236  officer
+237  oppressed worker
+238  orator
+239  organ farmer
+240  organised crime agent
+241  outcast
+242  outlaw
+243  passer by
+244  past foe
+245  patient
+246  patriarch
+247  patrolman
+248  peacekeeper
+249  people trafficker
+250  performer
+251  petty thief
+252  pilgrim
+253  pilot
+254  pimp
+255  pioneer
+256  pirate
+257  pirate captain
+258  platoon leader
+259  policeman
+260  political activist
+261  politician
+262  polymath
+263  populace leader
+264  preacher
+265  priest
+266  private investigator
+267  professor
+268  profiteer
+269  programmer
+270  project overseer
+271  property manager
+272  prophet
+273  prostitute
+274  psychiatrist
+275  public servant
+276  pyrotechnics specialist
+277  rabble rouser
+278  raider
+279  raider commander
+280  ranger
+281  recluse
+282  refugee
+283  regimental officer
+284  regular army soldier
+285  relative
+286  religious fanatic
+287  religious figure
+288  remote hacker
+289  repair mechanic
+290  repairman
+291  replica peddler
+292  requisition clerk
+293  research collector
+294  research thief
+295  researcher
+296  reverend
+297  revolutionary
+298  ringleader
+299  rogue
+300  route mapper
+301  rural farmer
+302  safety technician
+303  sanitation worker
+304  savage
+305  scavenger
+306  scholar
+307  school buddy
+308  scientist
+309  scout
+310  scrapper
+311  security system installer
+312  servant
+313  sharpshooter
+314  shift manager
+315  ship salesman
+316  ship technician
+317  shipjacker
+318  shipwright
+319  shop owner
+320  shopkeeper
+321  show-off
+322  site defender
+323  slave
+324  smuggler
+325  sniper
+326  snitch
+327  social parasite
+328  socialist
+329  sociopath
+330  soldier
+331  space raider
+332  spacer
+333  spokesman
+334  spy
+335  squad leader
+336  star courier
+337  star ferry captain
+338  statesman
+339  steward
+340  stolen goods trafficker
+341  storage security
+342  storyteller
+343  street cleaner
+344  street dealer
+345  street gang member
+346  street thug
+347  strike commander
+348  strike leader
+349  striker
+350  superior
+351  supplies broker
+352  surveillance contact
+353  surveillance guard
+354  sympathiser
+355  syndicate boss
+356  tactical agent
+357  tactician
+358  target's bodyguard
+359  taxation officer
+360  team comms officer
+361  tech specialist
+362  technician
+363  technology distributor
+364  technophile
+365  technophobe
+366  thug
+367  town drunk
+368  trade captain
+369  trader
+370  trader pilot
+371  transport driver
+372  traveller
+373  trespasser
+374  troublemaker
+375  undercover investigator
+376  underworlder
+377  unemployed person
+378  unit slacker
+379  urban scout
+380  utility repairman
+381  utility technician
+382  vagrant
+383  vehicle dealer
+384  venue owner
+385  vigilante
+386  villain
+387  visionary
+388  waitress
+389  ward
+390  warden
+391  warehouse manager
+392  warlord
+393  warrior
+394  warrior-for-hire
+395  weapon researcher
+396  weapon trader
+397  weapons loader
+398  witness
+399  worker
+400  yacht pilot
+
+Plot against people 
+Simply roll up an NPC, then 1d6 on "Driver", 1d100 on "Verb" and another NPC as the "target"
+
+d6 Driver
+1  has been forced to
+2  is trying to
+3  must
+4  needs to
+5  plans to
+6  wants to
+
+d100 Verb
+1   abduct
+2   abuse
+3   access
+4   accompany
+5   administer to
+6   advance
+7   advise
+8   advocate for
+9   aid
+10  assist
+11  associate with
+12  attend to
+13  avenge
+14  blackmail
+15  chronicle
+16  collaborate with
+17  collect from
+18  communicate with
+19  compel
+20  comprehend
+21  con
+22  conquer
+23  contact
+24  control
+25  convey
+26  cure
+27  damage
+28  defeat
+29  defend
+30  defile
+31  deliver
+32  depress
+33  detect
+34  deter
+35  discourage
+36  distress
+37  embrace
+38  employ
+39  encourage
+40  end
+41  entrap
+42  escape from
+43  escape with
+44  escort
+45  execute
+46  explain
+47  extract
+48  fight
+49  find
+50  flee from
+51   flee with
+52   follow
+53   guard
+54   guide
+55   hinder
+56   inform
+57   interact with
+58   intimidate
+59   investigate
+60   join with
+61   kidnap
+62   kill
+63   learn from
+64   maim
+65   manage
+66   monitor
+67   offend
+68   oppress
+69   overthrow
+70   pay
+71   persecute
+72   possess
+73   promote
+74   protect
+75   publicize
+76   pursue
+77   ransom
+78   record
+79   refine
+80   relate to
+81   report
+82   restore
+83   rob
+84   ruin
+85   sabotage
+86   save
+87   secure
+88   seek
+89   sell out
+90   spoil
+91   steal from
+92   submit to
+93   support
+94   suppress
+95   threaten
+96   travel with
+97   undermine
+98   understand
+99   weaken
+100  work with
+
+Plot against a group 
+Simply roll up an NPC, then 1d6 on "Driver", 1d100 on "Verb" and 1d30 on "Group"
+
+d6 Driver
+1  has been forced to
+2  is trying to
+3  must
+4  needs to
+5  plans to
+6  wants to
+
+d100 Verb
+1   abduct
+2   abuse
+3   access
+4   accompany
+5   administer
+6   advance
+7   advise
+8   advocate for
+9   aid
+10  assist
+11  associate with
+12  attend to
+13  avenge
+14  blackmail
+15  build
+16  burden
+17  chronicle
+18  collaborate with
+19  collect from
+20  communicate with
+21  compel
+22  comprehend
+23  con
+24  conceive
+25  confuse
+26  conquer
+27  construct
+28  contact
+29  control
+30  create
+31  cure
+32  damage
+33  defeat
+34  defend
+35  defile
+36  delay
+37  demotivate
+38  destroy
+39  detect
+40  deter
+41  discourage
+42  discover
+43  employ
+44  encourage
+45  end
+46  entrap
+47  escape from
+48  escape with
+49  establish
+50  fight
+51   find
+52   flee from
+53   flee with
+54   follow
+55   guard
+56   guide
+57   hack into
+58   hinder
+59   inform
+60   interact with
+61   intimidate
+62   investigate
+63   join
+64   learn from
+65   maintain
+66   manage
+67   monitor
+68   oppress
+69   overthrow
+70   pay
+71   persecute
+72   plunder
+73   promote
+74   protect
+75   publicize
+76   pursue
+77   rebel against
+78   record
+79   refine
+80   refute
+81   report
+82   restore
+83   rob
+84   ruin
+85   sabotage
+86   save
+87   seek
+88   sell out
+89   shepherd
+90   spoil
+91   steal from
+92   subdue
+93   submit to
+94   support
+95   suppress
+96   threaten
+97   undermine
+98   understand
+99   weaken
+100  work with
+
+d30 Group
+1    a charity
+2    my allies
+3    my enemies
+4    my family
+5    my friends
+6    my rival
+7    rebel allies
+8    some academics
+9    some criminals
+10   some scientists
+11   the alliance
+12   the church
+13   the elite
+14   the forsaken
+15   the government
+16   the law
+17   the military
+18   the new order
+19   the new religions
+20   the old religions
+21   the oppressed
+22   the poor
+23   the public
+24   the racists
+25   the rebels
+26   the secret society
+27   the slavers
+28   the technologists
+29   the wealthy
+30   the world
+
+Plot involving an object
+Simply roll up an NPC, then 1d6 on "Driver", 1d40 on "Verb" and 1d100 on "Object"
+
+d6 Driver
+1  has been forced to
+2  is trying to
+3  must
+4  needs to
+5  plans to
+6  wants to
+
+d40  Verb
+1   access
+2   acquire
+3   build
+4   buy
+5   claim
+6   collect
+7   construct
+8   control
+9   convey
+10  copy
+11  craft
+12  create
+13  damage
+14  deliver
+15  design
+16  destroy
+17  detect
+18  discover
+19  escape with
+20  find
+21  gain
+22  guard
+23  hack into
+24  hide
+25  locate
+26  obtain
+27  operate
+28  possess
+29  protect
+30  ransom
+31  repair
+32  sabotage
+33  secure
+34  seek
+35  sell
+36  smuggle
+37  steal
+38  take
+39  upload
+40  use
+
+d100  Object
+1   antidote/medicine
+2   antique knife
+3   armor stealth camo
+4   artificial intelligence
+5   attache case
+6   battle armor
+7   battle armor weapon - anti-armor gun
+8   battle armor weapon - cannon
+9   battle radar
+10  bible
+11  biological specimens
+12  bioweapons
+13  bugging device
+14  cell phone
+15  chemical
+16  chemical analyzer
+17  combat armor
+18  combat drone
+19  combat rifle (advanced)
+20  combat stims
+21  comms scrambler
+22  computer virus
+23  computers
+24  data/vid chip
+25  derelict location
+26  designer virus
+27  drone/remote
+28  electromagnetic probe
+29  exotic animals
+30  explosives
+31  fine art
+32  fine perfume
+33  fine wine
+34  fission material
+35  forensic sensor
+36  fusion gun - man-portable (FGMP)
+37  fusion material
+38  gauss pistol
+39  gauss rifle
+40  gourmet foods
+41  handbooks
+42  hard drive
+43  hardcopy schematic
+44  holdall of cash
+45  holdall of drugs
+46  holographic movies
+47  holographic pornography
+48  hostile environment vacc suit
+49  human eye/thumb
+50  antidote/medicine
+51   human organ(s)
+52   human skull
+53   id card
+54   iff tags
+55   jewellery
+56   keys/key card
+57   luxury goods
+58   man-portable nuke
+59   meat
+60   medical equipment
+61   medicinal drugs
+62   memory chip
+63   military flying vehicles
+64   military ground vehicles
+65   minerals
+66   motion sensor
+67   narcotic
+68   neural processor
+69   nuclear (fission) weapons
+70   nuclear waste
+71   offline digital files
+72   operating system
+73   personal computer
+74   personal recoilless rifle
+75   pharmaceutical samples
+76   pharmaceuticals (non- medicinal)
+77   photograph(s)
+78   plasma gun - man-portable (PGMP)
+79   plasma rifle
+80   poison
+81   powered battle armor (heavy)
+82   powered battle armor
+83   precious necklace
+84   precursor artefacts
+85   precursor vault content
+86   pressurized habitat module
+87   prolonged endurance thruster pack
+88   rare commodities
+89   robots
+90   sarcophagus
+91   security passcard
+92   server
+93   software
+94   spices
+95   statuette
+96   tablet device
+97   target's dna
+98   vacc suit
+99   vehicle
+100  vintage wine
+
+Plot involving the abstract 
+Simply roll up an NPC, then 1d6 on "Driver", 1d60 on "Verb" and 1d100 on "Abstract"
+
+d6 Driver
+1  has been forced to
+2  is trying to
+3  must
+4  needs to
+5  plans to
+6  wants to
+
+d60 Verb
+1   access
+2   acquire
+3   advance
+4   attempt
+5   blight
+6   chronicle
+7   claim
+8   communicate
+9   comprehend
+10  conceive
+11  conquer
+12  construct
+13  control
+14  convey
+15  create
+16  damage
+17  defeat
+18  defend
+19  destroy
+20  detect
+21  deter
+22  discourage
+23  discover
+24  embrace
+25  encourage
+26  end
+27  escape
+28  establish
+29  explain
+30  fight
+31  find
+32  forge
+33  gain
+34  guard
+35  guide
+36  hide
+37  hinder
+38  implement
+39  learn
+40  locate
+41  maintain
+42  manage
+43  patronize
+44  possess
+45  produce
+46  promote
+47  protect
+48  publicize
+49  pursue
+50  record
+51  refine
+52  refute
+53  resolve
+54  restore
+55  save
+56  spread
+57  support
+58  suppress
+59  undermine
+60  weaken
+
+d100 Abstract
+1   academia
+2   advice
+3   affluence
+4   agreement
+5   alcohol
+6   animals
+7   atrocities
+8   beauty
+9   charity
+10  communications
+11  compassion
+12  composure
+13  conflict
+14  contraband
+15  cowardice
+16  debt
+17  deprivation
+18  disbelief
+19  discretion
+20  discrimination
+21  dispute
+22  dissonance
+23  distress
+24  dreams
+25  enlightenment
+26  envy
+27  expertise
+28  faith
+29  falsehood
+30  force
+31  freedom
+32  ghosts
+33  gluttony
+34  greed
+35  happiness
+36  hardship
+37  harmony
+38  hate
+39  home
+40  ill
+41  industry
+42  injustice
+43  intelligence
+44  justice
+45  knowledge
+46  laziness
+47  legends
+48  lies
+49  literature
+50  love
+51   lust
+52   medicines
+53   moderation
+54   modesty
+55   music
+56   mystery
+57   myths
+58   narcissism
+59   nature
+60   opulence
+61   order
+62   pain
+63   patience
+64   peace
+65   pleasure
+66   poverty
+67   power
+68   pride
+69   progress
+70   propaganda
+71   prosperity
+72   Precursor knowledge
+73   Precursor religion
+74   Precursor truth
+75   purity
+76   racism
+77   redemption
+78   relationship
+79   religion
+80   resources
+81   riches
+82   riddles
+83   science
+84   secret
+85   sensuality
+86   servitude
+87   slavery
+88   spirits
+89   stories
+90   strength
+91   success
+92   technology
+93   truth
+94   valor
+95   vigilance
+96   wealth
+97   worth
+98   wrath
+99   wrong
+100  zeal
+
+Corporate Plot Generators
+Corporation Name
+Generate the "Front" and "Back" halves of the Corporation name.
+
+d200 Front
+1   Abbott
+2   Aeon
+3   Agmans
+4   AHI
+5   Alvarado
+6   AMW
+7   Anubis
+8   Apex
+9   Applied
+10  Archer
+11  Augmented
+12  Ballard
+13  Basset
+14  Bechtel-Racine
+15  Berrett-Hohstadt
+16  Biianways
+17  Black
+18  Blake
+19  Booth
+20  Boyer
+21  Bridges
+22  Burckcon
+23  Burncon
+24  Calder-Cayne
+25  Calibrated
+26  Cannon
+27  Cantu
+28  Century
+29  Charles
+30  Chiba
+31  Christensen
+32  Clay
+33  Comet
+34  Communications
+35  Computer
+36  Control
+37  Corrtropicos
+38  Cuaran
+39  Cutaniaasoft
+40  Daniel
+41  Data
+42  Deparnia
+43  Digital
+44  Dilucca-Tower
+45  Diversified
+46  Dotson
+47  Dunlap
+48  Education
+49  Electric
+50  Equicon
+51   Equity
+52   Erikson
+53   exaNic
+54   Fabrication
+55   Farley
+56   Fearless
+57   Fernnology
+58   FFO
+59   Fields
+60   Flanigan
+61   Fleming
+62   Foxuridan
+63   Frocon
+64   FSS
+65   Fureran
+66   Future
+67   Galadidian
+68   Gas
+69   Gene
+70   General
+71   Genetic
+72   Gold
+73   Goole
+74   Graydon
+75   Grippen
+76   Hahn
+77   Harrington
+78   Haste
+79   Hays
+80   Healthy
+81   Hedin
+82   Helsing-Strachan
+83   Holding
+84   Horizons
+85   House
+86   Hubbard
+87   Industrial
+88   Informational
+89   Innovative
+90   Intruder
+91   IOP
+92   IPM
+93   Jammer
+94   Joyce
+95   Joyner
+96   Ketcarisason
+97   Kingston-Tian
+98   Kintan
+99   Koch
+100  Konicek
+101    Konishi-Shimizu
+102    K'taraason
+103    Kuang
+104    Lancaster
+105    Lexosonic
+106    Loganes
+107    Longury
+108    LSL
+109    Madigan
+110    Matsushita-Kimura
+111    Mazkail
+112    Mccoy
+113    McRaven
+114    Melchor
+115    Mendoza
+116    MilTek
+117    MOA
+118    Moneaux-Croyle
+119    Montgomery
+120    Mosley
+121    MTS
+122    Mullen
+123    Mutual
+124    Nakada-Steward
+125    NanoNic
+126    Nenashev
+127    Network
+128    Nirnicuscom
+129    O'Heron
+130    OmegaGen
+131    Open
+132    Ozorkon
+133    Panoidtide
+134    Paragon
+135    Park
+136    Pinto
+137    protoBase
+138    PsiCom
+139    Quinn
+140    Rackham
+141    Realizations
+142    Reed
+143    Remaka
+144    Riley
+145    Rivers
+146    Rosales
+147    Royal
+148    Russell
+149    Santos
+150    SBS
+151  Schroeder
+152  Science
+153  Scientific
+154  Sears
+155  Shackleton
+156  SHF
+157  Shinkawa
+158  Slayton
+159  SMM
+160  Sobol-Savkin
+161  Solar
+162  Sotornia
+163  Spears
+164  Speciality
+165  Stasny-Jaenke
+166  Stephens
+167  Stephenson
+168  Steward-Moneaux
+169  Stokes
+170  STS
+171  Sturt
+172  Sulrax
+173  Sunian
+174  Sun-Yang
+175  Sutton
+176  Suzuki
+177  Sweeney
+178  System
+179  Tactical
+180  Theta
+181  Tillman
+182  Tsukuda-Kawakami
+183  Tyrrell-Scofield
+184  Unlimited
+185  Urelerth
+186  Vanlith-Kehoe
+187  VLY
+188  Wagner
+189  Waters
+190  Weaver
+191  Wescott-Madigan
+192  Whatkien
+193  Wholesale
+194  WIF
+195  Wilkins
+196  Wise
+197  Woitas
+198  WTA
+199  Wyatt
+200  Xun-Tang
+
+d100 Back
+1    Advanced
+2    Aerospace
+3    Aggregates
+4    Agricultural
+5    Alternative
+6    Amalgamated
+7    Application
+8    Armament
+9    Astrophysics
+10   Augmented
+11   Automotive
+12   Biological
+13   Business
+14   Calibrated
+15   Century
+16   Communications
+17   Computing
+18   Consolidated
+19   Consumables
+20   Containers
+21   Control
+22   Corporation
+23   Data
+24   Defense
+25   Development
+26   Diversified
+27   Dynamics
+28   Education
+29   Electric
+30   Electrochemical
+31   Engineered
+32   Engineering
+33   Equipment
+34   Equity
+35   Express
+36   Fabrication
+37   Financial
+38   Fission
+39   Futures
+40   Gas
+41   General
+42   Genetic
+43   Genomics
+44   Gold
+45   Group
+46   Healthcare
+47   Holdings
+48   House
+49   Housing
+50   Industrial
+51   Informational
+52   Innovative
+53   Instruments
+54   Insurance
+55   Integrated
+56   Integration
+57   Leasing
+58   Logistics
+59   Management
+60   Manufacturing
+61   Mechanical
+62   Medical
+63   Metals
+64   Metaphasic
+65   Motor
+66   Mutual
+67   Nanotech
+68   Networked
+69   Networks
+70   Nuclear
+71   Oil
+72   Orbital
+73   Peripherals
+74   Pharmecutical
+75   Pico Solutions
+76   Planetary
+77   Pollution
+78   Productions
+79   Propulsion
+80   Recreational
+81   Research
+82   Sciences
+83   Scientific
+84   Semiconductor
+85   Services
+86   Settlements
+87   Solar
+88   Solutions
+89   Space
+90   Spacefaring
+91   Speciality
+92   Specialized
+93   Strategic
+94   Systems
+95   Technology
+96   Telecommunications
+97   Trading
+98   Transport
+99   Unlimited
+100  Wholesale
+
+Corporate Plots
+Roll 1d60 on the "Evil Deed" table, to find out what the corporation is up to and, optionally,
+another 1d60 on the "Sucker" table, to find out who (or what) the corporation is using to advance
+it's plot. Obviously, you can replace a roll on the "Sucker" table by rolling up a new NPC from the
+earlier tables.
+
+d60 Evil Deed
+1   adulterating foods
+2   adulterating medicines
+3   adulterating the water
+4   altering consumer law
+5   arming street gangs
+6   assassinating rivals
+7   blackmailing scientists
+8   brainwashing key figures
+9   bribing oversight group
+10  bribing politicians
+11  building a private army
+12  buying a settlement
+13  buying bankers
+14  buying law enforcers
+15  channeling funds
+16  cloning self
+17  collecting biometrics
+18  controlling alt-media
+19  corrupting technology
+20  covering up blackmail
+21  covering up insane AI
+22  covering up suicides
+23  creating a war
+24  culling management
+25  designing bio-plague
+26  doctoring judicial AIs
+27  doctoring records
+28  dumping deadly waste
+29  eliminating flawed stock
+30  eliminating R&D failure
+31  engaging in financial manipulation
+32  engaging in political assassination
+33  engineering a pandemic
+34  finding lost bioweapon
+35  fixing stock levels
+36  framing rival(s)
+37  funding counterfeits
+38  harvesting organs
+39  hiring hostile hackers
+40  intimidating reviewers
+41  looking for own cure
+42  manipulating media
+43  plotting a land grab
+44  purchasing hospitals
+45  rigging safety standards
+46  snatching transients
+47  starting an internal investigation
+48  stockpiling medicines
+49  supporting coup
+50  targeting employees
+51  targeting rivals
+52  targeting undesirables
+53  testing new bioware
+54  testing new drugs
+55  testing new synthetics
+56  testing new weapons
+57  undermining a rival brand
+58  using hidden warehouses
+59  using subliminal advertising
+60  wrecking ecosystem
+
+d60 Sucker
+1   adulterated chipware
+2   AI system designer
+3   arms dealers
+4   autonomous software
+5   bioweapons division
+6   blackmailed hackers
+7   bought city officials
+8   cheap gunmen
+9   child assassin
+10  clueless scientists
+11  company's black ops
+12  compromised AI
+13  conned legislators
+14  corporate ninjas
+15  creative techies
+16  criminal syndicate
+17  deceived rival
+18  designer toxins
+19  dubious security team
+20  duped actors
+21  elite agents
+22  elite programmers
+23  fixer network
+24  foreign head-of-state
+25  foreign strike team
+26  fringe political group
+27  hacking collective
+28  hunter-killer drones
+29  independent hit team
+30  intelligence agency
+31  intimate personal data
+32  junkie relative
+33  mercenary contractors
+34  monitors computers
+35  naive underlings
+36  net smear campaign
+37  offworld accounts
+38  own family fortune
+39  people traffickers
+40  pharmaceutical company
+41  private bodyguards
+42  private investigators
+43  private laboratory
+44  propagandists
+45  R&D nanoweapons
+46  reassigned agents
+47  religious group
+48  renowned assassin
+49  ripperdoc network
+50  rival corporation
+51  seconded security team
+52  seductive concubine
+53  sex synthetics
+54  street gang alliance
+55  their own lover(s)
+56  tracking nanites
+57  unethical medtechs
+58  unstable remotes
+59  unwitting employees
+60  weaponised homeless
