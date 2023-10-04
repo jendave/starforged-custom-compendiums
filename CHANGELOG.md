@@ -2,7 +2,7 @@
 
 ### [1.0.1](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-04)
 
-* Added macros for NPC and Plot macros (wilsonam).
+* Added macros for NPC and Plot oracles (wilsonam).
 * 
 ### [1.0.0](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-01)
 
