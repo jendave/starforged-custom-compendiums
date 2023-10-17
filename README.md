@@ -37,12 +37,18 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
 
 # Credits
-[Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle) and [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged) by Julius Hennig are used with permission from the author. They were created during the Starforged 2022 Jam on itch.io.
+[Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle) and [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged) by Julius Hennig are used with permission from the author. Submission for the Starforged 2022 Jam on itch.io.
 
-The following modules by wilsonam are used with permission from the author for non-commercial use. They were created during the Starforged 2022 Jam on itch.io.
+The following modules by wilsonam are used with permission from the author for non-commercial use. Submission for the Starforged 2022 Jam on itch.io.
 * [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged) 
 * [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it)
 * [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged)
+
+[Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
+
+[Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
+
+[Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author. Submission for the Starforged 2022 Jam on itch.io.
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
