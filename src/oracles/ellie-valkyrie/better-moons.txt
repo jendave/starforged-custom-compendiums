@@ -1,0 +1,523 @@
+
+This supplement is part of the Starforged: Ancient Connections jam in celebration
+of the successful deployment of the James Webb Space Telescope.
+
+MOON GENERATION:
+The type of the world determines how many moons it may (or may not) have. Roll the
+following to determine the number of moons:
+
+Desert World: 1d6 -1
+Ice World: 1d6
+Ocean World: 1d6 -2
+Tainted World: 1d6 -2
+Furnace World: 1d6 -2
+Jovian World: 3d6 -5
+Rocky World: 1d6 -2
+Vital World: 1d6 -3
+Grave World: 1d6 - 2
+Jungle World: 1d6 -2
+Shattered World: 1d6 -3
+Custom World:* 1d6 -2
+
+* Custom worlds being worlds added by other mods or homebrew material.
+Note: if, during world generation, the tables state that a world has certain types of
+moons, add those moons to these totals. You can detail any additional moons using the
+tables below.
+
+MOON TYPES:
+For each moon that a planet has, roll on the table below to determine what kind of moons
+these are.
+
+d100 Moon Types
+01-05 Rocky Moon: Treat as a tiny Rocky World.
+06-10 Desert Moon: Treat as a tiny Desert World.
+11-15 Ice Moon: Treat as a tiny Ice World.
+16-20 Furnace Moon: Treat as a tiny Furnace World.
+21-25 Grave Moon: Treat as a tiny Grave World
+26-30 Vital Moon: Treat as a tiny Vital World
+31-35 Jungle Moon: Treat as a tiny Jungle World
+36-40 Shattered Moon: Treat as a tiny Shattered World.
+41-45 Ocean Moon: Treat as a tiny Ocean World.
+46-50 Tainted Moon: Treat as a tiny Tainted World
+51-55 Jovian Moon: Treat as a tiny Jovian World.
+56-60 Artificial Moon: See tables
+61-65 Dust Ring: See tables
+66-70 Crystalline: See tables
+71-95 Exotic Moon: Roll on the Exotic Moons table.
+96-00 Sister Moons: Add a moon to your total and roll again on this table.
+
+* When you survey a moon, roll it up using the tables associated with its type. Use tables from the
+core rulebook that match those types, but use the tables below for all other types. If you roll a type
+and then roll that it has moons, automatically treat those as tiny satellites that are basically just
+captured asteroids.
+Smaller, More Realistic Moons (Optional): When rolling on Atmosphere, Settlements and Life
+tables associated with a world type to determine these aspects for a given moon (like an Ice Moon
+or a Jungle Moon,) you may subtract 20 from each score. This can reflect the difficulty that smaller
+planetary bodies have of retaining atmosphere (and therefore, also affecting their ability to support
+life.) Of course, you can also have very viable, terraformed moons with advanced Precursor
+technology making them amazing, so ultimately it's up to you.
+
+ARTIFICIAL MOONS:
+These satellites are huge, moon-sized space stations. Who built this moon and why? How
+old is it?
+
+d100 Atmosphere
+1-30 None / Thin
+31-50 Marginal
+51-70 Toxic To Humans
+71-85 Breathable
+86-95 Ideal
+96-00 Oppressive
+
+d100 Life
+1-30 None / Extinct
+31-70 Sparsely inhabited
+71-85 Many inhabitants
+86-00 Crowded
+
+d100 Form
+01-05 Hollow sphere
+06-10 Broken sphere
+11-15 Dense sphere
+16-20 Cylinder
+21-25 Polyhedral
+26-30 Sheet
+31-35 Cone
+36-40 Biomechanical
+41-45 Skeletal
+46-50 Conglomerate / Patchwork
+51-55 Fortress / Castle
+56-60 Web / Lattice
+61-65 Tethered ring
+66-70 Transforming
+71-75 Organic / Unsettling
+76-80 Vaporous
+81-85 Unlikely material
+86-90 > Derelict
+91-95 > Descriptor + Focus
+96-00 > Precursor Vault
+
+d100 Features (1-2)
+01-05 Industrial canyons
+06-10 Shining shields
+11-15 Docking / repair bays
+16-20 Programmable matter
+21-25 Ominous spires
+26-30 Security drones
+31-35 Expansive living areas
+36-40 Signs of battle
+41-45 Fragmenting structure
+46-50 Overgrown / Corrupted
+51-55 Rusty ruins
+56-60 Command center
+61-65 Glass domes
+66-70 Transmission towers
+71-75 Fighter escort
+76-80 Automated mines
+81-85 Self-maintaining
+86-90 Built for giants or wee folk
+91-95 Troubling transmissions
+96-00 > Descriptor + Focus
+
+d100 Perils
+01-05 Overprotective AI
+06-10 An attempt to hack your gear
+11-15 Hunted by horrors
+16-20 Failing power
+21-25 Malfunctioning drones
+26-30 Trigger alarm or trap
+31-35 Evidence of something horrific
+36-40 Broken machinery
+41-45 Claustrophobic corridors
+46-50 Extreme temperature hazard
+51-55 Rival starfarers
+56-60 Sealed, contaminated area
+61-65 Sense of impending doom
+66-70 Sudden structural collapse
+71-75 Equipment malfunction
+76-80 Lured into a dangerous situation
+81-85 Feelings of being watched
+86-90 Impassable broken terrain
+91-95 > Action + Theme
+96-00 Roll twice
+
+d100 Opportunities
+01-06 Enigmatic relic
+07-12 Helpful denizen
+13-18 Cultural relics
+19-24 Abandoned vehicle
+25-32 Miraculous technology
+33-39 Functional repair drone
+40-48 Friendly AI
+49-56 Historical records
+57-64 Access to a sealed area
+65-73 Useful equipment
+74-82 Valuable artifact
+83-00 Secure, peaceful area.
+
+DUST RINGS:
+Dust, debris and ice that encircles a planet in a shimmering ring, but what are the rings
+made of? How were they formed?
+
+d100 Atmosphere
+1-85 None / Thin
+86-88 Marginal
+89-97 Toxic To Humans
+98-00 Breathable
+
+d100 Features (1-2)
+01-05 Tiny particles of ice and stone
+06-10 Automated minefield
+11-15 Nanotechnology
+16-20 Hazardous asteroids
+21-25 Debris from spaceflight
+26-30 Glittering crystals
+31-35 Highly radioactive
+36-40 Harvestable fuel ice
+41-45 Dense, stony ring
+46-50 Powerful magnetic field
+51-55 Fragments of ancient starships
+56-60 Decorative construction
+61-65 Frozen organisms / corpses
+66-70 Ruins of a space station
+71-75 Remains of a moon
+76-80 Rare metals
+81-85 Inhabited by exotic life
+86-90 Modern dumping grounds
+91-95 > Derelict
+96-00 > Descriptor + Focus
+
+d100 Perils
+01-05 Undetectable objects
+06-10 Speeding micrometeors
+11-15 Feelings of desolation
+16-20 Automated defense turrets
+21-25 Parasitic lifeforms
+26-34 Belt pirates
+35-43 Haunting radio signals
+44-48 Warning beacons
+49-53 Clouds of caustic dust
+54-56 Suspicious convoy
+57-60 Sensor ghosts
+61-65 Mountain-sized rock
+66-70 Unstable elements in rings
+71-75 Dumped dangerous contraband
+76-80 Critical system malfunctions
+81-87 Dangerous static discharges
+88-94 > Action + Theme
+95-00 Roll twice
+
+d100 Opportunities
+01-06 Pocket atmospheres
+07-12 Abandoned mining station
+13-18 Depleted fuel cells
+19-24 Rare minerals
+25-32 Pieces of a long lost starship
+33-39 Ancient survey probe
+40-48 Distress call
+49-56 Discover secrets from your past
+57-64 Useful junk
+65-73 Old friend arrives
+74-82 > Derelict
+83-00 Quiet, serene moment
+
+CRYSTALLINE MOONS:
+Strange, colorful moons that change color as the local sun refracts through them. What
+materials are they made from? Are they artificial? Natural? Cultivated?
+
+d100 Atmosphere
+1-40 None / Thin
+41-60 Marginal
+61-80 Toxic To Humans
+81-85 Breathable
+86-95 Ideal
+96-00 Oppressive
+
+d100 Features (1-2)
+01-05 Glassy plains
+06-10 Opalescent craters
+11-15 Color-shifting facets
+16-20 Ultra-dense gravity pull
+21-25 Powerful magnetic field
+26-30 Harsh silicate storms
+31-35 Radiant auroras
+36-40 Reflective facets
+41-45 Iridescent spires
+46-50 Strange mineral inclusions
+51-55 Remains of a mining expedition
+56-60 Diamond clouds
+61-65 Blinding, burning focused lights
+66-70 Highly radioactive
+71-75 Rare and valuable minerals
+76-80 Constant, unsettling hum
+81-85 Pearly ridges
+86-90 > Derelict
+91-95 > Descriptor + Focus
+96-00 > Precursor Vault
+
+d100 Perils
+01-06 Opportunistic raiders
+07-12 Maddening whispers
+13-18 Hungry, corrupting crystals
+19-23 Stunning lightshow
+24-29 Dangerous mirage illusions
+30-35 Stealthy power drain
+36-40 Rival ships arrive
+41-45 Unexpected equipment failure
+46-50 Razor sharp shards
+51-55 Chaotic resonance
+56-60 Hungering presence
+61-65 Unsettling visions
+66-72 Time / dimensional distortions
+73-78 Powerful gravitational pull
+79-83 Sudden, soaring temperatures
+84-88 Gravitational Lensing Effect
+89-95 > Action + Theme
+96-00 Roll twice
+
+d100 Opportunities
+01-08 Remains of a mining ship
+09-17 Super dense matter concretions
+18-28 Lifeform encased in ice
+29-38 Secret info comes to light
+39-49 Urgent message comes in
+50-60 Valuable minerals
+61-71 Friendly mining station
+72-82 Signs of an alien superweapon
+83-92 Transmissions from another age
+93-00 Quiet, serene moment
+
+d100 Exotic Moons Table 1
+1 Glass
+2 Purple
+3 Gelatinous
+4 Methane Iced
+5 Mechanical
+6 Deep-Ocean
+7 Fungal
+8 Electrified
+9 Smoldering
+10 Heavily Defended
+11 Radioactive
+12 Bacteria-Infested
+13 Giant
+14 Luminous
+15 Fleshy
+16 Crystalline
+17 Subterranean
+18 Biomechanical
+19 Carnivorous
+20 Valuable
+21 Chrome
+22 Brightly Colored
+23 Flash-Frozen
+24 Oozing
+25 Corrosive
+26 Sulfur-clouded
+27 Magnetic
+28 Carbon
+29 Singing
+30 Sentient
+31 Howling
+32 Fermenting
+33 Steaming
+34 Whispering
+35 Rattling
+36 Ring-Shaped
+37 Illusory
+38 Clockwork
+39 Foaming
+40 Migrating
+41 Networked
+42 Polyp-Infested
+43 Shell-Covered
+44 Smoky
+45 Dusty
+46 Muddy
+47 Desiccated
+48 Horrific
+49 Farmed
+50 Sub-zero
+51 Diseased
+52 Caustic
+53 Fossil
+54 Volatile
+55 Hypnotic
+56 Regenerating
+57 Polluted
+58 Fuel-Rich
+59 Fifth-Dimensional
+60 Fog-Covered
+61 Ragged and Rough
+62 Ghostly
+63 Rust-Weeping
+64 Dim
+65 Wetland
+66 Tide-Washed
+67 Computronium
+68 Trap-Laden
+69 Titanic
+70 Pulsating
+71 Rapidly Multiplying
+72 Power-Generating
+73 Rubbery
+74 Synthetic
+75 Exhumed
+76 Hidden
+77 Vampiric
+78 Calcite
+79 Time-Bending
+80 Marshland
+81 Sensor-Shielded
+82 Carefully-Contained
+83 Light-Devouring
+84 Telepathic
+85 Infectious
+86 Pungent
+87 Non-Native
+88 Dark Matter
+89 Melting
+90 Hallucinationatory
+91 Plasma
+92 Ebony
+93 Glowing
+94 Irradiated
+95 Abundant
+96 Lumpy
+97 Strangely Sterile
+98 Healing
+99 Invisible
+00 Shimmering
+
+d100 Exotic Moon Table 2
+1 Jungles
+2 Mountains
+3 Ruins
+4 Animal Herds
+5 Wastelands
+6 Craters
+7 Alien Colonies
+8 Intelligent Life
+9 Hives
+10 Bonefields
+11 Mineral Spires
+12 Starship Wreck
+13 Glaciers
+14 Rivers
+15 Flowers
+16 Geysers
+17 Storms
+18 Grasslands
+19 Pits
+20 Orchards
+21 Towers
+22 Serpents
+23 Dinosaurs
+24 Fissures
+25 Webs
+26 Exoskeletal Husks
+27 Nanite Swarms
+28 Steppes
+29 Mesas
+30 Floods
+31 Cities
+32 Artifacts
+33 Eggs
+34 Cultist Compound
+35 Pyramids
+36 Forests
+37 Terraces
+38 Crags
+39 Valleys
+40 Canyons
+41 Hills
+42 Vents
+43 Spiders
+44 Geodes
+45 Ridges
+46 Coral Reefs
+47 Dunes
+48 Badlands
+49 Shrubbery
+50 Highway Fragments
+51 Walls
+52 Ejecta Plains
+53 Sinkholes
+54 Oasis
+55 Domes
+56 Meadows
+57 Lobed Formations
+58 Fault Lines
+59 Lava Tubes
+60 Arches
+61 Dumping Grounds
+62 Cyclones
+63 Tornadoes
+64 Insects
+65 Space Pirates
+66 Accident Site
+67 Weapon-Test Site
+68 Tentacle Beasts
+69 Mineral Pools
+70 Labyrinth
+71 Hexapods
+72 Machinery
+73 Bogs
+74 Gasbag Fliers
+75 Parasites
+76 Debris Field
+77 Avalanches
+78 Eruptions
+79 Lowlands
+80 Prairies
+81 Breeding Grounds
+82 Abysses
+83 Air Currents
+84 Gas Pockets
+85 Tombs
+86 Reality Ruptures
+87 Satellites
+88 Shrines
+89 Light Wisps
+90 Animal Warrens
+91 Phantoms
+92 Zombies
+93 Vines
+94 Petroglyphs
+95 Harvesters
+96 Ravines
+97 Sand Drifts
+98 Trenches
+99 Whirlpools
+00 Spores
+
+EXOTIC PLANETS:
+So, full disclosure, I copied the entries for the Exotic Moons table from an RPG I made a
+while ago called Highest Skies (now on Itch!). The original tables are part of a solar system
+generator in the core rulebook and are used for generating exotic planets. As such, if you
+want to roll on these tables to generate your own exotic planets for Starforged, they could
+be used to provide interesting prompts for you to build strange new worlds off of.
+You can also use the tables for Artificial Moons, Crystalline Moons and Dust Rings to
+generate similar planets, like artificial planets, crystalline planets and planets that have
+been reduced to dust. If you do, you can totally use the table below when generating new
+planets.
+Another great resource for ideas is www.highestskies.com which has over 70 planets on it
+for you to explore in the game of your choice for free.
+
+d100 Expanded World Table
+01-08 Desert World
+09-17 Furnace World
+18-20 Dust Ring World
+21-30 Exotic World
+31-40 Grave World
+41-50 Ice World
+51-60 Jovian World
+61-65 Crystalline World
+66-70 Jungle World
+71-75 Ocean World
+76-81 Artificial World
+82-90 Rocky World
+91-92 Shattered World
+93-98 Tainted World
+99-00 Vital World
+
