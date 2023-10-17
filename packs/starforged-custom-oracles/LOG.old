@@ -1,13 +1,14 @@
-2023/10/09-21:53:28.340163 700010de4000 Recovering log #27
-2023/10/09-21:53:28.342179 700010de4000 Delete type=3 #25
-2023/10/09-21:53:28.342568 700010de4000 Delete type=0 #27
-2023/10/09-21:58:13.516110 70000becc000 Compacting 1@0 + 1@1 files
-2023/10/09-21:58:13.544536 70000becc000 Generated table #30@0: 2916 keys, 259707 bytes
-2023/10/09-21:58:13.544654 70000becc000 Compacted 1@0 + 1@1 files => 259707 bytes
-2023/10/09-21:58:13.546125 70000becc000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/10/09-21:58:13.547034 70000becc000 Delete type=2 #26
-2023/10/09-21:58:13.548689 70000becc000 Delete type=2 #18
-2023/10/10-14:20:27.286186 70000becc000 Level-0 table #32: started
-2023/10/10-14:20:27.286482 70000becc000 Level-0 table #32: 0 bytes OK
-2023/10/10-14:20:27.287271 70000becc000 Delete type=0 #29
-2023/10/10-14:20:27.306619 70000becc000 Manual compaction at level-0 from '!folders!5Jx1rphwuDDiLczK' @ 72057594037927935 : 1 .. '!tables.results!xnan7QVWBABBEImV.zgeI5KObQRvzLs5w' @ 0 : 0; will stop at (end)
+2023/10/10-14:20:52.996735 70000fdde000 Recovering log #31
+2023/10/10-14:20:52.998238 70000fdde000 Delete type=3 #28
+2023/10/10-14:20:52.998618 70000fdde000 Delete type=0 #31
+2023/10/15-02:09:24.104599 70000becc000 Level-0 table #36: started
+2023/10/15-02:09:24.124317 70000becc000 Level-0 table #36: 298572 bytes OK
+2023/10/15-02:09:24.126356 70000becc000 Delete type=0 #34
+2023/10/15-02:09:24.128381 70000becc000 Manual compaction at level-0 from '!folders!1ZOc7BsE3qgmGEBY' @ 72057594037927935 : 1 .. '!tables.results!yQ1rFNKYZSNdcLcK.yM0AzMsiCzZ3S5JQ' @ 0 : 0; will stop at '!tables.results!yQ1rFNKYZSNdcLcK.yM0AzMsiCzZ3S5JQ' @ 4342 : 1
+2023/10/15-02:09:24.128394 70000becc000 Compacting 1@0 + 1@1 files
+2023/10/15-02:09:24.143583 70000becc000 Generated table #37@0: 3677 keys, 350171 bytes
+2023/10/15-02:09:24.143605 70000becc000 Compacted 1@0 + 1@1 files => 350171 bytes
+2023/10/15-02:09:24.143770 70000becc000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/15-02:09:24.143865 70000becc000 Delete type=2 #36
+2023/10/15-02:09:24.144139 70000becc000 Delete type=2 #30
+2023/10/15-02:09:24.145734 70000becc000 Manual compaction at level-0 from '!tables.results!yQ1rFNKYZSNdcLcK.yM0AzMsiCzZ3S5JQ' @ 4342 : 1 .. '!tables.results!yQ1rFNKYZSNdcLcK.yM0AzMsiCzZ3S5JQ' @ 0 : 0; will stop at (end)
