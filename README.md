@@ -40,7 +40,10 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 * Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
 
 # Credits
-[Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle) and [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged) by Julius Hennig are used with permission from the author. Submission for the Starforged 2022 Jam on itch.io.
+The following modules by Julius Hennig (birb-nerb) are used with permission from the author.
+* [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
+* [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged)
+* [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) 
 
 The following modules by wilsonam are used with permission from the author for non-commercial use. Submission for the Starforged 2022 Jam on itch.io.
 * [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged) 
