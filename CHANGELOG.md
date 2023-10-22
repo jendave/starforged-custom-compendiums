@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.0.3](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-xx)
+
+* Added [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged)
+
 ### [1.0.2](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-17)
 
 * Added [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it) and [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged) oracles and macros from wilsonam.
