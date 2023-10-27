@@ -94,19 +94,19 @@ async function rollMoon(roll) {
 }
 
 async function sisterMoon() {
-let message = "";
-let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-roll = await table.roll();
-do {
-message = message + "Sister Moons<br>";
-table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-roll = await table_1.roll();
-            message = message + await rollMoon(roll);
-            table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-            roll = await table_2.roll();
-            message = message + await rollMoon(roll);
-} while (roll.results[0].text.split(' ')[0] == "Sister");
-return message;
+    let message = "";
+    let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+    roll = await table.roll();
+    do {
+        message = message + "Sister Moons<br>";
+        table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+        roll = await table_1.roll();
+        message = message + await rollMoon(roll);
+        table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+        roll = await table_2.roll();
+        message = message + await rollMoon(roll);
+    } while (roll.results[0].text.split(' ')[0] == "Sister");
+    return message;
 }
 
 async function coreFunction(dice, modifier, worldType) {
@@ -124,7 +124,7 @@ async function coreFunction(dice, modifier, worldType) {
         roll = await table.roll();
 
         if (roll.results[0].text.split(' ')[0] == "Sister") {
-message = message + await sisterMoon();
+            message = message + await sisterMoon();
             //message = message + "Sister Moons<br>";
             //table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
             //roll = await table_1.roll();
