@@ -15,7 +15,7 @@ async function coreFunction(dice, modifier, worldType) {
 
     for (let step = 1; step <= numberOfMoons; step++) {
         message = message + step.toString() + ": ";
-        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+        let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
         roll = await table.roll();
 
         if (roll.results[0].text.split(' ')[0] == "Sister") {
