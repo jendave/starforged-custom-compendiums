@@ -56,7 +56,6 @@ async function rollMoon(roll) {
         table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc");
         roll = await table.roll();
         message = message + "Opportunities: " + roll.results[0].text + "<br><br>";
-
     } else if (roll.results[0].text.split(' ')[0] == "Crystalline") {
         message = message + "Crystalline Moon<br>";
         table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JVnw5VE7w4dL3KAu");
@@ -101,10 +100,18 @@ async function sisterMoon() {
         message = message + "Sister Moons<br>";
         table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
         roll = await table_1.roll();
+        if (roll.results[0].text.split(' ')[0] == "Sister") {
+            message = message  + await sisterMoon();
+        } else {
         message = message + await rollMoon(roll);
+}
         table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
         roll = await table_2.roll();
+        if (roll.results[0].text.split(' ')[0] == "Sister") {
+            message = message  + await sisterMoon();
+        } else {
         message = message + await rollMoon(roll);
+}
     } while (roll.results[0].text.split(' ')[0] == "Sister");
     return message;
 }
@@ -125,13 +132,6 @@ async function coreFunction(dice, modifier, worldType) {
 
         if (roll.results[0].text.split(' ')[0] == "Sister") {
             message = message + await sisterMoon();
-            //message = message + "Sister Moons<br>";
-            //table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-            //roll = await table_1.roll();
-            //message = message + await rollMoon(roll);
-            //table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-            //roll = await table_2.roll();
-            //message = message + await rollMoon(roll);
         } else {
             message = message + await rollMoon(roll);
         }
@@ -255,7 +255,7 @@ new Dialog({
             }
         },
     },
-    default: "jovian",
+    default: "desert",
     close: html => {
         coreFunction(dice, modifier, worldType);
     },
