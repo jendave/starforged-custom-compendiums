@@ -1,11 +1,123 @@
 // Macro by David Hudson under the MIT License.
 
-function fPrintMessage(message) {
+function printMessage(message) {
     let chatData = { content: message, };
     ChatMessage.create(chatData, {})
 };
 
+async function rollMoon(roll) {
+    let message = "";
+    if (roll.results[0].text.split(' ')[0] == "Artificial") {
+        message = message + "Artificial Moon<br>";
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.N58Y34S1B9ooTmbC");
+        roll = await table.roll();
+        message = message + "Atmosphere: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.V7T0kBSB6SPDDTcb");
+        roll = await table.roll();
+        message = message + "Life: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VmXV4O1ICHAcP0ZV");
+        roll = await table.roll();
+        message = message + "Form: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh");
+        roll = await table.roll();
+        message = message + "Features: " + roll.results[0].text + ", ";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh");
+        roll = await table.roll();
+        message = message + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.As3p71XL94Geqn5w");
+        roll = await table.roll();
+        message = message + "Perils: " + roll.results[0].text + " <br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.7NoCmNWYPO6yEgP9");
+        roll = await table.roll();
+        message = message + "Opportunities: " + roll.results[0].text + "<br><br>";
+    } else if (roll.results[0].text.split(' ')[0] == "Dust") {
+        message = message + "Dust Ring<br>";
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.i9Aeb38RIMsMVqWM");
+        roll = await table.roll();
+        message = message + "Atmosphere: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.H2vXAYLxRWS1Ipkz");
+        roll = await table.roll();
+        message = message + "Features: " + roll.results[0].text + ", ";
+
+        roll = await table.roll();
+        message = message + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LkVyAWVWxHaVfOpX");
+        roll = await table.roll();
+        message = message + "Perils: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc");
+        roll = await table.roll();
+        message = message + "Opportunities: " + roll.results[0].text + "<br><br>";
+    } else if (roll.results[0].text.split(' ')[0] == "Crystalline") {
+        message = message + "Crystalline Moon<br>";
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JVnw5VE7w4dL3KAu");
+        roll = await table.roll();
+        message = message + "Atmosphere: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.BVhF0gVo87eRKIty");
+        roll = await table.roll();
+        message = message + "Features: " + roll.results[0].text + ", ";
+
+        roll = await table.roll();
+        message = message + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.I38e71hzVByuAwWf");
+        roll = await table.roll();
+        message = message + "Perils: " + roll.results[0].text + "<br>";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8DKXh0JvTvFeq0lG");
+        roll = await table.roll();
+        message = message + "Opportunities: " + roll.results[0].text + "<br><br>";
+    } else if (roll.results[0].text.split(' ')[0] == "Exotic") {
+        message = message + "Exotic Moon<br>";
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.g7xmcQZ1ch2Ei77o");
+        roll = await table.roll();
+        message = message + "Feature: " + roll.results[0].text + " ";
+
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tL7jrXCa0Lz2kJW7");
+        roll = await table.roll();
+        message = message + roll.results[0].text + "<br><br>";
+    }
+    else {
+        message = message + roll.results[0].text.split(":")[0] + "<br>" + roll.results[0].text.split(":")[1] + "<br><br>";
+    }
+    return message;
+}
+
+async function sisterMoon() {
+    let message = "";
+    let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+    roll = await table.roll();
+    do {
+        message = message + "Sister Moons<br>";
+        table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+        roll = await table_1.roll();
+        if (roll.results[0].text.split(' ')[0] == "Sister") {
+            message = message  + await sisterMoon();
+        } else {
+        message = message + await rollMoon(roll);
+}
+        table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+        roll = await table_2.roll();
+        if (roll.results[0].text.split(' ')[0] == "Sister") {
+            message = message  + await sisterMoon();
+        } else {
+        message = message + await rollMoon(roll);
+}
+    } while (roll.results[0].text.split(' ')[0] == "Sister");
+    return message;
+}
+
 async function coreFunction(dice, modifier, worldType) {
+    let message = "<h4>Better + Moons</h4>";
     rollFormula = dice + " + " + modifier;
     let numberOfMoonsTmp = new Roll(rollFormula, { modifier: modifier });
     await numberOfMoonsTmp.evaluate();
@@ -14,110 +126,26 @@ async function coreFunction(dice, modifier, worldType) {
     message = message + worldType + " with " + numberOfMoons.toString() + " moon" + (numberOfMoons == 1 ? "" : "s") + "<br><br>";
 
     for (let step = 1; step <= numberOfMoons; step++) {
-        message = message + step.toString() + ": ";
-        let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+        message = message + step.toString() + ". ";
+        table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
         roll = await table.roll();
 
         if (roll.results[0].text.split(' ')[0] == "Sister") {
-            message = message + "Sister Moons:<br>";
-            numberOfMoons = numberOfMoons + 2
-        } else if (roll.results[0].text.split(' ')[0] == "Artificial") {
-            message = message + "Artificial Moon:<br>";
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.N58Y34S1B9ooTmbC");
-            roll = await table.roll();
-            message = message + "Atmosphere: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.V7T0kBSB6SPDDTcb");
-            roll = await table.roll();
-            message = message + "Life: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VmXV4O1ICHAcP0ZV");
-            roll = await table.roll();
-            message = message + "Form: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh");
-            roll = await table.roll();
-            message = message + "Features: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh");
-            roll = await table.roll();
-            message = message + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.As3p71XL94Geqn5w");
-            roll = await table.roll();
-            message = message + "Perils: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.7NoCmNWYPO6yEgP9");
-            roll = await table.roll();
-            message = message + "Opportunities: " + roll.results[0].text + "<br>";
-        } else if (roll.results[0].text.split(' ')[0] == "Dust") {
-            message = message + "Dust Ring:<br>";
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.i9Aeb38RIMsMVqWM");
-            roll = await table.roll();
-            message = message + "Atmosphere: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.H2vXAYLxRWS1Ipkz");
-            roll = await table.roll();
-            message = message + "Features: " + roll.results[0].text + "<br>";
-
-            roll = await table.roll();
-            message = message + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LkVyAWVWxHaVfOpX");
-            roll = await table.roll();
-            message = message + "Perils: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc");
-            roll = await table.roll();
-            message = message + "Opportunities: " + roll.results[0].text + "<br>";
-
-        } else if (roll.results[0].text.split(' ')[0] == "Crystalline") {
-            message = message + "Crystalline Moon:<br>";
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JVnw5VE7w4dL3KAu");
-            roll = await table.roll();
-            message = message + "Atmosphere: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.BVhF0gVo87eRKIty");
-            roll = await table.roll();
-            message = message + "Features: " + roll.results[0].text + "<br>";
-
-            roll = await table.roll();
-            message = message + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.I38e71hzVByuAwWf");
-            roll = await table.roll();
-            message = message + "Perils: " + roll.results[0].text + "<br>";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8DKXh0JvTvFeq0lG");
-            roll = await table.roll();
-            message = message + "Opportunities: " + roll.results[0].text + "<br>";
-        } else if (roll.results[0].text.split(' ')[0] == "Exotic") {
-            message = message + "Exotic Moon:<br>";
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.g7xmcQZ1ch2Ei77o");
-            roll = await table.roll();
-            message = message + "Exotic Feature: " + "<br>" + roll.results[0].text + " ";
-
-            table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tL7jrXCa0Lz2kJW7");
-            roll = await table.roll();
-            message = message + roll.results[0].text + "<br>";
+            message = message + await sisterMoon();
+        } else {
+            message = message + await rollMoon(roll);
         }
-        else {
-            message = message + roll.results[0].text + "<br>";
-        }
-        console.log(roll.results[0]);
     }
-    fPrintMessage(message);
+    printMessage(message);
 }
 
-const myDialogOptions = {
+const dialogOptions = {
     scale: 1,
     id: "world-selector"
 };
 
 let modifier = 0;
-let dice = '1d6';
-let message = "";
-let numberOfMoons = 0;
+let dice = "1d6";
 let worldType = "";
 
 new Dialog({
@@ -231,4 +259,4 @@ new Dialog({
     close: html => {
         coreFunction(dice, modifier, worldType);
     },
-}, myDialogOptions).render(true);
+}, dialogOptions).render(true);
