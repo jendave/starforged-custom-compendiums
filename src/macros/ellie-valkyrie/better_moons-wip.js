@@ -93,6 +93,22 @@ async function rollMoon(roll) {
     return message;
 }
 
+async function sisterMoon() {
+let message = "";
+let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+roll = await table.roll();
+do {
+message = message + "Sister Moons<br>";
+table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+roll = await table_1.roll();
+            message = message + await rollMoon(roll);
+            table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+            roll = await table_2.roll();
+            message = message + await rollMoon(roll);
+} while (roll.results[0].text.split(' ')[0] == "Sister");
+return message;
+}
+
 async function coreFunction(dice, modifier, worldType) {
     let message = "<h4>Better + Moons</h4>";
     rollFormula = dice + " + " + modifier;
@@ -108,13 +124,14 @@ async function coreFunction(dice, modifier, worldType) {
         roll = await table.roll();
 
         if (roll.results[0].text.split(' ')[0] == "Sister") {
-            message = message + "Sister Moons<br>";
-            table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-            roll = await table_1.roll();
-            message = message + await rollMoon(roll);
-            table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
-            roll = await table_2.roll();
-            message = message + await rollMoon(roll);
+message = message + await sisterMoon();
+            //message = message + "Sister Moons<br>";
+            //table_1 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+            //roll = await table_1.roll();
+            //message = message + await rollMoon(roll);
+            //table_2 = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV");
+            //roll = await table_2.roll();
+            //message = message + await rollMoon(roll);
         } else {
             message = message + await rollMoon(roll);
         }
@@ -238,7 +255,7 @@ new Dialog({
             }
         },
     },
-    default: "desert",
+    default: "jovian",
     close: html => {
         coreFunction(dice, modifier, worldType);
     },
