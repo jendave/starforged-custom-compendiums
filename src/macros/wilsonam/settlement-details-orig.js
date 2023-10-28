@@ -1,3 +1,6 @@
+// Macro by wilsonam used with permission by the author
+// Modifications by David Hudson
+
 function fPrintMessage(message){let chatData = {content : message,};
 	ChatMessage.create(chatData,{})};
 

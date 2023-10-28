@@ -1,3 +1,5 @@
+// Macro by David Hudson under the MIT License.
+
 try {
     let progressScoreDialog = await Dialog.prompt({
         title: "Progress Score",

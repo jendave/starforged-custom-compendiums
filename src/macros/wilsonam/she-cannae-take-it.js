@@ -1,4 +1,6 @@
-function fPrintMessage(message) {
+// Macro by David Hudson under the MIT License.
+
+function printMessage(message) {
     let chatData = { content: message, };
     ChatMessage.create(chatData, {})
 }
@@ -43,4 +45,4 @@ if (roll.total == 1) {
 }
 
 // Print the message
-fPrintMessage(title + message);
+printMessage(title + message);

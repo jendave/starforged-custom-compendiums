@@ -1,3 +1,5 @@
+// Macro by David Hudson under the MIT License.
+
 try {
     let modifiers = await Dialog.prompt({
         title: "Action Roll Modifier",
