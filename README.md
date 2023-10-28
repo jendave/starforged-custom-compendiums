@@ -45,7 +45,7 @@ The following modules by Julius Hennig (birb-nerb) are used with permission from
 * [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged)
 * [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) 
 
-The following modules by wilsonam are used with permission from the author for non-commercial use. Submission for the Starforged 2022 Jam on itch.io.
+The following modules by wilsonam are used with permission from the author for non-commercial use.
 * [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged) 
 * [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it)
 * [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged)
@@ -54,13 +54,21 @@ The following modules by wilsonam are used with permission from the author for n
 
 [Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
 
-[Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author. Submission for the Starforged 2022 Jam on itch.io.
+[Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
 
 [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 Licenses and permissions for the macros are listed in the source code.
+
+# Resources
+Many great Ironsworn and Starforged Resources can be found at the links below.
+* [Awesome Ironsworn](https://github.com/Billiam/awesome-ironsworn)
+* [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam)
+* [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam)
+* [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
+* [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
