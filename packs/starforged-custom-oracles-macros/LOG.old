@@ -1,7 +1,22 @@
-2023/10/17-12:43:28.006060 70000ac86000 Recovering log #68
-2023/10/17-12:43:28.007706 70000ac86000 Delete type=0 #68
-2023/10/17-12:43:28.008042 70000ac86000 Delete type=3 #66
-2023/10/18-20:57:42.480495 70000de21000 Level-0 table #74: started
-2023/10/18-20:57:42.480832 70000de21000 Level-0 table #74: 0 bytes OK
-2023/10/18-20:57:42.481557 70000de21000 Delete type=0 #72
-2023/10/18-20:57:42.485290 70000de21000 Manual compaction at level-0 from '!folders!XPv5JkvzOPoVeAYJ' @ 72057594037927935 : 1 .. '!macros!uNoGg4Gh2i73Sqlp' @ 0 : 0; will stop at (end)
+2023/10/24-14:50:19.012601 7000094ad000 Recovering log #81
+2023/10/24-14:50:19.015429 7000094ad000 Level-0 table #83: started
+2023/10/24-14:50:19.021902 7000094ad000 Level-0 table #83: 128280 bytes OK
+2023/10/24-14:50:19.024059 7000094ad000 Delete type=3 #80
+2023/10/24-14:50:19.025664 7000094ad000 Delete type=0 #81
+2023/10/26-23:36:08.434491 70000b5bf000 Compacting 1@0 + 1@1 files
+2023/10/26-23:36:08.446666 70000b5bf000 Generated table #85@0: 14 keys, 15615 bytes
+2023/10/26-23:36:08.446730 70000b5bf000 Compacted 1@0 + 1@1 files => 15615 bytes
+2023/10/26-23:36:08.448165 70000b5bf000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/26-23:36:08.450071 70000b5bf000 Delete type=2 #83
+2023/10/26-23:36:08.452258 70000b5bf000 Delete type=2 #79
+2023/10/27-16:16:43.525017 70000b5bf000 Level-0 table #87: started
+2023/10/27-16:16:43.545278 70000b5bf000 Level-0 table #87: 130312 bytes OK
+2023/10/27-16:16:43.547561 70000b5bf000 Delete type=0 #84
+2023/10/27-16:16:43.547915 70000b5bf000 Manual compaction at level-0 from '!folders!DgFktl6pHdRiqNGz' @ 72057594037927935 : 1 .. '!macros!uNoGg4Gh2i73Sqlp' @ 0 : 0; will stop at '!macros!gbK9zJ7jT7pbWjfN' @ 177 : 1
+2023/10/27-16:16:43.547947 70000b5bf000 Compacting 1@0 + 1@1 files
+2023/10/27-16:16:43.549894 70000b5bf000 Generated table #88@0: 14 keys, 15715 bytes
+2023/10/27-16:16:43.549913 70000b5bf000 Compacted 1@0 + 1@1 files => 15715 bytes
+2023/10/27-16:16:43.550052 70000b5bf000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/27-16:16:43.550135 70000b5bf000 Delete type=2 #87
+2023/10/27-16:16:43.550374 70000b5bf000 Delete type=2 #85
+2023/10/27-16:16:43.550664 70000b5bf000 Manual compaction at level-0 from '!macros!gbK9zJ7jT7pbWjfN' @ 177 : 1 .. '!macros!uNoGg4Gh2i73Sqlp' @ 0 : 0; will stop at (end)
