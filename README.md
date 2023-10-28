@@ -56,6 +56,8 @@ The following modules by wilsonam are used with permission from the author for n
 
 [Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author. Submission for the Starforged 2022 Jam on itch.io.
 
+[Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
+
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 # Acknowledgements

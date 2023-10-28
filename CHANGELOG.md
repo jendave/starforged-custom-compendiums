@@ -1,8 +1,9 @@
 # Changelog
 
-### [1.0.3](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-xx)
+### [1.0.3](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-27)
 
-* Added [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged)
+* Added [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) oracle from Julius Hennig (birb-nerb).
+* Added [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) oracles and macro from ellie-valkyrie.
 
 ### [1.0.2](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-17)
 

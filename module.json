@@ -12,16 +12,6 @@
       "name": "David Y. Hudson",
       "discord": "jendave",
       "url": "https://github.com/jendave"
-    },
-    {
-      "name": "Julius Hennig",
-      "discord": "birbnerb",
-      "url": "https://birb-nerb.itch.io"
-    },
-    {
-      "name": "wilsonam",
-      "discord": "wilsonam",
-      "url": "https://wilsonam.itch.io/"
     }
   ],
   "packs": [
@@ -63,7 +53,7 @@
         "type": "system",
         "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.22.4",
+          "minimum": "1.22.7",
           "verified": "1.22"
         }
       }
