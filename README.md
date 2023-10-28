@@ -60,6 +60,8 @@ The following modules by wilsonam are used with permission from the author for n
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
+Licenses and permissions for the macros are listed in the source code.
+
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
