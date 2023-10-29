@@ -8,8 +8,38 @@ function printMessage(message) {
 async function coreFunction(planet, atmosphere) {
     let message = "";
     let table = "";
+
+    const desert = new Map([
+        ["precipitation_type", "Dust"],
+        ["table_shift", 2],
+        ["special_storm", "Electrical Storm"],
+        ["hab_base", 0],
+        ["hab_mult", 5],
+        ["uninhab_base", -30],
+        ["uninhab_mult", 10],
+    ]);
+
+    const planetary_weather_JSON = '{' +
+        '"Desert": {"precipitation_type":"Dust", "table_shift": 2, "special_storm": "Electrical storm", "hab_base": 0, "hab_mult": 5, "uninhab_base": -30, "uninhab_mult": 10},' +
+        '"Furnace": {"precipitation_type":"Volcanic ash", "table_shift": 1, "special_storm": "Ash storm", "hab_base": 10, "hab_mult": 5, "uninhab_base": 45, "uninhab_mult": 10},' +
+        '"Grave": {"precipitation_type":"Radioactive ash", "table_shift": 1, "special_storm": "Electrical storm", "hab_base": -15, "hab_mult": 5, "uninhab_base": -30, "uninhab_mult": 10},' +
+        '"Ice": {"precipitation_type":"Snow", "table_shift": -1, "special_storm": "Blizzard", "hab_base": -45, "hab_mult": 5, "uninhab_base": -90, "uninhab_mult": 10},' +
+        '"Jovian": {"precipitation_type":"Water", "table_shift": 0, "special_storm": "Giant superstorm", "hab_base": -15, "hab_mult": 5, "uninhab_base": -15, "uninhab_mult": 5},' +
+        '"Jungle": {"precipitation_type":"Water", "table_shift": 2, "special_storm": "Flash floods", "hab_base": 0, "hab_mult": 5, "uninhab_base": 0, "uninhab_mult": 5},' +
+        '"Ocean": {"precipitation_type":"Water", "table_shift": 1, "special_storm": "Hurricane", "hab_base": -15, "hab_mult": 5, "uninhab_base": -25, "uninhab_mult": 10},' +
+        '"Rocky": {"precipitation_type":"None", "table_shift": 0, "special_storm": "None", "hab_base": -45, "hab_mult": 10, "uninhab_base": -100, "uninhab_mult": 10},' +
+        '"Shattered": {"precipitation_type":"Radioactive ash", "table_shift": 3, "special_storm": "Geomagnetic storm", "hab_base": -45, "hab_mult": 10, "uninhab_base": -45, "uninhab_mult": 10},' +
+        '"Tainted": {"precipitation_type":"Tainted water", "table_shift": 0, "special_storm": "Corrosive thunderstorm", "hab_base": -15, "hab_mult": 5, "uninhab_base": -15, "uninhab_mult": 5},' +
+        '"Vital": {"precipitation_type":"Water", "table_shift": 0, "special_storm": "Thunderstorm", "hab_base": -15, "hab_mult": 5, "uninhab_base": -15, "uninhab_mult": 5}' +
+        '}';
+
+    const planetary_weather = JSON.parse(planetary_weather_JSON);
+    const tempWeather = planetary_weather.Desert;
+    console.log(tempWeather.precipitation_type);
+
     message = "<b>" + planet + " world with a " + atmosphere + " atmosphere</b><br>";
     const habitable = ["Marginal", "Breathable", "Ideal"];
+    const precipitation = ["Clear", "Light", "Medium", "Heavy", "Storm"]
 
     if (habitable.includes(atmosphere)) {
         table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xb42QIQbA6Th4hwk");
@@ -20,7 +50,7 @@ async function coreFunction(planet, atmosphere) {
     let roll = await table.roll();
     let cloudCover = roll.results[0].text;
 
-    message = message + "The planet greets you with " + cloudCover;
+    message = message + "Cloud cover: " + cloudCover;
     printMessage(message);
 }
 

@@ -13,23 +13,6 @@ Shattered	Radioactive ash	R3	Geomagnetic storm	-45	10	-45	10
 Tainted	Tainted water	0	Corrosive thunderstorm	-15	5	-15	5
 Vital	Water	0	Thunderstorm	-15	5	-15	5
 
-
-d6 Cloud Cover Habitable
-1 Clear skies
-2 Clear skies
-3 Light cloud cover
-4 Medium cloud cover
-5 Heavy cloud cover
-6 Storm	clouds
-
-d6 Cloud Cover Uninhabitable
-1 Clear skies
-2 Light cloud cover
-3 Medium cloud cover
-4 Heavy cloud cover
-5 Storm	clouds
-6 Storm	clouds
-
 Precipitation Table – Habitable (1d10)
 Precipitation	Clear	Light	Medium	Heavy	Storm
 None	1-8	1-4	1-3	1	1
@@ -50,6 +33,14 @@ Heavy rain			9-10	5-7	2-3
 Torrential				8-9	4-7
 
 Habitable
+
+d6 Cloud Cover
+1 Clear skies
+2 Clear skies
+3 Light cloud cover
+4 Medium cloud cover
+5 Heavy cloud cover
+6 Storm	clouds
 
 d10 Clear 
 1-8 None
@@ -83,6 +74,14 @@ d10 Storm
 9-10 Special Storm
 
 Uninhabitable
+
+d6 Cloud Cover
+1 Clear skies
+2 Light cloud cover
+3 Medium cloud cover
+4 Heavy cloud cover
+5 Storm	clouds
+6 Storm	clouds
 
 d10 Clear
 1-8 None
