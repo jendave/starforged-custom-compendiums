@@ -5,19 +5,14 @@ function printMessage(message) {
     ChatMessage.create(chatData, {})
 };
 
+function calculateTemp(base, mult) {
+    const temp = ((Math.floor(Math.random() * 10) + 1) * mult) + base;
+    return temp;
+}
+
 async function coreFunction(planet, atmosphere) {
     let message = "";
     let table = "";
-
-    const desert = new Map([
-        ["precipitation_type", "Dust"],
-        ["table_shift", 2],
-        ["special_storm", "Electrical Storm"],
-        ["hab_base", 0],
-        ["hab_mult", 5],
-        ["uninhab_base", -30],
-        ["uninhab_mult", 10],
-    ]);
 
     const planetary_weather_JSON = '{' +
         '"Desert": {"precipitation_type":"Dust", "table_shift": 2, "special_storm": "Electrical storm", "hab_base": 0, "hab_mult": 5, "uninhab_base": -30, "uninhab_mult": 10},' +
@@ -36,6 +31,7 @@ async function coreFunction(planet, atmosphere) {
     const planetary_weather = JSON.parse(planetary_weather_JSON);
     const tempWeather = planetary_weather.Desert;
     console.log(tempWeather.precipitation_type);
+    console.log(calculateTemp(tempWeather.hab_base, tempWeather.hab_mult));
 
     message = "<b>" + planet + " world with a " + atmosphere + " atmosphere</b><br>";
     const habitable = ["Marginal", "Breathable", "Ideal"];
@@ -49,8 +45,10 @@ async function coreFunction(planet, atmosphere) {
 
     let roll = await table.roll();
     let cloudCover = roll.results[0].text;
+    let temperature = calculateTemp(tempWeather.hab_base, tempWeather.hab_mult);
 
-    message = message + "Cloud cover: " + cloudCover;
+    message = message + "Cloud cover: " + cloudCover + "<br>";
+    message = message + "Temperature: " + temperature + "° C";
     printMessage(message);
 }
 
