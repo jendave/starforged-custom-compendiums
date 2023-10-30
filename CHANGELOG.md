@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.0.4](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-30)
+
+* Added [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged) oracles and macros from wilsonam.
+
 ### [1.0.3](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-27)
 
 * Added [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) oracle from Julius Hennig (birb-nerb).
