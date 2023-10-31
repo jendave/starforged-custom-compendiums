@@ -8,6 +8,10 @@
 # About
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
+# Contact
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
+* [GitHub Repository](https://github.com/jendave/starforged-custom-oracles)
+
 # Features and Notes
 * Oracle tables contributed by fans are included in the compendium.
 * Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord](https://discord.com/channels/437120373436186625/867434336201605160)!
