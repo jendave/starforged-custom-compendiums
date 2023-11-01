@@ -41,6 +41,15 @@ Visual block mode for copying column text - ctrl-V and use arrow keys
 g~w # toggle case of current word
 ```
 
+## Rolltable Links
+```
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Descriptor"><i class="fa fa-caret-right"></i> Descriptor</a> + <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Focus"><i class="fa fa-caret-right"></i> Focus</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Location_Themes"><i class="fa fa-caret-right"></i> Location Themes</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Action"><i class="fa fa-caret-right"></i> Action</a> + <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Theme"><i class="fa fa-caret-right"></i> Theme</a>
+```
+
 ## Notes for Github workflows
 ```
 jobs:

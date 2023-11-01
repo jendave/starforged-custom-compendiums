@@ -53,6 +53,7 @@ The following modules by wilsonam are used with permission from the author for n
 * [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged) 
 * [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it)
 * [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged)
+* [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged)
 
 [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
 
@@ -61,6 +62,8 @@ The following modules by wilsonam are used with permission from the author for n
 [Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
 
 [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
+
+[Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 

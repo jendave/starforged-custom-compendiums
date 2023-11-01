@@ -5,324 +5,324 @@
 District
 
 d100 Population Size Terminus
-Few                 1-10
-Dozens              11-30
-Hundreds            31-63
-Thousands           64-95
-Tens of thousands   96-100
+1-10   Few
+11-30  Dozens
+31-63  Hundreds
+64-95  Thousands
+96-100 Tens of thousands
 
 d100 Population Size Outlands
-Few                 1-20
-Dozens              21-59
-Hundreds            60-98
-Thousands           99-100
+1-20   Few
+21-59  Dozens
+60-98  Hundreds
+99-100 Thousands
 
 d100 Population Size Expanse
-Few                 1-30
-Dozens              31-69
-Hundreds            70-99
-Thousands           100
+1-30  Few
+31-69 Dozens
+70-99 Hundreds
+100   Thousands
 
-d100 District Purpose
-Businesses                          1-15
-Community/Social                    16-30
-Engineering                         31-40
-Living                              41-50
-Medical                             51-60
-Operations                          61-70
-Production/Manufacturing            71-80
-Research                            81-90
-Transport/Connection/Access         91-95
-Multi-purpose (roll 2)              96-100
+d100 Purpose
+1-15   Businesses
+16-30  Community/Social
+31-40  Engineering
+41-50  Living
+51-60  Medical
+61-70  Operations
+71-80  Production/Manufacturing
+81-90  Research
+91-95  Transport/Connection/Access
+96-100 Multi-purpose (roll 2)
 
 d100 Condition Terminus
-Abandoned                                                                                                                                        1-5
-Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)                                                         6-16
-Cobbled-together                                                                                                                                17-29
-Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)                                          70-83
-Dangerous/Troubled                                                                                                                              55-69
-Functional                                                                                                                                      30-41
-Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants) 84-96
-Thriving                                                                                                                                        42-54
-roll Location Theme                                                                                                                             97-98
-roll Descriptor + Focus                                                                                                                         99-100
+1-5   Abandoned
+6-16  Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)
+17-29  Cobbled-together
+70-83  Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)
+55-69  Dangerous/Troubled
+30-41  Functional
+84-96  Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants)
+42-54  Thriving
+97-98  roll Location Theme
+99-100 roll Descriptor + Focus
 
 d100 Condition Outlands
-Abandoned                                                                                                                                             1
-Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)                                                              2-21
-Cobbled-together                                                                                                                                     22-41
-Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)                                                42
-Dangerous/Troubled                                                                                                                                   43-62
-Functional                                                                                                                                           63-77
-Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants)      78-86
-Thriving                                                                                                                                             87-96
-roll Location Theme                                                                                                                                  97-98
-roll Descriptor + Focus                                                                                                                              99-100
+1     Abandoned
+2-21  Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)
+22-41  Cobbled-together
+42    Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)
+43-62  Dangerous/Troubled
+63-77  Functional
+78-86  Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants)
+87-96  Thriving
+97-98  roll Location Theme
+99-100 roll Descriptor + Focus
 
 d100 Condition Expanse
-Abandoned                                                                                                                                          1
-Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)                                                          2-26
-Cobbled-together                                                                                                                                 27-51
-Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)                                           52
-Dangerous/Troubled                                                                                                                               53-64
-Functional                                                                                                                                       65-79
-Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants)  80-91
-Thriving                                                                                                                                         92-96
-roll Location Theme                                                                                                                              97-98
-roll Descriptor + Focus                                                                                                                          99-100
+1    Abandoned
+2-26  Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)
+27-51  Cobbled-together
+52     Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)
+53-64  Dangerous/Troubled
+65-79  Functional
+80-91  Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants)
+92-96  Thriving
+97-98  roll Location Theme
+99-100 roll Descriptor + Focus
 
 Area Type by Purpose
 
 d100 Businesses
-Bounty hunter's office                                                                                                                                                                                                      1-9
-Courier offices (local or off-planet couriers, drift/passage maps trader)                                                                                                                                                  10-18
-Pawnshop                                                                                                                                                                                                                   19-27
-Fence (for illegal  goods or contraband eg. precursor artefact)                                                                                                                                                            28-36
-Information broker                                                                                                                                                                                                         37-45
-Document forger                                                                                                                                                                                                            46-55
-Hacker                                                                                                                                                                                                                     56-64
-Security rm                                                                                                                                                                                                                65-73
-Weapons shop (weapon forger)                                                                                                                                                                                               74-82
-Ship repair and outfitting                                                                                                                                                                                                 83-91
-Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, local food market, black iron trader, street vendors, gadgets/trinket stalls, information brokers)      92-100
+1-9   Bounty hunter's office
+10-18  Courier offices (local or off-planet couriers, drift/passage maps trader)
+19-27  Pawnshop
+28-36  Fence (for illegal  goods or contraband eg. precursor artefact)
+37-45  Information broker
+46-55  Document forger
+56-64  Hacker
+65-73  Security rm
+74-82  Weapons shop (weapon forger)
+83-91  Ship repair and outfitting
+92-100 Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, local food market, black iron trader, street vendors, gadgets/trinket stalls, information brokers)
 
 d100 Community/Social
-Club (night club, body-mod cult, hunter's bar with the heads of local fauna displayed on the walls)                                                                                                                                                                                          1-5
-Botanical garden (small neighbourhood park, empty plot of land)                                                                                                                                                                                                                              6-9
-Casino (high speed race course, arena fighting, back-room poker game, pachinko parlour, pokies machine)                                                                                                                                                                                     10-14
-Diner                                                                                                                                                                                                                                                                                       15-18
-Restaurant                                                                                                                                                                                                                                                                                  19-23
-Café                                                                                                                                                                                                                                                                                        24-27
-Street hawkers (night food market, local food market)                                                                                                                                                                                                                                       28-32
-Dive bar                                                                                                                                                                                                                                                                                    33-36
-Education (primary school, secondary college, university, trade school, military training, library, research facilities, dorm rooms)                                                                                                                                                        37-41
-Entertainment (VR feeds, illegal ghting ring (watching or participating), racing (on land or in space, watching or participating)                                                                                                                                                           42-45
-Promenade or overlook (over hanging balcony)                                                                                                                                                                                                                                                46-50
-Red light district (seedyback alleys with shi ing shadows, strip clubs, high end entertainment establishments, full-immersion VR experiences, dodgy hourly motels)                                                                                                                          51-55
-Relaxation (massage parlour, spa, drug den, beauty parlour, see red light district)                                                                                                                                                                                                         56-59
-Religious establishments (temple, church, mosque, glade in the light of the planet's two moons, a dark cavern in the depths of an precursor vault, embalmer)                                                                                                                                60-64
-Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, black iron trader, street vendors, gadgets/trinket stalls, information brokers)                                                                                          65-68
-Sporting facility (arena to ght the local wildlife, rock climbing on planets filled with canyons, anti-gravity basketball)                                                                                                                                                                  69-73
-Communication hub (weave/lan cafe, interface forlocal news feeds, official government-run communication array, satellite control centre owned by the rich and powerful, hidden/cobbled-together computer parts linked to a rebel network, gossipmongers hanging around the water recyclers) 74-77
-Faction house (guild house, faction's satellite office)                                                                                                                                                                                                                                     78-82
-Gang territory (drug dealer's corner, organised crime lord's headquarters, local mercenary's hangout)                                                                                                                                                                                       83-86
-High society (expensive parties, elegant soirees, rich merchant's mansion)                                                                                                                                                                                                                  87-91
-Seer (mystic, shaman, healer)                                                                                                                                                                                                                                                               92-95
-Showroom (land/sea support vehicle, latest precursor artefact inspired technology)                                                                                                                                                                                                          96-100
+1-5   Club (night club, body-mod cult, hunter's bar with the heads of local fauna displayed on the walls)
+6-9   Botanical garden (small neighbourhood park, empty plot of land)
+10-14  Casino (high speed race course, arena fighting, back-room poker game, pachinko parlour, pokies machine)
+15-18  Diner
+19-23  Restaurant
+24-27  Café
+28-32  Street hawkers (night food market, local food market)
+33-36  Dive bar
+37-41  Education (primary school, secondary college, university, trade school, military training, library, research facilities, dorm rooms)
+42-45  Entertainment (VR feeds, illegal ghting ring (watching or participating), racing (on land or in space, watching or participating)
+46-50  Promenade or overlook (over hanging balcony)
+51-55  Red light district (seedyback alleys with shi ing shadows, strip clubs, high end entertainment establishments, full-immersion VR experiences, dodgy hourly motels)
+56-59  Relaxation (massage parlour, spa, drug den, beauty parlour, see red light district)
+60-64  Religious establishments (temple, church, mosque, glade in the light of the planet's two moons, a dark cavern in the depths of an precursor vault, embalmer)
+65-68  Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, black iron trader, street vendors, gadgets/trinket stalls, information brokers)
+69-73  Sporting facility (arena to ght the local wildlife, rock climbing on planets filled with canyons, anti-gravity basketball)
+74-77  Communication hub (weave/lan cafe, interface forlocal news feeds, official government-run communication array, satellite control centre owned by the rich and powerful, hidden/cobbled-together computer parts linked to a rebel network, gossipmongers hanging around the water recyclers)
+78-82  Faction house (guild house, faction's satellite office)
+83-86  Gang territory (drug dealer's corner, organised crime lord's headquarters, local mercenary's hangout)
+87-91  High society (expensive parties, elegant soirees, rich merchant's mansion)
+92-95  Seer (mystic, shaman, healer)
+96-100 Showroom (land/sea support vehicle, latest precursor artefact inspired technology)
 
 d100 Engineering
-Control room                                                                            1-17
-Engine room or power core                                                               18-33
-Engineering o ces                                                                       34-50
-Life support                                                                            51-67
-Mechanics                                                                               68-83
-Vehicle bay or garage                                                                   84-100
+1-17   Control room
+18-33  Engine room or power core
+34-50  Engineering offices
+51-67  Life support
+68-83  Mechanics
+84-100 Vehicle bay or garage
 
 d100 Living
-Communal baths                                                                          1-14
-Food storage                                                                            15-29
-Hotels (capsule hotel, hourly motels, shore leave dorms, leisure apartments)            30-43
-Training grounds                                                                        44-57
-Laundry                                                                                 58-71
-Living quarters (apartments, houses on stilts, boathouses)                              72-86
-Mess/dining hall                                                                        87-100
+1-14   Communal baths
+15-29  Food storage
+30-43  Hotels (capsule hotel, hourly motels, shore leave dorms, leisure apartments)
+44-57  Training grounds
+58-71  Laundry
+72-86  Living quarters (apartments, houses on stilts, boathouses)
+87-100 Mess/dining hall
 
 d100 Medical
-Biohacker lab                                                                           1-11
-Clinic                                                                                  12-22
-Crematorium                                                                             23-33
-Hospital                                                                                34-44
-Medical lab                                                                             45-56
-Morgue                                                                                  57-67
-Non-human specialist (for all your companion asset needs)                               68-78
-Pharmacy                                                                                79-89
-Prosthetics workshop                                                                    90-100
+1-11   Biohacker lab
+12-22  Clinic
+23-33  Crematorium
+34-44  Hospital
+45-56  Medical lab
+57-67  Morgue
+68-78  Non-human specialist (for all your companion asset needs)
+79-89  Pharmacy
+90-100 Prosthetics workshop
 
 d100 Operations
-Brig/cell/jail                                                                                                                                                   1-6
-Cleaners                                                                                                                                                         7-12
-Command center/Bridge                                                                                                                                            13-18
-Food/Air/Water recyclers                                                                                                                                         19-24
-Hydroponics                                                                                                                                                      25-29
-Landing strip/hangar                                                                                                                                             30-35
-Security o ce                                                                                                                                                    36-41
-Monitoring room                                                                                                                                                  42-47
-Power generators                                                                                                                                                 48-53
-Sewage management                                                                                                                                                54-59
-Spaceport                                                                                                                                                        60-65
-Wind farms                                                                                                                                                       66-71
-Military (training grounds, weapons depot, shipyard, research facility, command centre, armoury)                                                                 72-76
-Offices (government offices, licensing offices, dock master's office, local governor's office, sector's political hub, sky rises)                                77-82
-Traffic control centre (command centre on a space station, traffic control tower located on the outskirts of the city, frantic logistics hub in a merchant city) 83-88
-Monorail station (subway station, intra-city public transport station)                                                                                           89-94
-Train station (inter-city public transport station)                                                                                                              95-100
+1-6    Brig/cell/jail
+7-12   Cleaners
+13-18  Command center/Bridge
+19-24  Food/Air/Water recyclers
+25-29  Hydroponics
+30-35  Landing strip/hangar
+36-41  Security o ce
+42-47  Monitoring room
+48-53  Power generators
+54-59  Sewage management
+60-65  Spaceport
+66-71  Wind farms
+72-76  Military (training grounds, weapons depot, shipyard, research facility, command centre, armoury)
+77-82  Offices (government offices, licensing offices, dock master's office, local governor's office, sector's political hub, sky rises)
+83-88  Traffic control centre (command centre on a space station, traffic control tower located on the outskirts of the city, frantic logistics hub in a merchant city)
+89-94  Monorail station (subway station, intra-city public transport station)
+95-100 Train station (inter-city public transport station)
 
 d100 Production/Manufacturing
-3D printing/fabrication facility                                                                          1-9
-Bots factory                                                                                              10-18
-Data Centre                                                                                               19-27
-Exosuit bay                                                                                               28-36
-Mining (planet-side mining facilities, asteroid mining)                                                   37-45
-Ore re nery                                                                                               46-55
-Scrapyard                                                                                                 56-64
-Ship parts manufacturer                                                                                   65-73
-Warehouse/storage facilities                                                                              74-82
-Waterfront                                                                                                83-91
-Weapons manufacturer                                                                                      92-100
+1-9    3D printing/fabrication facility
+10-18  Bots factory
+19-27  Data Centre
+28-36  Exosuit bay
+37-45  Mining (planet-side mining facilities, asteroid mining)
+46-55  Ore refinery
+56-64  Scrapyard
+65-73  Ship parts manufacturer
+74-82  Warehouse/storage facilities
+83-91  Waterfront
+92-100 Weapons manufacturer
 
 d100 Research
-Research facility (bioweapon, medical, educational, precursor artefact, exobiology)                           1-14
-Lab                                                                                                           15-29
-Library/records                                                                                               30-43
-Secure vault                                                                                                  44-57
-Decontamination facility                                                                                      58-71
-Hazardous material storage                                                                                    72-86
-Creature or animal pens                                                                                       87-100
+1-14   Research facility (bioweapon, medical, educational, precursor artefact, exobiology)
+15-29  Lab
+30-43  Library/records
+44-57  Secure vault
+58-71  Decontamination facility
+72-86  Hazardous material storage
+87-100 Creature or animal pens
 
 d100 Transport/Connection/Access
-Airlock or external door (not just applicable to space stations but also to settlements where the external environment is hostile) 1-4
-Catwalk or bridge                                                                                                                  5-12
-Corridor                                                                                                                           13-19
-Crawl space or duct                                                                                                                20-25
-Highway (are you walking along the side of the road, hitching a ride or lying nearby in an ambush?)                                26-32
-Hub or intersection                                                                                                                33-40
-Li or elevator                                                                                                                     41-48
-Sewers (underground passages, conduit in a space station filled with cables and wiring, smuggling routes)                          49-53
-Side street                                                                                                                        54-61
-Stairs                                                                                                                             62-69
-Street                                                                                                                             70-77
-Transport system (in transit on a monorail, subway, elevator system on a space station, taxi service, hired vehicle)               78-80
-Underground tunnel                                                                                                                 81-87
-Vertical shaft or ladder                                                                                                           88-94
-Waterway                                                                                                                           95-100
+1-4    Airlock or external door (not just applicable to space stations but also to settlements where the external environment is hostile)
+5-12   Catwalk or bridge
+13-19  Corridor
+20-25  Crawl space or duct
+26-32  Highway (are you walking along the side of the road, hitching a ride or lying nearby in an ambush?)
+33-40  Hub or intersection
+41-48  Lift or elevator
+49-53  Sewers (underground passages, conduit in a space station filled with cables and wiring, smuggling routes)
+54-61  Side street
+62-69  Stairs
+70-77  Street
+78-80  Transport system (in transit on a monorail, subway, elevator system on a space station, taxi service, hired vehicle)
+81-87  Underground tunnel
+88-94  Vertical shaft or ladder
+95-100 Waterway
 
 Scene Generator
 
 d100 Weather
-Raining (the rain may be acidic, it may not be water)          1-14
-Fog                                                           15-29
-Clear day                                                     30-43
-Snowing                                                       44-57
-Thunderstorm                                                  58-71
-Hot and humid                                                 72-86
-Sudden shower                                                 87-100
+1-14  Raining (the rain may be acidic, it may not be water)
+15-29  Fog
+30-43  Clear day
+44-57  Snowing
+58-71  Thunderstorm
+72-86  Hot and humid
+87-100 Sudden shower
 
 d100 Scene Location Planetside
-Outdoors                        1-50
-Indoors                         51-100
+1-50   Outdoors
+51-100 Indoors
 
 d100 Scene Location Orbital/Deep Space
-In Vacuum                             1-6
-Outdoors                              7-53
-Indoors                               54-100
+1-6    In Vacuum
+7-53   Outdoors
+54-100 Indoors
 
 d100 Day or Night
-Day                        1-50
-Night                      51-100
+1-50   Day
+51-100 Night
 
 d100 Gravity
-Less                       1-33
-1G                         34-67
-More                       68-100
+1-33   Less
+34-67  1G
+68-100 More
 
 d100 All Areas by Types
-3D printing/fabrication facility                                                                                                                                                                                                                                                            1
-Airlock or external door (Not just applicable to space stations but also to settlements where the external environment is hostile)                                                                                                                                                          2
-Biohacker lab                                                                                                                                                                                                                                                                               3
-Botanical garden (small neighbourhood park, empty plot of land)                                                                                                                                                                                                                             4
-Bots factory                                                                                                                                                                                                                                                                                5
-Brig/cell/jail                                                                                                                                                                                                                                                                              6
-Café                                                                                                                                                                                                                                                                                        7
-Casino (high speed race course, arena fighting, back-room poker game, pachinko parlour, pokies machine)                                                                                                                                                                                     8
-Catwalk or bridge                                                                                                                                                                                                                                                                           9
-Cleaners                                                                                                                                                                                                                                                                                    10
-Clinic                                                                                                                                                                                                                                                                                      11
-Club (night club, body-mod cult, hunter's bar with the heads of local fauna displayed on the walls)                                                                                                                                                                                         12
-Command center/Bridge                                                                                                                                                                                                                                                                       13
-Communal baths                                                                                                                                                                                                                                                                              14
-Communication hub (weave/lan cafe, interface forlocal news feeds, official government-run communication array, satellite control centre owned by the rich and powerful, hidden/cobbled-together computer parts linked to a rebel network, gossipmongers hanging around the water recyclers) 15
-Control room                                                                                                                                                                                                                                                                                16
-Corridor                                                                                                                                                                                                                                                                                    17
-Courier offices (local oro -planet couriers, dri s/passage maps trader)                                                                                                                                                                                                                     18
-Crawl space or duct                                                                                                                                                                                                                                                                         19
-Creature or animal pens                                                                                                                                                                                                                                                                     20
-Crematorium                                                                                                                                                                                                                                                                                 21
-Data Centre                                                                                                                                                                                                                                                                                 22
-Decontamination facility                                                                                                                                                                                                                                                                    23
-Diner                                                                                                                                                                                                                                                                                       24
-Dive bar                                                                                                                                                                                                                                                                                    25
-Document forger                                                                                                                                                                                                                                                                             26
-Education (primary school, secondary college, university, trade school, military training, library, research facilities, dorm rooms)                                                                                                                                                        27
-Engine room or power core                                                                                                                                                                                                                                                                   28
-Engineering offices                                                                                                                                                                                                                                                                         29
-Entertainment - VR feeds, illegal fighting ring (watching or participating),   racing  (on  land   or  in space, watching or participating)                                                                                                                                                 30
-Exosuit bay                                                                                                                                                                                                                                                                                 31
-Faction house (guild house, faction's satellite office)                                                                                                                                                                                                                                     32
-Fence (for illegal goods or contraband eg. precursor artefact)                                                                                                                                                                                                                              33
-Food/Air/Water recyclers                                                                                                                                                                                                                                                                    34
-Food court (night food market)                                                                                                                                                                                                                                                              35
-Food storage                                                                                                                                                                                                                                                                                36
-Gang territory (drug dealer's corner, organised crime lord's headquarters, local mercenary's hangout)                                                                                                                                                                                       37
-Hacker                                                                                                                                                                                                                                                                                      38
-Hazardous material storage                                                                                                                                                                                                                                                                  39
-High society (expensive parties, elegant soirees, rich merchant's mansion)                                                                                                                                                                                                                  40
-Highway                                                                                                                                                                                                                                                                                     41
-Hospital                                                                                                                                                                                                                                                                                    42
-Hotels (capsule hotel, hourly motels, shore leave dorms, leisure apartments)                                                                                                                                                                                                                43
-Hub or intersection                                                                                                                                                                                                                                                                         44
-Hydroponics                                                                                                                                                                                                                                                                                 45
-Information broker (bountyhunter's office)                                                                                                                                                                                                                                                  46
-Lab                                                                                                                                                                                                                                                                                         47
-Landing strip/hangar                                                                                                                                                                                                                                                                        48
-Laundry                                                                                                                                                                                                                                                                                     49
-Library/records                                                                                                                                                                                                                                                                             50
-Life support                                                                                                                                                                                                                                                                                51
-Lift or elevator                                                                                                                                                                                                                                                                            52
-Living quarters (apartments, houses on stilts, boathouses)                                                                                                                                                                                                                                  53
-Mechanics                                                                                                                                                                                                                                                                                   54
-Medical lab                                                                                                                                                                                                                                                                                 55
-Mess/dining hall                                                                                                                                                                                                                                                                            56
-Military (training grounds, weapons depot, shipyard, research   facility,  command  centre, armoury)                                                                                                                                                                                        57
-Mining (planet-side mining facilities, asteroid mining)                                                                                                                                                                                                                                     58
-Monitoring room                                                                                                                                                                                                                                                                             59
-Monorail station (subway station, intra-city public transport station)                                                                                                                                                                                                                      60
-Morgue                                                                                                                                                                                                                                                                                      61
-Non-human specialist (for all your companion asset needs)                                                                                                                                                                                                                                   62
-Offices (government offices, licensing offices, dock master's office, local governor's office, sector's political hub, skyrises                                                                                                                                                             63
-Ore refinery                                                                                                                                                                                                                                                                                64
-Pawnshop                                                                                                                                                                                                                                                                                    65
-Pharmacy                                                                                                                                                                                                                                                                                    66
-Power generators                                                                                                                                                                                                                                                                            67
-Promenade or overlook (over hanging balcony)                                                                                                                                                                                                                                                68
-Prosthetics workshop                                                                                                                                                                                                                                                                        69
-Red light district (seedyback alleys with shi ing shadows, strip clubs, high end entertainment establishments, full-emersion VR experiences, dodgy hourly motels)                                                                                                                           70
-Relaxation (massage parlour, spa, drug den, beauty parlour, see red light district)                                                                                                                                                                                                         71
-Religious establishments (temple, church, mosque, glade in the light of the planet's two moons, a dark cavern in the depths of an precursor vault, embalmer)                                                                                                                                72
-Research facility (bioweapon, medical, educational, precursor artefact, exobiology)                                                                                                                                                                                                         73
-Restaurant                                                                                                                                                                                                                                                                                  74
-Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, local food market, black iron trader, street vendors, gadgets/trinket stalls, information brokers)                                                                       75
-Scrapyard                                                                                                                                                                                                                                                                                   76
-Secure vault                                                                                                                                                                                                                                                                                77
-Security firm                                                                                                                                                                                                                                                                               78
-Security office                                                                                                                                                                                                                                                                             79
-Seer (mystic, shaman, healer)                                                                                                                                                                                                                                                               80
-Sewage management                                                                                                                                                                                                                                                                           81
-Sewers (underground passages, conduit in  a  space  station  filled with cables and wiring, smuggling routes)                                                                                                                                                                               82
-Ship parts manufacturer                                                                                                                                                                                                                                                                     83
-Ship repair and outfitting                                                                                                                                                                                                                                                                  84
-Showroom (land/sea support vehicle, latest precursor artefact inspired technology)                                                                                                                                                                                                          85
-Spaceport                                                                                                                                                                                                                                                                                   86
-Sporting facility (arena to fight the local wildlife, rock climbing on planets filled with canyons, anti-gravity basketball)                                                                                                                                                                87
-Stairs                                                                                                                                                                                                                                                                                      88
-Street (waterway, side street)                                                                                                                                                                                                                                                              89
-Street hawkers                                                                                                                                                                                                                                                                              90
-Traffic control centre (command centre on a space station, tra c control towerlocated on the outskirts of the city, frantic logistics hub in a merchant city)                                                                                                                               91
-Train station (inter-city public transport station)                                                                                                                                                                                                                                         92
-Training grounds                                                                                                                                                                                                                                                                            93
-Vehicle bay or garage                                                                                                                                                                                                                                                                       94
-Vertical Shaft or Ladder                                                                                                                                                                                                                                                                    95
-Warehouse/storage facilities                                                                                                                                                                                                                                                                96
-Waterfront                                                                                                                                                                                                                                                                                  97
-Weapons manufacturer                                                                                                                                                                                                                                                                        98
-Weapons shop (weapon forger)                                                                                                                                                                                                                                                                99
-Wind farms                                                                                                                                                                                                                                                                                  100
+1   3D printing/fabrication facility
+2   Airlock or external door (Not just applicable to space stations but also to settlements where the external environment is hostile)
+3   Biohacker lab
+4   Botanical garden (small neighbourhood park, empty plot of land)
+5   Bots factory
+6   Brig/cell/jail
+7   Café
+8   Casino (high speed race course, arena fighting, back-room poker game, pachinko parlour, pokies machine)
+9   Catwalk or bridge
+10  Cleaners
+11  Clinic
+12  Club (night club, body-mod cult, hunter's bar with the heads of local fauna displayed on the walls)
+13  Command center/Bridge
+14  Communal baths
+15  Communication hub (weave/lan cafe, interface forlocal news feeds, official government-run communication array, satellite control centre owned by the rich and powerful, hidden/cobbled-together computer parts linked to a rebel network, gossipmongers hanging around the water recyclers)
+16  Control room
+17  Corridor
+18  Courier offices (local oro -planet couriers, dri s/passage maps trader)
+19  Crawl space or duct
+20  Creature or animal pens
+21  Crematorium
+22  Data Centre
+23  Decontamination facility
+24  Diner
+25  Dive bar
+26  Document forger
+27  Education (primary school, secondary college, university, trade school, military training, library, research facilities, dorm rooms)
+28  Engine room or power core
+29  Engineering offices
+30  Entertainment - VR feeds, illegal fighting ring (watching or participating),   racing  (on  land   or  in space, watching or participating)
+31  Exosuit bay
+32  Faction house (guild house, faction's satellite office)
+33  Fence (for illegal goods or contraband eg. precursor artefact)
+34  Food/Air/Water recyclers
+35  Food court (night food market)
+36  Food storage
+37  Gang territory (drug dealer's corner, organised crime lord's headquarters, local mercenary's hangout)
+38  Hacker
+39  Hazardous material storage
+40  High society (expensive parties, elegant soirees, rich merchant's mansion)
+41  Highway
+42  Hospital
+43  Hotels (capsule hotel, hourly motels, shore leave dorms, leisure apartments)
+44  Hub or intersection
+45  Hydroponics
+46  Information broker (bountyhunter's office)
+47  Lab
+48  Landing strip/hangar
+49  Laundry
+50  Library/records
+51  Life support
+52  Lift or elevator
+53  Living quarters (apartments, houses on stilts, boathouses)
+54  Mechanics
+55  Medical lab
+56  Mess/dining hall
+57  Military (training grounds, weapons depot, shipyard, research   facility,  command  centre, armoury)
+58  Mining (planet-side mining facilities, asteroid mining)
+59  Monitoring room
+60  Monorail station (subway station, intra-city public transport station)
+61  Morgue
+62  Non-human specialist (for all your companion asset needs)
+63  Offices (government offices, licensing offices, dock master's office, local governor's office, sector's political hub, skyrises
+64  Ore refinery
+65  Pawnshop
+66  Pharmacy
+67  Power generators
+68  Promenade or overlook (over hanging balcony)
+69  Prosthetics workshop
+70  Red light district (seedyback alleys with shi ing shadows, strip clubs, high end entertainment establishments, full-emersion VR experiences, dodgy hourly motels)
+71  Relaxation (massage parlour, spa, drug den, beauty parlour, see red light district)
+72  Religious establishments (temple, church, mosque, glade in the light of the planet's two moons, a dark cavern in the depths of an precursor vault, embalmer)
+73  Research facility (bioweapon, medical, educational, precursor artefact, exobiology)
+74  Restaurant
+75  Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, local food market, black iron trader, street vendors, gadgets/trinket stalls, information brokers)
+76  Scrapyard
+77  Secure vault
+78  Security firm
+79  Security office
+80  Seer (mystic, shaman, healer)
+81  Sewage management
+82  Sewers (underground passages, conduit in  a  space  station  filled with cables and wiring, smuggling routes)
+83  Ship parts manufacturer
+84  Ship repair and outfitting
+85  Showroom (land/sea support vehicle, latest precursor artefact inspired technology)
+86  Spaceport
+87  Sporting facility (arena to fight the local wildlife, rock climbing on planets filled with canyons, anti-gravity basketball)
+88  Stairs
+89  Street (waterway, side street)
+90  Street hawkers
+91  Traffic control centre (command centre on a space station, tra c control towerlocated on the outskirts of the city, frantic logistics hub in a merchant city)
+92  Train station (inter-city public transport station)
+93  Training grounds
+94  Vehicle bay or garage
+95  Vertical Shaft or Ladder
+96  Warehouse/storage facilities
+97  Waterfront
+98  Weapons manufacturer
+99  Weapons shop (weapon forger)
+100 Wind farms
