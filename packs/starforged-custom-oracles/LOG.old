@@ -1,17 +1,7 @@
-2023/10/27-18:30:55.669734 700009cb0000 Recovering log #68
-2023/10/27-18:30:55.669875 700009cb0000 Level-0 table #70: started
-2023/10/27-18:30:55.670640 700009cb0000 Level-0 table #70: 5288 bytes OK
-2023/10/27-18:30:55.671856 700009cb0000 Delete type=0 #68
-2023/10/27-18:30:55.672176 700009cb0000 Delete type=3 #67
-2023/10/29-20:58:25.025376 70000b5bf000 Level-0 table #73: started
-2023/10/29-20:58:25.026146 70000b5bf000 Level-0 table #73: 12288 bytes OK
-2023/10/29-20:58:25.026868 70000b5bf000 Delete type=0 #71
-2023/10/29-20:58:25.030118 70000b5bf000 Manual compaction at level-0 from '!folders!0UEYim8sXNBaz6BD' @ 72057594037927935 : 1 .. '!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9' @ 0 : 0; will stop at '!tables.results!H2vXAYLxRWS1Ipkz.vhra15tLrIrpyGte' @ 13734 : 0
-2023/10/29-20:58:25.030155 70000b5bf000 Compacting 2@0 + 1@1 files
-2023/10/29-20:58:25.058718 70000b5bf000 Generated table #74@0: 4458 keys, 432232 bytes
-2023/10/29-20:58:25.058739 70000b5bf000 Compacted 2@0 + 1@1 files => 432232 bytes
-2023/10/29-20:58:25.058930 70000b5bf000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/10/29-20:58:25.059068 70000b5bf000 Delete type=2 #70
-2023/10/29-20:58:25.059335 70000b5bf000 Delete type=2 #73
-2023/10/29-20:58:25.059550 70000b5bf000 Delete type=2 #66
-2023/10/29-20:58:25.061420 70000b5bf000 Manual compaction at level-0 from '!tables.results!H2vXAYLxRWS1Ipkz.vhra15tLrIrpyGte' @ 13734 : 0 .. '!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9' @ 0 : 0; will stop at (end)
+2023/10/30-17:17:14.786575 70000a4b3000 Recovering log #76
+2023/10/30-17:17:14.788048 70000a4b3000 Delete type=0 #76
+2023/10/30-17:17:14.788327 70000a4b3000 Delete type=3 #75
+2023/10/31-12:33:42.188665 70000b5bf000 Level-0 table #80: started
+2023/10/31-12:33:42.189288 70000b5bf000 Level-0 table #80: 0 bytes OK
+2023/10/31-12:33:42.189655 70000b5bf000 Delete type=0 #78
+2023/10/31-12:33:42.191778 70000b5bf000 Manual compaction at level-0 from '!folders!0UEYim8sXNBaz6BD' @ 72057594037927935 : 1 .. '!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9' @ 0 : 0; will stop at (end)
