@@ -80,4 +80,8 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
+Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors.
+
 The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) was used to import the tables during the development process.
+
+The [DF Manual Rolls module](https://foundryvtt.com/packages/df-manual-rolls) was used to help debug the macros.

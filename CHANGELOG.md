@@ -1,8 +1,10 @@
 # Changelog
 
-### [1.0.5](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-xx)
+### [1.0.5](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-01)
 
 * Added [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae.
+* Cleaned up macro output.
+* Cleaned up Oracle descriptions.
 
 ### [1.0.4](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-30)
 
