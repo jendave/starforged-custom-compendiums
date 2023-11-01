@@ -22,7 +22,7 @@ roll = await table.roll();
 let last_part = roll.results[0].text;
 
 let system = location + " " + adjective + " " + first_part + " " + last_part;
-let title = "<h3><strong>She cannae take it! </strong></h3>";
+let title = "<h3>She Cannae Take It!</h3>";
 let message = "";
 
 roll = await new Roll('1d3').evaluate();

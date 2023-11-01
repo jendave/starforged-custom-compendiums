@@ -117,7 +117,7 @@ async function sisterMoon() {
 }
 
 async function coreFunction(dice, modifier, worldType) {
-    let message = "<h4>Better + Moons</h4>";
+    let message = "<h3>Better + Moons</h3>";
     rollFormula = dice + " + " + modifier;
     let numberOfMoonsTmp = new Roll(rollFormula, { modifier: modifier });
     await numberOfMoonsTmp.evaluate();

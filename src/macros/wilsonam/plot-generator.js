@@ -99,6 +99,6 @@ else {
 
 // Print the message
 
-message = "<h3><strong> PLOT </strong></h3>" + Subject + " " + Demand + " " + Action + " " + Object
+message = "<h3>Plot Generator</h3>" + Subject + " " + Demand + " " + Action + " " + Object
 
 fPrintMessage(message);

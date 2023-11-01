@@ -35,6 +35,6 @@ Method = Roll.results[0].text;
 
 // Print the message
 
-message = "<h3> <strong>CORPORATE EVIL</strong> </h3>" + CorpFront + " " + CorpBack + " is " + Crime + " using " + Method
+message = "<h3>Corporate Evil</h3>" + CorpFront + " " + CorpBack + " is " + Crime + " using " + Method
 
 fPrintMessage(message);
