@@ -46,6 +46,6 @@ roll = await table.roll();
 let character_goal = roll.results[0].text;
 
 let title = "<h3><strong>Sworn Quest</strong></h3>";
-let message = "I swear to " + action.toLowerCase() + " a " + theme.toLowerCase() + " of a " + descriptor.toLowerCase() + " " + focus.toLowerCase() + " located in " + sector_prefix + " " + sector_suffix + ".  I am opposed by " + given_name + " " + family_name +", a " + character_role.toLowerCase() + " who wants to " + character_goal.toLowerCase() + "."
+let message = "I swear to " + action.toLowerCase() + " a " + theme.toLowerCase() + " of a " + descriptor.toLowerCase() + " " + focus.toLowerCase() + " located in " + sector_prefix + " " + sector_suffix + ".  I am opposed by " + given_name + " " + family_name +", a " + character_role + " who wants to " + character_goal + "."
 // Print the message
 printMessage(title + message);
