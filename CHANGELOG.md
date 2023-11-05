@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.0.6](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-xx)
+### [1.0.6](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-05)
 
 * Fixed bug in Sworn Quest Mad-lib oracle
 
