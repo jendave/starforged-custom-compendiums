@@ -82,6 +82,7 @@ Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System]
 
 Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors.
 
-The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) was used to import the tables during the development process.
-
-The [DF Manual Rolls module](https://foundryvtt.com/packages/df-manual-rolls) was used to help debug the macros.
+## Modules
+The following modules were used in the development process
+* [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
+* [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
