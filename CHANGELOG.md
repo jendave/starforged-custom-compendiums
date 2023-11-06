@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-xx)
+
+* Added [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle from rossum.
+
 ### [1.0.6](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-05)
 
 * Fixed bug in Sworn Quest Mad-lib oracle

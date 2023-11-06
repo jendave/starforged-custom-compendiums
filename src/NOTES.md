@@ -39,6 +39,7 @@ Visual block mode for copying column text - ctrl-V and use arrow keys
 :%!jq -c . # Format file as single-line json
 :g/^$/d # Remove blank lines
 g~w # toggle case of current word
+:s/\<./\u&/g # capitalize each word of a line
 ```
 
 ## Rolltable Links

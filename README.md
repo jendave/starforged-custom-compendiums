@@ -44,26 +44,24 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 * Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
 
 # Credits
-The following modules by Julius Hennig (birb-nerb) are used with permission from the author.
+Oracles
+* [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
+* [Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
+* [Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
+* [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
+* [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum with permission granted to copy for personal use only.
+
+The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
 * [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged)
 * [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) 
 
-The following modules by wilsonam are used with permission from the author for non-commercial use.
+The following oracles by wilsonam are used with permission from the author for non-commercial use.
 * [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged) 
 * [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it)
 * [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged)
 * [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged)
-
-[Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
-
-[Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
-
-[Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
-
-[Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
-
-[Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
