@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-xx)
+### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-06)
 
 * Added [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle from rossum.
 

@@ -50,7 +50,7 @@ Oracles
 * [Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
 * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
 * [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum with permission granted to copy for personal use only.
+* [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
