@@ -17,9 +17,9 @@ A FoundryVTT compendium of the supplement by Eric Bright adds two additional tab
 * Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord](https://discord.com/channels/437120373436186625/867434336201605160)!
 
 # Module Installation
-To install the module, search for `Starforged` in the `Add-On Modules` tab of Foundry.
+To install the module, search for `Starforged` in the `Add-On Modules` tab of of the Foundry VTT game setup screen. Then click on `Install`.
 
-Or use this URL:
+Or use this URL and click on `Install`:
 
 ```
 https://github.com/jendave/starforged-custom-oracles/releases/latest/download/module.json

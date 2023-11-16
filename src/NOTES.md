@@ -134,3 +134,17 @@ jobs:
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
 ```
+
+## Fonts
+### From Starforged
+* PosterGothicRoundATF
+* ProximaNovaCond
+* StarforgedSymbols
+
+### From Starsmith
+* Xolonium as the table title
+* Nunito Sans for the table values
+
+### Google Fonts
+* Oxanium as the table title
+* Nunito Sans for the table values
