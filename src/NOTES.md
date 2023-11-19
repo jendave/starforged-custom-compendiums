@@ -148,3 +148,6 @@ jobs:
 ### Google Fonts
 * Oxanium as the table title
 * Nunito Sans for the table values
+
+## Package submission
+https://foundryvtt.com/creators/submit/

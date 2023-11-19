@@ -67,7 +67,7 @@
 ## Milestones
 * Create 5 results for each move
   * Start small
-  * Maybe even start with 3
+  * Maybe even start with 3 with a `Roll Twice` as the 4th.
 * Move Priority
   * Combat 
   * Suffer
