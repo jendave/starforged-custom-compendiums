@@ -17,7 +17,6 @@
 
 ## Connection Moves
 * Make a Connection
-* Develop Your Relationship
 * Test Your Relationship
 * Forge a Bond
 

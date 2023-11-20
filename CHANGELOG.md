@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.0.8](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-xx)
+
+* Added [Critical Success](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing) oracles from jendave.
+
 ### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-06)
 
 * Added [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle from rossum.
