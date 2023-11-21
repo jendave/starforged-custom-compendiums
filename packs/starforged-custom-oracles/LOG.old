@@ -1,7 +1,16 @@
-2023/11/19-01:16:38.243214 700014275000 Recovering log #150
-2023/11/19-01:16:38.244215 700014275000 Delete type=0 #150
-2023/11/19-01:16:38.244411 700014275000 Delete type=3 #148
-2023/11/19-01:19:31.118753 70000ead7000 Level-0 table #155: started
-2023/11/19-01:19:31.119069 70000ead7000 Level-0 table #155: 0 bytes OK
-2023/11/19-01:19:31.119600 70000ead7000 Delete type=0 #153
-2023/11/19-01:19:31.122131 70000ead7000 Manual compaction at level-0 from '!folders!0UEYim8sXNBaz6BD' @ 72057594037927935 : 1 .. '!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9' @ 0 : 0; will stop at (end)
+2023/11/20-00:54:30.856947 700012a6c000 Recovering log #157
+2023/11/20-00:54:30.857542 700012a6c000 Level-0 table #159: started
+2023/11/20-00:54:30.858392 700012a6c000 Level-0 table #159: 17270 bytes OK
+2023/11/20-00:54:30.859798 700012a6c000 Delete type=3 #156
+2023/11/20-00:54:30.860096 700012a6c000 Delete type=0 #157
+2023/11/20-01:13:22.003446 70000ead7000 Level-0 table #162: started
+2023/11/20-01:13:22.004059 70000ead7000 Level-0 table #162: 0 bytes OK
+2023/11/20-01:13:22.005209 70000ead7000 Delete type=0 #160
+2023/11/20-01:13:22.009196 70000ead7000 Manual compaction at level-0 from '!folders!0UEYim8sXNBaz6BD' @ 72057594037927935 : 1 .. '!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9' @ 0 : 0; will stop at '!tables.results!wmhvGEJc2PWnIQNa.hW24qdB4jWFhZ1dd' @ 17745 : 1
+2023/11/20-01:13:22.009222 70000ead7000 Compacting 1@0 + 1@1 files
+2023/11/20-01:13:22.035368 70000ead7000 Generated table #163@0: 5083 keys, 516083 bytes
+2023/11/20-01:13:22.035413 70000ead7000 Compacted 1@0 + 1@1 files => 516083 bytes
+2023/11/20-01:13:22.035715 70000ead7000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/20-01:13:22.035951 70000ead7000 Delete type=2 #129
+2023/11/20-01:13:22.036379 70000ead7000 Delete type=2 #159
+2023/11/20-01:13:22.039446 70000ead7000 Manual compaction at level-0 from '!tables.results!wmhvGEJc2PWnIQNa.hW24qdB4jWFhZ1dd' @ 17745 : 1 .. '!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9' @ 0 : 0; will stop at (end)
