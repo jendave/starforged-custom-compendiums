@@ -2,6 +2,7 @@
 
 ### [1.0.8](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-xx)
 
+* Added [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) oracles by lm77.
 * Added [Critical Success](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing) oracles from jendave.
 
 ### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-06)
