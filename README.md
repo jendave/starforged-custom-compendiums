@@ -51,7 +51,7 @@ Oracles
 * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
 * [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
-* [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) oracles by lm77 are licensed under the [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.en_) for non-commercial use.
+* [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) and [Creature Tags Hot Sauce](https://abalone-cushion-e6c.notion.site/Creature-Tags-Hot-Sauce-eae6966d71524611a17e68a4d425ba9b) oracles by lm77 are licensed under the [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.en_) for non-commercial use.
 * [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit) tables by jendave are licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
