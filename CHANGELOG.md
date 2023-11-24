@@ -1,12 +1,8 @@
 # Changelog
 
-### [1.0.10](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-24)
-
-* Added [Sojourn Hot Sauce](https://abalone-cushion-e6c.notion.site/Soujourn-Hot-Sauce-Oracle-03997a33bea84fa68fa0c61a919fb875) oracles by lm77.
-
 ### [1.0.9](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-22)
 
-* Added [Creature Tags Hot Sauce](https://abalone-cushion-e6c.notion.site/Creature-Tags-Hot-Sauce-eae6966d71524611a17e68a4d425ba9b) oracles by lm77.
+* Added [Creature Tags Hot Sauce](https://abalone-cushion-e6c.notion.site/Creature-Tags-Hot-Sauce-eae6966d71524611a17e68a4d425ba9b) and [Sojourn Hot Sauce](https://abalone-cushion-e6c.notion.site/Soujourn-Hot-Sauce-Oracle-03997a33bea84fa68fa0c61a919fb875) oracles by lm77.
 
 ### [1.0.8](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-21)
 
