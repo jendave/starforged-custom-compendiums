@@ -51,7 +51,10 @@ Oracles
 * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
 * [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
-* [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit) tables by jendave are licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
+The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
+* [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing).
+* [I Owe My Soul to the Company Planet](https://docs.google.com/document/d/1zxK0FSGeumPKFGLkr5uC1yNJI6fy74ashfftjDpz51I/edit?usp=sharing)
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
@@ -80,6 +83,7 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 * [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam)
 * [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
 * [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
+* [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
 
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
