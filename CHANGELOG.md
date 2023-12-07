@@ -1,7 +1,7 @@
 # Changelog
 
 ### [1.0.10](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-06)
-* Added [I Owe My Soul to the Corporate Planet](https://docs.google.com/document/d/1zxK0FSGeumPKFGLkr5uC1yNJI6fy74ashfftjDpz51I/edit?usp=sharing) oracles from jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
+* Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles from jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
 
 ### [1.0.9](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-24)
 
@@ -10,7 +10,7 @@
 ### [1.0.8](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-21)
 
 * Added [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) oracles by lm77.
-* Added [Critical Success](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing) oracles from jendave.
+* Added [Critical Success](https://jendave.itch.io/critical-successes) oracles from jendave.
 
 ### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-06)
 
