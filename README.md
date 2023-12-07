@@ -53,8 +53,8 @@ Oracles
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
-* [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing).
-* [I Owe My Soul to the Company Planet](https://docs.google.com/document/d/1zxK0FSGeumPKFGLkr5uC1yNJI6fy74ashfftjDpz51I/edit?usp=sharing)
+* [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing)
+* [I Owe My Soul to the Corporate Planet](https://docs.google.com/document/d/1zxK0FSGeumPKFGLkr5uC1yNJI6fy74ashfftjDpz51I/edit?usp=sharing)
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
