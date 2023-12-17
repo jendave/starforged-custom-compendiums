@@ -145,9 +145,24 @@ jobs:
 * Xolonium as the table title
 * Nunito Sans for the table values
 
-### Google Fonts
-* Oxanium as the table title
-* Nunito Sans for the table values
+### Google Fonts 
+* Eric Bright Starsmith
+  * Oxanium as the table title
+  * Nunito Sans for the table values
+* Shawn Tomkin
+  * [Discord](https://discord.com/channels/437120373436186625/470610967823384577/1183073518573846538)
+  * Teko as Header
+    * Normal for oracle titles "INITIAL CONTACT"
+    * Medium for Section titles "STARSHIPS"
+  * Encode Sans as body 
+    * Normal for Oracle entry
+* Jendave
+  * Teko Semi Bold for Main titles 30pt - Title
+  * Teko Semi Bold for Section headings 24pt - Heading 1
+  * Nunito Sans Normal 10pt for book text - text
+  * Teko Medium 14pt for table title - Heading 2
+  * Encode Sans Normal for table entry 10pt - Normal Text
+  * Capitalize Title, headings
 
 ## Package submission
 https://foundryvtt.com/creators/submit/
