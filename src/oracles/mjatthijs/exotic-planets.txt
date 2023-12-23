@@ -62,7 +62,7 @@ d100 Names
 36-42  Brilliance
 43-49  Cabochon
 50-56  Facet
-57-63  Haüy
+57-63  Haï¿½y
 64-70  Jewel
 71-76  Miller
 77-82  Pegmatite
@@ -460,6 +460,16 @@ d100 Life
 69-85  Bountiful
 86-100 Overrun
 
+d100 Names
+1-12   ???
+13-24  Aberration
+25-36  Anomaly #001
+37-48  Eerie
+49-61  Far-Out
+62-74  Heretic
+75-87  Incongruent
+88-100 Lovecraft
+
 Settlements
 
 d100 Terminus
@@ -479,14 +489,3 @@ d100 Expanse
 1-95  None
 96-99 Orbital settlement
 100   Planetside settlement
-
-d100 Names
-1-12   ???
-13-24  Aberration
-25-36  Anomaly #001
-37-48  Eerie
-49-61  Far-Out
-62-74  Heretic
-75-87  Incongruent
-88-100 Lovecraft
-
