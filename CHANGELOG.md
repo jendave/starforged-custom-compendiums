@@ -1,5 +1,8 @@
 # Changelog
 
+### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-xx)
+* Added [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs.
+
 ### [1.0.10](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-06)
 * Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles from jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
 

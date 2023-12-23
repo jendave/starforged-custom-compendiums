@@ -1,0 +1,492 @@
+Exotic Planets
+
+d6 Exotic Planet
+1   Crystal planet
+2   Rogue planet
+3   Living planet
+4   Metallic planet
+5   Artificial planet
+6   Extradimensional planet
+
+Crystal
+
+d100 Atmosphere
+1-65   None/Thin
+66-80  Toxic
+80-95  Corrosive
+96-100 Marginal
+
+d100 Observed From Space
+1-11   Brightly reflecting flatlands
+12-22  Craters surrounded by fractures
+23-33  Faceted mountains
+34-44  Geometric shape
+45-55  Iridescent cracks
+56-66  Multi-coloured surface
+67-77  Symmetrical ridges
+78-88  Translucent crust
+89-98  Descriptor + Focus
+99-100 Precursor vault (orbital)
+
+d100 Feature
+1-7    Electrically charged crystal fragments
+8-14   Fine crystal dust
+15-21  Multicoloured crystal layers
+22-28  Objects captured in crystal
+29-35  Piles of precious gems
+36-42  Plains covered in sharp crystals
+43-49  Polycrystalline boulders
+50-56  Repeating geometric patterns
+57-63  Slippery smooth surfaces
+64-70  Starlight focused into natural lasers
+71-77  Symmetrical landscape
+78-84  Towering prisms of coloured crystal
+85-91  Transparent mountains
+92-98  Descriptor + Focus
+99-100 Precursor vault (planetside)
+
+d100 Life
+1-50   None
+51-75  Extinct
+76-90  Scarce
+91-95  Diverse
+96-98  Bountiful
+99-100 Overrun
+
+d100 Names
+1-7    Adamant
+8-14   Agate
+15-21  Amethyst
+22-28  Beryl
+29-35  Bragg
+36-42  Brilliance
+43-49  Cabochon
+50-56  Facet
+57-63  Haüy
+64-70  Jewel
+71-76  Miller
+77-82  Pegmatite
+83-88  Peridot
+89-94  Symmetry
+95-100 Vitrea
+
+Settlements
+
+d100 Terminus
+1-50   None
+51-70  Orbital settlement
+71-85  Planetside settlement
+86-95  Multiple settlements
+96-100 Settlements in conflict
+
+d100 Outlands
+1-75   None
+76-87  Orbital settlement
+88-95  Planetside settlement
+96-98  Multiple settlements
+99-100 Settlements in conflict
+
+d100 Expanse
+1-90   None
+91-96  Orbital settlement
+97-100 Planetside settlement
+
+
+Rogue
+
+d100 Atmosphere
+1-80  None/Thin
+81-95 Toxic
+96-99 Marginal
+100   Breathable
+
+d100 Observed From Space
+1-11   Captured interstellar comets
+12-22  Completely frozen seas
+23-33  Exotic gases condensed into liquids
+34-44  Gigantic impact crater
+45-55  Glowing volcanoes
+56-66  Large moon causing tidal heating
+67-77  Soft infrared glow
+78-88  Strangely bright auroras
+89-98  Descriptor + Focus
+99-100 Precursor vault (orbital)
+
+d100 Feature
+1-7    Blizzards of carbon monoxide snow
+8-14   Bodies of water frozen solid
+15-21  Boulders of frozen nitrogen
+22-28  Bright starry skies
+29-35  Confusing local magnetic fields
+36-42  Hydrothermal vents
+43-49  Inactive cryovolcanoes
+50-56  Liquid helium rain
+57-63  Puddles of superfluids
+64-70  Regions heated by radioactive decay
+71-77  Sublimating crystals
+78-84  Subsurface water kept liquid
+85-91  Thick mists running along the ground
+92-98  Descriptor + Focus
+99-100 Precursor vault (planetside)
+
+d100 Life
+1-50  None
+51-90 Extinct
+91-95 Scarce
+96-99 Diverse
+100   Bountiful
+
+d100 Names
+1-9    Freedom
+10-18  Hide
+19-27  Kelvin
+28-36  Nomad
+37-45  Nyx
+46-54  Orphan
+55-63  Outcast
+64-72  Pitch
+73-81  Planemo
+82-90  Wanderer
+91-100 Xenos
+
+Settlements
+
+d100 Terminus
+1-80  None
+81-95 Orbital settlement
+96-98 Planetside settlement
+99    Multiple settlements
+100   Settlements in conflict
+
+d100 Outlands
+1-90   None
+91-95  Orbital settlement
+96-100 Planetside settlement
+
+d100 Expanse
+1-95  None
+96-99 Orbital settlement
+100   Planetside settlement
+
+
+Living
+
+d100 Atmosphere
+1-10   None/Thin
+11-60  Toxic
+61-80  Corrosive
+81-90  Marginal
+91-98  Breathable
+99-100 Ideal
+
+d100 Observed From Space
+1-11   Atmospheric pheromones
+12-22  Features resembling a face
+23-33  Large wounds
+34-44  Mountainous bone growths
+45-55  Orifices expelling gases
+56-66  Patches covered in fur
+67-77  Sensory organs
+78-88  Slowly moving surface
+89-98  Descriptor + Focus
+99-100 Precursor vault (orbital)
+
+d100 Feature
+1-7    Biotope adapts constantly
+8-14   Bulbous growths
+15-21  Caves contracting and relaxing
+22-28  Creatures acting as immune system
+29-35  Forests of towering hairs
+36-42  Landscape shifts and moves
+43-49  Lakes of digestive acids
+50-56  Neuron-like trees
+57-63  Partially digested objects
+64-70  Pulsating veins
+71-77  Signs of complex thought
+78-84  Slowly-moving tentacles
+85-91  Vents expelling waste gases
+92-98  Descriptor + Focus
+99-100 Precursor vault (planetside)
+
+d100 Life
+1-5    Scarce
+6-25   Diverse
+26-60  Bountiful
+61-100 Overrun
+
+d100 Names
+1-8    Aorta
+9-16   Appendix
+17-24  Cell
+25-32  Cerebrum
+33-40  Corpus
+41-48  Cyst
+49-56  Giblet
+57-64  Id
+65-73  Neuron
+74-82  Oculus
+83-91  Sarx
+92-100 Viscera
+
+Settlements
+
+d100 Terminus
+1-75  None
+76-90 Orbital settlement
+91-95 Planetside settlement
+96-99 Multiple settlements
+100   Settlements in conflict
+
+d100 Outlands
+1-85   None
+86-95  Orbital settlement
+96-100 Planetside settlement
+
+d100 Expanse
+1-90  None
+96-99 Orbital settlement
+100   Planetside settlement
+
+
+Metallic
+
+d100 Atmosphere
+1-20   None/Thin
+21-80  Toxic
+81-95  Marginal
+96-100 Breathable
+
+d100 Observed From Space
+1-11   Canyon-sized fractures
+12-22  Complex grain boundaries
+23-33  Dent-like craters
+34-44  Extensive magnetic field
+45-55  Flows of liquid metal
+56-66  Immense gravity
+67-77  Mirror-like surfaces
+78-88  Patches of oxidation
+89-98  Descriptor + Focus
+99-100 Precursor vault (orbital)
+
+d100 Feature
+1-7    Deserts of metal dust
+8-14   Dusting of brightly coloured salts
+15-21  Electrified surfaces
+22-28  Enriched radioactive metal deposits
+29-35  Landscape covered in sharp edges
+36-42  Mirror-smooth cliffs
+43-49  Mountains cracked by metal fatigue
+50-56  Nuggets of precious metals
+57-63  Patches of complex alloys
+64-70  Pools of liquid metal
+71-77  Rough patches of corrosion
+78-84  Strongly magnetised metal chunks
+85-91  Wiry structures reaching for the sky
+92-98  Descriptor + Focus
+99-100 Precursor vault (planetside)
+
+d100 Life
+1-75  None
+76-80 Extinct
+81-90 Scarce
+91-97 Diverse
+98-99 Bountiful
+100   Overrun
+
+d100 Names
+1-8    Alloy
+9-16   Bearing
+17-24  Catalyst
+25-32  Compass
+33-40  Core
+41-48  Ferric
+49-56  Ingot
+57-64  Mirror
+65-73  Nugget
+74-82  Ore
+83-91  Rust
+92-100 Wrought
+
+Settlements
+
+d100 Terminus
+1-40   None
+41-65  Orbital settlement
+66-85  Planetside settlement
+86-92  Multiple settlements
+93-100 Settlements in conflict
+
+d100 Outlands
+1-65   None
+66-80  Orbital settlement
+81-90  Planetside settlement
+91-96  Multiple settlements
+97-100 Settlements in conflict
+
+d100 Expanse
+1-85  None
+86-95 Orbital settlement
+96-98 Planetside settlement
+99    Multiple settlements
+100   Settlements in conflict
+
+
+Artificial
+
+d100 Atmosphere
+1-15   Toxic
+16-30  Marginal
+31-70  Breathable
+71-100 Ideal
+
+d100 Observed From Space
+1-11   Abandoned cities
+12-22  Ancient stabilising machines
+23-33  Continents resembling writing
+34-44  Inactive weather machines
+45-55  Incomplete sections
+56-66  Islands placed as alien art
+67-77  Signs of instability
+78-88  Uneven gravity
+89-98  Descriptor + Focus
+99-100 Precursor vault (orbital)
+
+d100 Feature
+1-7    Access to underground levels
+8-14   Atmospheric instabilities
+15-21  Exposed structural supports
+22-28  Geometrically aligned cliffs
+29-35  Hollowed-out hills
+36-42  Identical mountains
+43-49  Inactive terraforming equipment
+50-56  Landscape carved by nanotech
+57-63  Local weak spots
+64-70  Piles of leftover materials
+71-77  Signs of ecological collapse
+78-84  Unfilled riverbeds
+85-91  Weathered residential structures
+92-98  Descriptor + Focus
+99-100 Precursor vault (planetside)
+
+d100 Life
+1-10   None
+11-30  Extinct
+31-50  Scarce
+51-80  Diverse
+81-95  Bountiful
+96-100 Overrun
+
+d100 Names
+1-9    Bishop
+10-18  Cassus
+19-27  Clarke
+28-36  Enigma
+37-45  Halo
+46-54  Niven
+55-63  Oddball
+64-72  Perplex
+73-81  Puzzle
+82-90  Simulacrum
+91-100 Terrarium
+
+Settlements
+
+d100 Terminus
+1-20   None
+21-30  Orbital settlement
+31-70  Planetside settlement
+71-90  Multiple settlements
+91-100 Settlements in conflict
+
+d100 Outlands
+1-50   None
+51-55  Orbital settlement
+56-85  Planetside settlement
+86-95  Multiple settlements
+96-100 Settlements in conflict
+
+d100 Expanse
+1-80   None
+81-83  Orbital settlement
+84-93  Planetside settlement
+94-98  Multiple settlements
+99-100 Settlements in conflict
+
+
+Extradimensional
+
+d100 Atmosphere
+1-17   None/Thin
+18-34  Toxic
+35-51  Corrosive
+52-68  Marginal
+69-85  Breathable
+86-100 Ideal
+
+d100 Observed From Space
+1-11   Dimensional portals
+12-22  Exotic particles
+23-33  Impossible colours
+34-44  Phasing in and out of reality
+45-55  Relativistic effects
+56-66  Spatial distortions
+67-77  Time flows differently
+78-88  Unidentifiable composition
+89-98  Descriptor + Focus
+99-100 Precursor vault (orbital)
+
+d100 Feature
+1-7    Fractal patterns
+8-14   Higher-dimensional objects
+15-21  Impossible landforms
+22-28  Large-scale quantum effects
+29-35  Night sky changes constantly
+36-42  Non-Euclidean cave systems
+43-49  Parallel lines converge
+50-56  Sudden changes in gravity
+57-63  Thoughts made real
+64-70  Time loop regions
+71-77  Twisted landscapes
+78-84  Unknown states of matter
+85-91  Unstable portals
+92-98  Descriptor + Focus
+99-100 Precursor vault (planetside)
+
+d100 Life
+1-17   None
+18-34  Extinct
+35-51  Scarce
+52-68  Diverse
+69-85  Bountiful
+86-100 Overrun
+
+Settlements
+
+d100 Terminus
+1-70  None
+71-90 Orbital settlement
+91-95 Planetside settlement
+96-99 Multiple settlements
+100   Settlements in conflict
+
+d100 Outlands
+1-85  None
+86-96 Orbital settlement
+97-99 Planetside settlement
+100   Multiple settlements
+
+d100 Expanse
+1-95  None
+96-99 Orbital settlement
+100   Planetside settlement
+
+d100 Names
+1-12   ???
+13-24  Aberration
+25-36  Anomaly #001
+37-48  Eerie
+49-61  Far-Out
+62-74  Heretic
+75-87  Incongruent
+88-100 Lovecraft
+
