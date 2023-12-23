@@ -1,1628 +1,647 @@
-Exploration Oracle Arrays
+Space
+
+d6 Peril
+1 Spaceborne Peril (SF 304, SEO 46-48)
+2 Spaceborne Peril (SF 304, SEO 46-48)
+3 Spaceborne Peril (SF 304, SEO 46-48)
+4 Sector Trouble (SF 126, SEO 16-18)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Spaceborne Opportunity (SF 305, SEO 49-51)
+2 Spaceborne Opportunity (SF 305, SEO 49-51)
+3 Spaceborne Opportunity (SF 305, SEO 49-51)
+4 Story Clue (SF 381, SEO 272-274)
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Planets
+
+Desert
+
+d6 Feature
+1 Desert World Planetside Feature (SF 308, SEO 55-57)
+2 Desert World Planetside Feature (SF 308, SEO 55-57)
+3 Desert World Observed from Space (SF 308, SEO 55-57)
+4 Arid Theme Feature (SEO 257)
+5 Arid Theme Feature (SEO 257) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Planetside Peril (SF 320, SEO 99-101)
+3 Arid Theme Peril (SEO 257)
+4 Arid Theme Peril (SEO 257) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Arid Theme Opportunity (SEO 257)
+4 Arid Theme Opportunity (SEO 257)
+5 Arid Theme Opportunity (SEO 257) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Furnace
+
+d6 Feature
+1 Furnace World Planetside Feature (SF 309, SEO 59-61)
+2 Furnace World Planetside Feature (SF 309, SEO 59-61)
+3 Furnace World Observed from Space (SF 309, SEO 59-61)
+4 Inferno Theme Feature (SEO 259) or other Theme Feature
+5 Theme: Volcanic (IT 236) + Domain: Eyrie (IT 239)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Inferno Theme Peril (SEO 259)
+3 Inferno Theme Peril (SEO 259) or other Theme Peril
+4 Theme: Volcanic (IT 236) + Domain: Eyrie (IT 239)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Inferno Theme Opportunity (SEO 259)
+4 Inferno Theme Opportunity (SEO 259)
+5 Inferno Theme Opportunity (SEO 259) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Grave
+
+d6 Feature
+1 Grave World Planetside Feature (SF 310, SEO 63-65)
+2 Grave World Planetside Feature (SF 310, SEO 63-65)
+3 Grave World Observed from Space (SF 310, SEO 63-65)
+4 Ruined Theme Feature (SF 378, SEO 255)
+5 Haunted Theme Feature (SF 374, SEO 251)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Ruined Theme Peril (SF 378, SEO 255)
+3 Haunted Theme Peril (SF 374, SEO 251)
+4 Haunted Theme Peril (SF 374, SEO 251) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Ruined Theme Opportunity (SF 378, SEO 255)
+4 Haunted Theme Opportunity (SF 374, SEO 251)
+5 Haunted Theme Opportunity (SF 374, SEO 251) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
 
-Created by Jaroslaw "Castelviator" Daniel
+Ice
+
+d6 Feature
+1 Ice World Planetside Feature (SF 311, SEO 67-69)
+2 Ice World Planetside Feature (SF 311, SEO 67-69)
+3 Ice World Observed from Space (SF 311, SEO 67-69)
+4 Frozen Theme Feature (SEO 262)
+5 Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or Icereach (ID 89) or Tundra (IT 244)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Frozen Theme Peril (SEO 262)
+3 Frozen Theme Peril (SEO 262) or other Theme Peril
+4 Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or Icereach (ID 89) or Tundra (IT 244)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Frozen Theme Opportunity (SEO 262)
+4 Frozen Theme Opportunity (SEO 262)
+5 Frozen Theme Opportunity (SEO 262) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Jovian
+
+d6 Feature
+1 Jovian World Planetside Feature (SF 312, SEO 71-73)
+2 Jovian World Planetside Feature (SF 312, SEO 71-73)
+3 Jovian World Observed from Space (SF 312, SEO 71-73)
+4 Jovian World Observed from Space (SF 312, SEO 71-73)
+5 Chosen Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 World Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Chosen Theme Peril
+3 Chosen Theme Peril
+4 Pay the Price table (SF 232, SEO 296-298)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Chosen Theme Opportunity
+4 Chosen Theme Opportunity
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Jungle
+
+d6 Feature
+1 Jungle World Planetside Feature (SF 313, SEO 75-77)
+2 Jungle World Observed from Space (SF 313, SEO 75-77)
+3 Infested Theme Feature (SF 375, SEO 252)
+4 Overgrown Theme Feature (SEO 265) or Flooded Theme Feature (SEO 261)
+5 Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle (IT 240) or World Tree (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Jungle World Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Infested Theme Peril (SF 375, SEO 252)
+3 Flooded Theme Peril (SEO 261)
+4 Overgrown Theme Peril (SEO 265)
+5 Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle (IT 240) or World Tree (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)
+6 Pay the Price table (SF 232, SEO 296-298)
+
+d6 Jungle World Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Infested Theme Opportunity (SF 375, SEO 252)
+3 Flooded Theme Opportunity (SEO 261)
+4 Overgrown Theme Opportunity (SEO 265)
+5 Overgrown Theme Opportunity (SEO 265) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Ocean
+
+d6 Feature
+1 Ocean World Planetside Feature (SF 314, SEO 79-81)
+2 Ocean World Observed from Space (SF 314, SEO 79-81)
+3 Flooded Theme Feature (SEO 261)
+4 Oracle 5: Coastal Waters Location (IS 176, IT 266) + Oracle 6: Location Descriptor (IS 177, IT 267-268)
+5 Theme: Flooded (IT 230) + Domain: Sea Voyage (IT 241)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Theme: Flooded (IT 230) + Domain: Sea Voyage (IT 241)
+3 Flooded Theme Peril (SEO 261)
+4 Flooded Theme Peril (SEO 261) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Flooded Theme Opportunity (SEO 261)
+4 Flooded Theme Opportunity (SEO 261) or other Theme Opportunity
+5 Flooded Theme Opportunity (SEO 261) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Rocky
+
+d6 Feature
+1 Rocky World Planetside Feature (SF 315, SEO 83-85)
+2 Rocky World Planetside Feature (SF 315, SEO 83-85)
+3 Rocky World Observed from Space (SF 315, SEO 83-85)
+4 Inferno Theme Feature (SEO 259) or other Theme Feature
+5 Inferno Theme Feature (SEO 259) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Planetside Peril (SF 320, SEO 99-101)
+3 Inferno Theme Peril (SEO 259) or other Theme Peril
+4 Inferno Theme Peril (SEO 259) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Planetside Opportunity (SF 321, SEO 102-104)
+4 Inferno Theme Opportunity (SEO 259)
+5 Inferno Theme Opportunity (SEO 259) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Shattered
+
+d6 Feature
+1 Shattered World Planetside Feature (SF 316, SEO 87-89)
+2 Shattered World Planetside Feature (SF 316, SEO 87-89)
+3 Shattered World Observed from Space (SF 316, SEO 87-89)
+4 Ruined Theme Feature (SF 378, SEO 255)
+5 Floating Theme Feature (SEO 260) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Ruined Theme Peril (SF 378, SEO 255)
+3 Ruined Theme Peril (SF 378, SEO 255)
+4 Floating Theme Peril (SEO 260) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Ruined Theme Opportunity (SF 378, SEO 255)
+4 Ruined Theme Opportunity (SF 378, SEO 255)
+5 Floating Theme Opportunity (SEO 260) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Tainted
+
+d6 Feature
+1 Tainted World Planetside Feature (SF 317, SEO 91-93)
+2 Tainted World Planetside Feature (SF 317, SEO 91-93)
+3 Tainted World Observed from Space (SF 317, SEO 91-93)
+4 Lifeform Theme Feature (SEO 263)
+5 Lifeform Theme Feature (SEO 263) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Tainted World Planetside Feature6 (SF 317, SEO 91-93)
+3 Tainted World Planetside Feature (SF 317, SEO 91-93)
+4 Lifeform Theme Peril (SEO 263) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Planetside Opportunity (SF 321, SEO 102-104)
+4 Lifeform Theme Opportunity (SEO 263)
+5 Lifeform Theme Opportunity (SEO 263) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Vital
+
+d6 Feature
+1 Vital World Planetside Feature (SF 319, SEO 96-98)
+2 Vital World Observed from Space (SF 318, SEO 96-98)
+3 Overgrown Theme Feature (SEO 265)
+4 Infested Theme Feature (SF 375, SEO 252) or Oracle 4: Location (IS 176, IT 264-265) + Oracle 6: Location Descriptor (IS 177, IT 267-268)7
+5 Flooded Theme Feature (SEO 261) or Oracle 5: Coastal Waters Location (IS 176, IT 266) + Oracle 6: Location Descriptor (IS 177, IT 267-268)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Overgrown Theme Peril (SEO 265)
+3 Infested Theme Peril (SF 375, SEO 252)
+4 Flooded Theme Peril (SEO 261)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Overgrown Theme Opportunity (SEO 265)
+3 Flooded Theme Opportunity (SEO 261)
+4 Infested Theme Opportunity (SF 375, SEO 252)
+5 Infested Theme Opportunity (SF 375, SEO 252) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Crystalline
+
+d6 Feature
+1 Crystal Planet Planetside Feature (EP 2)
+2 Crystal Planet Observed from Space (EP 2)
+3 Crystalline Moon Feature (B+M 11)
+4 Crystalline Moon Feature (B+M 11)
+5 Mystical Theme Feature (SEO 264) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Crystalline Moon Peril (B+M 12)
+3 Crystalline Moon Peril (B+M 12)
+4 Mystical Theme Peril (SEO 264) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Crystalline Moon Opportunity (B+M 12)
+3 Crystalline Moon Opportunity (B+M 12)
+4 Mystical Theme Opportunity (SEO 264)
+5 Mystical Theme Opportunity (SEO 264) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Rogue
+
+d6Feature
+1 Rogue Planet Planetside Feature (EP 3)
+2 Rogue Planet Planetside Feature (EP 3)
+3 Rogue Planet Observed from Space (EP 3)
+4 Frozen Theme Feature (SEO 262)
+5 Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or Icereach (ID 89)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Frozen Theme Peril (SEO 262)
+3 Frozen Theme Peril (SEO 262) or other Theme Peril
+4 Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or Icereach (ID 89)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Frozen Theme Opportunity (SEO 262)
+4 Frozen Theme Opportunity (SEO 262)
+5 Frozen Theme Opportunity (SEO 262) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Living
+
+d6 Feature
+1 Living Planet Planetside Feature (EP 4)
+2 Living Planet Planetside Feature (EP 4)
+3 Living Planet Observed from Space (EP 4)
+4 Lifeform Theme Feature (SEO 263)
+5 Lifeform Theme Feature (SEO 263)
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Lifeform Theme Peril (SEO 263)
+3 Lifeform Theme Peril (SEO 263) or other Theme Peril
+4 Lifeform Theme Peril (SEO 263) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Lifeform Theme Opportunity (SEO 263)
+4 Lifeform Theme Opportunity (SEO 263) or other Theme Opportunity
+5 Lifeform Theme Opportunity (SEO 263) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Metallic
+
+d6 Feature
+1 Metallic Planet Planetside Feature (EP 5)
+2 Metallic Planet Planetside Feature (EP 5)
+3 Metallic Planet Observed from Space (EP 5)
+4 Metallic Planet Observed from Space (EP 5)
+5 Inferno Theme Feature (SEO 259) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Planetside Peril (SF 320, SEO 99-101)
+3 Inferno Theme Peril (SEO 259) or other Theme Peril
+4 Inferno Theme Peril (SEO 259) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Planetside Opportunity (SF 321, SEO 102-104)
+3 Planetside Opportunity (SF 321, SEO 102-104)
+4 Inferno Theme Opportunity (SEO 259) or other Theme Opportunity
+5 Inferno Theme Opportunity (SEO 259) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Artificial
+
+d6 Feature
+1 Artificial Planet Planetside Feature (EP 6)
+2 Artificial Planet Observed from Space (EP 6)
+3 Artificial Moon Feature (B+M 6)
+4 Artificial Moon Feature (B+M 6)
+5 Mechanical Theme Feature (SF 377, SEO 254) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Artificial Moon Peril (B+M 6)
+3 Artificial Moon Peril (B+M 6)
+4 Mechanical Theme Peril (SF 377, SEO 254)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Artificial Moon Opportunity (B+M 7)
+3 Artificial Moon Opportunity (B+M 7)
+4 Mechanical Theme Opportunity (SF 377, SEO 254)
+5 Mechanical Theme Opportunity (SF 377, SEO 254) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Extradimensional
+
+d6 Feature
+1 Extradimensional Planet Planetside Feature (EP 7)
+2 Extradimensional Planet Planetside Feature (EP 7)
+3 Extradimensional Planet Observed from Space (EP 7)
+4 Sanctum Feature (SF 368, SEO 241-243)
+5 Chaotic Theme Feature (SF 372, SEO 249) or other Theme8 Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Planetside Peril (SF 320, SEO 99-101)
+2 Sanctum Peril (SF 369, SEO 244-246)
+3 Chaotic Theme Peril (SF 372, SEO 249) or other Theme Peril
+4 Anomaly Effect (SF 382, SEO 281-283)
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Planetside Opportunity (SF 321, SEO 102-104)
+2 Sanctum Opportunity (SF 369, SEO 244-246)
+3 Sanctum Opportunity (SF 369, SEO 244-246)
+4 Chaotic Theme Opportunity (SF 372, SEO 249) or other Theme Opportunity
+5 Chaotic Theme Opportunity (SF 372, SEO 249) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Dust Rings
+
+d6 Feature
+1 Dust Rings Feature (B+M 9)
+2 Dust Rings Feature (B+M 9)
+3 Dust Rings Feature (B+M 9)
+4 Floating Theme Feature (SEO 260) or other Theme Feature
+5 Floating Theme Feature (SEO 260) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Dust Rings Peril (B+M 10)
+2 Dust Rings Peril (B+M 10)
+3 Dust Rings Peril (B+M 10)
+4 Floating Theme Peril (SEO 260) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Dust Rings Opportunity (B+M 10)
+2 Dust Rings Opportunity (B+M 10)
+3 Dust Rings Opportunity (B+M 10)
+4 Floating Theme Opportunity (SEO 260) or other Theme Opportunity
+5 Floating Theme Opportunity (SEO 260) or other Theme Opportunity
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Settlements:
+
+Grounded Settlements
+
+d6 Feature
+1 Settlement First Look (SF 323, SEO 108-110)
+2 Settlement Projects (SF 324, SEO 111-112) or Planetside Settlement Industries Oracle (SD 9)
+3 Planetside Settlement Impressions Oracle (SD 7)
+4 Planetside Settlement Senses Oracle (SD 8)
+5 Inhabited Theme Feature (SF 376, SEO 253) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Settlement Trouble (SF 324, SEO 112-113)
+2 Settlement Trouble (SF 324, SEO 112-113)
+3 Inhabited Theme Peril (SF 376, SEO 253)
+4 Inhabited Theme Peril (SF 376, SEO 253) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Faction Rumors (SF 347, SEO 193-195)
+2 Faction Rumors (SF 347, SEO 193-195)
+3 Inhabited Theme Opportunity (SF 376, SEO 253)
+4 Inhabited Theme Opportunity (SF 376, SEO 253) or other Theme Opportunity
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Space Settlements
+
+d6 Feature
+1 Settlement First Look (SF 323, SEO 108-110)
+2 Settlement Projects (SF 324, SEO 111-112) or Space Settlement Industries Oracle (SD 12)
+3 Space Settlement Impressions Oracle (SD 10)
+4 Space Settlement Senses Oracle (SD 11)
+5 Inhabited Theme Feature (SF 376, SEO 253) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Peril
+1 Spaceborne Peril (SF 304, SEO 46-48)
+2 Settlement Trouble (SF 324, SEO 112-113)
+3 Inhabited Theme Peril (SF 376, SEO 253)
+4 Inhabited Theme Peril (SF 376, SEO 253) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Opportunity
+1 Spaceborne Opportunity (SF 305, SEO 49-51)
+2 Faction Rumors (SF 347, SEO 193-195)
+3 Inhabited Theme Opportunity (SF 376, SEO 253)
+4 Inhabited Theme Opportunity (SF 376, SEO 253) or other Theme Opportunity
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Derelicts
+
+Derelict Zones
+
+d6 Derelict [Zone] Feature
+1 Derelict [Zone] Area (SF 352-359, SEO 203-210)
+2 Derelict [Zone] Feature (SF 352-359, SEO 203-210)
+3 Inner First Look (SF 349, SEO 199-201)
+4 Ruined Theme Feature (SF 378, SEO 255)
+5 Haunted Theme Feature (SF 374, SEO 251) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Derelict [Zone] Peril
+1 Derelict [Zone] Peril (SF 352-359, SEO 203-210)
+2 Derelict [Zone] Peril (SF 352-359, SEO 203-210)
+3 Ruined Theme Peril (SF 378, SEO 255)
+4 Haunted Theme Peril (SF 374, SEO 251) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Derelict [Zone] Opportunity
+1 Derelict [Zone] Opportunity (SF 352-359, SEO 203-210)
+2 Derelict [Zone] Opportunity (SF 352-359, SEO 203-210)
+3 Ruined Theme Opportunity (SF 378, SEO 255)
+4 Haunted Theme Opportunity (SF 374, SEO 251) or other Theme Opportunity
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Precursor Vaults
+
+Vault Interior
+
+d6 Vault Interior Feature
+1 Inner First Look (SF 364, SEO 229-231)
+2 Inner First Look (SF 364, SEO 229-231)
+3 Interior Feature (SF 366, SEO 235-237)
+4 Interior Feature (SF 366, SEO 235-237)
+5 Mechanical Theme Feature (SF 377, SEO 254) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Vault Interior Peril
+1 Interior Peril (SF 367, SEO 238-240)
+2 Interior Peril (SF 367, SEO 238-240)
+3 Interior Peril (SF 367, SEO 238-240)
+4 Mechanical Theme Peril (SF 377, SEO 254) or other Theme Peril
+5 Pay the Price table (SF 232, SEO 296-298)
+6 Story Complication (SF 380, SEO 269-271)
+
+d6 Vault Interior Opportunity
+1 Interior Opportunity (SF 367, SEO 238-240)
+2 Interior Opportunity (SF 367, SEO 238-240)
+3 Mechanical Theme Opportunity (SF 377, SEO 254) or other Theme Opportunity
+4 Mechanical Theme Opportunity (SF 377, SEO 254) or other Theme Opportunity
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
+
+
+Vault Sanctum
+
+d6 Vault Sanctum Feature
+1 Sanctum Feature (SF 368, SEO 241-243)
+2 Sanctum Feature (SF 368, SEO 241-243)
+3 Sanctum Feature (SF 368, SEO 241-243)
+4 Chaotic Theme Feature (SF 372, SEO 249) or other Theme Feature
+5 Chaotic Theme Feature (SF 372, SEO 249) or other Theme Feature
+6 Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
+
+d6 Vault Sanctum Peril
+1 Sanctum Peril (SF 369, SEO 244-246)
+2 Sanctum Peril (SF 369, SEO 244-246)
+3 Chaotic Theme Peril (SF 372, SEO 249) or other Theme Peril
+4 Chaotic Theme Peril (SF 372, SEO 249) or other Theme Peril
+5 Anomaly Effect (SF 382, SEO 281-283)
+6 Anomaly Effect (SF 382, SEO 281-283)
+
+d6 Vault Sanctum Opportunity
+1 Sanctum Opportunity (SF 369, SEO 244-246)
+2 Sanctum Opportunity (SF 369, SEO 244-246)
+3 Chaotic Theme Opportunity (SF 372, SEO 249) or other Theme Opportunity
+4 Chaotic Theme Opportunity (SF 372, SEO 249) or other Theme Opportunity
+5 Story Clue (SF 381, SEO 272-274)
+6 Story Clue (SF 381, SEO 272-274)
 
-for Ironsworn Starforged by Shawn Tomkin
-Cover Image:
-
-https://commons.wikimedia.org/wiki/File:Karl_G._Jansky_Very_Large_Array.jpg licensed
-
-under the Creative Commons Attribution-Share Alike 4.0 International license.
-
-This work is based on Ironsworn (found at www.ironswornrpg.com), created by Shawn
-
-Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-
-
-ShareAlike 4.0 International license (creativecommons.org/licenses/by-nc-sa/4.0/).
-
-You may transfer the contents of this book to another medium (such as The Augur, Roll20, or
-
-Stargazer) or create derivative works based on this content. The only thing I ask is that you
-
-let me know how you are using it in your design so I can follow along! You can contact me
-
-most reliably by email at castelviator@outlook.com. If you have any questions or would like
-
-to collaborate on future designs, please drop me a line!
-
-Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton
-
-Version 1.1, February 2023
-
-                            1
-Table of contents
-
-Introduction ...........................................................................................................................................3
-
-Abbreviations glossary .......................................................................................................................4
-
-Examples of use..................................................................................................................................5
-
-1. Space..................................................................................................................................................9
-
-2. Worlds (Planets and Moons)............................................................................................................10
-
-2.1. Desert World.............................................................................................................................10
-
-2.2. Furnace World...........................................................................................................................11
-
-2.3. Grave World..............................................................................................................................12
-
-2.4. Ice World...................................................................................................................................13
-
-2.5. Jovian World..............................................................................................................................14
-
-2.6. Jungle World..............................................................................................................................15
-
-2.7. Ocean World..............................................................................................................................16
-
-2.8. Rocky World..............................................................................................................................17
-
-2.9. Shattered World........................................................................................................................18
-
-2.10. Tainted World..........................................................................................................................19
-
-2.11. Vital World ..............................................................................................................................20
-
-2.12. Crystalline World.....................................................................................................................21
-
-2.13. Rogue World............................................................................................................................22
-
-2.14. Living World.............................................................................................................................23
-
-2.15. Metallic World.........................................................................................................................24
-
-2.16. Artificial World ........................................................................................................................25
-
-2.17. Extradimensional World..........................................................................................................26
-
-2.18. Dust Rings................................................................................................................................27
-
-3. Settlements:.....................................................................................................................................28
-
-3.1. Grounded Settlements ..............................................................................................................28
-
-3.2. Space Settlements.....................................................................................................................29
-
-3.3. Other useful Settlement Oracles...............................................................................................29
-
-4. Derelicts ...........................................................................................................................................30
-
-4.1. Derelict Zones............................................................................................................................30
-
-4.2. Other useful Derelict Oracles ....................................................................................................30
-
-5. Precursor Vaults...............................................................................................................................31
-
-5.1. Vault Interior.............................................................................................................................31
-
-5.2. Vault Sanctum ...........................................................................................................................32
-
-5.3. Other useful Vault Oracles ........................................................................................................32
-
-                   2
-Introduction
-
-Random tables named Oracles are the heart of Ironsworn: Starforged. In solo and co-op
-
-mode, they replace the Game Master and in guided play they are very useful tool for Game
-
-Master. There are a lot of them - about 90 pages of them in the Rulebook and much more
-
-in fan-made materials. Such abundance allows for introducing a lot of interesting and unique
-
-elements to play, but also can lead to decision paralysis ("which Oracle should I roll
-
-in now?"). Luckily, Shawn Tomkin designed a useful tool to prevent such paralysis: oracle
-
-array.
-
-Citing the Rulebook, page 3841: "An oracle array is a collection of oracles you assemble
-
-to help answer questions for a specific situation or location. The key to an oracle array is your
-
-six-sided action die. To create an array, you'll assign the values of that die (1-6) to two
-
-or more oracle tables. When you need inspiration for a situation or location associated with
-
-an array, roll your action die alongside your oracle dice. This magically transforms your
-
-action die into an array die for the purposes of this roll. Check the value of the array die
-
-to see what table you'll reference".
-
-However, the Rulebook only contains two short examples of oracle arrays. Because I didn't
-
-find more of them, I decided to make them myself. I focused on creating oracle arrays useful
-
-during exploration of various locations - space, worlds (planets and moons), settlements,
-
-derelicts and Precursor vaults. In every case, I covered three main aspects of such
-
-exploration: Features, Perils and Opportunities. In some cases I also listed other useful
-
-Oracles, which don't really fit into the arrays.
-
-        You may roll for Feature when you want to reveal new aspects of your current
-
-        surroundings.
-
-        You may roll for Peril when you want help envisioning a complication or danger
-
-        within a location, such as when suffering a cost as an outcome of your exploration.
-
-        You may roll for Opportunity when you want inspiration for a beneficial encounter
-
-        or event, such as when you roll a strong hit with a match as you Undertake
-
-        an Expedition, or if you Explore a Waypoint and find an opportunity.
-
-You might prefer to ignore certain results, e.g. if your setting doesn't include any ghosts and
-
-spirits, you might swap results referring to Haunted Theme with something else.
-
-I used both the Oracles from Starforged Rulebook and many fan-made. There are more and
-
-more of the latter, so it's possible that I will make expanded version of this book in future!
-
-1 In this material, whenever I refer  to other book page number, I use the page number visible on  the  page  itself.
-
-Note that page number of PDF can      be slightly different, depending on what app you are using.
-
-                                                  3
-Abbreviations glossary
-
-SF - Ironsworn: Starforged Rulebook by Shawn Tomkin
-
-SEO - Starsmith: Expanded Oracles by Eric Bright
-
-IS - Ironsworn Rulebook by Shawn Tomkin
-
-ID - Ironsworn: Delve Rulebook2 by Shawn Tomkin
-
-IT - Ironsmith: A Fan Made Supplement for the Ironsworn                      System       by  Eric     Bright
-
-B+M - Better + Moons by Ellie_Valkyrie
-
-EP - Exotic Planet Oracles by Mjatthijs
-
-SD - Settlement Detailing for Starforged by Alan Wilson
-
-2 All Delve  content  needed  is  available  for  free  on  Shawn  Tomkin's  website  as  Delve  Site  Cards  and  Delve  Moves
-
-Reference
-
-                                                            4
-Examples of use
-
-Example 1:
-
-You are wandering on Ice World (a planet or a moon) and want to envision it in more
-
-interesting way than being just an icy plain stretching in all directions. You check the Section
-
-2.4 of this book, which covers Ice Worlds. In this case, you want to use Ice World Feature
-
-Oracle Array.
-
-First, you roll d6 and the result is 2, which means: "Ice World Planetside Feature (SF 311,
-
-SEO 67-69)".
-
-You now have two options:
-
-  You can roll a d100 (citing Rulebook, page 60: "Using physical dice, there are two
-
-  common methods for generating a 1-100 result. You can roll a set of D10s that
-
-  includes tens digits on the faces of one of those dice or you can use two D10s
-
-  of different colors, and decide before rolling which represents the tens digit and which
-
-  is the units") and check the result in Planetside Feature Oracle in Ironsworn:
-
-  Starforged Rulebook on page 311 (which I abbreviated to SF 311, as explained in the
-
-  Abbreviations glossary section above). Let's say the result is 75, which means
-
-  "Subsurface liquid oceans". This is one of fifteen possible results in this Oracle.
-
-  You can also decide that you prefer having 45 possible results than 15, which
-
-  increases the chance that the result will be unique and should not repeat itself soon.
-
-  In this case you roll a d100 and another d6 and check the result in Planetside Feature
-
-  Oracle in Starsmith: Expanded Oracles (abbreviated as SEO). There you can find three
-
-  Ice World Planetside Feature Oracles, on pages 67, 68 and 69. Use the table with the
-
-  corresponding d6 result denoted by dice symbols in the tables. So, if the d6 result
-
-  is 1 or 2, you check the d100 result in table on page 67 (result for 75 is, again,
-
-  "Subsurface liquid oceans"). If the d6 result is 3 or 4, you check the d100 result
-
-  in table on page 68 (this time the result for 75 is "Sprawling tunnels through the ice").
-
-  And finally, if the d6 result is 5 or 6, you check the d100 result in table on page 69
-
-  (the result for 75 is "Pockets of gas frozen in ice"). Naturally, you can roll four dice
-
-  (two d6s and two d10s) at the same time - the first d6 will tell you which Oracle from
-
-  this Array will apply (e.g. "Ice World Planetside Feature (SF 311, SEO 67-69)"), the
-
-  second d6 will tell you which one of three tables on pages 67-69 will apply, and finally
-
-  two d10s will tell which exact result from the selected table will apply.
-
-It turns out that the Icy World is not dull after all!
-
-                           5
-Example 2:
-
-You are exploring a Jungle World and rolled a miss on Undertake an Expedition Move. This
-
-is suitable moment to roll for some Peril. You check the Section 2.6 of this book, which
-
-covers Jungle Worlds. In this case, you want to use Jungle World Peril Oracle Array.
-
-Your first d6 roll result is 5: "Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle
-
-(IT 240) or World Tree (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)".
-
-In this case you should use site building rules from Ironsworn: Delve Rulebook (although all
-
-the content needed is available for free on Shawn Tomkin's website as Delve Site Cards and
-
-Delve Moves Reference) and Ironsmith (or to be more precise, its New Sites chapter, which
-
-is also available as a separate book - but I refer to page numbers of "whole" Ironsmith).
-
-In Delve, each site (a place you explore or traverse) is made of Theme (which represents the
-
-condition or state of the site, and indicates the kinds of denizens3 and threats you might find
-
-there) and Domain (which represents the physical characteristics of the site - the terrain
-
-or architecture you must traverse). There are a lot of possible combinations of Themes and
-
-Domains, and even more thanks to those added by Ironsmith! In our example, you can
-
-choose 2 Themes and 4 Domains, that gives 8 different combinations. Let's say you chose
-
-Wild Theme and World Tree Domain.
-
-Each Theme and Domain is divided into Features and Dangers. In this example, we focus
-
-on the latter. Roll d100. Results 1-30 are checked on Wild Theme Card, which you can find
-
-on page 87 of Delve rulebook, abbreviated as ID, or among Delve Site Cards (e.g. 17-18
-
-means "Denizen protects something"). Results 31-45 are checked on World Tree Domain
-
-Card, which you can find on page 245 of Ironsmith, abbreviated as IT (e.g. 31-33 means
-
-"Sticky and suffocating sap"). Finally, results 46-100 are checked on Reveal a Danger table
-
-(e.g. 92-94 means "You lose your way or are delayed"). Reveal a Danger table is universal for
-
-all Sites and you can find it on page 34 of Delve rulebook or in Delve Moves Reference.
-
-So, depending on your d100, you encountered a creature that protects something
-
-(its offspring, maybe?), you got covered by sticky and suffocating sap or just got lost in a
-
-jungle. Each of those results sounds perilous indeed!
-
-3  Denizen  means  a  creature,  a  person,  a  group  or  a  faction  that  can  be  encountered  in  given  Site.
-
-                                                              6
-Example 3:
-
-You are exploring a Grave World, rolled a strong hit on Explore a Waypoint Move and chose
-
-to find an opportunity (instead of marking progress). You check the Section 2.3 of this book,
-
-which covers Grave Worlds. In this case, you want to use Grave World Opportunity Oracle
-
-Array.
-
-Your first d6 roll result is 5: Haunted Theme Opportunity (SF 374, SEO 251) or other Theme
-
-Opportunity.
-
-In Starforged, you don't combine Theme with Domain as in Delve. Instead, you use oracle
-
-array (ta-da!) to          determine which oracle you reference for given Feature, Peril
-
-or Opportunity (as each Theme has all 3 categories).
-
-So, roll d100 to check what opportunity you found! Check the result in Starforged Rulebook
-
-on page 374 or in Starsmith: Expanded Oracles on page 251. Unlike most other oracles, the
-
-results for Themes are not tripled in SEO4, so it makes no difference which book you choose.
-
-Anyway, you rolled 15: Encounter with a benign spirit or being. Is this Casper?
-
-Remember, as stated in SF on page 175, you can have an Expedition nested within the
-
-Expedition, each with its own Themes. For example, while exploring an Desert Planet (with
-
-Arid Theme), you can find a Sacred cave. If you decide to explore the cave, until you leave it,
-
-you no longer use oracles for Desert Planet or Arid Theme, but for Sacred Theme instead.
-
-You can even go deeper and discover that in the depths of this cave, there are Haunted
-
-catacombs and use yet another Theme oracles.
-
-But what about "other Theme Opportunity" part? Well, you might decide that this Grave
-
-World is not (only) Haunted, but (also) Chaotic or Mystical (one of new Themes introduced
-
-in SEO). You can even randomise it, rolling d100 in Theme Type Oracle in SF on page 370
-
-(8 results possible) or d6 and d100 in Theme Type Oracle in SEO on page 248 (18 results
-
-possible). In case of Jovian Worlds, I was unsure which Themes suit, so I just wrote "Chosen
-
-Theme Feature/Peril/Opportunity" - anyway, I think that most characters will spend more
-
-time in Cloud City than exploring gas giant itself - unless they fall down after losing duel with
-
-certain Dark Lord/father and the character's allies fail to pick them up with their starship!
-
-4  Instead,  several  new  Themes  are  introduced  and  many  of  them  are  referenced  in  other  arrays  here.
-
-                                                         7
-Example 4:
-
-In final example, let's get back to Features. You are exploring a Vital World. This kind
-
-of world is the most diverse of all, so I wanted to insert more possible Features than
-
-in others.
-
-Roll d6 in Vital World Feature Oracle Array, which you can find in Section 2.11. The result
-
-is 4: Infested Theme Feature (SF 375, SEO 252) or Oracle 4: Location (IS 176, IT 264-265)
-
-+ Oracle 6: Location Descriptor (IS 177, IT 267-268). You have three options now:
-
-  You can roll for Infested Theme Feature, similarly as in the Example 3 above. Perhaps
-
-  you find hoarded food or territorial markings?
-
-  You can use the Ironsworn Rulebook (abbreviated IS). Yes, the original one that
-
-  started it all! Roll d100 twice - once in Oracle 4: Location on page 176 and once
-
-  in Oracle 6: Location Descriptor on page 177. The results are 33 and 85: a peaceful
-
-  pond. Oh yes, you can relax next to it, after visiting all those Grave and Shattered and
-
-  Tainted Worlds!
-
-  You can use Ironsmith (abbreviated IT). As in Starsmith: Expanded Oracles, this book
-
-  triples the results of all Ironsworn oracles! Similar to Example 1, you need
-
-  an additional d6 roll to check which table you will roll d100 in. If the result is 3 or 4,
-
-  the results 33 and 85 (checked on pages 264 and 267) no longer mean a peaceful
-
-  pond, but this time a stormy desert! If the d6 result is 5 or 6, the results 33 and 85
-
-  (checked on pages 265 and 268) mean hospitable gravel incline. How can a gravel
-
-  incline be hospitable? Well, maybe there is a hospitable Rebel bunker hidden under
-
-  the gravel in the way that it cannot be seen from the orbit by the evil Galactic
-
-  Empire?
-
-                   8
-1. Space
-
-Spaceborne Feature:
-
-Space Sighting (SF 300, SEO 38-40)
-
-Space Sighting is a unique Oracle. It can refer you to many other Oracles (Stellar Object,
-
-Planet, Settlement, Starship, Derelict, Precursor Vault). Its results are tripled in Expanded
-
-Oracles. And some results, such as debris fields and large rogue asteroids are even more
-
-detailed in Space Sightings Expanded by Ludic Pen. For those reasons, I decided not to make
-
-an d6 oracle array for Spaceborne Feature - Space Sighting Oracle is huge enough!
-
-But remember the advice on SF page 301: ,,Since space is incomprehensibly vast and empty,
-
-don't feel obligated to use the Space Sightings oracle for every waypoint on an interstellar
-
-journey. Instead, you may assume there is nothing of note and move on. Roll for a sighting
-
-only when you are inspired to inject uncertainty, danger, strangeness, or narrative potential
-
-into your story".
-
-Spaceborne Peril:
-
-1.  Spaceborne Peril (SF 304, SEO 46-48)
-
-2.  Spaceborne Peril (SF 304, SEO 46-48)
-
-3.  Spaceborne Peril (SF 304, SEO 46-48)
-
-4.  Sector Trouble (SF 126, SEO 16-18)
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Spaceborne Opportunity:
-
-1.  Spaceborne Opportunity (SF 305,     SEO  49-51)
-
-2.  Spaceborne Opportunity (SF 305,     SEO  49-51)
-
-3.  Spaceborne Opportunity (SF 305,     SEO  49-51)
-
-4.  Story Clue (SF 381, SEO 272-274)
-
-5.  Story Clue (SF 381, SEO 272-274)
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-Other useful Space Oracles:
-
-    Sector Name (SF 302, SEO 41-43)
-
-    Stellar Object (SF 303, SEO 45-46)
-
-                                             9
-2. Worlds (Planets and Moons)
-
-World type Oracles:
-
-        Planetary Class (SF 306, SEO 535)
-
-        Expanded World Table (B+M 15) [Planetary              Class      table  expanded  by  Artificial
-
-        and Crystalline Worlds and Dust Rings]
-
-2.1. Desert World
-
-Desert  World Feature:
-
-1.      Desert World Planetside Feature (SF 308, SEO 55-57)
-
-2.      Desert World Planetside Feature (SF 308, SEO 55-57)
-
-3.      Desert World Observed from Space (SF 308, SEO 55-57)
-
-4.      Arid Theme Feature (SEO 257)
-
-5.      Arid Theme Feature (SEO 257) or other Theme Feature
-
-6.      Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Desert  World Peril:
-
-1.      Planetside Peril (SF 320, SEO 99-101)
-
-2.      Planetside Peril (SF 320, SEO 99-101)
-
-3.      Arid Theme Peril (SEO 257)
-
-4.      Arid Theme Peril (SEO 257) or other Theme             Peril
-
-5.      Pay the Price table (SF 232, SEO 296-298)
-
-6.      Story Complication (SF 380, SEO 269-271)
-
-Desert  World Opportunity:
-
-1.      Planetside Opportunity (SF 321, SEO 102-104)
-
-2.      Planetside Opportunity (SF 321, SEO 102-104)
-
-3.      Arid Theme Opportunity (SEO 257)
-
-4.      Arid Theme Opportunity (SEO 257)
-
-5.      Arid Theme Opportunity (SEO 257) or other Theme                  Opportunity
-
-6.      Story Clue (SF 381, SEO 272-274)
-
-5 It's worth noting that SEO allows you to roll for World name (instead  of choosing it from  the  list,  like  SF)  and  it
-
-has three times as many sample names for each type of World!
-
-                                                10
-2.2. Furnace World
-
-Furnace World Feature:
-
-1.  Furnace World Planetside Feature (SF 309, SEO 59-61)
-
-2.  Furnace World Planetside Feature (SF 309, SEO 59-61)
-
-3.  Furnace World Observed from Space (SF 309, SEO 59-61)
-
-4.  Inferno Theme Feature (SEO 259) or other Theme Feature
-
-5.  Theme: Volcanic (IT 236) + Domain: Eyrie (IT 239)
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Furnace World Peril:
-
-1.  Planetside Peril (SF 320, SEO 99-101)
-
-2.  Inferno Theme Peril (SEO 259)
-
-3.  Inferno Theme Peril (SEO 259) or other Theme Peril
-
-4.  Theme: Volcanic (IT 236) + Domain: Eyrie (IT 239)
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Furnace World Opportunity:
-
-1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-2.  Planetside Opportunity (SF 321, SEO 102-104)
-
-3.  Inferno Theme Opportunity (SEO 259)
-
-4.  Inferno Theme Opportunity (SEO 259)
-
-5.  Inferno Theme Opportunity (SEO 259) or other       Theme  Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-                                           11
-2.3. Grave World
-
-Grave  World Feature:
-
-1.     Grave World Planetside Feature (SF 310, SEO 63-65)
-
-2.     Grave World Planetside Feature (SF 310, SEO 63-65)
-
-3.     Grave World Observed from Space (SF 310, SEO 63-65)
-
-4.     Ruined Theme Feature (SF 378, SEO 255)
-
-5.     Haunted Theme Feature (SF 374, SEO 251)
-
-6.     Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Grave  World Peril:
-
-1.     Planetside Peril (SF 320, SEO 99-101)
-
-2.     Ruined Theme Peril (SF 378, SEO 255)
-
-3.     Haunted Theme Peril (SF 374, SEO 251)
-
-4.     Haunted Theme Peril (SF 374, SEO 251) or   other  Theme     Peril
-
-5.     Pay the Price table (SF 232, SEO 296-298)
-
-6.     Story Complication (SF 380, SEO 269-271)
-
-Grave  World Opportunity:
-
-1.     Planetside Opportunity (SF 321, SEO 102-104)
-
-2.     Planetside Opportunity (SF 321, SEO 102-104)
-
-3.     Ruined Theme Opportunity (SF 378, SEO 255)
-
-4.     Haunted Theme Opportunity (SF 374, SEO 251)
-
-5.     Haunted Theme Opportunity (SF 374, SEO 251)   or    other   Theme  Opportunity
-
-6.     Story Clue (SF 381, SEO 272-274)
-
-                                              12
-2.4. Ice World
-
-Ice  World Feature:
-
-     1.  Ice World Planetside Feature (SF 311, SEO 67-69)
-
-     2.  Ice World Planetside Feature (SF 311, SEO 67-69)
-
-     3.  Ice World Observed from Space (SF 311, SEO 67-69)
-
-     4.  Frozen Theme Feature (SEO 262)
-
-     5.  Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or       Icereach  (ID  89)
-
-         or Tundra (IT 244)
-
-     6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Ice  World Peril:
-
-     1.  Planetside Peril (SF 320, SEO 99-101)
-
-     2.  Frozen Theme Peril (SEO 262)
-
-     3.  Frozen Theme Peril (SEO 262) or other Theme Peril
-
-     4.  Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID  89)     or  Icereach  (ID  89)
-
-         or Tundra (IT 244)
-
-     5.  Pay the Price table (SF 232, SEO 296-298)
-
-     6.  Story Complication (SF 380, SEO 269-271)
-
-Ice  World Opportunity:
-
-     1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-     2.  Planetside Opportunity (SF 321, SEO 102-104)
-
-     3.  Frozen Theme Opportunity (SEO 262)
-
-     4.  Frozen Theme Opportunity (SEO 262)
-
-     5.  Frozen Theme Opportunity (SEO 262) or other       Theme  Opportunity
-
-     6.  Story Clue (SF 381, SEO 272-274)
-
-                                                13
-2.5. Jovian World
-
-Jovian  World Feature:
-
-1.      Jovian World Planetside Feature (SF 312, SEO 71-73)
-
-2.      Jovian World Planetside Feature (SF 312, SEO 71-73)
-
-3.      Jovian World Observed from Space (SF 312, SEO 71-73)
-
-4.      Jovian World Observed from Space (SF 312, SEO 71-73)
-
-5.      Chosen Theme Feature
-
-6.      Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Jovian  World Peril:
-
-1.      Planetside Peril (SF 320, SEO 99-101)
-
-2.      Chosen Theme Peril
-
-3.      Chosen Theme Peril
-
-4.      Pay the Price table (SF 232, SEO 296-298)
-
-5.      Pay the Price table (SF 232, SEO 296-298)
-
-6.      Story Complication (SF 380, SEO 269-271)
-
-Jovian  World Opportunity:
-
-1.      Planetside Opportunity (SF 321, SEO    102-104)
-
-2.      Planetside Opportunity (SF 321, SEO    102-104)
-
-3.      Chosen Theme Opportunity
-
-4.      Chosen Theme Opportunity
-
-5.      Story Clue (SF 381, SEO 272-274)
-
-6.      Story Clue (SF 381, SEO 272-274)
-
-                                               14
-2.6. Jungle World
-
-Jungle  World Feature:
-
-1.      Jungle World Planetside Feature (SF 313, SEO 75-77)
-
-2.      Jungle World Observed from Space (SF 313, SEO 75-77)
-
-3.      Infested Theme Feature (SF 375, SEO 252)
-
-4.      Overgrown Theme Feature (SEO 265) or Flooded Theme Feature (SEO 261)
-
-5.      Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle (IT 240) or World       Tree
-
-        (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)
-
-6.      Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Jungle  World Peril:
-
-1.      Planetside Peril (SF 320, SEO 99-101)
-
-2.      Infested Theme Peril (SF 375, SEO 252)
-
-3.      Flooded Theme Peril (SEO 261)
-
-4.      Overgrown Theme Peril (SEO 265)
-
-5.      Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle   (IT  240)  or  World  Tree
-
-        (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)
-
-6.      Pay the Price table (SF 232, SEO 296-298)
-
-Jungle  World Opportunity:
-
-1.      Planetside Opportunity (SF 321, SEO 102-104)
-
-2.      Infested Theme Opportunity (SF 375, SEO 252)
-
-3.      Flooded Theme Opportunity (SEO 261)
-
-4.      Overgrown Theme Opportunity (SEO 265)
-
-5.      Overgrown Theme Opportunity (SEO 265) or other       Theme  Opportunity
-
-6.      Story Clue (SF 381, SEO 272-274)
-
-                                                15
-2.7. Ocean World
-
-Ocean  World Feature:
-
-1.     Ocean World Planetside Feature (SF 314, SEO 79-81)
-
-2.     Ocean World Observed from Space (SF 314, SEO 79-81)
-
-3.     Flooded Theme Feature (SEO 261)
-
-4.     Oracle 5: Coastal Waters Location (IS 176, IT 266) + Oracle 6:  Location  Descriptor
-
-       (IS 177, IT 267-268)
-
-5.     Theme: Flooded (IT 230) + Domain: Sea Voyage (IT 241)
-
-6.     Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Ocean  World Peril:
-
-1.     Planetside Peril (SF 320, SEO 99-101)
-
-2.     Theme: Flooded (IT 230) + Domain: Sea Voyage  (IT 241)
-
-3.     Flooded Theme Peril (SEO 261)
-
-4.     Flooded Theme Peril (SEO 261) or other Theme  Peril
-
-5.     Pay the Price table (SF 232, SEO 296-298)
-
-6.     Story Complication (SF 380, SEO 269-271)
-
-Ocean  World Opportunity:
-
-1.     Planetside Opportunity (SF 321, SEO 102-104)
-
-2.     Planetside Opportunity (SF 321, SEO 102-104)
-
-3.     Flooded Theme Opportunity (SEO 261)
-
-4.     Flooded Theme Opportunity (SEO 261) or other  Theme     Opportunity
-
-5.     Flooded Theme Opportunity (SEO 261) or other  Theme     Opportunity
-
-6.     Story Clue (SF 381, SEO 272-274)
-
-                                              16
-2.8. Rocky World
-
-Rocky  World Feature:
-
-1.     Rocky World Planetside Feature (SF 315, SEO 83-85)
-
-2.     Rocky World Planetside Feature (SF 315, SEO 83-85)
-
-3.     Rocky World Observed from Space (SF 315, SEO 83-85)
-
-4.     Inferno Theme Feature (SEO 259) or other Theme Feature
-
-5.     Inferno Theme Feature (SEO 259) or other Theme Feature
-
-6.     Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Rocky  World Peril:
-
-1.     Planetside Peril (SF 320, SEO 99-101)
-
-2.     Planetside Peril (SF 320, SEO 99-101)
-
-3.     Inferno Theme Peril (SEO 259) or other Theme  Peril
-
-4.     Inferno Theme Peril (SEO 259) or other Theme  Peril
-
-5.     Pay the Price table (SF 232, SEO 296-298)
-
-6.     Story Complication (SF 380, SEO 269-271)
-
-Rocky  World Opportunity:
-
-1.     Planetside Opportunity (SF 321, SEO 102-104)
-
-2.     Planetside Opportunity (SF 321, SEO 102-104)
-
-3.     Planetside Opportunity (SF 321, SEO 102-104)
-
-4.     Inferno Theme Opportunity (SEO 259)
-
-5.     Inferno Theme Opportunity (SEO 259) or other  Theme  Opportunity
-
-6.     Story Clue (SF 381, SEO 272-274)
-
-                                              17
-2.9. Shattered World
-
-Shattered World Feature:
-
-1.  Shattered World Planetside Feature (SF 316, SEO 87-89)
-
-2.  Shattered World Planetside Feature (SF 316, SEO 87-89)
-
-3.  Shattered World Observed from Space (SF 316, SEO 87-89)
-
-4.  Ruined Theme Feature (SF 378, SEO 255)
-
-5.  Floating Theme Feature (SEO 260) or other Theme Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Shattered World Peril:
-
-1.  Planetside Peril (SF 320, SEO 99-101)
-
-2.  Ruined Theme Peril (SF 378, SEO 255)
-
-3.  Ruined Theme Peril (SF 378, SEO 255)
-
-4.  Floating Theme Peril (SEO 260) or other Theme  Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Shattered World Opportunity:
-
-1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-2.  Planetside Opportunity (SF 321, SEO 102-104)
-
-3.  Ruined Theme Opportunity (SF 378, SEO 255)
-
-4.  Ruined Theme Opportunity (SF 378, SEO 255)
-
-5.  Floating Theme Opportunity (SEO 260) or other  Theme    Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-                                           18
-2.10. Tainted World
-
-Tainted World Feature:
-
-   1.        Tainted World Planetside Feature (SF 317, SEO 91-93)
-
-   2.        Tainted World Planetside Feature (SF 317, SEO 91-93)
-
-   3.        Tainted World Observed from Space (SF 317, SEO 91-93)
-
-   4.        Lifeform Theme Feature (SEO 263)
-
-   5.        Lifeform Theme Feature (SEO 263) or other Theme Feature
-
-   6.        Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Tainted World Peril:
-
-   1.        Planetside Peril (SF 320, SEO 99-101)
-
-   2.        Tainted World Planetside Feature6 (SF 317, SEO 91-93)
-
-   3.        Tainted World Planetside Feature (SF 317, SEO 91-93)
-
-   4.        Lifeform Theme Peril (SEO 263) or other Theme Peril
-
-   5.        Pay the Price table (SF 232, SEO 296-298)
-
-   6.        Story Complication (SF 380, SEO 269-271)
-
-Tainted World Opportunity:
-
-   1.        Planetside Opportunity (SF 321, SEO 102-104)
-
-   2.        Planetside Opportunity (SF 321, SEO 102-104)
-
-   3.        Planetside Opportunity (SF 321, SEO 102-104)
-
-   4.        Lifeform Theme Opportunity (SEO 263)
-
-   5.        Lifeform Theme Opportunity (SEO 263) or other                      Theme      Opportunity
-
-   6.        Story Clue (SF 381, SEO 272-274)
-
-6  This  is  no  mistake,  in  case  of  Tainted  Worlds  almost  all Features  are  also  Perils!
-
-                                                                  19
-2.11. Vital World
-
-Vital World Feature:
-
-1.  Vital World Planetside Feature (SF 319, SEO 96-98)
-
-2.  Vital World Observed from Space (SF 318, SEO 96-98)
-
-3.  Overgrown Theme Feature (SEO 265)
-
-4.  Infested Theme Feature (SF 375, SEO 252) or Oracle 4: Location (IS 176, IT 264-265)                         +
-
-    Oracle 6: Location Descriptor (IS 177, IT 267-268)7
-
-5.  Flooded Theme Feature (SEO 261) or Oracle 5: Coastal Waters Location (IS 176, IT
-
-    266) + Oracle 6: Location Descriptor (IS 177, IT 267-268)
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Vital World Peril:
-
-1.  Planetside Peril (SF 320, SEO 99-101)
-
-2.  Overgrown Theme Peril (SEO 265)
-
-3.  Infested Theme Peril (SF 375, SEO 252)
-
-4.  Flooded Theme Peril (SEO 261)
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Vital World Opportunity:
-
-1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-2.  Overgrown Theme Opportunity (SEO 265)
-
-3.  Flooded Theme Opportunity (SEO 261)
-
-4.  Infested Theme Opportunity (SF 375, SEO 252)
-
-5.  Infested Theme Opportunity (SF 375, SEO 252)  or     other  Theme  Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-7 If you desire even more options, check Firelands Location and Coastal Waters Location Oracles in Ironsmith:
-
-Flavor Packs by Eric Bright - I decided not to include them in this Array because it could feel too cluttered.
-
-                                            20
-2.12. Crystalline World
-
-Crystalline World Feature:
-
-1.  Crystal Planet Planetside Feature (EP 2)
-
-2.  Crystal Planet Observed from Space (EP 2)
-
-3.  Crystalline Moon Feature (B+M 11)
-
-4.  Crystalline Moon Feature (B+M 11)
-
-5.  Mystical Theme Feature (SEO 264) or other Theme Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Crystalline World Peril:
-
-1.  Planetside Peril (SF 320, SEO 99-101)
-
-2.  Crystalline Moon Peril (B+M 12)
-
-3.  Crystalline Moon Peril (B+M 12)
-
-4.  Mystical Theme Peril (SEO 264) or other Theme  Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Crystalline World Opportunity:
-
-1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-2.  Crystalline Moon Opportunity (B+M 12)
-
-3.  Crystalline Moon Opportunity (B+M 12)
-
-4.  Mystical Theme Opportunity (SEO 264)
-
-5.  Mystical Theme Opportunity (SEO 264) or other  Theme        Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-                                              21
-2.13. Rogue World
-
-Rogue  World Feature:
-
-1.     Rogue Planet Planetside Feature (EP 3)
-
-2.     Rogue Planet Planetside Feature (EP 3)
-
-3.     Rogue Planet Observed from Space (EP 3)
-
-4.     Frozen Theme Feature (SEO 262)
-
-5.     Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or       Icereach  (ID  89)
-
-6.     Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Rogue  World Peril:
-
-1.     Planetside Peril (SF 320, SEO 99-101)
-
-2.     Frozen Theme Peril (SEO 262)
-
-3.     Frozen Theme Peril (SEO 262) or other Theme Peril
-
-4.     Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID  89)     or  Icereach  (ID  89)
-
-5.     Pay the Price table (SF 232, SEO 296-298)
-
-6.     Story Complication (SF 380, SEO 269-271)
-
-Rogue  World Opportunity:
-
-1.     Planetside Opportunity (SF 321, SEO 102-104)
-
-2.     Planetside Opportunity (SF 321, SEO 102-104)
-
-3.     Frozen Theme Opportunity (SEO 262)
-
-4.     Frozen Theme Opportunity (SEO 262)
-
-5.     Frozen Theme Opportunity (SEO 262) or other   Theme  Opportunity
-
-6.     Story Clue (SF 381, SEO 272-274)
-
-                                               22
-2.14. Living World
-
-Living  World Feature:
-
-1.      Living Planet Planetside Feature (EP 4)
-
-2.      Living Planet Planetside Feature (EP 4)
-
-3.      Living Planet Observed from Space (EP    4)
-
-4.      Lifeform Theme Feature (SEO 263)
-
-5.      Lifeform Theme Feature (SEO 263)
-
-6.      Descriptor (SF 298, SEO 30-32) + Focus     (SF  299,  SEO  33-35)
-
-Living  World Peril:
-
-1.      Planetside Peril (SF 320, SEO 99-101)
-
-2.      Lifeform Theme Peril (SEO 263)
-
-3.      Lifeform Theme Peril (SEO 263) or other Theme         Peril
-
-4.      Lifeform Theme Peril (SEO 263) or other Theme         Peril
-
-5.      Pay the Price table (SF 232, SEO 296-298)
-
-6.      Story Complication (SF 380, SEO 269-271)
-
-Living  World Opportunity:
-
-1.      Planetside Opportunity (SF 321, SEO 102-104)
-
-2.      Planetside Opportunity (SF 321, SEO 102-104)
-
-3.      Lifeform Theme Opportunity (SEO 263)
-
-4.      Lifeform Theme Opportunity (SEO 263) or other         Theme  Opportunity
-
-5.      Lifeform Theme Opportunity (SEO 263) or other         Theme  Opportunity
-
-6.      Story Clue (SF 381, SEO 272-274)
-
-                                                 23
-2.15. Metallic World
-
-Metallic World Feature:
-
-1.  Metallic Planet Planetside Feature (EP 5)
-
-2.  Metallic Planet Planetside Feature (EP 5)
-
-3.  Metallic Planet Observed from Space (EP 5)
-
-4.  Metallic Planet Observed from Space (EP 5)
-
-5.  Inferno Theme Feature (SEO 259) or other Theme Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Metallic World Peril:
-
-1.  Planetside Peril (SF 320, SEO 99-101)
-
-2.  Planetside Peril (SF 320, SEO 99-101)
-
-3.  Inferno Theme Peril (SEO 259) or other Theme  Peril
-
-4.  Inferno Theme Peril (SEO 259) or other Theme  Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Metallic World Opportunity:
-
-1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-2.  Planetside Opportunity (SF 321, SEO 102-104)
-
-3.  Planetside Opportunity (SF 321, SEO 102-104)
-
-4.  Inferno Theme Opportunity (SEO 259) or other  Theme  Opportunity
-
-5.  Inferno Theme Opportunity (SEO 259) or other  Theme  Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-                                           24
-2.16. Artificial World
-
-Artificial World Feature:
-
-1.  Artificial Planet Planetside Feature (EP 6)
-
-2.  Artificial Planet Observed from Space (EP 6)
-
-3.  Artificial Moon Feature (B+M 6)
-
-4.  Artificial Moon Feature (B+M 6)
-
-5.  Mechanical Theme Feature (SF 377, SEO 254) or other Theme   Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Artificial World Peril:
-
-1.  Planetside Peril (SF 320, SEO 99-101)
-
-2.  Artificial Moon Peril (B+M 6)
-
-3.  Artificial Moon Peril (B+M 6)
-
-4.  Mechanical Theme Peril (SF 377, SEO 254)
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Artificial World Opportunity:
-
-1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-2.  Artificial Moon Opportunity (B+M 7)
-
-3.  Artificial Moon Opportunity (B+M 7)
-
-4.  Mechanical Theme Opportunity (SF 377, SEO 254)
-
-5.  Mechanical Theme Opportunity (SF 377, SEO 254)  or  other   Theme  Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-                                           25
-2.17. Extradimensional World
-
-Extradimensional World Feature:
-
-   1.  Extradimensional Planet Planetside Feature (EP 7)
-
-   2.  Extradimensional Planet Planetside Feature (EP 7)
-
-   3.  Extradimensional Planet Observed from Space (EP 7)
-
-   4.  Sanctum Feature (SF 368, SEO 241-243)
-
-   5.  Chaotic Theme Feature (SF 372, SEO 249) or other Theme8 Feature
-
-   6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Extradimensional World Peril:
-
-   1.  Planetside Peril (SF 320, SEO 99-101)
-
-   2.  Sanctum Peril (SF 369, SEO 244-246)
-
-   3.  Chaotic Theme Peril (SF 372, SEO 249) or other                   Theme       Peril
-
-   4.  Anomaly Effect (SF 382, SEO 281-283)
-
-   5.  Pay the Price table (SF 232, SEO 296-298)
-
-   6.  Story Complication (SF 380, SEO 269-271)
-
-Extradimensional World Opportunity:
-
-   1.  Planetside Opportunity (SF 321, SEO 102-104)
-
-   2.  Sanctum Opportunity (SF 369, SEO 244-246)
-
-   3.  Sanctum Opportunity (SF 369, SEO 244-246)
-
-   4.  Chaotic Theme Opportunity (SF 372, SEO 249)                      or  other   Theme  Opportunity
-
-   5.  Chaotic Theme Opportunity (SF 372, SEO 249)                      or  other   Theme  Opportunity
-
-   6.  Story Clue (SF 381, SEO 272-274)
-
-8  Consider  especially:  Chronal  Theme  (SEO  258),  Mystical  Theme  (SEO  264)
-
-                                                       26
-2.18. Dust Rings
-
-Dust Rings Feature:
-
-1.  Dust Rings Feature (B+M 9)
-
-2.  Dust Rings Feature (B+M 9)
-
-3.  Dust Rings Feature (B+M 9)
-
-4.  Floating Theme Feature (SEO 260) or other Theme Feature
-
-5.  Floating Theme Feature (SEO 260) or other Theme Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Dust Rings Peril:
-
-1.  Dust Rings Peril (B+M 10)
-
-2.  Dust Rings Peril (B+M 10)
-
-3.  Dust Rings Peril (B+M 10)
-
-4.  Floating Theme Peril (SEO 260) or other Theme         Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Dust Rings Opportunity:
-
-1.  Dust Rings Opportunity (B+M 10)
-
-2.  Dust Rings Opportunity (B+M 10)
-
-3.  Dust Rings Opportunity (B+M 10)
-
-4.  Floating Theme Opportunity (SEO   260)     or  other  Theme  Opportunity
-
-5.  Floating Theme Opportunity (SEO   260)     or  other  Theme  Opportunity
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-                                      27
-3. Settlements:
-
-3.1. Grounded Settlements
-
-Grounded Settlement9 Feature:
-
-1.  Settlement First Look (SF 323, SEO 108-110)
-
-2.  Settlement Projects (SF 324, SEO 111-112) or Planetside Settlement Industries
-
-    Oracle (SD 9)
-
-3.  Planetside Settlement Impressions Oracle (SD 7)
-
-4.  Planetside Settlement Senses Oracle (SD 8)
-
-5.  Inhabited Theme Feature (SF 376, SEO 253) or other Theme10 Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Grounded Settlement Peril:
-
-1.  Settlement Trouble (SF 324, SEO 112-113)
-
-2.  Settlement Trouble (SF 324, SEO 112-113)
-
-3.  Inhabited Theme Peril (SF 376, SEO 253)
-
-4.  Inhabited Theme Peril (SF 376, SEO 253) or     other                 Theme      Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Grounded Settlement Opportunity:
-
-1.  Faction Rumors (SF 347, SEO 193-195)
-
-2.  Faction Rumors (SF 347, SEO 193-195)
-
-3.  Inhabited Theme Opportunity (SF 376,      SEO  253)
-
-4.  Inhabited Theme Opportunity (SF 376,      SEO  253)                  or  other  Theme    Opportunity
-
-5.  Story Clue (SF 381, SEO 272-274)
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-9 Grounded   settlement exists upon a solid   surface (or beneath) of a  planet,  moon, asteroid  or  other  body
-
-10 Consider  especially: Fortified Theme (SF  373, SEO 250), War Zone    Theme    (SEO 266)
-
-                                              28
-3.2. Space Settlements
-
-Space Settlement11 Feature:
-
-1.  Settlement First Look (SF 323, SEO 108-110)
-
-2.  Settlement Projects (SF 324, SEO 111-112) or Space Settlement Industries          Oracle
-
-    (SD 12)
-
-3.  Space Settlement Impressions Oracle (SD 10)
-
-4.  Space Settlement Senses Oracle (SD 11)
-
-5.  Inhabited Theme Feature (SF 376, SEO 253) or other Theme12 Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Space Settlement Peril:
-
-1.  Spaceborne Peril (SF 304, SEO 46-48)
-
-2.  Settlement Trouble (SF 324, SEO 112-113)
-
-3.  Inhabited Theme Peril (SF 376, SEO 253)
-
-4.  Inhabited Theme Peril (SF 376, SEO 253) or   other  Theme                  Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Space Settlement Opportunity:
-
-1.  Spaceborne Opportunity (SF 305, SEO 49-51)
-
-2.  Faction Rumors (SF 347, SEO 193-195)
-
-3.  Inhabited Theme Opportunity (SF 376, SEO 253)
-
-4.  Inhabited Theme Opportunity (SF 376, SEO 253)     or  other                Theme  Opportunity
-
-5.  Story Clue (SF 381, SEO 272-274)
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-3.3. Other useful Settlement Oracles
-
-    Settlement Location (SF 322, SEO 107)
-
-    Settlement Initial Contact (SF 323, SEO 108-110)
-
-    Settlement Authority (SF 323, SEO 108-110)
-
-    Settlement Name (SF 325, SEO 114-116)
-
-If the settlement is big enough, you may use District Oracles from Starsmith: Expanded
-
-Oracles (212-220) or Iron City - District Generator by vishae instead of above Oracles. With
-
-some adjustments, District Oracles can also be used for a huge, operating starship (not
-
-derelict!).
-
-11 Space Settlement can be either Orbital Settlement or Deep Space Settlement
-
-12 Consider especially: Fortified Theme (SF 373, SEO 250), War Zone Theme (SEO 266)
-
-                                            29
-4. Derelicts
-
-4.1. Derelict Zones
-
-Derelict [Zone]13 Feature:
-
-1.  Derelict [Zone] Area (SF 352-359, SEO 203-210)
-
-2.  Derelict [Zone] Feature (SF 352-359, SEO 203-210)
-
-3.  Inner First Look (SF 349, SEO 199-201)
-
-4.  Ruined Theme Feature (SF 378, SEO 255)
-
-5.  Haunted Theme Feature (SF 374, SEO 251) or other                          Theme14     Feature
-
-6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO                       33-35)
-
-Derelict [Zone] Peril:
-
-1.  Derelict [Zone] Peril (SF 352-359, SEO 203-210)
-
-2.  Derelict [Zone] Peril (SF 352-359, SEO 203-210)
-
-3.  Ruined Theme Peril (SF 378, SEO 255)
-
-4.  Haunted Theme Peril (SF 374, SEO 251) or other                 Theme      Peril
-
-5.  Pay the Price table (SF 232, SEO 296-298)
-
-6.  Story Complication (SF 380, SEO 269-271)
-
-Derelict [Zone] Opportunity:
-
-1.  Derelict [Zone] Opportunity (SF 352-359, SEO 203-210)
-
-2.  Derelict [Zone] Opportunity (SF 352-359, SEO 203-210)
-
-3.  Ruined Theme Opportunity (SF 378, SEO 255)
-
-4.  Haunted Theme Opportunity (SF 374, SEO 251) or other                             Theme      Opportunity
-
-5.  Story Clue (SF 381, SEO 272-274)
-
-6.  Story Clue (SF 381, SEO 272-274)
-
-4.2. Other useful Derelict Oracles
-
-    Derelict Type (SF 348, SEO 198)
-
-    Derelict Condition (SF 348, SEO 198)
-
-    Outer First Look (SF 349, SEO 198)
-
-13 Choose a Zone or roll for it (SF 351, SEO  202)
-
-14 Consider especially: Mechanical Theme      (SF 377,  SEO 254),  Fortified  Theme  (SF  373,  SEO  250),  Infested  Theme
-
-(SF 375, SEO 252)
-
-                                                        30
-5. Precursor Vaults
-
-5.1. Vault Interior
-
-Vault   Interior Feature:
-
-    1.  Inner First Look (SF          364, SEO 229-231)
-
-    2.  Inner First Look (SF          364, SEO 229-231)
-
-    3.  Interior Feature (SF          366, SEO 235-237)
-
-    4.  Interior Feature (SF          366, SEO 235-237)
-
-    5.  Mechanical Theme              Feature (SF 377, SEO 254) or other Theme15               Feature
-
-    6.  Descriptor (SF 298,           SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Vault   Interior Peril:
-
-    1.  Interior Peril (SF 367, SEO 238-240)
-
-    2.  Interior Peril (SF 367, SEO 238-240)
-
-    3.  Interior Peril (SF 367, SEO 238-240)
-
-    4.  Mechanical Theme Peril (SF 377, SEO 254)                   or  other  Theme     Peril
-
-    5.  Pay the Price table (SF 232, SEO 296-298)
-
-    6.  Story Complication (SF 380, SEO 269-271)
-
-Vault   Interior Opportunity:
-
-    1.  Interior Opportunity (SF 367, SEO 238-240)
-
-    2.  Interior Opportunity (SF 367, SEO 238-240)
-
-    3.  Mechanical Theme Opportunity (SF 377, SEO                      254)  or  other  Theme  Opportunity
-
-    4.  Mechanical Theme Opportunity (SF 377, SEO                      254)  or  other  Theme  Opportunity
-
-    5.  Story Clue (SF 381, SEO 272-274)
-
-    6.  Story Clue (SF 381, SEO 272-274)
-
-15  Consider  especially:  Fortified  Theme  (SF  373,  SEO  250)
-
-                                                             31
-5.2. Vault Sanctum
-
-Vault Sanctum Feature:
-
-    1.  Sanctum Feature (SF 368, SEO 241-243)
-
-    2.  Sanctum Feature (SF 368, SEO 241-243)
-
-    3.  Sanctum Feature (SF 368, SEO 241-243)
-
-    4.  Chaotic Theme Feature (SF 372, SEO 249) or other Theme16 Feature
-
-    5.  Chaotic Theme Feature (SF 372, SEO 249) or other Theme Feature
-
-    6.  Descriptor (SF 298, SEO 30-32) + Focus (SF 299, SEO 33-35)
-
-Vault Sanctum Peril:
-
-    1.  Sanctum Peril (SF 369, SEO 244-246)
-
-    2.  Sanctum Peril (SF 369, SEO 244-246)
-
-    3.  Chaotic Theme Peril (SF 372, SEO 249)           or        other  Theme  Peril
-
-    4.  Chaotic Theme Peril (SF 372, SEO 249)           or        other  Theme  Peril
-
-    5.  Anomaly Effect (SF 382, SEO 281-283)
-
-    6.  Anomaly Effect (SF 382, SEO 281-283)
-
-Vault Sanctum Opportunity:
-
-    1.  Sanctum Opportunity (SF 369, SEO 244-246)
-
-    2.  Sanctum Opportunity (SF 369, SEO 244-246)
-
-    3.  Chaotic Theme Opportunity (SF 372, SEO 249)               or     other  Theme  Opportunity
-
-    4.  Chaotic Theme Opportunity (SF 372, SEO 249)               or     other  Theme  Opportunity
-
-    5.  Story Clue (SF 381, SEO 272-274)
-
-    6.  Story Clue (SF 381, SEO 272-274)
-
-5.3. Other useful Vault Oracles
-
-        Scale (SF 360, SEO 223)
-
-        Form (SF 360, SEO 223)
-
-        Shape (SF 361, SEO 224)
-
-        Material (SF 361, SEO 225)
-
-        Outer First Look (SF 361, SEO 226-228)
-
-        Vault Purpose (SF 365, SEO 232-234)
-
-16  Consider  especially:  Chronal  Theme  (SEO  258),  Mystical  Theme  (SEO  264)
-
-                                                        32
-
