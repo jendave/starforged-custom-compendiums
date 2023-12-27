@@ -52,62 +52,62 @@ d6 Feature
 1 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WIAW8H36hzbjshr0]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5esl8jSbsIyPkLZV]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zlAXlAtOLtqIPqvr]{5 - 6}
 2 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WIAW8H36hzbjshr0]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5esl8jSbsIyPkLZV]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zlAXlAtOLtqIPqvr]{5 - 6}
 3 Observed from Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mXE7W7P7Vll5qPo4]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gLIiu5sGdkM62Ruo]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1sLkhxEaVUaPy57w]{5 - 6}
-4 Inferno Theme Feature (SEO 259) or other Theme Feature
-5 Theme: Volcanic (IT 236) + Domain: Eyrie (IT 239)
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qDumRuCiRh386guP]{Inferno} or other Theme Feature
+5 Theme @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.Vu1K8JyTv7XpnSHU]{Volcanic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.gtsTykVt1IT1F7K4]{Eyrie}
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
 d6 Peril
 1 Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}
-2 Inferno Theme Peril (SEO 259)
-3 Inferno Theme Peril (SEO 259) or other Theme Peril
-4 Theme: Volcanic (IT 236) + Domain: Eyrie (IT 239)
+2 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu]{Inferno Peril}
+3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu]{Inferno Peril} or other Theme Peril
+4 Theme @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.Vu1K8JyTv7XpnSHU]{Volcanic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.gtsTykVt1IT1F7K4]{Eyrie}
 5 Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}
 6 Story Complication @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK]{ 3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy]{5 - 6}
 
 d6 Opportunity
 1 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
 2 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
-3 Inferno Theme Opportunity (SEO 259)
-4 Inferno Theme Opportunity (SEO 259)
-5 Inferno Theme Opportunity (SEO 259) or other Theme Opportunity
+3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xdvA8s2XoL7eKI7O]{Inferno Opportunity}
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xdvA8s2XoL7eKI7O]{Inferno Opportunity}
+5 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xdvA8s2XoL7eKI7O]{Inferno Opportunity} or other Theme Opportunity
 6 Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}
 
 
 Grave
 
 d6 Feature
-1 Grave World Planetside Feature (SF 310, SEO 63-65)
-2 Grave World Planetside Feature (SF 310, SEO 63-65)
-3 Grave World Observed from Space (SF 310, SEO 63-65)
-4 Ruined Theme Feature (SF 378, SEO 255)
-5 Haunted Theme Feature (SF 374, SEO 251)
+1 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6l5Hqitvc4RFxpra]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lf2FvABUcYtgv6Ae]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2JAxDfpav0IlsZLK]{5 - 6}
+2 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6l5Hqitvc4RFxpra]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lf2FvABUcYtgv6Ae]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2JAxDfpav0IlsZLK]{5 - 6}
+3 Observed from Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.BrE1gQtsBLvg9tSx]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vBC6s29505G4SVUW]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eCoLvpIQrVfmDUgO]{5 - 6}
+4 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.e08c9e47bca97a85]{Ruined Feature}
+5 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.8874e6a1761a0e69]{Haunted Feature}
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
 d6 Peril
 1 Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}
-2 Ruined Theme Peril (SF 378, SEO 255)
-3 Haunted Theme Peril (SF 374, SEO 251)
-4 Haunted Theme Peril (SF 374, SEO 251) or other Theme Peril
+2@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.faf11f1da483dd37]{Ruined Peril}
+3 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.95e3b5f38b793f5b]{Haunted Peril}
+4 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.95e3b5f38b793f5b]{Haunted Peril} or other Theme Peril
 5 Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}
 6 Story Complication @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK]{ 3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy]{5 - 6}
 
 d6 Opportunity
 1 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
 2 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
-3 Ruined Theme Opportunity (SF 378, SEO 255)
-4 Haunted Theme Opportunity (SF 374, SEO 251)
-5 Haunted Theme Opportunity (SF 374, SEO 251) or other Theme Opportunity
+3 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.f83f31579bd9a886]{Ruined Opportunity}
+4 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.660a3bba595c310a]{Haunted Opportunity}
+5 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.660a3bba595c310a]{Haunted Opportunity} or other Theme Opportunity
 6 Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}
 
 
 Ice
 
 d6 Feature
-1 Ice World Planetside Feature (SF 311, SEO 67-69)
-2 Ice World Planetside Feature (SF 311, SEO 67-69)
-3 Ice World Observed from Space (SF 311, SEO 67-69)
-4 Frozen Theme Feature (SEO 262)
-5 Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or Icereach (ID 89) or Tundra (IT 244)
+1 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3eZVI73pFd2Vq1Vn]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wUhTOw2fAMtUYXUn]3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pma1szGfHplWS97Q]{5 - 6}
+2 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3eZVI73pFd2Vq1Vn]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wUhTOw2fAMtUYXUn]3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pma1szGfHplWS97Q]{5 - 6}
+3 Observed From Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Uq1ybjzg3WVNH50Q]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.fTHisJyGql8gcVuC]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2bbW8GapNrUbkBiD]{5 - 6}
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZqubM8Y5GsmhsaKj]{Frozen Feature}
+5 Theme @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.qMr7FxU081RdTFAO]{Frozen} + Domain @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.2c2t4chqfpZ9ydid]{Frozen Cavern} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.hziNL2ikUkcPkd6A]{Icereach} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.z7IOxfAiq2Lzsot1]{Tundra})
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
 d6 Peril
@@ -121,19 +121,19 @@ d6 Peril
 d6 Opportunity
 1 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
 2 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
-3 Frozen Theme Opportunity (SEO 262)
-4 Frozen Theme Opportunity (SEO 262)
-5 Frozen Theme Opportunity (SEO 262) or other Theme Opportunity
+3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.dr075E2JijU2kCFz]{Frozen Opportunity}
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.dr075E2JijU2kCFz]{Frozen Opportunity}
+5 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.dr075E2JijU2kCFz]{Frozen Opportunity} or other Theme Opportunity
 6 Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}
 
 
 Jovian
 
 d6 Feature
-1 Jovian World Planetside Feature (SF 312, SEO 71-73)
-2 Jovian World Planetside Feature (SF 312, SEO 71-73)
-3 Jovian World Observed from Space (SF 312, SEO 71-73)
-4 Jovian World Observed from Space (SF 312, SEO 71-73)
+1 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP]{5 - 6}
+2 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP]{5 - 6}
+3 Observed From Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.w5yprOoOTFfjZjZj]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Vh4sPOoSMhQK1Mvs]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o]{5 - 6}
+4 Observed From Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.w5yprOoOTFfjZjZj]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Vh4sPOoSMhQK1Mvs]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o]{5 - 6}
 5 Chosen Theme Feature
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
@@ -157,27 +157,27 @@ d6 Opportunity
 Jungle
 
 d6 Feature
-1 Jungle World Planetside Feature (SF 313, SEO 75-77)
-2 Jungle World Observed from Space (SF 313, SEO 75-77)
-3 Infested Theme Feature (SF 375, SEO 252)
-4 Overgrown Theme Feature (SEO 265) or Flooded Theme Feature (SEO 261)
-5 Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle (IT 240) or World Tree (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)
+1 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV]{5 - 6}
+2 Observed From Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wCWNV5mg80zJCzz]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8NCFv7yLKaxIjARl]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nFaY8oF7Qg0yKzQn]{5 - 6}
+3 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.5d673d674c3d1395]{Infested Feature}
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Z1uRFYQVc71TBfQ0]{Overgrown Feature} or @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.X0BVY0u1oEFvyrzx]{Flooded Feature}
+5 Theme @UUID[Compendium.foundry-ironsworn.ironsworndelvethemes.Item.v3jYuNrr1Jt4TzNZ]{Wild} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.5O7wtNRy7tGrtIXd]{Jurassic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.Dima1MSxxNkacMPG]{Jungle} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.XKAblbfZRtHXekBy]{World Tree} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.MbJlpR81C4Q4WDV2]{Tanglewood} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.Xn1xz4l3r6AMWzg8]{Shadowfen}
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
 d6 Jungle World Peril
 1 Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}
-2 Infested Theme Peril (SF 375, SEO 252)
-3 Flooded Theme Peril (SEO 261)
-4 Overgrown Theme Peril (SEO 265)
-5 Theme: Wild (ID 87) or Jurassic (IT 232) + Domain: Jungle (IT 240) or World Tree (IT 245) or Tanglewood (ID 93) or Shadowfen (ID 92)
+2 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.4689857ac9c1af86]{Infested Peril}
+3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.74ke9AgaF8XXelLr]{Flooded Peril}
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha]{Overgrown Peril}
+5 Theme @UUID[Compendium.foundry-ironsworn.ironsworndelvethemes.Item.v3jYuNrr1Jt4TzNZ]{Wild} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.5O7wtNRy7tGrtIXd]{Jurassic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.Dima1MSxxNkacMPG]{Jungle} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.XKAblbfZRtHXekBy]{World Tree} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.MbJlpR81C4Q4WDV2]{Tanglewood} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.Xn1xz4l3r6AMWzg8]{Shadowfen}
 6 Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}
 
 d6 Jungle World Opportunity
 1 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
-2 Infested Theme Opportunity (SF 375, SEO 252)
-3 Flooded Theme Opportunity (SEO 261)
-4 Overgrown Theme Opportunity (SEO 265)
-5 Overgrown Theme Opportunity (SEO 265) or other Theme Opportunity
+2 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.e588fbdc090fa1a3]{Infested Opportunity}
+3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O39GKpnyMuyam9pl]{Flooded Opportunity}
+4 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LJTBPHnLEvjBF4ku]{Overgrown Opportunity}
+5 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LJTBPHnLEvjBF4ku]{Overgrown Opportunity} or other Theme Opportunity
 6 Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}
 
 
