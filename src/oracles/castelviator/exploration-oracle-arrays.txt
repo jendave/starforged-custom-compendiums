@@ -112,9 +112,9 @@ d6 Feature
 
 d6 Peril
 1 Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}
-2 Frozen Theme Peril (SEO 262)
-3 Frozen Theme Peril (SEO 262) or other Theme Peril
-4 Theme: Frozen (IT 213) + Domain: Frozen Cavern (ID 89) or Icereach (ID 89) or Tundra (IT 244)
+2 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3uVKQgKm3EmY7n8T]{Frozen Theme Peril}
+3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3uVKQgKm3EmY7n8T]{Frozen Theme Peril} or other Theme Peril
+4 Theme @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.qMr7FxU081RdTFAO]{Frozen} + Domain @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.2c2t4chqfpZ9ydid]{Frozen Cavern} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.hziNL2ikUkcPkd6A]{Icereach} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.z7IOxfAiq2Lzsot1]{Tundra}
 5 Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}
 6 Story Complication @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK]{ 3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy]{5 - 6}
 
@@ -635,7 +635,7 @@ d6 Peril
 3 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.33dcf85f786628fd]{Chaotic Theme Peril}) or other Theme Peril
 4 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.33dcf85f786628fd]{Chaotic Theme Peril}) or other Theme Peri
 5 Anomaly Effect @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LDZn0zQu8ZUERzyw]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tSkFbuKgAMurqmr2]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1JCwlvrXH5QnyceQ]{5 - 6}
-6 Anomaly Effect (SF 382, SEO 281-283)
+6 Anomaly Effect @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LDZn0zQu8ZUERzyw]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tSkFbuKgAMurqmr2]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1JCwlvrXH5QnyceQ]{5 - 6}
 
 d6 Opportunity
 1 Sanctum Opportunity @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6wZ3tNjg9YB24ksU]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.m2fmYWlfXiAkiGJM]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jNZY2f4GGlhdTxwj]{5 - 6}
