@@ -137,7 +137,7 @@ d6 Feature
 5 Choose and roll on Theme Feature Oracle
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
-d6 World Peril
+d6 Peril
 1 Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}
 2 Choose and roll on Theme Peril Oracle
 3 Choose and roll on Theme Peril Oracle
@@ -164,7 +164,7 @@ d6 Feature
 5 Theme @UUID[Compendium.foundry-ironsworn.ironsworndelvethemes.Item.v3jYuNrr1Jt4TzNZ]{Wild} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.5O7wtNRy7tGrtIXd]{Jurassic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.Dima1MSxxNkacMPG]{Jungle} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.XKAblbfZRtHXekBy]{World Tree} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.MbJlpR81C4Q4WDV2]{Tanglewood} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.Xn1xz4l3r6AMWzg8]{Shadowfen}
 6 Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}
 
-d6 Jungle World Peril
+d6 Peril
 1 Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}
 2 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.4689857ac9c1af86]{Infested Theme Peril}
 3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.74ke9AgaF8XXelLr]{Flooded Theme Peril}
@@ -172,7 +172,7 @@ d6 Jungle World Peril
 5 Theme @UUID[Compendium.foundry-ironsworn.ironsworndelvethemes.Item.v3jYuNrr1Jt4TzNZ]{Wild} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.5O7wtNRy7tGrtIXd]{Jurassic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.Dima1MSxxNkacMPG]{Jungle} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.XKAblbfZRtHXekBy]{World Tree} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.MbJlpR81C4Q4WDV2]{Tanglewood} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.Xn1xz4l3r6AMWzg8]{Shadowfen}
 6 Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}
 
-d6 Jungle World Opportunity
+d6 Opportunity
 1 Planetside Opportunity - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A]{5 - 6}
 2 @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.e588fbdc090fa1a3]{Infested Theme Opportunity}
 3 @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O39GKpnyMuyam9pl]{Flooded Theme Opportunity}
@@ -563,8 +563,6 @@ d6 Opportunity
 
 Derelicts
 
-Zones
-
 d6 Feature
 1 Area @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.b97ee142a25e0ce8]{Access} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.da69fb694a860d8d]{Community} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.52abf47794b32bb0]{Engineering} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.19cd9d362a9aeef1]{Living} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.43c81102609e309d]{Medical} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.0bb029da1d85fa2a]{Operations} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.5c474b469b4131bf]{Production} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.0e66b89545db4cc9]{Research}
 2 Feature @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.f0d03da73cf89abd]{Access} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.577ad8977e5fd707]{Community} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.bd5fc9d42567e5ba]{Engineering} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.33e96704d391b4c7]{Living} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.353b9201da6f1e8a]{Medical} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.26c2c4c80bcc63d7]{Operations} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.1f2db6732d59f909]{Production} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.60d7a7c55caaf40d]{Research}
@@ -590,9 +588,9 @@ d6 Opportunity
 6 Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}
 
 
-Vaults
+Precursor Vaults
 
-Interior
+Vault Interior
 
 d6 Feature
 1 First Look @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CJlBnWFAMRRSD2XK]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.otjCnngJ1Yw74rjt]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7c2TaEWTUaaJlOdG]{5 - 6}
@@ -619,7 +617,7 @@ d6 Opportunity
 6 Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}
 
 
-Sanctum
+Vault Sanctum
 
 d6 Feature
 1 Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tMI4HdhdS3uPcQ7A]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.GA2VJG2Z4Pud10Xj]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lMMPTGXOGCxKHj1n]{5 - 6}
