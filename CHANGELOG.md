@@ -1,7 +1,16 @@
 # Changelog
 
-### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-xx)
+### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-29)
 * Added [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs.
+* Added [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator. 
+  * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
+    * [Ironsworn and Ironsworn: Delve](https://foundryvtt.com/packages/foundry-ironsworn)
+    * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+    * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+  * The oracle arrays depend on the following oracles in the [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles) module.
+    * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by Ellie_Valkyrie
+    * [Exotic Planet Oracles](https://mjatthijs.itch.io/exoticplanetoracles) by Mjatthijs
+    * [Settlement Detailing for Starforged](https://wilsonam.itch.io/settlement-detailing-for-starforged) by Alan Wilson
 
 ### [1.0.10](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-06)
 * Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles from jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)

@@ -43,6 +43,17 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ## Macros
 * Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
 
+## Dependencies
+* The [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator has the following dependencies.
+  * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
+    * [Ironsworn and Ironsworn: Delve](https://foundryvtt.com/packages/foundry-ironsworn)
+    * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+    * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+  * The oracle arrays depend on the following oracles in the [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles) module.
+    * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by Ellie_Valkyrie
+    * [Exotic Planet Oracles](https://mjatthijs.itch.io/exoticplanetoracles) by Mjatthijs
+    * [Settlement Detailing for Starforged](https://wilsonam.itch.io/settlement-detailing-for-starforged) by Alan Wilson
+
 # Credits
 Oracles
 * [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
@@ -52,6 +63,7 @@ Oracles
 * [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs used with permission from the author.
+* [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 * [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing)
