@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.0.12](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-01-xx)
+### [1.0.12](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-01-04)
 * Added [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day) oracle from jendave.
 
 ### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-29)
