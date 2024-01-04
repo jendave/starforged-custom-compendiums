@@ -1,5 +1,8 @@
 # Changelog
 
+### [1.0.12](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-01-xx)
+* Added [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day) oracle from jendave.
+
 ### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-29)
 * Added [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs.
 * Added [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator. 
