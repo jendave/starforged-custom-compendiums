@@ -66,8 +66,9 @@ Oracles
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
-* [Critical Successes](https://docs.google.com/document/d/1e7l2P7ZtNqcur_kvyMJnrUsZ0EmwE61l4MBQ4N6o_PA/edit?usp=sharing)
-* [I Owe My Soul to the Corporate Planet](https://docs.google.com/document/d/1zxK0FSGeumPKFGLkr5uC1yNJI6fy74ashfftjDpz51I/edit?usp=sharing)
+* [Critical Successes](https://jendave.itch.io/critical-success-oracles)
+* [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
+* [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day)
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
