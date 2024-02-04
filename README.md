@@ -31,6 +31,7 @@ https://github.com/jendave/starforged-custom-oracles/releases/latest/download/mo
   * `Oráculos personalizados` - ES
   * `Oracles personnalisés` - FR
   * `Własne Wyrocznie` - PL
+  * `Свои оракулы` - RU
 
 Open the `Starforged Custom Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 

@@ -57,6 +57,18 @@
           "verified": "1.22"
         }
       }
+    ],
+    "recommends": [
+      {
+        "id": "ironsmith-expanded-oracles",
+        "type": "module",
+        "reason": "Some custom oracles depend on this module"
+      },
+      {
+        "id": "starsmith-expanded-oracles",
+        "type": "module",
+        "reason": "Some custom oracles depend on this module"
+      }
     ]
   }
 }
