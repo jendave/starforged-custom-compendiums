@@ -1,7 +1,12 @@
 # Changelog
 
+### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-xx)
+* Added  [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk.
+* Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by jendave.
+* Added recommended modules for installation.
+
 ### [1.0.12](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-01-04)
-* Added [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day) oracle from jendave.
+* Added [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day) oracle by jendave.
 
 ### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-29)
 * Added [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs.
@@ -16,7 +21,7 @@
     * [Settlement Detailing for Starforged](https://wilsonam.itch.io/settlement-detailing-for-starforged) by Alan Wilson
 
 ### [1.0.10](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-06)
-* Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles from jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
+* Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles by jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
 
 ### [1.0.9](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-24)
 
@@ -25,7 +30,7 @@
 ### [1.0.8](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-21)
 
 * Added [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) oracles by lm77.
-* Added [Critical Success](https://jendave.itch.io/critical-successes) oracles from jendave.
+* Added [Critical Success](https://jendave.itch.io/critical-successes) oracles by jendave.
 
 ### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-06)
 

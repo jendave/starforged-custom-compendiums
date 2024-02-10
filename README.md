@@ -65,6 +65,7 @@ Oracles
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs used with permission from the author.
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
+* [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author.
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)
@@ -107,5 +108,5 @@ Many thanks to graygeist (Discord) for help with finding Oracles to add and gett
 
 ## Modules
 The following modules were used in the development process
-* [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
+* [Foundry VTT Content Parser](https://foundryvtt.com/packages/foundry-vtt-content-parser)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
