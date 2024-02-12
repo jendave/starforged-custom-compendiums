@@ -45,15 +45,11 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 * Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
 
 ## Dependencies
-* The [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator has the following dependencies.
-  * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
-    * [Ironsworn and Ironsworn: Delve](https://foundryvtt.com/packages/foundry-ironsworn)
-    * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
-    * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
-  * The oracle arrays depend on the following oracles in the [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles) module.
-    * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by Ellie_Valkyrie
-    * [Exotic Planet Oracles](https://mjatthijs.itch.io/exoticplanetoracles) by Mjatthijs
-    * [Settlement Detailing for Starforged](https://wilsonam.itch.io/settlement-detailing-for-starforged) by Alan Wilson
+* The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
+  * [Ironsworn and Ironsworn: Delve](https://foundryvtt.com/packages/foundry-ironsworn)
+  * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+  * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+  * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 
 # Credits
 Oracles
