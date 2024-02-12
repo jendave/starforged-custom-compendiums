@@ -1,7 +1,8 @@
 # Changelog
 
-### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-xx)
-* Added  [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk.
+### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
+* Added [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk.
+* Added [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze) oracle arrays by jendave.
 * Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by jendave.
 * Added recommended modules for installation.
 

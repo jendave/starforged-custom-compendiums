@@ -71,6 +71,7 @@ The following oracles by David Hudson (jendave) are used licensed under the [Cre
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)
 * [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
 * [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day)
+* [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze)
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
