@@ -1,28 +1,28 @@
 # Changelog
 
 ### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
-* Added [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk.
-* Added [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze) oracle arrays by jendave.
-* Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by jendave.
+* Added [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by [cdoghusk](https://cdoghusk.itch.io/).
+* Added [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze) oracle arrays by [jendave](https://jendave.itch.io/).
+* Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by [jendave](https://jendave.itch.io/).
 * Added recommended modules for installation.
 
 ### [1.0.12](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-01-04)
-* Added [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day) oracle by jendave.
+* Added [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day) oracle by [jendave](https://jendave.itch.io/).
 
 ### [1.0.11](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-29)
-* Added [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs.
-* Added [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator. 
+* Added [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by [mjatthijs](https://mjatthijs.itch.io).
+* Added [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by [Castelviator](https://castelviator.itch.io). 
   * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
     * [Ironsworn and Ironsworn: Delve](https://foundryvtt.com/packages/foundry-ironsworn)
     * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
     * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
   * The oracle arrays depend on the following oracles in the [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles) module.
-    * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by Ellie_Valkyrie
-    * [Exotic Planet Oracles](https://mjatthijs.itch.io/exoticplanetoracles) by Mjatthijs
-    * [Settlement Detailing for Starforged](https://wilsonam.itch.io/settlement-detailing-for-starforged) by Alan Wilson
+    * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by [Ellie_Valkyrie](https://ellie-valkyrie.itch.io)
+    * [Exotic Planet Oracles](https://mjatthijs.itch.io/exoticplanetoracles) by [Mjatthijs](https://mjatthijs.itch.io)
+    * [Settlement Detailing for Starforged](https://wilsonam.itch.io/settlement-detailing-for-starforged) by [Alan Wilson](https://wilsonam.itch.io).
 
 ### [1.0.10](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-12-06)
-* Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles by jendave. Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
+* Added [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet) oracles by [jendave](https://jendave.itch.io/). Submission to the [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
 
 ### [1.0.9](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-24)
 
@@ -31,11 +31,11 @@
 ### [1.0.8](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-21)
 
 * Added [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) oracles by lm77.
-* Added [Critical Success](https://jendave.itch.io/critical-successes) oracles by jendave.
+* Added [Critical Success](https://jendave.itch.io/critical-successes) oracles by [jendave](https://jendave.itch.io/).
 
 ### [1.0.7](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-06)
 
-* Added [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle from rossum.
+* Added [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle from [rossum](https://rossum.itch.io).
 
 ### [1.0.6](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-05)
 
@@ -43,30 +43,30 @@
 
 ### [1.0.5](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-11-01)
 
-* Added [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae.
+* Added [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by [vishae](https://vishae.itch.io).
 * Cleaned up macro output.
 * Cleaned up Oracle descriptions.
 
 ### [1.0.4](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-30)
 
-* Added [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged) oracles and macros from wilsonam.
+* Added [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged) oracles and macros from [wilsonam](https://wilsonam.itch.io).
 
 ### [1.0.3](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-27)
 
-* Added [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) oracle from Julius Hennig (birb-nerb).
-* Added [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) oracles and macro from ellie-valkyrie.
+* Added [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) oracle from [Julius Hennig](https://birb-nerb.itch.io/).
+* Added [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) oracles and macro from [ellie-valkyrie](https://ellie-valkyrie.itch.io).
 
 ### [1.0.2](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-17)
 
-* Added [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it) and [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged) oracles and macros from wilsonam.
+* Added [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it) and [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged) oracles and macros from [wilsonam](https://wilsonam.itch.io).
 * Added "Sworn Quest" Oracle mad-lib from Starforged rulebook p.386.
 * Added [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking.
 * Added [Gender Expression Oracles](https://gender-oracle.neocities.org) by kindfulkirby.
-* Added [Starforged Gear Oracles](https://illinalta.itch.io/starforged-gear-oracle) by illinalta.
+* Added [Starforged Gear Oracles](https://illinalta.itch.io/starforged-gear-oracle) by [illinalta](https://illinalta.itch.io).
 
 ### [1.0.1](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-04)
 
-* Added macros for NPC and Plot oracles (wilsonam).
+* Added macros for NPC and Plot oracles by [wilsonam](https://wilsonam.itch.io).
 * 
 ### [1.0.0](https://github.com/jendave/starforged-custom-oracles/commits/main) (2023-10-01)
 
