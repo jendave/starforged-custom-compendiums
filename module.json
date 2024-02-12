@@ -68,6 +68,11 @@
         "id": "starsmith-expanded-oracles",
         "type": "module",
         "reason": "Some custom oracles depend on this module"
+      },
+      {
+        "id": "augmented-reality-foundry",
+        "type": "module",
+        "reason": "Some custom oracles depend on this module"
       }
     ]
   }
