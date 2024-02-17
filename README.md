@@ -1,4 +1,4 @@
-# starforged-custom-oracles
+# Ironsworn: Starforged Custom Oracles
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/starforged-custom-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/starforged-custom-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starforged-custom-oracles/releases/latest)
@@ -35,11 +35,11 @@ https://github.com/jendave/starforged-custom-oracles/releases/latest/download/mo
 
 Open the `Starforged Custom Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](./docs/custom-oracles-rollable-tables.jpg)
+![Rollable Tables - Custom Oracles](https://github.com/jendave/starforged-custom-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
+![Character Sheet - Custom Oracles](https://github.com/jendave/starforged-custom-oracles/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
 ## Macros
 * Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
@@ -61,7 +61,7 @@ Oracles
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs used with permission from the author.
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
-* [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author.
+* [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author. You can [buy his books from Amazon](https://www.amazon.com/stores/Chad-Huskins/author/B0CPRJ113D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true).
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)
