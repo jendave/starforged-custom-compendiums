@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
+### [1.0.14](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
 * Added [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://www.ironswornrpg.com/).
 
 ### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
