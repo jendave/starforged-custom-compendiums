@@ -62,6 +62,7 @@ Oracles
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs used with permission from the author.
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
 * [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author. You can [buy his books from Amazon](https://www.amazon.com/stores/Chad-Huskins/author/B0CPRJ113D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true).
+* [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://www.ironswornrpg.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)

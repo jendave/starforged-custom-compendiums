@@ -1,6 +1,9 @@
 # Changelog
 
 ### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
+* Added [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://www.ironswornrpg.com/).
+
+### [1.0.13](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-02-12)
 * Added [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by [cdoghusk](https://cdoghusk.itch.io/).
 * Added [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze) oracle arrays by [jendave](https://jendave.itch.io/).
 * Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by [jendave](https://jendave.itch.io/).
