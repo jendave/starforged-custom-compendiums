@@ -1,0 +1,49 @@
+{
+    "name": "Alien Probe",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Once you visit the distant past...",
+        "category": "Companion",
+        "color": "#3D8B8A",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>A small floating probe follows and studies you intently. Whenever you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.367804b98f30d5f4]{Explore a Waypoint} and score a strong hit, the probe beams positive chemicals into your brain allowing you to recover +1 spirit or take +1 momentum.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>The probe periodically tests your intelligence by showing you a variety of geometric shapes and mathematical equations. When you participate, you may @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} (+wits) and take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>In combat, when the probe temporarily leaves to study your enemies, you may take advantage of this distraction to take control. If you do, make the @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} move.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 3,
+            "value": 3,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Out of Action",
+                "ticked": "false"
+            }
+        ],
+        "description": "Deed"
+    }
+}

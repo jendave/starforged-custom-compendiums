@@ -1,5 +1,8 @@
 # Changelog
 
+### [1.0.15](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-04-21)
+* Added [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io).
+
 ### [1.0.14](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-03-15)
 * Added [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://www.ironswornrpg.com/).
 

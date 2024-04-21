@@ -28,12 +28,20 @@
       "path": "./packs/starforged-custom-oracles-macros",
       "type": "Macro",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starforgedcustomassets",
+      "label": "Starforged Custom Assets",
+      "path": "./packs/starforged-custom-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
     {
       "name": "Starforged Custom Oracles",
       "packs": [
+        "starforgedcustomassets",
         "starforgedcustomoracles",
         "starforgedcustomoraclesmacros"
       ]

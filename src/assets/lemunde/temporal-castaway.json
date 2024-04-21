@@ -1,0 +1,44 @@
+{
+    "name": "Temporal Castaway",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "Once you become stranded in the distant past or distant future...",
+        "category": "Deed",
+        "color": "#40834F",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>You have learned how to adapt the raw materials of the current era to your needs. You can now @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} using precursor technology or the rusted scraps of the past and add +1 and take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>You've modified your ship such that it can offer substitute comforts and equipment for gathering resources that you would normally find in a settlement. When you land your ship in a safe location, you may make the @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3de42d2d3cb78855]{Sojourn} move without needing to be within a community.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>As you fight to preserve your sanity through isolation, you may make <u>Connection Moves</u> with animal lifeforms and inanimate objects.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": ""
+    }
+}
