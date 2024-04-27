@@ -1,0 +1,43 @@
+Creature Rank
+
+d100 Miniscule (bug-sized)
+1-75	Troublesome
+76-100	Dangerous
+
+d100 Tiny (rodent-sized)
+1-55	Troublesome
+56-100	Dangerous
+
+d100 Small (dog-sized)
+1-30	Troublesome
+31-80	Dangerous
+81-100	Formidable
+
+d100 Medium (person-sized)
+1-20	Troublesome
+21-55	Dangerous
+56-100	Formidable
+
+d100 Large (vehicle-sized)
+1-40	Dangerous
+41-80	Formidable
+81-100	Extreme
+
+d100 Huge (whale-sized)
+1-25	Dangerous
+26-50	Formidable
+51-85	Extreme
+86-100	Epic
+
+d100 Titanic (hill-sized)
+1-15	Formidable
+16-75	Extreme
+76-100	Epic
+
+d100 Colossal (mountain-sized)
+1-60	Extreme
+61-100	Epic
+
+d100 Vast (planet-sized)
+1-40	Extreme
+41-100	Epic
