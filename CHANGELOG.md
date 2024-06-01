@@ -1,5 +1,8 @@
 # Changelog
 
+### [1.0.17](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-06-01)
+* Verified for FoundryVTT v12.
+
 ### [1.0.16](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-04-27)
 * Added [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator) oracle by [jendave](https://jendave.itch.io/).
 * Added macros to generate creatures and NPCs.
