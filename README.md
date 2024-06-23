@@ -5,27 +5,32 @@
 ![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarforged-custom-oracles%2Fmain%2Fmodule.json)
 [![License](https://img.shields.io/github/license/jendave/starforged-custom-oracles)](LICENSE)
 
-# About
+## About
+
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
-# Contact
+## Contact
+
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
 * [GitHub Repository](https://github.com/jendave/starforged-custom-oracles)
 
-# Features and Notes
+## Features and Notes
+
 * Oracle tables contributed by fans are included in the compendium.
 * Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord](https://discord.com/channels/437120373436186625/867434336201605160)!
 
-# Module Installation
+## Module Installation
+
 To install the module, search for `Starforged` in the `Add-On Modules` tab of of the Foundry VTT game setup screen. Then click on `Install`.
 
 Or use this URL and click on `Install`:
 
-```
+```bash
 https://github.com/jendave/starforged-custom-oracles/releases/latest/download/module.json
 ```
 
-## Use Custom Folders to add Character Sheet Oracles 
+### Use Custom Folders to add Character Sheet Oracles
+
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
   * `Custom Oracles` - EN
   * `Oráculos personalizados` - ES
@@ -41,18 +46,22 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ![Character Sheet - Custom Oracles](https://github.com/jendave/starforged-custom-oracles/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
-## Macros
+### Macros
+
 * Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
 
-## Dependencies
+### Dependencies
+
 * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
   * [Ironsworn and Ironsworn: Delve](https://foundryvtt.com/packages/foundry-ironsworn)
   * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
   * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
   * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 
-# Credits
+## Credits
+
 Oracles
+
 * [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
 * [Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
 * [Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
@@ -66,6 +75,7 @@ Oracles
 * [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io) is licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
+
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)
 * [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
 * [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day)
@@ -73,18 +83,21 @@ The following oracles by David Hudson (jendave) are used licensed under the [Cre
 * [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
 
 The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
+
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
 * [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged)
-* [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged) 
+* [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged)
 
 The following oracles by wilsonam are used with permission from the author for non-commercial use.
-* [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged) 
+
+* [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged)
 * [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it)
 * [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged)
 * [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged)
 
 The following oracles by lm77 are licensed under the [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.en_) for non-commercial use.
-* [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c) 
+
+* [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c)
 * [Creature Tags Hot Sauce](https://abalone-cushion-e6c.notion.site/Creature-Tags-Hot-Sauce-eae6966d71524611a17e68a4d425ba9b)
 * [Sojourn Hot Sauce](https://abalone-cushion-e6c.notion.site/Soujourn-Hot-Sauce-Oracle-03997a33bea84fa68fa0c61a919fb875)
 
@@ -92,8 +105,10 @@ Module by David Hudson and licensed for use under the [MIT license](https://open
 
 Licenses and permissions for the macros are listed in the source code.
 
-# Resources
+## Resources
+
 Many great Ironsworn and Starforged Resources can be found at the links below.
+
 * [Awesome Ironsworn](https://github.com/Billiam/awesome-ironsworn)
 * [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam)
 * [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam)
@@ -101,29 +116,35 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 * [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 * [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
 
-# Acknowledgements
+## Acknowledgements
+
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
 Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors.
 
-## Modules
+### Modules
+
 The following modules were used in the development process
+
 * [Foundry VTT Content Parser](https://foundryvtt.com/packages/foundry-vtt-content-parser)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
 
-# FoundryVTT Modules and Other Resources
-Please check out my other modules and resources for Ironsworn and Ironsworn: Starforged
+## FoundryVTT Modules and Other Resources
 
-### [FoundryVTT](https://foundryvtt.com/) Modules
-*   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
-*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
-*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
-*   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
-*   [Token Note Hover](https://github.com/jendave/token-note-hover)
+Please check out my other modules and resources for Ironsworn, Ironsworn: Starforged and other systems.
 
-### Itch.io Resources
-*   [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
-*   [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
-*   [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
-*   [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
-*   [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
+### [FoundryVTT](https://foundryvtt.com/community/david-hudson/packages) Modules
+
+* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+* [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+* [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+* [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
+* [Token Note Hover](https://github.com/jendave/token-note-hover)
+
+### [Itch.io](https://jendave.itch.io/) Resources
+
+* [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
+* [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
+* [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
+* [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
+* [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
