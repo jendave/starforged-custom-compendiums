@@ -48,7 +48,7 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ### Macros
 
-* Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar.
+* Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar. Macros use the current `Roll Mode` when executed.
 
 ### Dependencies
 

@@ -1,8 +1,9 @@
 // Macro by wilsonam used with permission by the author
 // Modifications by David Hudson
 
-function fPrintMessage(message) {
-    let chatData = { content: message, };
+function printMessage(message) {
+    let chatData = { content: message};
+    ChatMessage.applyRollMode(chatData, game.settings.get("core","rollMode"));
     ChatMessage.create(chatData, {})
 };
 
@@ -330,7 +331,7 @@ async function CoreFunction(Location, Enclosed, Region) {
 
     // Finally print the message
 
-    fPrintMessage(message);
+    printMessage(message);
 
     return;
 }

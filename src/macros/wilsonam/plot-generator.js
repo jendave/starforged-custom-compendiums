@@ -1,10 +1,11 @@
 // Macro by wilsonam used with permission by the author
 // Modifications by David Hudson
 
-function fPrintMessage(message) {
-    let chatData = { content: message, };
+function printMessage(message) {
+    let chatData = { content: message};
+    ChatMessage.applyRollMode(chatData, game.settings.get("core","rollMode"));
     ChatMessage.create(chatData, {})
-}
+};
 
 let message = "";
 let Choice = "";
@@ -101,4 +102,4 @@ else {
 
 message = "<h3>Plot Generator</h3>" + Subject + " " + Demand + " " + Action + " " + Object
 
-fPrintMessage(message);
+printMessage(message);

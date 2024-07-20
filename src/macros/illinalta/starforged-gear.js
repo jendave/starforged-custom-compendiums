@@ -3,9 +3,10 @@
 // [Background]’s [Attribute] [Object]: [History]
 
 function printMessage(message) {
-    let chatData = { content: message, };
+    let chatData = { content: message};
+    ChatMessage.applyRollMode(chatData, game.settings.get("core","rollMode"));
     ChatMessage.create(chatData, {})
-}
+};
 
 let table = await fromUuid("Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.P0Jvpir9JOuExcpr");
 let roll = await table.roll();

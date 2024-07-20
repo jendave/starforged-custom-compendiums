@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.18](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-07-19)
+
+* Macros now use the current `Roll Mode` instead of always being `Public Rolls`.
+
 ## [1.0.17](https://github.com/jendave/starforged-custom-oracles/commits/main) (2024-06-01)
 
 * Verified for FoundryVTT v12.

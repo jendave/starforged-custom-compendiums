@@ -1,10 +1,11 @@
 // Macro by wilsonam used with permission by the author
 // Modifications by David Hudson
 
-function fPrintMessage(message) {
-    let chatData = { content: message, };
+function printMessage(message) {
+    let chatData = { content: message};
+    ChatMessage.applyRollMode(chatData, game.settings.get("core","rollMode"));
     ChatMessage.create(chatData, {})
-}
+};
 
 let message = "";
 let CorpFront = "";
@@ -37,4 +38,4 @@ Method = Roll.results[0].text;
 
 message = "<h3>Corporate Evil</h3>" + CorpFront + " " + CorpBack + " is " + Crime + " using " + Method
 
-fPrintMessage(message);
+printMessage(message);
