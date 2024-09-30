@@ -8,7 +8,6 @@
   * New worlds will create the correct folder structure.
   * Current worlds might not.
 
-
 ## [1.0.18](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-07-19)
 
 * Macros now use the current `Roll Mode` instead of always being `Public Rolls`.

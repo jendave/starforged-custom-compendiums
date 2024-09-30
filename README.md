@@ -1,9 +1,9 @@
-# Ironsworn: Starforged Custom Oracles
+# Ironsworn: Starforged Custom Compendiums
 
-![GitHub all releases](https://img.shields.io/github/downloads/jendave/starforged-custom-oracles/total)
-[![Latest Version](https://img.shields.io/github/v/release/jendave/starforged-custom-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starforged-custom-oracles/releases/latest)
-![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarforged-custom-oracles%2Fmain%2Fmodule.json)
-[![License](https://img.shields.io/github/license/jendave/starforged-custom-oracles)](LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/jendave/starforged-custom-compendiums/total)
+[![Latest Version](https://img.shields.io/github/v/release/jendave/starforged-custom-compendiums?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starforged-custom-compendiums/releases/latest)
+![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarforged-custom-compendiums%2Fmain%2Fmodule.json)
+[![License](https://img.shields.io/github/license/jendave/starforged-custom-compendiums)](LICENSE)
 
 ## About
 
@@ -12,7 +12,7 @@ A FoundryVTT compendium of fan-created resources for the Ironsworn: Starforged s
 ## Contact
 
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
-* [GitHub Repository](https://github.com/jendave/starforged-custom-oracles)
+* [GitHub Repository](https://github.com/jendave/starforged-custom-compendiums)
 
 ## Features and Notes
 
@@ -26,7 +26,7 @@ To install the module, search for `Starforged` in the `Add-On Modules` tab of of
 Or use this URL and click on `Install`:
 
 ```bash
-https://github.com/jendave/starforged-custom-oracles/releases/latest/download/module.json
+https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.json
 ```
 
 ### Use Custom Folders to add Character Sheet Oracles
@@ -40,11 +40,11 @@ https://github.com/jendave/starforged-custom-oracles/releases/latest/download/mo
 
 Open the `Starforged Custom Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
 
-![Rollable Tables - Custom Oracles](https://github.com/jendave/starforged-custom-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
+![Rollable Tables - Custom Oracles](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
 
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
-![Character Sheet - Custom Oracles](https://github.com/jendave/starforged-custom-oracles/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
+![Character Sheet - Custom Oracles](https://github.com/jendave/starforged-custom-compendiums/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
 
 ### Macros
 
@@ -135,7 +135,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 
 ### [FoundryVTT](https://foundryvtt.com/community/david-hudson/packages) Modules
 
-* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-compendiums)
 * [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
