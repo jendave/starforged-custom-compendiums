@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-09-xx)
+
+* Added the following resources by [nqjasmine](https://nqjasmine.itch.io).
+  * [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1)
+  * [Crimes Oracle](https://nqjasmine.itch.io/crimes-oracle)
+* Created new Starforged Custom Moves compendium.
+
 ## [2.0.0](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-09-29)
 
 * Renamed and moved Gitlab project to a new URL. [Starforged Custom Compendiums](https://github.com/jendave/starforged-custom-compendiums).

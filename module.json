@@ -1,7 +1,7 @@
 {
   "id": "starforged-custom-oracles",
   "title": "Starforged Custom Compendiums",
-  "description": "A collection of fan-created resources for the Ironsworn: Starforged system.",
+  "description": "A collection of homebrew resources for the Ironsworn: Starforged system.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 11,
@@ -35,6 +35,13 @@
       "path": "./packs/starforged-custom-assets",
       "type": "Item",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starforgedcustommoves",
+      "label": "Starforged Custom Moves",
+      "path": "./packs/starforged-custom-moves",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -43,7 +50,8 @@
       "packs": [
         "starforgedcustomassets",
         "starforgedcustomoracles",
-        "starforgedcustomoraclesmacros"
+        "starforgedcustomoraclesmacros",
+        "starforgedcustommoves"
       ]
     }
   ],
@@ -61,8 +69,8 @@
         "type": "system",
         "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.22.7",
-          "verified": "1.22"
+          "minimum": "1.24.3",
+          "verified": "1.24"
         }
       }
     ],
