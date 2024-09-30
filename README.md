@@ -71,7 +71,7 @@ Oracles
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs used with permission from the author.
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
 * [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author. You can [buy his books from Amazon](https://www.amazon.com/stores/Chad-Huskins/author/B0CPRJ113D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true).
-* [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://www.ironswornrpg.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+* [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io) is licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
@@ -118,6 +118,8 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 
 ## Acknowledgements
 
+Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
+
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
 Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors.
@@ -135,7 +137,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 
 ### [FoundryVTT](https://foundryvtt.com/community/david-hudson/packages) Modules
 
-* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-compendiums)
+* [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 * [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
