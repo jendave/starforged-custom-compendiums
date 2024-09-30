@@ -7,7 +7,7 @@
 
 ## About
 
-A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
+A FoundryVTT compendium of fan-created resources for the Ironsworn: Starforged system.
 
 ## Contact
 
