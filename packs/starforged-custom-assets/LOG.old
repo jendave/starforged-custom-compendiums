@@ -1,8 +1,15 @@
-2024/09/30-11:20:00.359980 30f632000 Recovering log #190
-2024/09/30-11:20:00.360452 30f632000 Delete type=3 #188
-2024/09/30-11:20:00.360695 30f632000 Delete type=0 #190
-2024/09/30-11:22:16.944472 308d23000 Level-0 table #195: started
-2024/09/30-11:22:16.944601 308d23000 Level-0 table #195: 0 bytes OK
-2024/09/30-11:22:16.944782 308d23000 Delete type=0 #193
-2024/09/30-11:22:16.944935 308d23000 Manual compaction at level-0 from '!folders!3openbQ8reW9YM66' @ 72057594037927935 : 1 .. '!items!bVoE9uRwVwGY91xC' @ 0 : 0; will stop at (end)
-2024/09/30-11:22:16.944946 308d23000 Manual compaction at level-1 from '!folders!3openbQ8reW9YM66' @ 72057594037927935 : 1 .. '!items!bVoE9uRwVwGY91xC' @ 0 : 0; will stop at (end)
+2024/09/30-15:59:33.786659 30bb69000 Recovering log #201
+2024/09/30-15:59:33.787183 30bb69000 Delete type=0 #201
+2024/09/30-15:59:33.787328 30bb69000 Delete type=3 #198
+2024/10/02-12:13:44.559365 31046b000 Level-0 table #208: started
+2024/10/02-12:13:44.561525 31046b000 Level-0 table #208: 214454 bytes OK
+2024/10/02-12:13:44.562120 31046b000 Delete type=0 #206
+2024/10/02-12:13:44.562549 31046b000 Manual compaction at level-0 from '!folders!18b30f608501bf56' @ 72057594037927935 : 1 .. '!items!xFVOc6Bud3TEUAMP' @ 0 : 0; will stop at (end)
+2024/10/02-12:13:44.562569 31046b000 Manual compaction at level-1 from '!folders!18b30f608501bf56' @ 72057594037927935 : 1 .. '!items!xFVOc6Bud3TEUAMP' @ 0 : 0; will stop at '!items!s4qgGBgS531TyAGd' @ 266 : 1
+2024/10/02-12:13:44.562573 31046b000 Compacting 1@1 + 1@2 files
+2024/10/02-12:13:44.564118 31046b000 Generated table #209@1: 127 keys, 110737 bytes
+2024/10/02-12:13:44.564128 31046b000 Compacted 1@1 + 1@2 files => 110737 bytes
+2024/10/02-12:13:44.564191 31046b000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/02-12:13:44.564249 31046b000 Delete type=2 #204
+2024/10/02-12:13:44.564707 31046b000 Delete type=2 #208
+2024/10/02-12:13:44.567124 31046b000 Manual compaction at level-1 from '!items!s4qgGBgS531TyAGd' @ 266 : 1 .. '!items!xFVOc6Bud3TEUAMP' @ 0 : 0; will stop at (end)
