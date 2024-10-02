@@ -7,7 +7,7 @@
 
 ## About
 
-A FoundryVTT compendium of fan-created resources for the Ironsworn: Starforged system.
+A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged system.
 
 ## Contact
 
@@ -29,22 +29,39 @@ Or use this URL and click on `Install`:
 https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.json
 ```
 
-### Use Custom Folders to add Character Sheet Oracles
+### Use Custom Folders to add Oracles, Assets and Moves to the Character Sheet
 
-* If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
-  * `Custom Oracles` - EN
-  * `Oráculos personalizados` - ES
-  * `Oracles personnalisés` - FR
-  * `Własne Wyrocznie` - PL
-  * `Свои оракулы` - RU
-
-Open the `Starforged Custom Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
-
-![Rollable Tables - Custom Oracles](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
-
-The Oracles will be available in the Character sheet under `Custom Oracles`.
-
-![Character Sheet - Custom Oracles](https://github.com/jendave/starforged-custom-compendiums/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
+* Use the following method to integrate To add oracles
+  * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
+    * `Custom Oracles` - EN
+    * `Oráculos personalizados` - ES
+    * `Oracles personnalisés` - FR
+    * `Własne Wyrocznie` - PL
+    * `Свои оракулы` - RU
+  * Open the `Starforged Custom Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
+    * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
+  * The Oracles will be available in the Character sheet under `Custom Oracles`.
+    * ![Character Sheet - Custom Oracles](https://github.com/jendave/starforged-custom-compendiums/blob/main//docs/custom-oracles-character-sheet.jpg?raw=true)
+* Use the following method to integrate the `Starforged Custom Assets` into the character sheet.
+  * Create a `Custom Assets` folder in the `Items` tab called:
+    * `Custom Assets` - EN
+    * `Recursos Personalizados` - ES
+    * `Ressources personnalisées` - FR
+    * `Własne Aspekty` - PL
+  * Open the `Starforged Custom Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
+    * ![Items - Custom Assets](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-assets-items.jpg?raw=true)
+  * The Assets will be available in the Character sheet under `Custom Assets`.
+    * ![Character Sheet - Custom Assets](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
+* Use the following method to integrate the `Starforged Custom Moves` into the character sheet.
+  * Create a `Custom Moves` folder in the `Items` tab called:
+    * `Custom Moves` - EN
+    * `Movimientos personalizados` - ES
+    * `Actions personnalisées` - FR
+    * `Własne Ruchy` - PL
+  * Open the `Starforged Custom Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
+    * ![Items - Custom Moves](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-moves-items.jpg?raw=true)
+  * The Moves will be available in the Character sheet under `Custom Moves`.
+    * ![Character Sheet - Custom Moves](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 
 ### Macros
 
@@ -60,7 +77,7 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ## Credits
 
-Oracles
+Oracles and Assets
 
 * [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
 * [Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
@@ -74,7 +91,7 @@ Oracles
 * [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io) is licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-The following oracles by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
+The following resources by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)
 * [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
@@ -82,24 +99,29 @@ The following oracles by David Hudson (jendave) are used licensed under the [Cre
 * [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze)
 * [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
 
-The following oracles by Julius Hennig (birb-nerb) are used with permission from the author.
+The following resources by Julius Hennig (birb-nerb) are used with permission from the author.
 
 * [Hearten Oracle](https://birb-nerb.itch.io/hearten-oracle)
 * [Cultural Reference and Artifacts From Earth Oracle](https://birb-nerb.itch.io/cultural-references-and-artifacts-from-earth-oracle-for-ironsworn-starforged)
 * [Forging Festivities](https://birb-nerb.itch.io/forging-festivities-oracle-starforged)
 
-The following oracles by wilsonam are used with permission from the author for non-commercial use.
+The following resources by wilsonam are used with permission from the author for non-commercial use.
 
 * [NPC and Plots Oracles](https://wilsonam.itch.io/npcs-and-plots-for-starforged)
 * [She Cannae Take It!](https://wilsonam.itch.io/she-cannae-take-it)
 * [Settlement Detailing](https://wilsonam.itch.io/settlement-detailing-for-starforged)
 * [Settlement Weather](https://wilsonam.itch.io/settlement-weather-oracles-for-starforged)
 
-The following oracles by lm77 are licensed under the [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.en_) for non-commercial use.
+The following resources by lm77 are licensed under the [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.en_) for non-commercial use.
 
 * [MegaCorp Hot Sauce](https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c)
 * [Creature Tags Hot Sauce](https://abalone-cushion-e6c.notion.site/Creature-Tags-Hot-Sauce-eae6966d71524611a17e68a4d425ba9b)
 * [Sojourn Hot Sauce](https://abalone-cushion-e6c.notion.site/Soujourn-Hot-Sauce-Oracle-03997a33bea84fa68fa0c61a919fb875)
+
+The following resources by nqjasmine are used with permission from the author.
+
+* [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1)
+* [Crimes Oracle](https://nqjasmine.itch.io/crimes-oracle)
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
@@ -115,6 +137,7 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 * [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
 * [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 * [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
+* [Elsewhere](https://itch.io/jam/ironsworn-elsewhere/entries)
 
 ## Acknowledgements
 
