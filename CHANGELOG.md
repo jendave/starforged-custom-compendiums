@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.0.1](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-09-xx)
+## [2.0.1](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-10-02)
 
 * Added the following resources by [nqjasmine](https://nqjasmine.itch.io).
   * [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1)

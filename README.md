@@ -137,6 +137,7 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 * [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
 * [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 * [Coalitions of Ironsworn and Starforged Jam](https://itch.io/jam/coalitions-of-ironsworn-and-starforged)
+* [Elsewhere](https://itch.io/jam/ironsworn-elsewhere/entries)
 
 ## Acknowledgements
 
