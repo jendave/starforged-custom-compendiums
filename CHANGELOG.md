@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.2](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-10-09)
+
+* Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by [jendave](https://jendave.itch.io/).
+
 ## [2.0.1](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-10-02)
 
 * Added the following resources by [nqjasmine](https://nqjasmine.itch.io).
