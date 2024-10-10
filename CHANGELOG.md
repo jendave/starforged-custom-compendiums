@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.3](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-10-10)
+
+* Fixed macros that use [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator).
+
 ## [2.0.2](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-10-09)
 
 * Updated [Critical Success](https://jendave.itch.io/critical-successes) oracles by [jendave](https://jendave.itch.io/).
