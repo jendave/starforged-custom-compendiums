@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.4](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-11-10)
+
+* Added helper macros for Ask the Oracle by benstraub.
+
 ## [2.0.3](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-10-09)
 
 * Fixed macros that use [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator).
