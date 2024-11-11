@@ -1,5 +1,7 @@
 # Changelog
 
+[Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
+
 ## [2.0.4](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-11-10)
 
 * Added helper macros for Ask the Oracle by benstraub.
