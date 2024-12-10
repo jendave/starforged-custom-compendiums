@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.5](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-12-10)
+
+* Fixed Research oracle array from the [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze) oracles.
+
 ## [2.0.4](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-11-10)
 
 * Added helper macros for Ask the Oracle by benstraub.
