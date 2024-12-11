@@ -95,7 +95,7 @@ Oracles and Assets
 The following resources by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 
 * [Critical Successes](https://jendave.itch.io/critical-success-oracles)
-* [I Owe My Soul to the Corporate Planet](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
+* [I Owe My Soul to the Company Planet](https://jendave.itch.io/i-owe-my-soul-to-the-company-planet)
 * [I'll Be Home for Life Day!](https://jendave.itch.io/ill-be-home-for-life-day)
 * [The City on the Breeze](https://jendave.itch.io/the-city-on-the-breeze)
 * [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
