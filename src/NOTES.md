@@ -167,3 +167,10 @@ jobs:
 
 ## Package submission
 https://foundryvtt.com/creators/submit/
+
+
+## Javascript Tips
+Get UUIDs in Compendium
+game.packs
+const pack = game.packs.get("starforged-custom-oracles.starforgedcustomoracles");
+const uuids = pack.index.map(i => [i.name, i.uuid]);
