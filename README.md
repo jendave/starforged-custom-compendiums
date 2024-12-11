@@ -173,5 +173,5 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
 * [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
 * [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
-* [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
+* [I Owe My Soul to the Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-company-planet)
 * [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
