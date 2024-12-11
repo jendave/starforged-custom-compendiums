@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [2.0.6](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-12-10)
+## [2.0.6](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2024-12-11)
 
 * Updated [I Owe My Soul to the Company Planet](https://jendave.itch.io/i-owe-my-soul-to-the-company-planet) oracles.
 
