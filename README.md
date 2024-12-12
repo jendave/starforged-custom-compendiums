@@ -11,8 +11,10 @@ A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged syst
 
 ## Contact
 
-* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
+* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
 * [GitHub Repository](https://github.com/jendave/starforged-custom-compendiums)
+* [Itch.io](https://jendave.itch.io/)
 
 ## Features and Notes
 
