@@ -174,3 +174,59 @@ Get UUIDs in Compendium
 game.packs
 const pack = game.packs.get("starforged-custom-oracles.starforgedcustomoracles");
 const uuids = pack.index.map(i => [i.name, i.uuid]);
+
+Red Star
+https://www.space.com/22842-arcturus.html (CC BY-SA 4.0)
+(Image credit: PABLO CARLOS BUDASSI/WIKICOMMS/CC BY-SA 4.0)
+
+https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_the_red_supergiant_star_Antares.jpg (CC BY 4.0)
+https://www.eso.org/public/images/eso1726b/ (CC BY 4.0)
+Credit:
+ESO/M. Kornmesser
+
+Orange Star
+https://commons.wikimedia.org/wiki/Category:Stars#/media/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg (Public Domain)
+
+Yellow Star
+https://commons.wikimedia.org/wiki/Category:Sun#/media/File:Our_Sun_at_a_distance_of_150_Mio._km.jpg (CC BY-SA 4.0)
+
+Blue Star
+https://space-fact-file-gwiontomos.fandom.com/wiki/Pistol_Star?file=Blue_Sun.jpg (CC-BY-SA)
+https://cdn.eso.org/images/screen/eso2009a.jpg
+Credit:
+ESO/L. Calçada, INAF-Padua/S. Zaggia (CC BY 4.0)
+
+Young Star incubating in cloud
+https://en.wikipedia.org/wiki/IC_2631#/media/File:Young_star_lights_up_reflection_nebula_IC_2631.jpg (CC BY 4.0)
+
+White dwarf
+https://commons.wikimedia.org/wiki/Category:Sirius_B#/media/File:Artist's_impression_of_the_sizes_of_Sirius_B_and_the_Earth.jpg (CC BY 4.0)
+
+Corrupted star
+
+Neutron Star
+https://science.psu.edu/news/possible-closest-neutron-star-earth-found (CC BY-NC 3.0)
+https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_the_magnetar_in_the_extraordinary_star_cluster_Westerlund_1.jpg (CC BY 4.0)
+https://cdn.eso.org/images/screen/eso1034a.jpg
+Credit: ESO/L. Calçada (CC BY 4.0)
+
+Binary
+https://www.eso.org/public/images/eso1916a/ (CC BY 4.0)
+https://cdn.eso.org/images/screen/eso1916a.jpg 
+Credit: ALMA (ESO/NAOJ/NRAO), Alves et al.
+
+Black Hole
+https://commons.wikimedia.org/wiki/File:Black_hole%27s_accretion_disk_blank.jpg (CC BY-SA 4.0)
+Credit: NASA’s Goddard Space Flight Center/Jeremy Schnittman, cmglee
+
+Hypergiant
+https://www.eso.org/public/images/eso1409b/ (CC BY 4.0)
+https://cdn.eso.org/images/screen/eso1409b.jpg
+Credit: ESO (CC BY 4.0)
+
+Artificial Star
+
+Unstable star with signs of supernova
+https://www.eso.org/public/images/eso0927a/ (CC BY 4.0)
+https://cdn.eso.org/images/screen/eso0927a.jpg
+Credit: ESO/L. Calçada (CC BY 4.0)

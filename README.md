@@ -87,7 +87,6 @@ Oracles and Assets
 * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
 * [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
-* [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles) oracles by mjatthijs used with permission from the author.
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
 * [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author. You can [buy his books from Amazon](https://www.amazon.com/stores/Chad-Huskins/author/B0CPRJ113D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true).
 * [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
@@ -125,6 +124,11 @@ The following resources by nqjasmine are used with permission from the author.
 
 * [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1)
 * [Crimes Oracle](https://nqjasmine.itch.io/crimes-oracle)
+
+The following resources by mjatthijs are used with permission from the author.
+
+* [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles)
+* [Sundered Isles Underwater Oracles](https://mjatthijs.itch.io/sundered-isles-underwater-oracles)
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
