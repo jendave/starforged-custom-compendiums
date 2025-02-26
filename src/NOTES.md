@@ -1,29 +1,36 @@
 # Text Manipulation Tips
+
 Some small tips to manipulate the text
 
-# Foundry Tips
+## Foundry Tips
 
 ## Dice
+
 ```
 Action Roll 2d10cs<(1d6 + mod)
 Progress Roll 2d10cs<(mod)
 ```
 
 ## Utilities
-```
+
+```bash
 pdftotext -table -nodiag Starsmith-Expanded-Oracles-Dec-17-22.pdf Starsmith-Expanded-Oracles-Dec-17-22-4.txt # export PDF text to text file
 jq -r '.items[] | {name,_id}' starsmith-expanded-oracles-export.json
 jq -r '.items[] | {name,_id} | join(", Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.")' starsmith-expanded-oracles-export.json
 jq -r '.items[] | "displayName: \'"+(.name)+" tables: Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable."+(._id)' starsmith-expanded-oracles-export.json
+```
 
-	starforgedOracles.children[0].children.push({
-		displayName: 'Backstory Prompts (1 - 2)',
-		tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w'],
-		children: []
-	})
+```javascript
+starforgedOracles.children[0].children.push({
+  displayName: 'Backstory Prompts (1 - 2)',
+  tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w'],
+  children: []
+})
 ```
+
 ## VIM Tips
-```
+
+```vi
 :g/^\s*$/d # Remove blank space
 :%s/\s\+$//e # Remove trailing blanks
 ggVG :left # Remove leading blanks
@@ -44,7 +51,8 @@ g~w # toggle case of current word
 ```
 
 ## Rolltable Links
-```
+
+```html
 <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Descriptor"><i class="fa fa-caret-right"></i> Descriptor</a> + <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Focus"><i class="fa fa-caret-right"></i> Focus</a>
 
 <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Location_Themes"><i class="fa fa-caret-right"></i> Location Themes</a>
@@ -57,7 +65,8 @@ g~w # toggle case of current word
 ```
 
 ## Notes for Github workflows
-```
+
+```yaml
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -137,16 +146,20 @@ jobs:
 ```
 
 ## Fonts
+
 ### From Starforged
+
 * PosterGothicRoundATF
 * ProximaNovaCond
 * StarforgedSymbols
 
 ### From Starsmith
+
 * Xolonium as the table title
 * Nunito Sans for the table values
 
-### Google Fonts 
+### Google Fonts
+
 * Eric Bright Starsmith
   * Oxanium as the table title
   * Nunito Sans for the table values
@@ -166,14 +179,17 @@ jobs:
   * Capitalize Title, headings
 
 ## Package submission
+
 https://foundryvtt.com/creators/submit/
 
-
 ## Javascript Tips
+
 Get UUIDs in Compendium
 game.packs
 const pack = game.packs.get("starforged-custom-oracles.starforgedcustomoracles");
 const uuids = pack.index.map(i => [i.name, i.uuid]);
+
+## Star Icons
 
 Red Star
 https://www.space.com/22842-arcturus.html (CC BY-SA 4.0)
@@ -189,12 +205,12 @@ https://commons.wikimedia.org/wiki/Category:Stars#/media/File:The_Sun_by_the_Atm
 
 Yellow Star
 https://commons.wikimedia.org/wiki/Category:Sun#/media/File:Our_Sun_at_a_distance_of_150_Mio._km.jpg (CC BY-SA 4.0)
+https://www.eso.org/public/images/ann15040e/ Credit: NASA/SDO/M. Kornmesser/L. Calçada/ESO (CC BY 4.0)
 
 Blue Star
 https://space-fact-file-gwiontomos.fandom.com/wiki/Pistol_Star?file=Blue_Sun.jpg (CC-BY-SA)
-https://cdn.eso.org/images/screen/eso2009a.jpg
-Credit:
-ESO/L. Calçada, INAF-Padua/S. Zaggia (CC BY 4.0)
+https://www.eso.org/public/images/eso2009a/
+https://cdn.eso.org/images/screen/eso2009a.jpg Credit: ESO/L. Calçada, INAF-Padua/S. Zaggia (CC BY 4.0)
 
 Young Star incubating in cloud
 https://en.wikipedia.org/wiki/IC_2631#/media/File:Young_star_lights_up_reflection_nebula_IC_2631.jpg (CC BY 4.0)
@@ -203,12 +219,15 @@ White dwarf
 https://commons.wikimedia.org/wiki/Category:Sirius_B#/media/File:Artist's_impression_of_the_sizes_of_Sirius_B_and_the_Earth.jpg (CC BY 4.0)
 
 Corrupted star
+https://www.deviantart.com/eaglshadow/art/The-Dying-Sun-168224372
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c0eae9a-a8cd-4516-a4a5-cab4ce434bf8/d2s5mr8-317be7fe-712b-4254-8023-f643255f41ac.png/v1/fill/w_894,h_894,q_70,strp/the_dying_sun_by_eaglshadow_d2s5mr8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEwMCIsInBhdGgiOiJcL2ZcLzdjMGVhZTlhLWE4Y2QtNDUxNi1hNGE1LWNhYjRjZTQzNGJmOFwvZDJzNW1yOC0zMTdiZTdmZS03MTJiLTQyNTQtODAyMy1mNjQzMjU1ZjQxYWMucG5nIiwid2lkdGgiOiI8PTExMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.riraUOSz51th2Tl90JmQZ1WSQWeHhBBiDQ0Pb_4JJZM
+Mario Kotlar / Eaglshadow
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
 
 Neutron Star
 https://science.psu.edu/news/possible-closest-neutron-star-earth-found (CC BY-NC 3.0)
 https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_the_magnetar_in_the_extraordinary_star_cluster_Westerlund_1.jpg (CC BY 4.0)
-https://cdn.eso.org/images/screen/eso1034a.jpg
-Credit: ESO/L. Calçada (CC BY 4.0)
+https://cdn.eso.org/images/screen/eso1034a.jpg Credit: ESO/L. Calçada (CC BY 4.0)
 
 Binary
 https://www.eso.org/public/images/eso1916a/ (CC BY 4.0)
@@ -224,9 +243,20 @@ https://www.eso.org/public/images/eso1409b/ (CC BY 4.0)
 https://cdn.eso.org/images/screen/eso1409b.jpg
 Credit: ESO (CC BY 4.0)
 
+https://esahubble.org/images/opo2109a/
+https://cdn.esahubble.org/archives/images/large/opo2109a.jpg
+Credit:
+NASA, ESA, and R. Humphreys (University of Minnesota), and J. Olmsted (STScI) (CC BY 4.0)
+
 Artificial Star
 
 Unstable star with signs of supernova
 https://www.eso.org/public/images/eso0927a/ (CC BY 4.0)
 https://cdn.eso.org/images/screen/eso0927a.jpg
 Credit: ESO/L. Calçada (CC BY 4.0)
+
+Current icons
+stellar object placeholder: systems/foundry-ironsworn/assets/icons/stellar-object.svg
+planets: systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Grave-01.webp
+
+Size webp 576px ~50kb

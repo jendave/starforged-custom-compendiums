@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.8](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-02-25)
+
+* Verified for Foundry v13.
+
 ## [2.0.7](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-01-18)
 
 * Added [Sundered Isles Underwater Oracles](https://mjatthijs.itch.io/sundered-isles-underwater-oracles) oracles by [mjatthijs](https://mjatthijs.itch.io).
