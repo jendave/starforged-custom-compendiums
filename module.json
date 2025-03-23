@@ -20,8 +20,7 @@
       "name": "starforgedcustomoracles",
       "label": "Starforged Custom Oracles",
       "path": "./packs/starforged-custom-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "starforgedcustomoraclesmacros",
@@ -64,32 +63,22 @@
   "readme": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/README.md",
   "bugs": "https://github.com/jendave/starforged-custom-compendiums/issues",
   "relationships": {
-    "systems": [
-      {
-        "id": "foundry-ironsworn",
-        "type": "system",
-        "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
-        "compatibility": {
-          "minimum": "1.24.3",
-          "verified": "1.24"
-        }
-      }
-    ],
+    "systems": [],
     "recommends": [
+      {
+        "id": "augmented-reality-foundry",
+        "type": "module",
+        "manifest": "https://github.com/jendave/augmented-reality-foundry/releases/latest/download/module.json"
+      },
       {
         "id": "ironsmith-expanded-oracles",
         "type": "module",
-        "reason": "Some custom oracles depend on this module"
+        "manifest": "https://github.com/jendave/ironsmith-compendiums/releases/latest/download/module.json"
       },
       {
         "id": "starsmith-expanded-oracles",
         "type": "module",
-        "reason": "Some custom oracles depend on this module"
-      },
-      {
-        "id": "augmented-reality-foundry",
-        "type": "module",
-        "reason": "Some custom oracles depend on this module"
+        "manifest": "https://github.com/jendave/starsmith-compendiums/releases/latest/download/module.json"
       }
     ]
   }

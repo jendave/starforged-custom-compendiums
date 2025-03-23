@@ -20,7 +20,8 @@ A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged syst
 ## Features and Notes
 
 * Oracle tables contributed by fans are included in the compendium.
-* Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord](https://discord.com/channels/437120373436186625/867434336201605160)!
+* Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord Server](https://discord.com/channels/437120373436186625/867434336201605160)!
+* The Oracle/Rolltable compendiums are system-agnostic. The other compendiums are only available for the [Ironsworn & Starforged](https://foundryvtt.com/packages/foundry-ironsworn).
 
 ## Module Installation
 

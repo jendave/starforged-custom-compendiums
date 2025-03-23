@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.9](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-03-23)
+
+* The Oracles/Rolltables are now system-agnostic.
+
 ## [2.0.8](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-02-25)
 
 * Verified for Foundry v13.
