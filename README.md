@@ -93,6 +93,7 @@ Oracles and Assets
 * [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author. You can [buy his books from Amazon](https://www.amazon.com/stores/Chad-Huskins/author/B0CPRJ113D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true).
 * [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io) is licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* [Spacefaring Waypoints](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [yourGMJack](https://yourgmjack.itch.io/) used with permission from the author.
 * Ask the Oracle macros were contributed by Ben Straub.
 
 The following resources by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)

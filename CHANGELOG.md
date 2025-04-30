@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.10](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-04-30)
+
+* Added [Spacefaring Waypoints](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [yourGMJack](https://yourgmjack.itch.io/).
+
 ## [2.0.9](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-03-23)
 
 * The Oracles/Rolltables are now system-agnostic.
