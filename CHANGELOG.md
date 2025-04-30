@@ -4,7 +4,7 @@
 
 ## [2.0.10](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-04-30)
 
-* Added [Spacefaring Waypoints](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [yourGMJack](https://yourgmjack.itch.io/).
+* Added [Spacefaring Waypoints](https://cdn.discordapp.com/attachments/468867952033136652/1366915141106663545/si_waypoints_for_starforged_v1_0.pdf?ex=6813572d&is=681205ad&hm=5e4bfe0e0145a3172264d7f5c56eab06dbe00452cbf9b910216c1732e37badcb&) by [yourGMJack](https://yourgmjack.itch.io/).
 
 ## [2.0.9](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-03-23)
 
