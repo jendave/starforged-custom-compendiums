@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.12](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-05-07)
+
+* Minor fixes.
+
 ## [2.0.11](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-05-07)
 
 * Added [Moves from *Learning From Your Failures in Starforged*](https://tomkinpress.com/blogs/news/learn-from-your-failures-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/).
