@@ -35,7 +35,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ### Use Custom Folders to add Oracles, Assets and Moves to the Character Sheet
 
-* Use the following method to integrate To add oracles
+* Use the following method to integrate the `Starforged Custom Oracles` into the character sheet.
   * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
     * `Custom Oracles` - EN
     * `Oráculos personalizados` - ES
