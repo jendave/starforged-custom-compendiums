@@ -4,9 +4,9 @@
   "description": "A collection of homebrew resources for the Ironsworn: Starforged system.",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": 11,
-    "verified": 13,
-    "maximum": 13
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "13"
   },
   "authors": [
     {
