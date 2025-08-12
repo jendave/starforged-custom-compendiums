@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.13](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-08-12)
+
+* Add [Spacefaring Interludes](https://tomkinpress.com/blogs/news/spacefaring-interludes) by [Shawn Tomkin](https://tomkinpress.com/).
+
 ## [2.0.12](https://github.com/jendave/starforged-custom-compendiums/commits/main) (2025-05-07)
 
 * Minor fixes.

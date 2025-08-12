@@ -91,10 +91,15 @@ Oracles and Assets
 * [The Starforged Sojourner](https://rossum.itch.io/the-starforged-sojourner) oracle by rossum is used with permission granted to copy for personal use only.
 * [Exploration Oracle Arrays](https://castelviator.itch.io/exploration-oracle-arrays) by Castelviator used with permission from the author.
 * [Star Wars Oracles](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by cdoghusk used with permission from the author. You can [buy his books from Amazon](https://www.amazon.com/stores/Chad-Huskins/author/B0CPRJ113D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true).
-* [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged) and [Moves from *Learning From Your Failures in Starforged*](https://tomkinpress.com/blogs/news/learn-from-your-failures-in-starforged) by [Shawn Tomkin](https://tomkinpress.com/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io) is licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [Spacefaring Waypoints](https://cdn.discordapp.com/attachments/468867952033136652/1366915141106663545/si_waypoints_for_starforged_v1_0.pdf?ex=6813572d&is=681205ad&hm=5e4bfe0e0145a3172264d7f5c56eab06dbe00452cbf9b910216c1732e37badcb&) by [yourGMJack](https://yourgmjack.itch.io/) used with permission from the author.
 * Ask the Oracle macros were contributed by Ben Straub.
+
+The following resources by [Shawn Tomkin](https://tomkinpress.com/) are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
+* [Ship Classes in Starforged](https://www.ironswornrpg.com/post/ship-classes-in-starforged)
+* [Moves from *Learning From Your Failures in Starforged*](https://tomkinpress.com/blogs/news/learn-from-your-failures-in-starforged)
+* [Spacefaring Interludes](https://tomkinpress.com/blogs/news/spacefaring-interludes)
 
 The following resources by David Hudson (jendave) are used licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/)
 
