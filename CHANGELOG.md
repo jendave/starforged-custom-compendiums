@@ -4,12 +4,12 @@
 
 ## [2.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-08-29)
 
-* Add [Voidforged](https://kerys.itch.io/voidforged) by [Kerys](https://kerys.itch.io).
+* Added [Voidforged](https://kerys.itch.io/voidforged) by [Kerys](https://kerys.itch.io).
 * Created a new compendium to hold Journal Entries. This will be useful for holding custom Truths and for documentation of the resources.
 
 ## [2.0.13](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-08-12)
 
-* Add [Spacefaring Interludes](https://tomkinpress.com/blogs/news/spacefaring-interludes) by [Shawn Tomkin](https://tomkinpress.com/).
+* Added [Spacefaring Interludes](https://tomkinpress.com/blogs/news/spacefaring-interludes) by [Shawn Tomkin](https://tomkinpress.com/).
 
 ## [2.0.12](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-05-07)
 
