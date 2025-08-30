@@ -2,7 +2,7 @@
   "id": "starforged-custom-oracles",
   "title": "Starforged Custom Compendiums",
   "description": "A collection of homebrew resources for the Ironsworn: Starforged system.",
-  "version": "2.0.13",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "11",
     "verified": "13",
@@ -64,9 +64,9 @@
       ]
     }
   ],
-  "manifest": "https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.json",
-  "url": "https://github.com/jendave/starforged-custom-compendiums",
-  "download": "https://github.com/jendave/starforged-custom-compendiums/releases/download/2.0.13/module.zip",
+  "manifest": "#{MANIFEST}#",
+  "url": "#{URL}#",
+  "download": "#{DOWNLOAD}#",
   "license": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/LICENSE",
   "changelog": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/CHANGELOG.md",
   "readme": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/README.md",
