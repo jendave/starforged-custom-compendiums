@@ -2,7 +2,7 @@
   "id": "starforged-custom-oracles",
   "title": "Starforged Custom Compendiums",
   "description": "A collection of homebrew resources for the Ironsworn: Starforged system.",
-  "version": "#{VERSION}#",
+  "version": "2.0.13",
   "compatibility": {
     "minimum": "11",
     "verified": "13",
@@ -42,6 +42,13 @@
       "path": "./packs/starforged-custom-moves",
       "type": "Item",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starforgedcustomjournalentries",
+      "label": "Starforged Custom Journal Entries",
+      "path": "./packs/starforged-custom-journal-entries",
+      "type": "JournalEntry",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -51,13 +58,15 @@
         "starforgedcustomassets",
         "starforgedcustomoracles",
         "starforgedcustomoraclesmacros",
-        "starforgedcustommoves"
+        "starforgedcustommoves",
+        "starforgedcustomjournalentries"
+
       ]
     }
   ],
-  "manifest": "#{MANIFEST}#",
-  "url": "#{URL}#",
-  "download": "#{DOWNLOAD}#",
+  "manifest": "https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.json",
+  "url": "https://github.com/jendave/starforged-custom-compendiums",
+  "download": "https://github.com/jendave/starforged-custom-compendiums/releases/download/2.0.13/module.zip",
   "license": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/LICENSE",
   "changelog": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/CHANGELOG.md",
   "readme": "https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/main/README.md",

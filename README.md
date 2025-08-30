@@ -94,6 +94,7 @@ Oracles and Assets
 * [Time Traveller](https://lemunde.itch.io/ironsworn-starforged-time-traveler) by [lemunde](https://lemunde.itch.io) is licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [Spacefaring Waypoints](https://cdn.discordapp.com/attachments/468867952033136652/1366915141106663545/si_waypoints_for_starforged_v1_0.pdf?ex=6813572d&is=681205ad&hm=5e4bfe0e0145a3172264d7f5c56eab06dbe00452cbf9b910216c1732e37badcb&) by [yourGMJack](https://yourgmjack.itch.io/) used with permission from the author.
 * Ask the Oracle macros were contributed by Ben Straub.
+* [Voidforged](https://kerys.itch.io/voidforged) by [Kerys](https://kerys.itch.io) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
 The following resources by [Shawn Tomkin](https://tomkinpress.com/) are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -139,6 +140,8 @@ The following resources by mjatthijs are used with permission from the author.
 * [Sundered Isles Underwater Oracles](https://mjatthijs.itch.io/sundered-isles-underwater-oracles)
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
+
+All resources have been converted from their original format into a format comaptible with FoundryVTT.
 
 Licenses and permissions for the macros are listed in the source code.
 
