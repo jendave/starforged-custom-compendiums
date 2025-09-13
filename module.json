@@ -23,9 +23,9 @@
       "type": "RollTable"
     },
     {
-      "name": "starforgedcustomoraclesmacros",
-      "label": "Starforged Custom Oracles Macros",
-      "path": "./packs/starforged-custom-oracles-macros",
+      "name": "starforgedcustommacros",
+      "label": "Starforged Custom Macros",
+      "path": "./packs/starforged-custom-macros",
       "type": "Macro",
       "system": "foundry-ironsworn"
     },
@@ -57,7 +57,7 @@
       "packs": [
         "starforgedcustomassets",
         "starforgedcustomoracles",
-        "starforgedcustomoraclesmacros",
+        "starforgedcustommacros",
         "starforgedcustommoves",
         "starforgedcustomjournalentries"
 
