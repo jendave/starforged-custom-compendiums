@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [2.0.15](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-09-xx)
+
+* Added [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io).
+
 ## [2.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-08-29)
 
 * Added [Voidforged](https://kerys.itch.io/voidforged) by [Kerys](https://kerys.itch.io).
