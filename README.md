@@ -70,7 +70,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ### Macros
 
-* Drag and drop macros from the `Starforged Custom Oracles Macros` compendium to the macro bar. Macros use the current `Roll Mode` when executed.
+* Drag and drop macros from the `Starforged Custom Macros` compendium to the macro bar. Macros use the current `Roll Mode` when executed.
 
 ### Dependencies
 
