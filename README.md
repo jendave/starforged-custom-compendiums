@@ -20,6 +20,7 @@ A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged syst
 ## Features and Notes
 
 * Oracle tables contributed by fans are included in the compendium.
+* Read the documentation in the journal compendium to locate resources by author, utility type, genre and theme.
 * Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord Server](https://discord.com/channels/437120373436186625/867434336201605160)!
 * The Oracle/Rolltable compendiums are system-agnostic. The other compendiums are only available for the [Ironsworn & Starforged](https://foundryvtt.com/packages/foundry-ironsworn).
 
@@ -85,7 +86,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 Oracles and Assets
 
 * [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
-* [Gender Expression Oracle](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
+* [Gender Expression Oracles](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
 * [Starforged Gear Oracle](https://illinalta.itch.io/starforged-gear-oracle) by illinalta is used with permission from the author.
 * [Better + Moons](https://ellie-valkyrie.itch.io/sfbm) by ellie-valkyrie is used with permission from the author.
 * [Iron City](https://vishae.itch.io/ironcity-district-generator) oracles by vishae are licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/).

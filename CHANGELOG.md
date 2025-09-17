@@ -2,12 +2,12 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [2.0.15](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-09-xx)
+## [3.0.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-09-xx)
 
-* Added [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io).
-* Small re-org of some Oracles.
 * Added documentation in the journal compendium to make it easier to find resources to use.
-* Updated filename of the Macro compendium.
+* Added [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io).
+* Updated the filename of the Macro compendium. This may require a re-install of the module since the old compendium may leave an artifact.
+* Reorganized and added some missing Oracles and Macros.
 
 ## [2.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-08-29)
 
