@@ -6,8 +6,9 @@
 
 * Added documentation in the journal compendium to make it easier to find resources to use.
 * Added [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io).
+* Added icons from [Game-icons.net](https://foundryvtt.com/packages/game-icons-net) to assets by nqjasmine, lemunde and Iceyman.
 * Updated the filename of the Macro compendium. This may require a re-install of the module since the old compendium may leave an artifact.
-* Reorganized and added some missing Oracles and Macros.
+* Reorganized and added some missing Oracles, Macros and Assets.
 
 ## [2.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-08-29)
 

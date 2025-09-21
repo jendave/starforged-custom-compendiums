@@ -174,6 +174,7 @@ The following modules were used in the development process
 
 * [Foundry VTT Content Parser](https://foundryvtt.com/packages/foundry-vtt-content-parser)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
+* [Game-icons.net](https://foundryvtt.com/packages/game-icons-net)
 
 ## FoundryVTT Modules and Other Resources
 
