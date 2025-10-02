@@ -68,6 +68,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   * The Moves will be available in the Character sheet under `Custom Moves`.
     * ![Character Sheet - Custom Moves](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 * Reload the current FoundryVTT session by pressing CTRL-R (Windows/Linux) or CMD-R (Mac).
+* Note that when using Custom Resources that refer to other Custom Resources, the character sheet may not scroll to other custom resources like it does with system resources.
 
 ### Macros
 
