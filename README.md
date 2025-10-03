@@ -84,7 +84,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ## Credits
 
-Oracles and Assets
+Oracles, Assets and Journal Entries
 
 * [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
 * [Gender Expression Oracles](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
@@ -99,6 +99,7 @@ Oracles and Assets
 * Ask the Oracle macros were contributed by Ben Straub.
 * [Voidforged](https://kerys.itch.io/voidforged) by [Kerys](https://kerys.itch.io) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io) used with permission from the author.
+* [Moments Forged - Starforged Adventure Starters](https://margot-hutton.itch.io/moments-forged-starforged-adventure-starters) by [Margot Hutton](https://margot-hutton.itch.io/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 
 The following resources by [Shawn Tomkin](https://tomkinpress.com/) are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
