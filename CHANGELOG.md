@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.0.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-09-xx)
+## [3.0.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-11)
 
 * Added documentation to the journal compendium so that finding resources is now much easier.
   * Journal entries are organized by utility, genre and author.
