@@ -4,7 +4,8 @@
 
 ## [3.0.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-09-xx)
 
-* Added documentation to the journal compendium so that finding resources to use is now much easier.
+* Added documentation to the journal compendium so that finding resources is now much easier.
+  * Journal entries are organized by utility, genre and author.
 * Added [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io).
 * Added icons from [Game-icons.net](https://foundryvtt.com/packages/game-icons-net) to assets by nqjasmine, lemunde and Iceyman.
 * Added [Moments Forged - Starforged Adventure Starters](https://margot-hutton.itch.io/moments-forged-starforged-adventure-starters) by [Margot Hutton](https://margot-hutton.itch.io/)
