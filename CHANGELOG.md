@@ -10,7 +10,7 @@
 
 * Added documentation to the journal compendium so that finding resources is now much easier.
   * Journal entries are organized by utility, genre and author.
-* Added [Ironsworn 1.5-ish E](https://kerys.itch.io/voidforged) by [Iceyman](https://kerys.itch.io).
+* Added [Ironsworn 1.5-ish E](https://discord.com/channels/437120373436186625/970326580909973525/1359736960393941085) by Iceyman.
 * Added icons from [Game-icons.net](https://foundryvtt.com/packages/game-icons-net) to assets by nqjasmine, lemunde and Iceyman.
 * Added [Moments Forged - Starforged Adventure Starters](https://margot-hutton.itch.io/moments-forged-starforged-adventure-starters) by [Margot Hutton](https://margot-hutton.itch.io/)
 * Updated the filename of the Macro compendium. This may require a re-install of the module since the old compendium may leave an artifact.
