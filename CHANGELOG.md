@@ -2,8 +2,9 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.0.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-xx)
+## [3.0.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-11)
 
+* Fixed links to [Ironsworn 1.5-ish E](https://discord.com/channels/437120373436186625/970326580909973525/1359736960393941085).
 * Update Intro documention.
 
 ## [3.0.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-11)
