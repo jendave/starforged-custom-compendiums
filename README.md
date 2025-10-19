@@ -144,7 +144,6 @@ The following resources by mjatthijs are used with permission from the author.
 
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles)
 * [Sundered Isles Underwater Oracles](https://mjatthijs.itch.io/sundered-isles-underwater-oracles)
-* 
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
