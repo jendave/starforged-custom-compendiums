@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-19)
+
+* Added [Legacy Iron (Starforged Asset Pack)](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack) by [Ludic Pen](https://www.drivethrurpg.com/en/publisher/14520/ludic-pen).
+
 ## [3.0.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-11)
 
 * Fixed links to [Ironsworn 1.5-ish E](https://discord.com/channels/437120373436186625/970326580909973525/1359736960393941085).

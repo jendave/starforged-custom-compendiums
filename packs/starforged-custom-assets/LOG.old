@@ -1,22 +1,3 @@
-2025/10/01-14:24:50.029634 30a87f000 Recovering log #239
-2025/10/01-14:24:50.030095 30a87f000 Delete type=0 #239
-2025/10/01-14:24:50.030135 30a87f000 Delete type=3 #237
-2025/10/02-20:34:08.767686 304eef000 Moved #238 to level-1 362720 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2025/10/02-22:46:03.544084 304eef000 Compacting 1@1 + 1@2 files
-2025/10/02-22:46:03.548601 304eef000 Generated table #242@1: 273 keys, 250711 bytes
-2025/10/02-22:46:03.548621 304eef000 Compacted 1@1 + 1@2 files => 250711 bytes
-2025/10/02-22:46:03.548869 304eef000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/10/02-22:46:03.548998 304eef000 Delete type=2 #238
-2025/10/02-22:46:03.549328 304eef000 Delete type=2 #236
-2025/10/06-07:29:07.578797 304eef000 Level-0 table #244: started
-2025/10/06-07:29:07.581745 304eef000 Level-0 table #244: 250584 bytes OK
-2025/10/06-07:29:07.582311 304eef000 Delete type=0 #241
-2025/10/06-07:29:07.586496 304eef000 Manual compaction at level-0 from '!folders!18b30f608501bf56' @ 72057594037927935 : 1 .. '!items!zuKJ6xVkRsuTkooz' @ 0 : 0; will stop at (end)
-2025/10/06-07:29:07.587002 304eef000 Manual compaction at level-1 from '!folders!18b30f608501bf56' @ 72057594037927935 : 1 .. '!items!zuKJ6xVkRsuTkooz' @ 0 : 0; will stop at '!items!zuKJ6xVkRsuTkooz' @ 1762 : 1
-2025/10/06-07:29:07.587009 304eef000 Compacting 1@1 + 1@2 files
-2025/10/06-07:29:07.590839 304eef000 Generated table #245@1: 273 keys, 254040 bytes
-2025/10/06-07:29:07.590854 304eef000 Compacted 1@1 + 1@2 files => 254040 bytes
-2025/10/06-07:29:07.590922 304eef000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/10/06-07:29:07.590978 304eef000 Delete type=2 #242
-2025/10/06-07:29:07.591270 304eef000 Delete type=2 #244
-2025/10/06-07:29:07.591779 304eef000 Manual compaction at level-1 from '!items!zuKJ6xVkRsuTkooz' @ 1762 : 1 .. '!items!zuKJ6xVkRsuTkooz' @ 0 : 0; will stop at (end)
+2025/10/06-20:07:18.568238 30b082000 Recovering log #243
+2025/10/06-20:07:18.568759 30b082000 Delete type=3 #240
+2025/10/06-20:07:18.569215 30b082000 Delete type=0 #243

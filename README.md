@@ -100,6 +100,7 @@ Oracles, Assets and Journal Entries
 * [Voidforged](https://kerys.itch.io/voidforged) by [Kerys](https://kerys.itch.io) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Ironsworn 1.5-ish E](https://discord.com/channels/437120373436186625/970326580909973525/1359736960393941085) by Iceyman is used with permission from the author.
 * [Moments Forged - Starforged Adventure Starters](https://margot-hutton.itch.io/moments-forged-starforged-adventure-starters) by [Margot Hutton](https://margot-hutton.itch.io/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
+* [Legacy Iron (Starforged Asset Pack)](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack) by [Ludic Pen](https://www.drivethrurpg.com/en/publisher/14520/ludic-pen) used with permission from the author.
 
 The following resources by [Shawn Tomkin](https://tomkinpress.com/) are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -143,6 +144,7 @@ The following resources by mjatthijs are used with permission from the author.
 
 * [Exotic Planets](https://mjatthijs.itch.io/exoticplanetoracles)
 * [Sundered Isles Underwater Oracles](https://mjatthijs.itch.io/sundered-isles-underwater-oracles)
+* 
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
