@@ -87,9 +87,17 @@ async function coreFunction(region, startingSector) {
             navigation: false,
             "grid.type": 2,
             "grid.color": "ffffff",
+            "grid.alpha": 0.35,
+            "grid.size": 200,
             "background.src": file,
+            backgroundColor: "000000",
+            padding: 0,
+            "initial.scale": 0.386,
+            "initial.x": 2428,
+            "initial.y": 1417,
+            foregroundElevation: 20,
             journal: newJournal.id,
-            journalEntryPage: newJournal.pages[0].id,
+            //   journalEntryPage: newJournal.pages[0].id,
             width,
             height
         });
