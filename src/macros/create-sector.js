@@ -69,8 +69,14 @@ async function coreFunction(region, startingSector) {
     roll = await table.roll();
     let sectorTrouble = roll.results[0].text;
 
+    //let sectorDataFolder = game.folders.getName("Sector Data");
+    //if (!sectorDataFolder) sectorDataFolder = await Folder.create({ name: "Sector Data" });
+
+    const sectorDataFolder = game.folders.getName("Sector Data") ?? await Folder.create({ name: "Sector Data", type: "JournalEntry" });
+
     const newJournal = await JournalEntry.create({
         name: sectorPrefix + " " + sectorSuffix,
+        folder: sectorDataFolder.id,
         pages: [{
             name: "Sector Trouble",
             text: { content: sectorTrouble + "." }
