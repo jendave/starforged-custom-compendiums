@@ -1,11 +1,13 @@
+//import { IronswornActor } from "../../systems/foundry-ironsworn/module/actor/ironsworn-actor.js";
+
 function printMessage(message) {
     let chatData = { content: message };
     ChatMessage.applyRollMode(chatData, game.settings.get("core", "rollMode"));
-    ChatMessage.create(chatData, {})
-};
+    ChatMessage.create(chatData, {});
+}
 
 function randomArrayItem(array) {
-    const index = (Math.floor(Math.random() * array.length));
+    const index = Math.floor(Math.random() * array.length);
     return array[index];
 }
 
@@ -36,7 +38,10 @@ async function coreFunction(region, startingSector) {
             numberOfPassages = 3;
     }
 
-    let result = await FilePicker.browse("data", "systems/foundry-ironsworn/assets/sectors/1.webp");
+    let result = await FilePicker.browse(
+        "data",
+        "systems/foundry-ironsworn/assets/sectors/1.webp"
+    );
 
     // The 'result' object contains information about the browsed directory
     console.log("Files:", result.files); // Array of file paths
@@ -52,32 +57,49 @@ async function coreFunction(region, startingSector) {
     let table;
     let roll;
 
-    const rollTablePrefix = "Compendium.foundry-ironsworn.starforgedoracles.RollTable.";
+    const rollTablePrefix =
+        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.";
     // const rollTablePrefix = "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.";
     const sectorPrefixArray = ["306501658d12dbad"];
     const sectorSuffixArray = ["0b2b7f507f8901cc"];
 
-    table = await fromUuid(rollTablePrefix + randomArrayItem(sectorPrefixArray));
+    table = await fromUuid(
+        rollTablePrefix + randomArrayItem(sectorPrefixArray)
+    );
     roll = await table.roll();
     let sectorPrefix = roll.results[0].text;
 
-    table = await fromUuid(rollTablePrefix + randomArrayItem(sectorSuffixArray));
+    table = await fromUuid(
+        rollTablePrefix + randomArrayItem(sectorSuffixArray)
+    );
     roll = await table.roll();
     let sectorSuffix = roll.results[0].text;
 
-    table = await fromUuid("Compendium.foundry-ironsworn.starforgedoracles.RollTable.f6764b50761b77eb");
+    table = await fromUuid(
+        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.f6764b50761b77eb"
+    );
     roll = await table.roll();
     let sectorTrouble = roll.results[0].text;
 
-    const sectorDataFolder = game.folders.getName("Sector Data") ?? await Folder.create({ name: "Sector Data", type: "JournalEntry" });
+    table = await fromUuid(
+        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.c25eade4d8daa0bc"
+    );
+    roll = await table.roll();
+    let settlementName = roll.results[0].text;
+
+    const sectorDataFolder =
+        game.folders.getName("Sector Data") ??
+        (await Folder.create({ name: "Sector Data", type: "JournalEntry" }));
 
     const newJournal = await JournalEntry.create({
         name: sectorPrefix + " " + sectorSuffix,
         folder: sectorDataFolder.id,
-        pages: [{
-            name: "Sector Trouble",
-            text: { content: sectorTrouble + "." }
-        }]
+        pages: [
+            {
+                name: "Sector Trouble",
+                text: { content: sectorTrouble + "." },
+            },
+        ],
     });
 
     for (let file of result.files) {
@@ -102,10 +124,30 @@ async function coreFunction(region, startingSector) {
             journal: newJournal.id,
             //   journalEntryPage: newJournal.pages[0].id,
             width,
-            height
+            height,
         });
     }
     await Scene.createDocuments(data);
+
+    const name = settlementName;
+    const scale = 1;
+    const subtype = "settlement";
+
+    //new CONFIG.IRONSWORN.actorClass().render(true);
+
+    const loc = await CONFIG.IRONSWORN.actorClass.create({
+        type: "location",
+        name,
+        system: { subtype },
+        prototypeToken: {
+            displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+            disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+            actorLink: true,
+            "texture.scaleX": scale, // v12
+            "texture.scaleY": scale, // v12
+        },
+        //folder: parentFolder?.id
+    });
 }
 
 try {
@@ -113,7 +155,7 @@ try {
     let startingSector = "";
 
     let d = new Dialog({
-        title: 'Select Region and Sector Type',
+        title: "Select Region and Sector Type",
         content: `
         <form class="flexcol">
             <div class="form-group">
@@ -132,23 +174,24 @@ try {
         buttons: {
             no: {
                 icon: '<i class="fas fa-times"></i>',
-                label: 'Cancel'
+                label: "Cancel",
             },
             yes: {
                 icon: '<i class="fas fa-check"></i>',
-                label: 'Yes',
+                label: "Yes",
                 callback: (html) => {
                     region = html.find('[name="selectRegion"]').val();
-                    startingSector = html.find('[name="selectStartingSector"]').is(':checked');
-                }
+                    startingSector = html
+                        .find('[name="selectStartingSector"]')
+                        .is(":checked");
+                },
             },
         },
-        default: 'yes',
+        default: "yes",
         close: () => {
             coreFunction(region, startingSector);
-        }
-    }).render(true)
-}
-catch (e) {
+        },
+    }).render(true);
+} catch (e) {
     console.log("The Dialog was closed without a choice being made.");
 }
