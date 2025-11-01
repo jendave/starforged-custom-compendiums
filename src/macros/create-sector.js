@@ -155,12 +155,19 @@ async function coreFunction(region, startingSector) {
     roll = await table.roll();
     const klass = roll.results[0].text.toLowerCase();
 
+    // population
+    // authority
+    // settlement projects 1-2
+
     const loc = await CONFIG.IRONSWORN.actorClass.create({
         type: "location",
         name,
         folder: settlementFolder.id,
         system: { subtype, klass },
-        img: "systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Ocean-02.webp",
+        img: `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
+            /\s+/,
+            ""
+        )}.webp`,
         prototypeToken: {
             displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
             disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
