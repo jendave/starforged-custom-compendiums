@@ -91,10 +91,26 @@ async function coreFunction(region, startingSector) {
         game.folders.getName("Sector Data") ??
         (await Folder.create({ name: "Sector Data", type: "JournalEntry" }));
 
+    const settlementFolder =
+        game.folders.getName("Settlements") ??
+        (await Folder.create({ name: "Settlements", type: "Actor" }));
+
     const newJournal = await JournalEntry.create({
         name: sectorPrefix + " " + sectorSuffix,
         folder: sectorDataFolder.id,
         pages: [
+            {
+                name: "Overview",
+                text: {
+                    content:
+                        sectorPrefix +
+                        " " +
+                        sectorSuffix +
+                        " is located in the " +
+                        region +
+                        ".",
+                },
+            },
             {
                 name: "Sector Trouble",
                 text: { content: sectorTrouble + "." },
@@ -133,20 +149,25 @@ async function coreFunction(region, startingSector) {
     const scale = 1;
     const subtype = "settlement";
 
-    //new CONFIG.IRONSWORN.actorClass().render(true);
+    table = await fromUuid(
+        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.68efb47a93ee8925"
+    );
+    roll = await table.roll();
+    const klass = roll.results[0].text.toLowerCase();
 
     const loc = await CONFIG.IRONSWORN.actorClass.create({
         type: "location",
         name,
-        system: { subtype },
+        folder: settlementFolder.id,
+        system: { subtype, klass },
+        img: "systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Ocean-02.webp",
         prototypeToken: {
             displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
             disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
             actorLink: true,
-            "texture.scaleX": scale, // v12
-            "texture.scaleY": scale, // v12
+            "texture.scaleX": scale,
+            "texture.scaleY": scale,
         },
-        //folder: parentFolder?.id
     });
 }
 
