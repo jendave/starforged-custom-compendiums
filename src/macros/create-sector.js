@@ -11,6 +11,12 @@ function randomArrayItem(array) {
     return array[index];
 }
 
+function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
 async function coreFunction(region, startingSector) {
     console.log("Region:", region);
     console.log("Starting Sector:", startingSector);
@@ -20,22 +26,31 @@ async function coreFunction(region, startingSector) {
     let data = [];
     let numberOfPlanets = 0;
     let numberOfPassages = 0;
+    let populationOracle = "";
     switch (region) {
         case "Terminus":
             numberOfPlanets = 4;
             numberOfPassages = 3;
+            populationOracle =
+                "Compendium.foundry-ironsworn.starforgedoracles.RollTable.473250ed66f4c411";
             break;
         case "Outlands":
             numberOfPlanets = 3;
             numberOfPassages = 2;
+            populationOracle =
+                "Compendium.foundry-ironsworn.starforgedoracles.RollTable.8d5220c3ac5a5199";
             break;
         case "Expanse":
             numberOfPlanets = 2;
             numberOfPassages = 1;
+            populationOracle =
+                "Compendium.foundry-ironsworn.starforgedoracles.RollTable.058fd93e957c6804";
             break;
         default:
             numberOfPlanets = 4;
             numberOfPassages = 3;
+            populationOracle =
+                "Compendium.foundry-ironsworn.starforgedoracles.RollTable.473250ed66f4c411";
     }
 
     let result = await FilePicker.browse(
@@ -62,6 +77,10 @@ async function coreFunction(region, startingSector) {
     // const rollTablePrefix = "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.";
     const sectorPrefixArray = ["306501658d12dbad"];
     const sectorSuffixArray = ["0b2b7f507f8901cc"];
+    const sectorTroubleArray = ["f6764b50761b77eb"];
+    const settlementNameArray = ["c25eade4d8daa0bc"];
+    const authorityArray = ["2c3224921966f200"];
+    const settlementProjectArray = ["eb909255e1df463b"];
 
     table = await fromUuid(
         rollTablePrefix + randomArrayItem(sectorPrefixArray)
@@ -76,13 +95,13 @@ async function coreFunction(region, startingSector) {
     let sectorSuffix = roll.results[0].text;
 
     table = await fromUuid(
-        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.f6764b50761b77eb"
+        rollTablePrefix + randomArrayItem(sectorTroubleArray)
     );
     roll = await table.roll();
     let sectorTrouble = roll.results[0].text;
 
     table = await fromUuid(
-        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.c25eade4d8daa0bc"
+        rollTablePrefix + randomArrayItem(settlementNameArray)
     );
     roll = await table.roll();
     let settlementName = roll.results[0].text;
@@ -155,15 +174,39 @@ async function coreFunction(region, startingSector) {
     roll = await table.roll();
     const klass = roll.results[0].text.toLowerCase();
 
+    table = await fromUuid(populationOracle);
+    roll = await table.roll();
+    let population = roll.results[0].text;
+
+    table = await fromUuid(rollTablePrefix + randomArrayItem(authorityArray));
+    roll = await table.roll();
+    let authority = roll.results[0].text;
+
+    let settlementProject = "";
+    table = await fromUuid(
+        rollTablePrefix + randomArrayItem(settlementProjectArray)
+    );
+    for (let i = 0; i < getRandomInt(1, 2); i++) {
+        roll = await table.roll();
+        settlementProject += roll.results[0].text + "<br>";
+    }
+
+    let description = `<p><strong>Population:</strong> ${population}</p>
+        <p><strong>Authority:</strong> ${authority}</p>
+        <p><strong>Settlement projects:</strong> ${settlementProject}</p>`;
+
     // population
     // authority
     // settlement projects 1-2
+    // <p><strong>Population:</strong> ${population}</p>
+    // <p><strong>Authority:</strong> ${authority}</p>
+    // <p><strong>Settlement projects:</strong> ${settlementProject}</p>
 
     const loc = await CONFIG.IRONSWORN.actorClass.create({
         type: "location",
         name,
         folder: settlementFolder.id,
-        system: { subtype, klass },
+        system: { subtype, klass, description },
         img: `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
             /\s+/,
             ""
