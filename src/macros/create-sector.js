@@ -106,6 +106,10 @@ async function coreFunction(region, startingSector) {
     roll = await table.roll();
     let settlementName = roll.results[0].text;
 
+    const sceneFolder =
+        game.folders.getName("Sectors") ??
+        (await Folder.create({ name: "Sectors", type: "Scene" }));
+
     const sectorDataFolder =
         game.folders.getName("Sector Data") ??
         (await Folder.create({ name: "Sector Data", type: "JournalEntry" }));
@@ -141,6 +145,7 @@ async function coreFunction(region, startingSector) {
         //if(game.scenes.some(s => s.background.src === file)) continue;
         const { width, height } = await loadTexture(file);
         data.push({
+            folder: sceneFolder.id,
             name: sectorPrefix + " " + sectorSuffix,
             fogExploration: false,
             tokenVision: false,
