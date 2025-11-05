@@ -100,21 +100,100 @@ async function coreFunction(region, startingSector) {
     roll = await table.roll();
     let sectorTrouble = roll.results[0].text;
 
-    const sceneFolder =
+    const sectorsFolder =
         game.folders.getName("Sectors") ??
         (await Folder.create({ name: "Sectors", type: "Scene" }));
+
+    const sectorsTerminusFolder =
+        game.folders.getName("Sectors - Terminus") ??
+        (await Folder.create({
+            name: "Sectors - Terminus",
+            type: "Scene",
+            folder: sectorsFolder.id,
+        }));
+
+    const sectorsOutlandsFolder =
+        game.folders.getName("Sectors - Outlands") ??
+        (await Folder.create({
+            name: "Sectors - Outlands",
+            type: "Scene",
+            folder: sectorsFolder.id,
+        }));
+
+    const sectorsExpanseFolder =
+        game.folders.getName("Sectors - Expanse") ??
+        (await Folder.create({
+            name: "Sectors - Expanse",
+            type: "Scene",
+            folder: sectorsFolder.id,
+        }));
 
     const sectorDataFolder =
         game.folders.getName("Sector Data") ??
         (await Folder.create({ name: "Sector Data", type: "JournalEntry" }));
 
-    const settlementFolder =
-        game.folders.getName("Settlements") ??
-        (await Folder.create({ name: "Settlements", type: "Actor" }));
+    const sectorDataTerminusFolder =
+        game.folders.getName("Sector Data - Terminus") ??
+        (await Folder.create({
+            name: "Sector Data - Terminus",
+            type: "JournalEntry",
+            folder: sectorDataFolder.id,
+        }));
+
+    const sectorDataOutlandsFolder =
+        game.folders.getName("Sector Data - Outlands") ??
+        (await Folder.create({
+            name: "Sector Data - Outlands",
+            type: "JournalEntry",
+            folder: sectorDataFolder.id,
+        }));
+
+    const sectorDataExpanseFolder =
+        game.folders.getName("Sector Data - Expanse") ??
+        (await Folder.create({
+            name: "Sector Data - Expanse",
+            type: "JournalEntry",
+            folder: sectorDataFolder.id,
+        }));
+
+    const locationsFolder =
+        game.folders.getName("Sector Locations") ??
+        (await Folder.create({ name: "Sector Locations", type: "Actor" }));
+
+    const locationsTerminusFolder =
+        game.folders.getName("Locations - Terminus") ??
+        (await Folder.create({
+            name: "Locations - Terminus",
+            type: "Actor",
+            folder: locationsFolder.id,
+        }));
+
+    const locationsOutlandsFolder =
+        game.folders.getName("Locations - Outlands") ??
+        (await Folder.create({
+            name: "Locations - Outlands",
+            type: "Actor",
+            folder: locationsFolder.id,
+        }));
+
+    const locationExpanseFolder =
+        game.folders.getName("Locations - Expanse") ??
+        (await Folder.create({
+            name: "Locations - Expanse",
+            type: "Actor",
+            folder: locationsFolder.id,
+        }));
 
     const newJournal = await JournalEntry.create({
         name: sectorPrefix + " " + sectorSuffix,
-        folder: sectorDataFolder.id,
+        folder:
+            region == "Terminus"
+                ? sectorDataTerminusFolder.id
+                : region == "Outlands"
+                ? sectorDataOutlandsFolder.id
+                : region == "Expanse"
+                ? sectorDataExpanseFolder.id
+                : sectorDataFolder.id,
         pages: [
             {
                 name: "Overview",
@@ -139,7 +218,14 @@ async function coreFunction(region, startingSector) {
         //if(game.scenes.some(s => s.background.src === file)) continue;
         const { width, height } = await loadTexture(file);
         data.push({
-            folder: sceneFolder.id,
+            folder:
+                region == "Terminus"
+                    ? sectorsTerminusFolder.id
+                    : region == "Outlands"
+                    ? sectorsOutlandsFolder.id
+                    : region == "Expanse"
+                    ? sectorsExpanseFolder.id
+                    : sectorsFolder.id,
             name: sectorPrefix + " " + sectorSuffix,
             fogExploration: false,
             "flags.foundry-ironsworn.region": region.toLowerCase(),
@@ -165,6 +251,22 @@ async function coreFunction(region, startingSector) {
     await Scene.createDocuments(data);
 
     for (let i = 0; i < numberOfPlanets; i++) {
+        const locationsFolderTemp =
+            region == "Terminus"
+                ? locationsTerminusFolder
+                : region == "Outlands"
+                ? locationsOutlandsFolder
+                : region == "Expanse"
+                ? locationsExpanseFolder
+                : locationsFolder;
+
+        const locationsSectorFolder =
+            game.folders.getName(sectorPrefix + " " + sectorSuffix) ??
+            (await Folder.create({
+                name: sectorPrefix + " " + sectorSuffix,
+                type: "Actor",
+                folder: locationsFolderTemp.id,
+            }));
         table = await fromUuid(
             rollTablePrefix + randomArrayItem(settlementNameArray)
         );
@@ -207,7 +309,7 @@ async function coreFunction(region, startingSector) {
         const loc = await CONFIG.IRONSWORN.actorClass.create({
             type: "location",
             name,
-            folder: settlementFolder.id,
+            folder: locationsSectorFolder.id,
             system: { subtype, klass, description },
             img: `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
                 /\s+/,
