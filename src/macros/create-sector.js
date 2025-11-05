@@ -105,25 +105,25 @@ async function coreFunction(region, startingSector) {
         (await Folder.create({ name: "Sectors", type: "Scene" }));
 
     const sectorsTerminusFolder =
-        game.folders.getName("Sectors - Terminus") ??
+        game.folders.getName("Sectors: Terminus") ??
         (await Folder.create({
-            name: "Sectors - Terminus",
+            name: "Sectors: Terminus",
             type: "Scene",
             folder: sectorsFolder.id,
         }));
 
     const sectorsOutlandsFolder =
-        game.folders.getName("Sectors - Outlands") ??
+        game.folders.getName("Sectors: Outlands") ??
         (await Folder.create({
-            name: "Sectors - Outlands",
+            name: "Sectors: Outlands",
             type: "Scene",
             folder: sectorsFolder.id,
         }));
 
     const sectorsExpanseFolder =
-        game.folders.getName("Sectors - Expanse") ??
+        game.folders.getName("Sectors: Expanse") ??
         (await Folder.create({
-            name: "Sectors - Expanse",
+            name: "Sectors: Expanse",
             type: "Scene",
             folder: sectorsFolder.id,
         }));
@@ -133,25 +133,25 @@ async function coreFunction(region, startingSector) {
         (await Folder.create({ name: "Sector Data", type: "JournalEntry" }));
 
     const sectorDataTerminusFolder =
-        game.folders.getName("Sector Data - Terminus") ??
+        game.folders.getName("Sector Data: Terminus") ??
         (await Folder.create({
-            name: "Sector Data - Terminus",
+            name: "Sector Data: Terminus",
             type: "JournalEntry",
             folder: sectorDataFolder.id,
         }));
 
     const sectorDataOutlandsFolder =
-        game.folders.getName("Sector Data - Outlands") ??
+        game.folders.getName("Sector Data: Outlands") ??
         (await Folder.create({
-            name: "Sector Data - Outlands",
+            name: "Sector Data: Outlands",
             type: "JournalEntry",
             folder: sectorDataFolder.id,
         }));
 
     const sectorDataExpanseFolder =
-        game.folders.getName("Sector Data - Expanse") ??
+        game.folders.getName("Sector Data: Expanse") ??
         (await Folder.create({
-            name: "Sector Data - Expanse",
+            name: "Sector Data: Expanse",
             type: "JournalEntry",
             folder: sectorDataFolder.id,
         }));
@@ -161,25 +161,25 @@ async function coreFunction(region, startingSector) {
         (await Folder.create({ name: "Sector Locations", type: "Actor" }));
 
     const locationsTerminusFolder =
-        game.folders.getName("Locations - Terminus") ??
+        game.folders.getName("Locations: Terminus") ??
         (await Folder.create({
-            name: "Locations - Terminus",
+            name: "Locations: Terminus",
             type: "Actor",
             folder: locationsFolder.id,
         }));
 
     const locationsOutlandsFolder =
-        game.folders.getName("Locations - Outlands") ??
+        game.folders.getName("Locations: Outlands") ??
         (await Folder.create({
-            name: "Locations - Outlands",
+            name: "Locations: Outlands",
             type: "Actor",
             folder: locationsFolder.id,
         }));
 
-    const locationExpanseFolder =
-        game.folders.getName("Locations - Expanse") ??
+    const locationsExpanseFolder =
+        game.folders.getName("Locations: Expanse") ??
         (await Folder.create({
-            name: "Locations - Expanse",
+            name: "Locations: Expanse",
             type: "Actor",
             folder: locationsFolder.id,
         }));
