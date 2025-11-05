@@ -100,12 +100,6 @@ async function coreFunction(region, startingSector) {
     roll = await table.roll();
     let sectorTrouble = roll.results[0].text;
 
-    table = await fromUuid(
-        rollTablePrefix + randomArrayItem(settlementNameArray)
-    );
-    roll = await table.roll();
-    let settlementName = roll.results[0].text;
-
     const sceneFolder =
         game.folders.getName("Sectors") ??
         (await Folder.create({ name: "Sectors", type: "Scene" }));
@@ -148,6 +142,7 @@ async function coreFunction(region, startingSector) {
             folder: sceneFolder.id,
             name: sectorPrefix + " " + sectorSuffix,
             fogExploration: false,
+            "flags.foundry-ironsworn.region": region.toLowerCase(),
             tokenVision: false,
             navigation: false,
             "grid.type": 2,
@@ -169,61 +164,64 @@ async function coreFunction(region, startingSector) {
     }
     await Scene.createDocuments(data);
 
-    const name = settlementName;
-    const scale = 1;
-    const subtype = "settlement";
-
-    table = await fromUuid(
-        "Compendium.foundry-ironsworn.starforgedoracles.RollTable.68efb47a93ee8925"
-    );
-    roll = await table.roll();
-    const klass = roll.results[0].text.toLowerCase();
-
-    table = await fromUuid(populationOracle);
-    roll = await table.roll();
-    let population = roll.results[0].text;
-
-    table = await fromUuid(rollTablePrefix + randomArrayItem(authorityArray));
-    roll = await table.roll();
-    let authority = roll.results[0].text;
-
-    let settlementProject = "";
-    table = await fromUuid(
-        rollTablePrefix + randomArrayItem(settlementProjectArray)
-    );
-    for (let i = 0; i < getRandomInt(1, 2); i++) {
+    for (let i = 0; i < numberOfPlanets; i++) {
+        table = await fromUuid(
+            rollTablePrefix + randomArrayItem(settlementNameArray)
+        );
         roll = await table.roll();
-        settlementProject += roll.results[0].text + "<br>";
-    }
+        let settlementName = roll.results[0].text;
 
-    let description = `<p><strong>Population:</strong> ${population}</p>
+        const name = settlementName;
+        const scale = 1;
+        const subtype = "settlement";
+
+        table = await fromUuid(
+            "Compendium.foundry-ironsworn.starforgedoracles.RollTable.68efb47a93ee8925"
+        );
+        roll = await table.roll();
+        const klass = roll.results[0].text.toLowerCase();
+
+        table = await fromUuid(populationOracle);
+        roll = await table.roll();
+        let population = roll.results[0].text;
+
+        table = await fromUuid(
+            rollTablePrefix + randomArrayItem(authorityArray)
+        );
+        roll = await table.roll();
+        let authority = roll.results[0].text;
+
+        let settlementProject = "";
+        table = await fromUuid(
+            rollTablePrefix + randomArrayItem(settlementProjectArray)
+        );
+        for (let i = 0; i < getRandomInt(1, 2); i++) {
+            roll = await table.roll();
+            settlementProject += roll.results[0].text + "<br>";
+        }
+
+        let description = `<p><strong>Population:</strong> ${population}</p>
         <p><strong>Authority:</strong> ${authority}</p>
         <p><strong>Settlement projects:</strong> ${settlementProject}</p>`;
 
-    // population
-    // authority
-    // settlement projects 1-2
-    // <p><strong>Population:</strong> ${population}</p>
-    // <p><strong>Authority:</strong> ${authority}</p>
-    // <p><strong>Settlement projects:</strong> ${settlementProject}</p>
-
-    const loc = await CONFIG.IRONSWORN.actorClass.create({
-        type: "location",
-        name,
-        folder: settlementFolder.id,
-        system: { subtype, klass, description },
-        img: `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
-            /\s+/,
-            ""
-        )}.webp`,
-        prototypeToken: {
-            displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
-            disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
-            actorLink: true,
-            "texture.scaleX": scale,
-            "texture.scaleY": scale,
-        },
-    });
+        const loc = await CONFIG.IRONSWORN.actorClass.create({
+            type: "location",
+            name,
+            folder: settlementFolder.id,
+            system: { subtype, klass, description },
+            img: `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
+                /\s+/,
+                ""
+            )}.webp`,
+            prototypeToken: {
+                displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                actorLink: true,
+                "texture.scaleX": scale,
+                "texture.scaleY": scale,
+            },
+        });
+    }
 }
 
 try {
