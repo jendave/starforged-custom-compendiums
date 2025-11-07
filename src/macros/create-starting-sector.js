@@ -34,8 +34,8 @@ function getStringBetween(fullString, startString, endString) {
 }
 
 async function coreFunction(region, startingSector) {
-    console.log("Region:", region);
-    console.log("Starting Sector:", startingSector);
+    // console.log("Region:", region);
+    // console.log("Starting Sector:", startingSector);
     if (region == "" || startingSector == "") {
         return;
     }
@@ -75,10 +75,10 @@ async function coreFunction(region, startingSector) {
     );
 
     // The 'result' object contains information about the browsed directory
-    console.log("Files:", result.files); // Array of file paths
-    console.log("Directories:", result.dirs); // Array of directory paths
-    console.log("Target:", result.target); // The target directory that was browsed
-    console.log("Source:", result.source); // The source location (e.g., "data")
+    // console.log("Files:", result.files); // Array of file paths
+    // console.log("Directories:", result.dirs); // Array of directory paths
+    // console.log("Target:", result.target); // The target directory that was browsed
+    // console.log("Source:", result.source); // The source location (e.g., "data")
 
     // You can then process the files or directories as needed
     if (result.files.length > 0) {
@@ -229,7 +229,7 @@ async function coreFunction(region, startingSector) {
         let settlementName = roll.results[0].text;
 
         const name = settlementName;
-        const scale = 1;
+        const scale = 2;
         const subtype = "settlement";
 
         table = await fromUuid(
@@ -428,7 +428,6 @@ async function coreFunction(region, startingSector) {
     });
 
     for (let file of result.files) {
-        //if(game.scenes.some(s => s.background.src === file)) continue;
         const { width, height } = await loadTexture(file);
         data.push({
             folder:
