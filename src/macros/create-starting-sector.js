@@ -17,6 +17,22 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+function getStringBetween(fullString, startString, endString) {
+    const startIndex = fullString.indexOf(startString);
+    if (startIndex === -1) {
+        return null;
+    }
+
+    const endIndex = fullString.indexOf(
+        endString,
+        startIndex + startString.length
+    );
+    if (endIndex === -1) {
+        return null;
+    }
+    return fullString.substring(startIndex + startString.length, endIndex);
+}
+
 async function coreFunction(region, startingSector) {
     console.log("Region:", region);
     console.log("Starting Sector:", startingSector);
@@ -24,30 +40,30 @@ async function coreFunction(region, startingSector) {
         return;
     }
     let data = [];
-    let numberOfPlanets = 0;
+    let numberOfSettlements = 0;
     let numberOfPassages = 0;
     let populationOracle = "";
     switch (region) {
         case "Terminus":
-            numberOfPlanets = 4;
+            numberOfSettlements = 4;
             numberOfPassages = 3;
             populationOracle =
                 "Compendium.foundry-ironsworn.starforgedoracles.RollTable.473250ed66f4c411";
             break;
         case "Outlands":
-            numberOfPlanets = 3;
+            numberOfSettlements = 3;
             numberOfPassages = 2;
             populationOracle =
                 "Compendium.foundry-ironsworn.starforgedoracles.RollTable.8d5220c3ac5a5199";
             break;
         case "Expanse":
-            numberOfPlanets = 2;
+            numberOfSettlements = 2;
             numberOfPassages = 1;
             populationOracle =
                 "Compendium.foundry-ironsworn.starforgedoracles.RollTable.058fd93e957c6804";
             break;
         default:
-            numberOfPlanets = 4;
+            numberOfSettlements = 4;
             numberOfPassages = 3;
             populationOracle =
                 "Compendium.foundry-ironsworn.starforgedoracles.RollTable.473250ed66f4c411";
@@ -81,6 +97,7 @@ async function coreFunction(region, startingSector) {
     const settlementNameArray = ["c25eade4d8daa0bc"];
     const authorityArray = ["2c3224921966f200"];
     const settlementProjectArray = ["eb909255e1df463b"];
+    const planetaryClassArray = ["affbef437e01ef10"];
 
     table = await fromUuid(
         rollTablePrefix + randomArrayItem(sectorPrefixArray)
@@ -250,7 +267,7 @@ async function coreFunction(region, startingSector) {
     }
     await Scene.createDocuments(data);
 
-    for (let i = 0; i < numberOfPlanets; i++) {
+    for (let i = 0; i < numberOfSettlements; i++) {
         const locationsFolderTemp =
             region == "Terminus"
                 ? locationsTerminusFolder
@@ -281,7 +298,7 @@ async function coreFunction(region, startingSector) {
             "Compendium.foundry-ironsworn.starforgedoracles.RollTable.68efb47a93ee8925"
         );
         roll = await table.roll();
-        const klass = roll.results[0].text.toLowerCase();
+        const settlementKlass = roll.results[0].text.toLowerCase();
 
         table = await fromUuid(populationOracle);
         roll = await table.roll();
@@ -310,8 +327,8 @@ async function coreFunction(region, startingSector) {
             type: "location",
             name,
             folder: locationsSectorFolder.id,
-            system: { subtype, klass, description },
-            img: `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
+            system: { subtype, klass: settlementKlass, description },
+            img: `systems/foundry-ironsworn/assets/locations/settlement-${settlementKlass.replace(
                 /\s+/,
                 ""
             )}.webp`,
@@ -323,6 +340,79 @@ async function coreFunction(region, startingSector) {
                 "texture.scaleY": scale,
             },
         });
+
+        // planet generation
+        if (settlementKlass != "deep space") {
+            table = await fromUuid(
+                rollTablePrefix + randomArrayItem(planetaryClassArray)
+            );
+            roll = await table.roll();
+            let planetaryClass =
+                getStringBetween(roll.results[0].text, "</i>", "</a>").trim() ||
+                roll.results[0].text.trim();
+            let planetaryKlass = planetaryClass.split(" ")[0].toLowerCase();
+            let planetaryNameArray = [];
+            switch (planetaryKlass) {
+                case "desert":
+                    planetaryNameArray = ["d9ccce4a55cf1ba3"];
+                    break;
+                case "furnace":
+                    planetaryNameArray = ["0ab38c2349ec8e2b"];
+                    break;
+                case "grave":
+                    planetaryNameArray = ["b39ab4b43d2df736"];
+                    break;
+                case "ice":
+                    planetaryNameArray = ["f45c90ceb8432000"];
+                    break;
+                case "jovian":
+                    planetaryNameArray = ["fbb7cb653d8543a0"];
+                    break;
+                case "jungle":
+                    planetaryNameArray = ["d231589442f1e296"];
+                    break;
+                case "ocean":
+                    planetaryNameArray = ["3ab55ec64f9f711d"];
+                    break;
+                case "rocky":
+                    planetaryNameArray = ["0aea1078fd7f3f1e"];
+                    break;
+                case "shattered":
+                    planetaryNameArray = ["1bb3d31309da3f83"];
+                    break;
+                case "tainted":
+                    planetaryNameArray = ["ce83758fc30fecc5"];
+                    break;
+                case "vital":
+                    planetaryNameArray = ["9d429eda4f215791"];
+                    break;
+                default:
+                    planetaryNameArray = ["9d429eda4f215791"];
+            }
+
+            table = await fromUuid(
+                rollTablePrefix + randomArrayItem(planetaryNameArray)
+            );
+            roll = await table.roll();
+            let planetaryName = roll.results[0].text;
+
+            const planet = await CONFIG.IRONSWORN.actorClass.create({
+                type: "location",
+                name: planetaryName,
+                folder: locationsSectorFolder.id,
+                system: { subtype: "planet", klass: planetaryKlass },
+                img: `systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-${
+                    planetaryClass.split(" ")[0]
+                }-0${getRandomInt(1, 2)}.webp`,
+                prototypeToken: {
+                    displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                    actorLink: true,
+                    "texture.scaleX": scale,
+                    "texture.scaleY": scale,
+                },
+            });
+        }
     }
 }
 
