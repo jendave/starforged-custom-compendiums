@@ -201,71 +201,9 @@ async function coreFunction(region, startingSector) {
             folder: locationsFolder.id,
         }));
 
-    const newJournal = await JournalEntry.create({
-        name: sectorPrefix + " " + sectorSuffix,
-        folder:
-            region == "Terminus"
-                ? sectorDataTerminusFolder.id
-                : region == "Outlands"
-                ? sectorDataOutlandsFolder.id
-                : region == "Expanse"
-                ? sectorDataExpanseFolder.id
-                : sectorDataFolder.id,
-        pages: [
-            {
-                name: "Overview",
-                text: {
-                    content:
-                        sectorPrefix +
-                        " " +
-                        sectorSuffix +
-                        " is located in the " +
-                        region +
-                        ".",
-                },
-            },
-            {
-                name: "Sector Trouble",
-                text: { content: sectorTrouble + "." },
-            },
-        ],
-    });
-
-    for (let file of result.files) {
-        //if(game.scenes.some(s => s.background.src === file)) continue;
-        const { width, height } = await loadTexture(file);
-        data.push({
-            folder:
-                region == "Terminus"
-                    ? sectorsTerminusFolder.id
-                    : region == "Outlands"
-                    ? sectorsOutlandsFolder.id
-                    : region == "Expanse"
-                    ? sectorsExpanseFolder.id
-                    : sectorsFolder.id,
-            name: sectorPrefix + " " + sectorSuffix,
-            fogExploration: false,
-            "flags.foundry-ironsworn.region": region.toLowerCase(),
-            tokenVision: false,
-            navigation: false,
-            "grid.type": 2,
-            "grid.color": "ffffff",
-            "grid.alpha": 0.35,
-            "grid.size": 200,
-            "background.src": file,
-            backgroundColor: "000000",
-            padding: 0,
-            "initial.scale": 0.386,
-            "initial.x": 2428,
-            "initial.y": 1417,
-            foregroundElevation: 20,
-            journal: newJournal.id,
-            //   journalEntryPage: newJournal.pages[0].id,
-            width,
-            height,
-        });
-    }
-    await Scene.createDocuments(data);
+    // let uuidSettlements = [];
+    // let uuidPlanets = [];
+    let uuidSettlementsAndPlanets = [];
 
     for (let i = 0; i < numberOfSettlements; i++) {
         const locationsFolderTemp =
@@ -342,6 +280,13 @@ async function coreFunction(region, startingSector) {
         });
 
         let uuidSettlement = `@UUID[${loc.uuid}]{${loc.name}}`;
+
+        let conjunction =
+            settlementKlass == "deep space"
+                ? "is in Deep Space"
+                : settlementKlass == "orbital"
+                ? "orbits"
+                : "is on planet";
 
         // planet generation
         if (settlementKlass != "deep space") {
@@ -421,6 +366,9 @@ async function coreFunction(region, startingSector) {
             });
 
             let uuidPlanet = "@UUID[" + planet.uuid + "]{" + planet.name + "}";
+            uuidSettlementsAndPlanets.push(
+                uuidSettlement + " " + conjunction + " " + uuidPlanet
+            );
             loc.system.description +=
                 "\n<p><b>Planet:</b> " + uuidPlanet + "</p>";
             await CONFIG.IRONSWORN.actorClass.updateDocuments([
@@ -429,8 +377,90 @@ async function coreFunction(region, startingSector) {
                     system: { description: loc.system.description },
                 },
             ]);
+        } else {
+            uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
         }
     }
+
+    const newJournal = await JournalEntry.create({
+        name: sectorPrefix + " " + sectorSuffix,
+        folder:
+            region == "Terminus"
+                ? sectorDataTerminusFolder.id
+                : region == "Outlands"
+                ? sectorDataOutlandsFolder.id
+                : region == "Expanse"
+                ? sectorDataExpanseFolder.id
+                : sectorDataFolder.id,
+        pages: [
+            {
+                name: "Overview",
+                text: {
+                    content:
+                        sectorPrefix +
+                        " " +
+                        sectorSuffix +
+                        " is located in the " +
+                        region +
+                        ".",
+                },
+            },
+            {
+                name: "Sector Trouble",
+                text: { content: sectorTrouble + "." },
+            },
+            {
+                name: "Sector Locations",
+                text: {
+                    content:
+                        "<p><b>Settlements and Planets</b></p>\n<p>" +
+                        uuidSettlementsAndPlanets
+                            .sort((a, b) =>
+                                a.localeCompare(b, undefined, {
+                                    sensitivity: "base",
+                                })
+                            )
+                            .join("<br>") +
+                        "</p>",
+                },
+            },
+        ],
+    });
+
+    for (let file of result.files) {
+        //if(game.scenes.some(s => s.background.src === file)) continue;
+        const { width, height } = await loadTexture(file);
+        data.push({
+            folder:
+                region == "Terminus"
+                    ? sectorsTerminusFolder.id
+                    : region == "Outlands"
+                    ? sectorsOutlandsFolder.id
+                    : region == "Expanse"
+                    ? sectorsExpanseFolder.id
+                    : sectorsFolder.id,
+            name: sectorPrefix + " " + sectorSuffix,
+            fogExploration: false,
+            "flags.foundry-ironsworn.region": region.toLowerCase(),
+            tokenVision: false,
+            navigation: false,
+            "grid.type": 2,
+            "grid.color": "ffffff",
+            "grid.alpha": 0.35,
+            "grid.size": 200,
+            "background.src": file,
+            backgroundColor: "000000",
+            padding: 0,
+            "initial.scale": 0.386,
+            "initial.x": 2428,
+            "initial.y": 1417,
+            foregroundElevation: 20,
+            journal: newJournal.id,
+            width,
+            height,
+        });
+    }
+    await Scene.createDocuments(data);
 }
 
 try {
