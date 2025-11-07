@@ -341,6 +341,8 @@ async function coreFunction(region, startingSector) {
             },
         });
 
+        let uuidSettlement = `@UUID[${loc.uuid}]{${loc.name}}`;
+
         // planet generation
         if (settlementKlass != "deep space") {
             table = await fromUuid(
@@ -400,7 +402,12 @@ async function coreFunction(region, startingSector) {
                 type: "location",
                 name: planetaryName,
                 folder: locationsSectorFolder.id,
-                system: { subtype: "planet", klass: planetaryKlass },
+                system: {
+                    subtype: "planet",
+                    klass: planetaryKlass,
+                    description:
+                        "<p><b>Settlement:</b> " + uuidSettlement + "</p>",
+                },
                 img: `systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-${
                     planetaryClass.split(" ")[0]
                 }-0${getRandomInt(1, 2)}.webp`,
@@ -412,6 +419,16 @@ async function coreFunction(region, startingSector) {
                     "texture.scaleY": scale,
                 },
             });
+
+            let uuidPlanet = "@UUID[" + planet.uuid + "]{" + planet.name + "}";
+            loc.system.description +=
+                "\n<p><b>Planet:</b> " + uuidPlanet + "</p>";
+            await CONFIG.IRONSWORN.actorClass.updateDocuments([
+                {
+                    _id: loc._id,
+                    system: { description: loc.system.description },
+                },
+            ]);
         }
     }
 }
