@@ -39,6 +39,7 @@ async function coreFunction(region, startingSector) {
     let numberOfSettlements = 0;
     let numberOfPassages = 0;
     let populationOracle = "";
+    let gridSize = 170;
     switch (region) {
         case "Terminus":
             numberOfSettlements = 4;
@@ -209,7 +210,7 @@ async function coreFunction(region, startingSector) {
             "grid.type": 2,
             "grid.color": "ffffff",
             "grid.alpha": 0.35,
-            "grid.size": 200,
+            "grid.size": gridSize,
             "background.src": file,
             backgroundColor: "000000",
             padding: 0,
@@ -302,6 +303,9 @@ async function coreFunction(region, startingSector) {
             },
         });
         const tokenData = await settlement.getTokenDocument();
+
+        // 20 wide by 15 tall grid of hexes, now 24x18
+        // 27 wide by 15 tall in playkit
         const x = getRandomInt(
             Math.floor(canvas.scene.dimensions.width / 6),
             Math.floor((canvas.scene.dimensions.width / 6) * 5)
