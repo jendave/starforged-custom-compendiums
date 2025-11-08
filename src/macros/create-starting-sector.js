@@ -1,5 +1,3 @@
-//import { IronswornActor } from "../../systems/foundry-ironsworn/module/actor/ironsworn-actor.js";
-
 function printMessage(message) {
     let chatData = { content: message };
     ChatMessage.applyRollMode(chatData, game.settings.get("core", "rollMode"));
@@ -34,8 +32,6 @@ function getStringBetween(fullString, startString, endString) {
 }
 
 async function coreFunction(region, startingSector) {
-    // console.log("Region:", region);
-    // console.log("Starting Sector:", startingSector);
     if (region == "" || startingSector == "") {
         return;
     }
@@ -190,13 +186,6 @@ async function coreFunction(region, startingSector) {
         "systems/foundry-ironsworn/assets/sectors/1.webp"
     );
 
-    // The 'result' object contains information about the browsed directory
-    // console.log("Files:", result.files); // Array of file paths
-    // console.log("Directories:", result.dirs); // Array of directory paths
-    // console.log("Target:", result.target); // The target directory that was browsed
-    // console.log("Source:", result.source); // The source location (e.g., "data")
-
-    // You can then process the files or directories as needed
     if (result.files.length > 0) {
         console.log("First image file found:", result.files[0]);
     }
@@ -237,8 +226,6 @@ async function coreFunction(region, startingSector) {
     console.log("Created sector:", sector[0].name);
     console.log("Created sector:", sector[0].id);
 
-    // let uuidSettlements = [];
-    // let uuidPlanets = [];
     let uuidSettlementsAndPlanets = [];
 
     for (let i = 0; i < numberOfSettlements; i++) {
@@ -324,15 +311,7 @@ async function coreFunction(region, startingSector) {
             Math.floor((canvas.scene.dimensions.height / 6) * 5)
         );
 
-        // await canvas.scene.createEmbeddedDocuments("Token", [
-        //     {
-        //         ...tokenData.toObject(),
-        //         x: x,
-        //         y: y,
-        //     },
-        // ]);
-
-        const sceneId = sector[0].id; // Replace with the actual _id of your scene
+        const sceneId = sector[0].id;
         const scene = game.scenes.get(sceneId);
         await scene.createEmbeddedDocuments("Token", [
             {
@@ -491,7 +470,7 @@ async function coreFunction(region, startingSector) {
         ],
     });
 
-    const sceneId = sector[0].id; // Replace with the actual _id of your scene
+    const sceneId = sector[0].id;
     const scene = game.scenes.get(sceneId);
     await scene.update({
         journal: newJournal.id,
