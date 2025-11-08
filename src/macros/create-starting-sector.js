@@ -43,8 +43,6 @@ async function coreFunction(region, startingSector) {
     let numberOfSettlements = 0;
     let numberOfPassages = 0;
     let populationOracle = "";
-    let gridSize = 200;
-
     switch (region) {
         case "Terminus":
             numberOfSettlements = 4;
@@ -222,7 +220,7 @@ async function coreFunction(region, startingSector) {
             "grid.type": 2,
             "grid.color": "ffffff",
             "grid.alpha": 0.35,
-            "grid.size": gridSize,
+            "grid.size": 200,
             "background.src": file,
             backgroundColor: "000000",
             padding: 0,
@@ -315,53 +313,16 @@ async function coreFunction(region, startingSector) {
             },
         });
         const tokenData = await settlement.getTokenDocument();
-        //     const x = getRandomInt(Math.floor(canvas.scene.dimensions.width / 6), Math.floor(canvas.scene.dimensions.width / 6 * 5));
-        //     const y = getRandomInt(Math.floor(canvas.scene.dimensions.height / 6), Math.floor(canvas.scene.dimensions.height / 6 * 5));
-        // 20 wide by 15 tall grid of hexes
-        const gridType = canvas.scene.grid.type;
-        const rowHeight = gridSize;
-        const colWidth = (gridSize * Math.sqrt(3)) / 2; // Approximate width for hexes
-
-        let targetHexCol =
-            ((i + 1) * 20) / (numberOfSettlements + 1) + getRandomInt(-1, 1);
-        let targetHexRow = getRandomInt(3, 13);
-        x = targetHexCol * colWidth;
-        y = targetHexRow * rowHeight;
-
-        // Adjust for hex offsets if needed (e.g., odd-q rows shifting)
-        if (gridType === CONST.GRID_TYPES.HEX_ODD_Q && targetHexCol % 2 === 1) {
-            y += rowHeight / 2;
-        } else if (
-            gridType === CONST.GRID_TYPES.HEX_EVEN_Q &&
-            targetHexCol % 2 === 0
-        ) {
-            y += rowHeight / 2;
-        }
-
-        // sector.update("Token", [
-        //     {
-        //         ...tokenData.toObject(),
-        //         x: x,
-        //         y: y,
-        //     },
-        // ]);
-
-        let sceneTemp = game.scenes.get(sector[0]._id);
-        sceneTemp.update("Token", [
+        const x = getRandomInt(Math.floor(canvas.scene.dimensions.width / 6), Math.floor(canvas.scene.dimensions.width / 6 * 5));
+        const y = getRandomInt(Math.floor(canvas.scene.dimensions.height / 6), Math.floor(canvas.scene.dimensions.height / 6 * 5));
+        
+        await canvas.scene.createEmbeddedDocuments("Token", [
             {
                 ...tokenData.toObject(),
                 x: x,
                 y: y,
             },
         ]);
-
-        // await canvas.scene.createEmbeddedDocuments("Token", [
-        //     {
-        //         ...tokenData.toObject(),
-        //         x: x,
-        //         y: y,
-        //     },
-        // ]);
 
         let uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
 
