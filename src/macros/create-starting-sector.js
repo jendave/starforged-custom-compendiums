@@ -234,6 +234,8 @@ async function coreFunction(region, startingSector) {
         });
     }
     const sector = await Scene.createDocuments(data);
+    console.log("Created sector:", sector[0].name);
+    console.log("Created sector:", sector[0].id);
 
     // let uuidSettlements = [];
     // let uuidPlanets = [];
@@ -313,10 +315,26 @@ async function coreFunction(region, startingSector) {
             },
         });
         const tokenData = await settlement.getTokenDocument();
-        const x = getRandomInt(Math.floor(canvas.scene.dimensions.width / 6), Math.floor(canvas.scene.dimensions.width / 6 * 5));
-        const y = getRandomInt(Math.floor(canvas.scene.dimensions.height / 6), Math.floor(canvas.scene.dimensions.height / 6 * 5));
-        
-        await canvas.scene.createEmbeddedDocuments("Token", [
+        const x = getRandomInt(
+            Math.floor(canvas.scene.dimensions.width / 6),
+            Math.floor((canvas.scene.dimensions.width / 6) * 5)
+        );
+        const y = getRandomInt(
+            Math.floor(canvas.scene.dimensions.height / 6),
+            Math.floor((canvas.scene.dimensions.height / 6) * 5)
+        );
+
+        // await canvas.scene.createEmbeddedDocuments("Token", [
+        //     {
+        //         ...tokenData.toObject(),
+        //         x: x,
+        //         y: y,
+        //     },
+        // ]);
+
+        const sceneId = sector[0].id; // Replace with the actual _id of your scene
+        const scene = game.scenes.get(sceneId);
+        await scene.createEmbeddedDocuments("Token", [
             {
                 ...tokenData.toObject(),
                 x: x,
@@ -473,7 +491,9 @@ async function coreFunction(region, startingSector) {
         ],
     });
 
-    await canvas.scene.update({
+    const sceneId = sector[0].id; // Replace with the actual _id of your scene
+    const scene = game.scenes.get(sceneId);
+    await scene.update({
         journal: newJournal.id,
     });
 }
