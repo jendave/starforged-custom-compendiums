@@ -43,6 +43,8 @@ async function coreFunction(region, startingSector) {
     let numberOfSettlements = 0;
     let numberOfPassages = 0;
     let populationOracle = "";
+    let gridSize = 200;
+
     switch (region) {
         case "Terminus":
             numberOfSettlements = 4;
@@ -67,22 +69,6 @@ async function coreFunction(region, startingSector) {
             numberOfPassages = 3;
             populationOracle =
                 "Compendium.foundry-ironsworn.starforgedoracles.RollTable.473250ed66f4c411";
-    }
-
-    let result = await FilePicker.browse(
-        "data",
-        "systems/foundry-ironsworn/assets/sectors/1.webp"
-    );
-
-    // The 'result' object contains information about the browsed directory
-    // console.log("Files:", result.files); // Array of file paths
-    // console.log("Directories:", result.dirs); // Array of directory paths
-    // console.log("Target:", result.target); // The target directory that was browsed
-    // console.log("Source:", result.source); // The source location (e.g., "data")
-
-    // You can then process the files or directories as needed
-    if (result.files.length > 0) {
-        console.log("First image file found:", result.files[0]);
     }
 
     let table;
@@ -201,6 +187,56 @@ async function coreFunction(region, startingSector) {
             folder: locationsFolder.id,
         }));
 
+    let result = await FilePicker.browse(
+        "data",
+        "systems/foundry-ironsworn/assets/sectors/1.webp"
+    );
+
+    // The 'result' object contains information about the browsed directory
+    // console.log("Files:", result.files); // Array of file paths
+    // console.log("Directories:", result.dirs); // Array of directory paths
+    // console.log("Target:", result.target); // The target directory that was browsed
+    // console.log("Source:", result.source); // The source location (e.g., "data")
+
+    // You can then process the files or directories as needed
+    if (result.files.length > 0) {
+        console.log("First image file found:", result.files[0]);
+    }
+
+    for (let file of result.files) {
+        const { width, height } = await loadTexture(file);
+        data.push({
+            folder:
+                region == "Terminus"
+                    ? sectorsTerminusFolder.id
+                    : region == "Outlands"
+                    ? sectorsOutlandsFolder.id
+                    : region == "Expanse"
+                    ? sectorsExpanseFolder.id
+                    : sectorsFolder.id,
+            name: sectorPrefix + " " + sectorSuffix,
+            fogExploration: false,
+            "flags.foundry-ironsworn.region": region.toLowerCase(),
+            tokenVision: false,
+            navigation: false,
+            "grid.type": 2,
+            "grid.color": "ffffff",
+            "grid.alpha": 0.35,
+            "grid.size": gridSize,
+            "background.src": file,
+            backgroundColor: "000000",
+            padding: 0,
+            "initial.scale": 0.386,
+            "initial.x": 2428,
+            "initial.y": 1417,
+            foregroundElevation: 20,
+            //  journal: newJournal.id,
+            width,
+            height,
+        });
+    }
+    const sector = await Scene.createDocuments(data);
+
     // let uuidSettlements = [];
     // let uuidPlanets = [];
     let uuidSettlementsAndPlanets = [];
@@ -229,7 +265,7 @@ async function coreFunction(region, startingSector) {
         let settlementName = roll.results[0].text;
 
         const name = settlementName;
-        const scale = 2;
+        const settlementScale = 2;
         const subtype = "settlement";
 
         table = await fromUuid(
@@ -261,7 +297,7 @@ async function coreFunction(region, startingSector) {
         <p><strong>Authority:</strong> ${authority}</p>
         <p><strong>Settlement projects:</strong> ${settlementProject}</p>`;
 
-        const loc = await CONFIG.IRONSWORN.actorClass.create({
+        const settlement = await CONFIG.IRONSWORN.actorClass.create({
             type: "location",
             name,
             folder: locationsSectorFolder.id,
@@ -274,12 +310,60 @@ async function coreFunction(region, startingSector) {
                 displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
                 disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
                 actorLink: true,
-                "texture.scaleX": scale,
-                "texture.scaleY": scale,
+                "texture.scaleX": settlementScale,
+                "texture.scaleY": settlementScale,
             },
         });
+        const tokenData = await settlement.getTokenDocument();
+        //     const x = getRandomInt(Math.floor(canvas.scene.dimensions.width / 6), Math.floor(canvas.scene.dimensions.width / 6 * 5));
+        //     const y = getRandomInt(Math.floor(canvas.scene.dimensions.height / 6), Math.floor(canvas.scene.dimensions.height / 6 * 5));
+        // 20 wide by 15 tall grid of hexes
+        const gridType = canvas.scene.grid.type;
+        const rowHeight = gridSize;
+        const colWidth = (gridSize * Math.sqrt(3)) / 2; // Approximate width for hexes
 
-        let uuidSettlement = `@UUID[${loc.uuid}]{${loc.name}}`;
+        let targetHexCol =
+            ((i + 1) * 20) / (numberOfSettlements + 1) + getRandomInt(-1, 1);
+        let targetHexRow = getRandomInt(3, 13);
+        x = targetHexCol * colWidth;
+        y = targetHexRow * rowHeight;
+
+        // Adjust for hex offsets if needed (e.g., odd-q rows shifting)
+        if (gridType === CONST.GRID_TYPES.HEX_ODD_Q && targetHexCol % 2 === 1) {
+            y += rowHeight / 2;
+        } else if (
+            gridType === CONST.GRID_TYPES.HEX_EVEN_Q &&
+            targetHexCol % 2 === 0
+        ) {
+            y += rowHeight / 2;
+        }
+
+        // sector.update("Token", [
+        //     {
+        //         ...tokenData.toObject(),
+        //         x: x,
+        //         y: y,
+        //     },
+        // ]);
+
+        let sceneTemp = game.scenes.get(sector[0]._id);
+        sceneTemp.update("Token", [
+            {
+                ...tokenData.toObject(),
+                x: x,
+                y: y,
+            },
+        ]);
+
+        // await canvas.scene.createEmbeddedDocuments("Token", [
+        //     {
+        //         ...tokenData.toObject(),
+        //         x: x,
+        //         y: y,
+        //     },
+        // ]);
+
+        let uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
 
         let conjunction =
             settlementKlass == "deep space"
@@ -290,6 +374,7 @@ async function coreFunction(region, startingSector) {
 
         // planet generation
         if (settlementKlass != "deep space") {
+            const planetScale = 1;
             table = await fromUuid(
                 rollTablePrefix + randomArrayItem(planetaryClassArray)
             );
@@ -360,8 +445,8 @@ async function coreFunction(region, startingSector) {
                     displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
                     disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
                     actorLink: true,
-                    "texture.scaleX": scale,
-                    "texture.scaleY": scale,
+                    "texture.scaleX": planetScale,
+                    "texture.scaleY": planetScale,
                 },
             });
 
@@ -369,12 +454,12 @@ async function coreFunction(region, startingSector) {
             uuidSettlementsAndPlanets.push(
                 uuidSettlement + " " + conjunction + " " + uuidPlanet
             );
-            loc.system.description +=
+            settlement.system.description +=
                 "\n<p><b>Planet:</b> " + uuidPlanet + "</p>";
             await CONFIG.IRONSWORN.actorClass.updateDocuments([
                 {
-                    _id: loc._id,
-                    system: { description: loc.system.description },
+                    _id: settlement._id,
+                    system: { description: settlement.system.description },
                 },
             ]);
         } else {
@@ -427,39 +512,9 @@ async function coreFunction(region, startingSector) {
         ],
     });
 
-    for (let file of result.files) {
-        const { width, height } = await loadTexture(file);
-        data.push({
-            folder:
-                region == "Terminus"
-                    ? sectorsTerminusFolder.id
-                    : region == "Outlands"
-                    ? sectorsOutlandsFolder.id
-                    : region == "Expanse"
-                    ? sectorsExpanseFolder.id
-                    : sectorsFolder.id,
-            name: sectorPrefix + " " + sectorSuffix,
-            fogExploration: false,
-            "flags.foundry-ironsworn.region": region.toLowerCase(),
-            tokenVision: false,
-            navigation: false,
-            "grid.type": 2,
-            "grid.color": "ffffff",
-            "grid.alpha": 0.35,
-            "grid.size": 200,
-            "background.src": file,
-            backgroundColor: "000000",
-            padding: 0,
-            "initial.scale": 0.386,
-            "initial.x": 2428,
-            "initial.y": 1417,
-            foregroundElevation: 20,
-            journal: newJournal.id,
-            width,
-            height,
-        });
-    }
-    await Scene.createDocuments(data);
+    await canvas.scene.update({
+        journal: newJournal.id,
+    });
 }
 
 try {
