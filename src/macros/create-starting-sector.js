@@ -225,7 +225,6 @@ async function coreFunction(region, startingSector) {
     }
     const sector = await Scene.createDocuments(data);
     console.log("Created sector:", sector[0].name);
-    console.log("Created sector:", sector[0].id);
 
     let uuidSettlementsAndPlanets = [];
 
@@ -304,7 +303,7 @@ async function coreFunction(region, startingSector) {
         });
         let tokenData = await settlement.getTokenDocument();
 
-        // 20 wide by 15 tall grid of hexes, now 24x18
+        // 24 wide by 18 tall grid of hexes
         // 27 wide by 15 tall in playkit
         const rowHeight = gridSize * (Math.sqrt(3) / 2);
         const colWidth = gridSize;
@@ -312,39 +311,22 @@ async function coreFunction(region, startingSector) {
         let targetHexCol =
             ((i + 1) * 20) / (numberOfSettlements + 1) + getRandomInt(-1, 1);
         let targetHexRow = getRandomInt(2, 14);
-        // targetHexCol = 11;
-        // targetHexRow = 1;
         let x = targetHexCol * colWidth;
         let y = targetHexRow * rowHeight;
 
-        console.log(
-            `Before Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
-        );
+        // console.log(
+        //     `Before Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
+        // );
+
         if (targetHexRow % 2 === 0) {
             x += colWidth / 2;
-        } else {
-            //x -= colWidth / 2;
         }
-        if (targetHexCol % 2 === 0) {
-            //  y += rowHeight / 2;
-        } else {
-            //  x += colWidth / 2;
-        }
-
-        //x = Math.floor(x);
-        //y = Math.floor(y);
-
-        let pointToSnap = { x: x, y: y };
 
         let sceneId = sector[0].id;
         let scene = game.scenes.get(sceneId);
 
-        // let {x, y} = scene.grid.getSnappedPosition(targetHexCol, targetHexRow, 2);
-        //        let pointToSnapNew = canvas.scene.grid.getSnappedPoint(pointToSnap, { behavior: 1 });
-        //  pointToSnapNew.asdfgasdfsdf();
         scene.activate();
-        // let pointToSnapNew = canvas.grid.getSnappedPosition(pointToSnap.x, pointToSnap.y, { behavior: 1 });
-        let tokens = await scene.createEmbeddedDocuments("Token", [
+        await scene.createEmbeddedDocuments("Token", [
             {
                 ...tokenData.toObject(),
                 x: x,
@@ -353,13 +335,9 @@ async function coreFunction(region, startingSector) {
             },
         ]);
 
-        // const tokenDocument = canvas.scene.tokens.get(tokens[0].id);
-        // const snappedPoint = tokenDocument.getSnappedPoint();
-        // tokens[0].update({ x: snappedPoint.x, y: snappedPoint.y });
-
-        console.log(
-            `After Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
-        );
+        // console.log(
+        //     `After Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
+        // );
 
         let uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
 
@@ -469,27 +447,14 @@ async function coreFunction(region, startingSector) {
 
             if (targetHexRow % 2 === 0) {
                 x -= colWidth / 2;
-            } else {
-                //x -= colWidth / 2;
             }
-            if (targetHexCol % 2 === 0) {
-                //  y += rowHeight / 2;
-            } else {
-                //  x += colWidth / 2;
-            }
-
-            // x = Math.floor(x);
-            // y = Math.floor(y);
-
-            // //  pointToSnap = { x: x, y: y };
 
             console.log(
                 `Placing planet ${planet.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
             );
 
             sceneId = sector[0].id;
-            //    scene = game.scenes.get(sceneId);
-            //    pointToSnapNew = canvas.scene.grid.getSnappedPosition(pointToSnap.x, pointToSnap.y, { behavior: 1 });
+
             await scene.createEmbeddedDocuments("Token", [
                 {
                     ...tokenData.toObject(),
@@ -500,29 +465,6 @@ async function coreFunction(region, startingSector) {
         } else {
             uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
         }
-    }
-
-    const tokensPlacables = canvas.tokens.placeables;
-
-    const M = CONST.GRID_SNAPPING_MODES;
-    // const snapped = grid.getSnappedPoint(point, {
-    //    mode: M.CENTER | M.VERTEX, // snap to the nearest center point or vertex
-    //    resolution: 2 // the grid resolution
-    // });
-    // Iterate over each token and update its position
-    for (let token of tokensPlacables) {
-        // Calculate the snapped position for the token
-        // The getSnappedPoint method from the grid utility can be used for this
-        const snappedPoint = canvas.grid.getSnappedPoint(
-            {
-                x: token.x,
-                y: token.y,
-            },
-            { mode: M.CORNER, resolution: 1 }
-        );
-
-        // Update the token's position to the snapped point
-        // await token.document.update({ x: snappedPoint.x, y: snappedPoint.y });
     }
 
     const newJournal = await JournalEntry.create({
