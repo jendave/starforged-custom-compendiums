@@ -307,33 +307,25 @@ async function coreFunction(region, startingSector) {
         // 20 wide by 15 tall grid of hexes, now 24x18
         // 27 wide by 15 tall in playkit
         const rowHeight = gridSize;
-        const colWidth = (gridSize * Math.sqrt(3)) / 2;
+        const colWidth = gridSize; //(gridSize * Math.sqrt(3)) / 2;
 
         let targetHexCol = Math.round(
             ((i + 1) * 24) / (numberOfSettlements + 1) + getRandomInt(-1, 1)
         );
         let targetHexRow = getRandomInt(3, 16);
-         let x = targetHexCol * colWidth;
-          let y = targetHexRow * rowHeight;
+        let x = targetHexCol * colWidth;
+        let y = targetHexRow * rowHeight;
 
-        // if (targetHexCol % 2 === 1) {
-        //     y += rowHeight / 2;
-        // }
-
-        // const x = getRandomInt(
-        //     Math.floor(canvas.scene.dimensions.width / 6),
-        //     Math.floor((canvas.scene.dimensions.width / 6) * 5)
-        // );
-        // const y = getRandomInt(
-        //     Math.floor(canvas.scene.dimensions.height / 6),
-        //     Math.floor((canvas.scene.dimensions.height / 6) * 5)
-        // );
+        let pointToSnap = { x: x, y: y };
 
         let sceneId = sector[0].id;
         let scene = game.scenes.get(sceneId);
 
         // let {x, y} = scene.grid.getSnappedPosition(targetHexCol, targetHexRow, 2);
-       // let { x, y } = scene.grid.getSnappedPosition(targetHexCol, targetHexRow);
+        //        let pointToSnapNew = canvas.scene.grid.getSnappedPoint(pointToSnap, { behavior: 1 });
+        //  pointToSnapNew.asdfgasdfsdf();
+        scene.activate();
+        // let pointToSnapNew = canvas.grid.getSnappedPosition(pointToSnap.x, pointToSnap.y, { behavior: 1 });
         let tokens = await scene.createEmbeddedDocuments("Token", [
             {
                 ...tokenData.toObject(),
@@ -342,11 +334,13 @@ async function coreFunction(region, startingSector) {
             },
         ]);
 
-      //  tokens[0].update({ x: x, y: y });
+        // const tokenDocument = canvas.scene.tokens.get(tokens[0].id);
+        // const snappedPoint = tokenDocument.getSnappedPoint();
+        // tokens[0].update({ x: snappedPoint.x, y: snappedPoint.y });
 
-        console.log(
-            `Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
-        );
+        // console.log(
+        //     `Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${snappedPoint.x}, y: ${snappedPoint.y})`
+        // );
 
         let uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
 
@@ -453,6 +447,8 @@ async function coreFunction(region, startingSector) {
             x = (targetHexCol - 1) * colWidth;
             y = (targetHexRow + 1) * rowHeight;
 
+            //  pointToSnap = { x: x, y: y };
+
             console.log(
                 `Placing planet ${planet.name} at hex col ${
                     targetHexCol - 1
@@ -460,7 +456,8 @@ async function coreFunction(region, startingSector) {
             );
 
             sceneId = sector[0].id;
-            scene = game.scenes.get(sceneId);
+            //    scene = game.scenes.get(sceneId);
+            //    pointToSnapNew = canvas.scene.grid.getSnappedPosition(pointToSnap.x, pointToSnap.y, { behavior: 1 });
             await scene.createEmbeddedDocuments("Token", [
                 {
                     ...tokenData.toObject(),
@@ -471,6 +468,26 @@ async function coreFunction(region, startingSector) {
         } else {
             uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
         }
+    }
+
+    const tokensPlacables = canvas.tokens.placeables;
+
+     const M = CONST.GRID_SNAPPING_MODES;
+// const snapped = grid.getSnappedPoint(point, {
+//    mode: M.CENTER | M.VERTEX, // snap to the nearest center point or vertex
+//    resolution: 2 // the grid resolution
+// });
+    // Iterate over each token and update its position
+    for (let token of tokensPlacables) {
+        // Calculate the snapped position for the token
+        // The getSnappedPoint method from the grid utility can be used for this
+        const snappedPoint = canvas.grid.getSnappedPoint({
+            x: token.x,
+            y: token.y,
+        }, { mode: M.CORNER, resolution: 1 });
+
+        // Update the token's position to the snapped point
+        await token.document.update({ x: snappedPoint.x, y: snappedPoint.y });
     }
 
     const newJournal = await JournalEntry.create({
