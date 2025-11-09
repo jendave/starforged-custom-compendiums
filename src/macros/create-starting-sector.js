@@ -302,28 +302,51 @@ async function coreFunction(region, startingSector) {
                 "texture.scaleY": settlementScale,
             },
         });
-        const tokenData = await settlement.getTokenDocument();
+        let tokenData = await settlement.getTokenDocument();
 
         // 20 wide by 15 tall grid of hexes, now 24x18
         // 27 wide by 15 tall in playkit
-        const x = getRandomInt(
-            Math.floor(canvas.scene.dimensions.width / 6),
-            Math.floor((canvas.scene.dimensions.width / 6) * 5)
-        );
-        const y = getRandomInt(
-            Math.floor(canvas.scene.dimensions.height / 6),
-            Math.floor((canvas.scene.dimensions.height / 6) * 5)
-        );
+        const rowHeight = gridSize;
+        const colWidth = (gridSize * Math.sqrt(3)) / 2;
 
-        const sceneId = sector[0].id;
-        const scene = game.scenes.get(sceneId);
-        await scene.createEmbeddedDocuments("Token", [
+        let targetHexCol = Math.round(
+            ((i + 1) * 24) / (numberOfSettlements + 1) + getRandomInt(-1, 1)
+        );
+        let targetHexRow = getRandomInt(3, 16);
+         let x = targetHexCol * colWidth;
+          let y = targetHexRow * rowHeight;
+
+        // if (targetHexCol % 2 === 1) {
+        //     y += rowHeight / 2;
+        // }
+
+        // const x = getRandomInt(
+        //     Math.floor(canvas.scene.dimensions.width / 6),
+        //     Math.floor((canvas.scene.dimensions.width / 6) * 5)
+        // );
+        // const y = getRandomInt(
+        //     Math.floor(canvas.scene.dimensions.height / 6),
+        //     Math.floor((canvas.scene.dimensions.height / 6) * 5)
+        // );
+
+        let sceneId = sector[0].id;
+        let scene = game.scenes.get(sceneId);
+
+        // let {x, y} = scene.grid.getSnappedPosition(targetHexCol, targetHexRow, 2);
+       // let { x, y } = scene.grid.getSnappedPosition(targetHexCol, targetHexRow);
+        let tokens = await scene.createEmbeddedDocuments("Token", [
             {
                 ...tokenData.toObject(),
                 x: x,
                 y: y,
             },
         ]);
+
+      //  tokens[0].update({ x: x, y: y });
+
+        console.log(
+            `Placing settlement ${settlement.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
+        );
 
         let uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
 
@@ -424,6 +447,27 @@ async function coreFunction(region, startingSector) {
                     system: { description: settlement.system.description },
                 },
             ]);
+
+            tokenData = await planet.getTokenDocument();
+
+            x = (targetHexCol - 1) * colWidth;
+            y = (targetHexRow + 1) * rowHeight;
+
+            console.log(
+                `Placing planet ${planet.name} at hex col ${
+                    targetHexCol - 1
+                }, row ${targetHexRow + 1} (x: ${x}, y: ${y})`
+            );
+
+            sceneId = sector[0].id;
+            scene = game.scenes.get(sceneId);
+            await scene.createEmbeddedDocuments("Token", [
+                {
+                    ...tokenData.toObject(),
+                    x: x,
+                    y: y,
+                },
+            ]);
         } else {
             uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
         }
@@ -474,8 +518,8 @@ async function coreFunction(region, startingSector) {
         ],
     });
 
-    const sceneId = sector[0].id;
-    const scene = game.scenes.get(sceneId);
+    let sceneId = sector[0].id;
+    let scene = game.scenes.get(sceneId);
     await scene.update({
         journal: newJournal.id,
     });
