@@ -312,8 +312,8 @@ async function coreFunction(region, startingSector) {
         let targetHexCol =
             ((i + 1) * 20) / (numberOfSettlements + 1) + getRandomInt(-1, 1);
         let targetHexRow = getRandomInt(2, 14);
-       // targetHexCol = 11;
-       // targetHexRow = 1;
+        // targetHexCol = 11;
+        // targetHexRow = 1;
         let x = targetHexCol * colWidth;
         let y = targetHexRow * rowHeight;
 
@@ -349,6 +349,7 @@ async function coreFunction(region, startingSector) {
                 ...tokenData.toObject(),
                 x: x,
                 y: y,
+                sort: 1,
             },
         ]);
 
@@ -461,13 +462,13 @@ async function coreFunction(region, startingSector) {
             ]);
 
             tokenData = await planet.getTokenDocument();
-            targetHexCol -= 1;
+            //  targetHexCol -= 1;
             targetHexRow += 1;
             x = targetHexCol * colWidth;
             y = targetHexRow * rowHeight;
 
             if (targetHexRow % 2 === 0) {
-                x += colWidth / 2;
+                x -= colWidth / 2;
             } else {
                 //x -= colWidth / 2;
             }
@@ -477,17 +478,13 @@ async function coreFunction(region, startingSector) {
                 //  x += colWidth / 2;
             }
 
-            x = Math.floor(x);
-            y = Math.floor(y);
+            // x = Math.floor(x);
+            // y = Math.floor(y);
 
-            //  pointToSnap = { x: x, y: y };
+            // //  pointToSnap = { x: x, y: y };
 
             console.log(
-                `Placing planet ${
-                    planet.name
-                } at hex col ${targetHexCol}, row ${
-                    targetHexRow + 1
-                } (x: ${x}, y: ${y})`
+                `Placing planet ${planet.name} at hex col ${targetHexCol}, row ${targetHexRow} (x: ${x}, y: ${y})`
             );
 
             sceneId = sector[0].id;
