@@ -79,6 +79,7 @@ async function coreFunction(region, startingSector) {
     const authorityArray = ["2c3224921966f200"];
     const settlementProjectArray = ["eb909255e1df463b"];
     const planetaryClassArray = ["affbef437e01ef10"];
+    const tokenAttacherModuleId = "token-attacher";
 
     table = await fromUuid(
         rollTablePrefix + randomArrayItem(sectorPrefixArray)
@@ -301,7 +302,7 @@ async function coreFunction(region, startingSector) {
                 "texture.scaleY": settlementScale,
             },
         });
-        let tokenData = await settlement.getTokenDocument();
+        let tokenDataSettlement = await settlement.getTokenDocument();
 
         // 24 wide by 18 tall grid of hexes
         // 27 wide by 15 tall in playkit
@@ -326,9 +327,9 @@ async function coreFunction(region, startingSector) {
         let scene = game.scenes.get(sceneId);
 
         scene.activate();
-        await scene.createEmbeddedDocuments("Token", [
+        let tokenSettlement = await scene.createEmbeddedDocuments("Token", [
             {
-                ...tokenData.toObject(),
+                ...tokenDataSettlement.toObject(),
                 x: x,
                 y: y,
                 sort: 1,
@@ -439,8 +440,7 @@ async function coreFunction(region, startingSector) {
                 },
             ]);
 
-            tokenData = await planet.getTokenDocument();
-            //  targetHexCol -= 1;
+            let tokenDataPlanet = await planet.getTokenDocument();
             targetHexRow += 1;
             x = targetHexCol * colWidth;
             y = targetHexRow * rowHeight;
@@ -455,16 +455,42 @@ async function coreFunction(region, startingSector) {
 
             sceneId = sector[0].id;
 
-            await scene.createEmbeddedDocuments("Token", [
+            let tokenPlanet = await scene.createEmbeddedDocuments("Token", [
                 {
-                    ...tokenData.toObject(),
+                    ...tokenDataPlanet.toObject(),
                     x: x,
                     y: y,
                 },
             ]);
+
+            if (useTokenAttacher == true && game.modules.get(tokenAttacherModuleId)?.active) {
+                let targetTokenSettlement = canvas.tokens.get(
+                    tokenSettlement[0].id
+                );
+                let targetTokenPlanet = canvas.tokens.get(tokenPlanet[0].id);
+
+                targetTokenPlanet.setTarget(true, {
+                    user: game.user,
+                    releaseOthers: true,
+                });
+                tokenAttacher.attachElementToToken(
+                    targetTokenPlanet,
+                    targetTokenSettlement
+                );
+                targetTokenPlanet.setTarget(false, {
+                    user: game.user,
+                    releaseOthers: true,
+                });
+            }
         } else {
             uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
         }
+    }
+
+    if (useTokenAttacher && !game.modules.get(tokenAttacherModuleId)?.active) {
+        ui.notifications.info(
+            `The module ${tokenAttacherModuleId} is not active.`
+        );
     }
 
     const newJournal = await JournalEntry.create({
@@ -522,6 +548,11 @@ async function coreFunction(region, startingSector) {
 try {
     let region = "";
     let startingSector = "";
+    let tokenAttacherActive = false;
+    const tokenAttacherModuleId = "token-attacher";
+    if (game.modules.get(tokenAttacherModuleId)?.active) {
+        tokenAttacherActive = true;
+    }
 
     let d = new Dialog({
         title: "Select Region and Sector Type",
@@ -538,6 +569,11 @@ try {
             <div class="checkbox">
                 <label><input type="checkbox" name="selectStartingSector" checked> Starting Sector</label>
             </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="useTokenAttacher" ${
+                    tokenAttacherActive ? "checked" : ""
+                }> Use Token Attacher</label>
+            </div>
         </form>
         `,
         buttons: {
@@ -552,6 +588,9 @@ try {
                     region = html.find('[name="selectRegion"]').val();
                     startingSector = html
                         .find('[name="selectStartingSector"]')
+                        .is(":checked");
+                    useTokenAttacher = html
+                        .find('[name="useTokenAttacher"]')
                         .is(":checked");
                 },
             },
