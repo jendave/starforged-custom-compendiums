@@ -423,9 +423,11 @@ async function coreFunction(
             settlementKlass == "deep space"
                 ? "is in Deep Space"
                 : settlementKlass == "orbital"
-                ? "orbits"
+                ? "orbits planet"
                 : "is on planet";
 
+        let uuidPlanet = "";
+        let planet;
         // planet generation
         if (settlementKlass != "deep space") {
             const planetScale = 1;
@@ -482,7 +484,7 @@ async function coreFunction(
             roll = await table.roll();
             let planetaryName = roll.results[0].text;
 
-            const planet = await CONFIG.IRONSWORN.actorClass.create({
+            planet = await CONFIG.IRONSWORN.actorClass.create({
                 type: "location",
                 name: planetaryName,
                 folder: locationsSectorFolder.id,
@@ -504,7 +506,7 @@ async function coreFunction(
                 },
             });
 
-            let uuidPlanet = "@UUID[" + planet.uuid + "]{" + planet.name + "}";
+            uuidPlanet = "@UUID[" + planet.uuid + "]{" + planet.name + "}";
             uuidSettlementsAndPlanets.push(
                 uuidSettlement + " " + conjunction + " " + uuidPlanet
             );
@@ -587,11 +589,16 @@ async function coreFunction(
             system: {
                 subtype: "star",
                 klass: stellarObjectTypeDescription.toLowerCase(),
-                description: "",
+                description:
+                    "<p><b>Settlement:</b> " +
+                    uuidSettlement +
+                    (uuidPlanet != ""
+                        ? "</p>\n<p><b>Planet:</b> " + uuidPlanet + "</p>"
+                        : ""),
             },
-            img: `systems/foundry-ironsworn/assets/stellar-objects/Starforged-Stellar-Token-${
-                star.imgKey
-            }-01.webp`,
+            img: star.imgKey
+                ? `systems/foundry-ironsworn/assets/stellar-objects/Starforged-Stellar-Token-${star.imgKey}-01.webp`
+                : `systems/foundry-ironsworn/assets/icons/stellar-object.svg`,
             prototypeToken: {
                 displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
                 disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
@@ -600,6 +607,29 @@ async function coreFunction(
                 "texture.scaleY": stellarObjectScale,
             },
         });
+
+        let uuidStellarObject =
+            "@UUID[" + stellarObject.uuid + "]{" + stellarObject.name + "}";
+
+        settlement.system.description +=
+            "\n<p><b>Star:</b> " + uuidStellarObject + "</p>";
+        await CONFIG.IRONSWORN.actorClass.updateDocuments([
+            {
+                _id: settlement._id,
+                system: { description: settlement.system.description },
+            },
+        ]);
+
+        if (planet !== null && planet !== undefined) {
+            planet.system.description +=
+                "\n<p><b>Star:</b> " + uuidStellarObject + "</p>";
+            await CONFIG.IRONSWORN.actorClass.updateDocuments([
+                {
+                    _id: planet._id,
+                    system: { description: planet.system.description },
+                },
+            ]);
+        }
     }
 
     if (useTokenAttacher && !game.modules.get(tokenAttacherModuleId)?.active) {
