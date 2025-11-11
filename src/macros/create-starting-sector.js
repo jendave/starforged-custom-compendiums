@@ -421,10 +421,10 @@ async function coreFunction(
 
         let conjunction =
             settlementKlass == "deep space"
-                ? "is in Deep Space"
+                ? "is a deep space settlement"
                 : settlementKlass == "orbital"
-                ? "orbits planet"
-                : "is on planet";
+                ? "is an orbital settlement of planet"
+                : "is a planetside settlement on planet";
 
         let uuidPlanet = "";
         let planet;
@@ -507,9 +507,9 @@ async function coreFunction(
             });
 
             uuidPlanet = "@UUID[" + planet.uuid + "]{" + planet.name + "}";
-            uuidSettlementsAndPlanets.push(
-                uuidSettlement + " " + conjunction + " " + uuidPlanet
-            );
+            // uuidSettlementsAndPlanets.push(
+            //     uuidSettlement + " " + conjunction + " " + uuidPlanet + ". "
+            // );
             settlement.system.description +=
                 "\n<p><b>Planet:</b> " + uuidPlanet + "</p>";
             await CONFIG.IRONSWORN.actorClass.updateDocuments([
@@ -565,7 +565,9 @@ async function coreFunction(
                 });
             }
         } else {
-            uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
+            // uuidSettlementsAndPlanets.push(
+            //     uuidSettlement + " " + conjunction + ". "
+            // );
         }
 
         const stellarObjectScale = 1;
@@ -630,6 +632,16 @@ async function coreFunction(
                 },
             ]);
         }
+
+        if (settlementKlass != "deep space") {
+            uuidSettlementsAndPlanets.push(
+                uuidSettlement + " " + conjunction + " " + uuidPlanet + " in the " + uuidStellarObject + " stellar system. "
+            );
+        } else {
+            uuidSettlementsAndPlanets.push(
+                uuidSettlement + " " + conjunction + " in the " + uuidStellarObject + " stellar system. "
+            );
+        }
     }
 
     if (useTokenAttacher && !game.modules.get(tokenAttacherModuleId)?.active) {
@@ -693,7 +705,7 @@ async function coreFunction(
                 name: "Sector Locations",
                 text: {
                     content:
-                        "<p><b>Settlements and Planets</b></p>\n<p>" +
+                        "<h2>Settlements, Planets and Stellar Objects</h2>\n<p>" +
                         uuidSettlementsAndPlanets
                             .sort((a, b) =>
                                 a.localeCompare(b, undefined, {
