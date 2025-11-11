@@ -105,7 +105,8 @@ async function coreFunction(
     region,
     startingSector,
     useTokenAttacher,
-    createPassages
+    createPassages,
+    generateStars
 ) {
     if (region == "") {
         return;
@@ -570,76 +571,91 @@ async function coreFunction(
             // );
         }
 
-        const stellarObjectScale = 1;
-        let stellarObjectTypeDescription = "";
-        table = await fromUuid(
-            rollTablePrefix + randomArrayItem(stellarObjectArray)
-        );
-        roll = await table.roll();
-        stellarObjectTypeDescription = roll.results[0].text;
+        let uuidStellarObject = "";
+        if (generateStars) {
+            const stellarObjectScale = 1;
+            let stellarObjectTypeDescription = "";
+            table = await fromUuid(
+                rollTablePrefix + randomArrayItem(stellarObjectArray)
+            );
+            roll = await table.roll();
+            stellarObjectTypeDescription = roll.results[0].text;
 
-        const star = getStellarObjectTypes().find(
-            (item) =>
-                item.value.toLowerCase() ===
-                stellarObjectTypeDescription.toLowerCase()
-        );
+            const star = getStellarObjectTypes().find(
+                (item) =>
+                    item.value.toLowerCase() ===
+                    stellarObjectTypeDescription.toLowerCase()
+            );
 
-        const stellarObject = await CONFIG.IRONSWORN.actorClass.create({
-            type: "location",
-            name: `${settlementName}'s Star`,
-            folder: locationsSectorFolder.id,
-            system: {
-                subtype: "star",
-                klass: stellarObjectTypeDescription.toLowerCase(),
-                description:
-                    "<p><b>Settlement:</b> " +
-                    uuidSettlement +
-                    (uuidPlanet != ""
-                        ? "</p>\n<p><b>Planet:</b> " + uuidPlanet + "</p>"
-                        : ""),
-            },
-            img: star.imgKey
-                ? `systems/foundry-ironsworn/assets/stellar-objects/Starforged-Stellar-Token-${star.imgKey}-01.webp`
-                : `systems/foundry-ironsworn/assets/icons/stellar-object.svg`,
-            prototypeToken: {
-                displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
-                disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
-                actorLink: true,
-                "texture.scaleX": stellarObjectScale,
-                "texture.scaleY": stellarObjectScale,
-            },
-        });
+            const stellarObject = await CONFIG.IRONSWORN.actorClass.create({
+                type: "location",
+                name: `${settlementName}'s Star`,
+                folder: locationsSectorFolder.id,
+                system: {
+                    subtype: "star",
+                    klass: stellarObjectTypeDescription.toLowerCase(),
+                    description:
+                        "<p><b>Settlement:</b> " +
+                        uuidSettlement +
+                        (uuidPlanet != ""
+                            ? "</p>\n<p><b>Planet:</b> " + uuidPlanet + "</p>"
+                            : ""),
+                },
+                img: star.imgKey
+                    ? `systems/foundry-ironsworn/assets/stellar-objects/Starforged-Stellar-Token-${star.imgKey}-01.webp`
+                    : `systems/foundry-ironsworn/assets/icons/stellar-object.svg`,
+                prototypeToken: {
+                    displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                    actorLink: true,
+                    "texture.scaleX": stellarObjectScale,
+                    "texture.scaleY": stellarObjectScale,
+                },
+            });
 
-        let uuidStellarObject =
-            "@UUID[" + stellarObject.uuid + "]{" + stellarObject.name + "}";
+            uuidStellarObject =
+                "@UUID[" + stellarObject.uuid + "]{" + stellarObject.name + "}";
 
-        settlement.system.description +=
-            "\n<p><b>Star:</b> " + uuidStellarObject + "</p>";
-        await CONFIG.IRONSWORN.actorClass.updateDocuments([
-            {
-                _id: settlement._id,
-                system: { description: settlement.system.description },
-            },
-        ]);
-
-        if (planet !== null && planet !== undefined) {
-            planet.system.description +=
+            settlement.system.description +=
                 "\n<p><b>Star:</b> " + uuidStellarObject + "</p>";
             await CONFIG.IRONSWORN.actorClass.updateDocuments([
                 {
-                    _id: planet._id,
-                    system: { description: planet.system.description },
+                    _id: settlement._id,
+                    system: { description: settlement.system.description },
                 },
             ]);
+
+            if (planet !== null && planet !== undefined) {
+                planet.system.description +=
+                    "\n<p><b>Star:</b> " + uuidStellarObject + "</p>";
+                await CONFIG.IRONSWORN.actorClass.updateDocuments([
+                    {
+                        _id: planet._id,
+                        system: { description: planet.system.description },
+                    },
+                ]);
+            }
         }
 
         if (settlementKlass != "deep space") {
             uuidSettlementsAndPlanets.push(
-                uuidSettlement + " " + conjunction + " " + uuidPlanet + " in the " + uuidStellarObject + " stellar system. "
+                uuidSettlement +
+                    " " +
+                    conjunction +
+                    " " +
+                    uuidPlanet +
+                    (generateStars
+                        ? " in the " + uuidStellarObject + " stellar system. "
+                        : ".")
             );
         } else {
             uuidSettlementsAndPlanets.push(
-                uuidSettlement + " " + conjunction + " in the " + uuidStellarObject + " stellar system. "
+                uuidSettlement +
+                    " " +
+                    conjunction +
+                    (generateStars
+                        ? " in the " + uuidStellarObject + " stellar system. "
+                        : ".")
             );
         }
     }
@@ -765,6 +781,10 @@ try {
                     JB2A_DnD5eActive ? "checked" : ""
                 }> Create Passages</label>
             </div>
+                        <div class="checkbox">
+                <label><input type="checkbox" name="generateStars"
+                    > Generate Stars</label>
+            </div>
         </form>
         `,
         buttons: {
@@ -786,6 +806,9 @@ try {
                     createPassages = html
                         .find('[name="createPassages"]')
                         .is(":checked");
+                    generateStars = html
+                        .find('[name="generateStars"]')
+                        .is(":checked");
                 },
             },
         },
@@ -795,7 +818,8 @@ try {
                 region,
                 startingSector,
                 useTokenAttacher,
-                createPassages
+                createPassages,
+                generateStars
             );
         },
     }).render(true);
