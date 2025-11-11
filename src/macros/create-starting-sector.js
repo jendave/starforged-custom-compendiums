@@ -31,8 +31,83 @@ function getStringBetween(fullString, startString, endString) {
     return fullString.substring(startIndex + startString.length, endIndex);
 }
 
-async function coreFunction(region, startingSector) {
-    if (region == "" || startingSector == "") {
+function getStellarObjectTypes() {
+    return [
+        {
+            value: "smoldering red star",
+            imgKey: "Red-Star",
+            label: "Smoldering Red Star",
+        },
+        {
+            value: "glowing orange star",
+            imgKey: "Orange-Star",
+            label: "Glowing Orange Star",
+        },
+        {
+            value: "burning yellow star",
+            imgKey: "Yellow-Star",
+            label: "Burning Yellow Star",
+        },
+        {
+            value: "blazing blue star",
+            imgKey: "Blue-Star",
+            label: "Blazing Blue Star",
+        },
+        {
+            value: "young star incubating in a molecular cloud",
+            imgKey: "Star-In-Incubating-Cloud",
+            label: "Young Star",
+        },
+        {
+            value: "white dwarf shining with spectral light",
+            imgKey: "White-Dwarf",
+            label: "White Dwarf",
+        },
+        {
+            value: "corrupted star radiating with unnatural light",
+            imgKey: "Corrupted-Star",
+            label: "Corrupted Star",
+        },
+        {
+            value: "neutron star surrounded by intense magnetic fields",
+            imgKey: "Neutron-Star",
+            label: "Neutron Star",
+        },
+        {
+            value: "two stars in close orbit connected by fiery tendrils of energy",
+            imgKey: "Binary-Star",
+            label: "Binary Stars",
+        },
+        {
+            value: "black hole allows nothing to escape—not even light",
+            imgKey: "Black-Hole",
+            label: "Black Hole",
+        },
+        {
+            value: "hypergiant star generating turbulent solar winds",
+            imgKey: "Hypergiant",
+            label: "Hypergiant",
+        },
+        {
+            value: "artificial star constructed by a long-dead civilization",
+            // TODO: img: 'Artificial-Star',
+            label: "Artificial Star",
+        },
+        {
+            value: "unstable star showing signs of impending supernova",
+            imgKey: "Unstable-Star",
+            label: "Unstable Star",
+        },
+    ];
+}
+
+async function coreFunction(
+    region,
+    startingSector,
+    useTokenAttacher,
+    createPassages
+) {
+    if (region == "") {
         return;
     }
     let data = [];
@@ -79,7 +154,9 @@ async function coreFunction(region, startingSector) {
     const authorityArray = ["2c3224921966f200"];
     const settlementProjectArray = ["eb909255e1df463b"];
     const planetaryClassArray = ["affbef437e01ef10"];
+    const stellarObjectArray = ["f2bba7a759c5871a"];
     const tokenAttacherModuleId = "token-attacher";
+    const JB2A_DnD5e_ModuleId = "JB2A_DnD5e";
 
     table = await fromUuid(
         rollTablePrefix + randomArrayItem(sectorPrefixArray)
@@ -463,7 +540,10 @@ async function coreFunction(region, startingSector) {
                 },
             ]);
 
-            if (useTokenAttacher == true && game.modules.get(tokenAttacherModuleId)?.active) {
+            if (
+                useTokenAttacher == true &&
+                game.modules.get(tokenAttacherModuleId)?.active
+            ) {
                 let targetTokenSettlement = canvas.tokens.get(
                     tokenSettlement[0].id
                 );
@@ -485,6 +565,41 @@ async function coreFunction(region, startingSector) {
         } else {
             uuidSettlementsAndPlanets.push(uuidSettlement + " " + conjunction);
         }
+
+        const stellarObjectScale = 1;
+        let stellarObjectTypeDescription = "";
+        table = await fromUuid(
+            rollTablePrefix + randomArrayItem(stellarObjectArray)
+        );
+        roll = await table.roll();
+        stellarObjectTypeDescription = roll.results[0].text;
+
+        const star = getStellarObjectTypes().find(
+            (item) =>
+                item.value.toLowerCase() ===
+                stellarObjectTypeDescription.toLowerCase()
+        );
+
+        const stellarObject = await CONFIG.IRONSWORN.actorClass.create({
+            type: "location",
+            name: `${settlementName}'s Star`,
+            folder: locationsSectorFolder.id,
+            system: {
+                subtype: "star",
+                klass: stellarObjectTypeDescription.toLowerCase(),
+                description: "",
+            },
+            img: `systems/foundry-ironsworn/assets/stellar-objects/Starforged-Stellar-Token-${
+                star.imgKey
+            }-01.webp`,
+            prototypeToken: {
+                displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                actorLink: true,
+                "texture.scaleX": stellarObjectScale,
+                "texture.scaleY": stellarObjectScale,
+            },
+        });
     }
 
     if (useTokenAttacher && !game.modules.get(tokenAttacherModuleId)?.active) {
@@ -492,6 +607,30 @@ async function coreFunction(region, startingSector) {
             `The module ${tokenAttacherModuleId} is not active.`
         );
     }
+
+    // if (
+    //     createPassages &&
+    //     game.modules.get(JB2A_DnD5e_ModuleId)?.active
+    // ) {
+    //     for (let i = 0; i < numberOfPassages; i++) {
+    //      //   const target = game.user.targets.first();
+    //         let passageAnimation = new Sequence()
+    //             .effect()
+    //             .file("jb2a.energy_beam.normal.blue.01")
+    //             //     .attachTo(token)
+
+    //             // Testing random locations for now
+    //             .atLocation({
+    //                 x: getRandomInt(200, 4000),
+    //                 y: getRandomInt(200, 3000),
+    //             })
+    //             //.stretchTo(target, { attachTo: true })
+    //             .persist()
+    //             .duration(1)
+    //             .scale({ x: 1.0, y: 0.5 })
+    //             .play();
+    //     }
+    // }
 
     const newJournal = await JournalEntry.create({
         name: sectorPrefix + " " + sectorSuffix,
@@ -549,9 +688,14 @@ try {
     let region = "";
     let startingSector = "";
     let tokenAttacherActive = false;
+    let JB2A_DnD5eActive = false;
     const tokenAttacherModuleId = "token-attacher";
+    const JB2A_DnD5e_ModuleId = "JB2A_DnD5e";
     if (game.modules.get(tokenAttacherModuleId)?.active) {
         tokenAttacherActive = true;
+    }
+    if (game.modules.get(JB2A_DnD5e_ModuleId)?.active) {
+        JB2A_DnD5eActive = true;
     }
 
     let d = new Dialog({
@@ -574,6 +718,11 @@ try {
                     tokenAttacherActive ? "checked" : ""
                 }> Use Token Attacher</label>
             </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="createPassages" ${
+                    JB2A_DnD5eActive ? "checked" : ""
+                }> Create Passages</label>
+            </div>
         </form>
         `,
         buttons: {
@@ -592,12 +741,20 @@ try {
                     useTokenAttacher = html
                         .find('[name="useTokenAttacher"]')
                         .is(":checked");
+                    createPassages = html
+                        .find('[name="createPassages"]')
+                        .is(":checked");
                 },
             },
         },
         default: "yes",
         close: () => {
-            coreFunction(region, startingSector);
+            coreFunction(
+                region,
+                startingSector,
+                useTokenAttacher,
+                createPassages
+            );
         },
     }).render(true);
 } catch (e) {
