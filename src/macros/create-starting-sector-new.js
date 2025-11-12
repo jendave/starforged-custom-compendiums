@@ -1,0 +1,1383 @@
+// ============================================================================
+// CONFIGURATION
+// ============================================================================
+
+const SECTOR_CONFIG = {
+    // Module IDs
+    MODULES: {
+        TOKEN_ATTACHER: "token-attacher",
+        JB2A_DND5E: "JB2A_DnD5e",
+    },
+
+    // Roll Table Configuration
+    ROLL_TABLES: {
+        PREFIX: "Compendium.foundry-ironsworn.starforgedoracles.RollTable.",
+        SECTOR_PREFIX: ["306501658d12dbad"],
+        SECTOR_SUFFIX: ["0b2b7f507f8901cc"],
+        SECTOR_TROUBLE: ["f6764b50761b77eb"],
+        SETTLEMENT_NAME: ["c25eade4d8daa0bc"],
+        SETTLEMENT_KLASS: "68efb47a93ee8925",
+        AUTHORITY: ["2c3224921966f200"],
+        SETTLEMENT_PROJECT: ["eb909255e1df463b"],
+        PLANETARY_CLASS: ["affbef437e01ef10"],
+        STELLAR_OBJECT: ["f2bba7a759c5871a"],
+        FIRST_LOOK: ["5ff0f4816e9338b4"],
+        SETTLEMENT_TROUBLE: ["b42abc2bc10cd38b"],
+    },
+
+    // Region Settings
+    REGIONS: {
+        TERMINUS: {
+            settlements: 4,
+            passages: 3,
+            populationOracle: "473250ed66f4c411",
+        },
+        OUTLANDS: {
+            settlements: 3,
+            passages: 2,
+            populationOracle: "8d5220c3ac5a5199",
+        },
+        EXPANSE: {
+            settlements: 2,
+            passages: 1,
+            populationOracle: "058fd93e957c6804",
+        },
+    },
+
+    // Planetary Details Arrays by Class
+    PLANET_TABLES: {
+        desert: {
+            name: ["d9ccce4a55cf1ba3"],
+            atmosphere: ["f42af77272694d08"],
+            observedFromSpace: ["ed4e3e57470dd927"],
+            planetsideFeature: ["88fd2037f0802836"],
+        },
+        furnace: {
+            name: ["0ab38c2349ec8e2b"],
+            atmosphere: ["b7b9ee078847e834"],
+            observedFromSpace: ["7083695541c913d9"],
+            planetsideFeature: ["de35c746982df2bc"],
+        },
+        grave: {
+            name: ["b39ab4b43d2df736"],
+            atmosphere: ["c18d325e41207e90"],
+            observedFromSpace: ["7520168fe11e73f4"],
+            planetsideFeature: ["9eca6bc0a308c58f"],
+        },
+        ice: {
+            name: ["f45c90ceb8432000"],
+            atmosphere: ["c274f74ecf7ce593"],
+            observedFromSpace: ["c56edfcd0c123ee3"],
+            planetsideFeature: ["0370e0b345eeddb7"],
+        },
+        jovian: {
+            name: ["fbb7cb653d8543a0"],
+            atmosphere: ["32962e84047f17b5"],
+            observedFromSpace: ["fc741bbc131b5a0b"],
+            planetsideFeature: ["6a7ee7ca3f72a34f"],
+        },
+        jungle: {
+            name: ["d231589442f1e296"],
+            atmosphere: ["d5ac3f9b20d9f5dc"],
+            observedFromSpace: ["3dfa3974fd38aa41"],
+            planetsideFeature: ["315dd67fb3d71259"],
+        },
+        ocean: {
+            name: ["3ab55ec64f9f711d"],
+            atmosphere: ["8c593f0f2ac6527a"],
+            observedFromSpace: ["efc010d3643bed54"],
+            planetsideFeature: ["a36493cd810f2c37"],
+        },
+        rocky: {
+            name: ["0aea1078fd7f3f1e"],
+            atmosphere: ["5c0e2dc25a949b14"],
+            observedFromSpace: ["e03b485571f904d3"],
+            planetsideFeature: ["189900171ce9133f"],
+        },
+        shattered: {
+            name: ["1bb3d31309da3f83"],
+            atmosphere: ["00e404023a5dc5ba"],
+            observedFromSpace: ["96bc7309f47d4af6"],
+            planetsideFeature: ["1fdde544c04e021a"],
+        },
+        tainted: {
+            name: ["ce83758fc30fecc5"],
+            atmosphere: ["98cf03d0bdf9af1b"],
+            observedFromSpace: ["b6761b93d9f1fc4d"],
+            planetsideFeature: ["eeb02365a93c8965"],
+        },
+        vital: {
+            name: ["9d429eda4f215791"],
+            atmosphere: ["3b83c11a94c70b87"],
+            observedFromSpace: ["88ca6ad4d5965c0b"],
+            planetsideFeature: ["bcc68163e523f6c9"],
+            diversity: ["2ccc456d0af8d199"],
+            biomes: ["85e11dcd94c71ef2"],
+        },
+    },
+
+    // Folder Names
+    FOLDERS: {
+        SECTORS: "Sectors",
+        SECTORS_TERMINUS: "Sectors: Terminus",
+        SECTORS_OUTLANDS: "Sectors: Outlands",
+        SECTORS_EXPANSE: "Sectors: Expanse",
+        SECTOR_DATA: "Sector Data",
+        SECTOR_DATA_TERMINUS: "Sector Data: Terminus",
+        SECTOR_DATA_OUTLANDS: "Sector Data: Outlands",
+        SECTOR_DATA_EXPANSE: "Sector Data: Expanse",
+        LOCATIONS: "Sector Locations",
+        LOCATIONS_TERMINUS: "Locations: Terminus",
+        LOCATIONS_OUTLANDS: "Locations: Outlands",
+        LOCATIONS_EXPANSE: "Locations: Expanse",
+    },
+
+    // Scene Configuration
+    SCENE: {
+        GRID_SIZE: 170,
+        INITIAL_SCALE: 0.386,
+        INITIAL_X: 2428,
+        INITIAL_Y: 1417,
+        FOREGROUND_ELEVATION: 20,
+        GRID_TYPE: 2,
+        GRID_COLOR: "ffffff",
+        GRID_ALPHA: 0.35,
+        BACKGROUND_COLOR: "000000",
+    },
+
+    // Asset Paths
+    ASSETS: {
+        SECTORS_PATH: "systems/foundry-ironsworn/assets/sectors/1.webp",
+        SETTLEMENT_BASE:
+            "systems/foundry-ironsworn/assets/locations/settlement-",
+        PLANET_BASE:
+            "systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-",
+        STELLAR_OBJECT_BASE:
+            "systems/foundry-ironsworn/assets/stellar-objects/Starforged-Stellar-Token-",
+        STELLAR_OBJECT_FALLBACK:
+            "systems/foundry-ironsworn/assets/icons/stellar-object.svg",
+    },
+
+    // Token Scales
+    TOKEN_SCALES: {
+        SETTLEMENT: 2,
+        PLANET: 1,
+        STELLAR_OBJECT: 1,
+    },
+
+    // Hex Grid Configuration
+    HEX_GRID: {
+        SETTLEMENT_COL_SPACING: 20,
+        SETTLEMENT_ROW_MIN: 2,
+        SETTLEMENT_ROW_MAX: 14,
+        PLANET_ROW_OFFSET: 1,
+    },
+
+    // Stellar Object Types
+    STELLAR_OBJECT_TYPES: [
+        {
+            value: "smoldering red star",
+            imgKey: "Red-Star",
+            label: "Smoldering Red Star",
+        },
+        {
+            value: "glowing orange star",
+            imgKey: "Orange-Star",
+            label: "Glowing Orange Star",
+        },
+        {
+            value: "burning yellow star",
+            imgKey: "Yellow-Star",
+            label: "Burning Yellow Star",
+        },
+        {
+            value: "blazing blue star",
+            imgKey: "Blue-Star",
+            label: "Blazing Blue Star",
+        },
+        {
+            value: "young star incubating in a molecular cloud",
+            imgKey: "Star-In-Incubating-Cloud",
+            label: "Young Star",
+        },
+        {
+            value: "white dwarf shining with spectral light",
+            imgKey: "White-Dwarf",
+            label: "White Dwarf",
+        },
+        {
+            value: "corrupted star radiating with unnatural light",
+            imgKey: "Corrupted-Star",
+            label: "Corrupted Star",
+        },
+        {
+            value: "neutron star surrounded by intense magnetic fields",
+            imgKey: "Neutron-Star",
+            label: "Neutron Star",
+        },
+        {
+            value: "two stars in close orbit connected by fiery tendrils of energy",
+            imgKey: "Binary-Star",
+            label: "Binary Stars",
+        },
+        {
+            value: "black hole allows nothing to escape—not even light",
+            imgKey: "Black-Hole",
+            label: "Black Hole",
+        },
+        {
+            value: "hypergiant star generating turbulent solar winds",
+            imgKey: "Hypergiant",
+            label: "Hypergiant",
+        },
+        {
+            value: "artificial star constructed by a long-dead civilization",
+            imgKey: null,
+            label: "Artificial Star",
+        },
+        {
+            value: "unstable star showing signs of impending supernova",
+            imgKey: "Unstable-Star",
+            label: "Unstable Star",
+        },
+    ],
+};
+
+// ============================================================================
+// UTILITY FUNCTIONS
+// ============================================================================
+
+/**
+ * Prints a message to the chat
+ * @param {string} message - The message to print
+ */
+function printMessage(message) {
+    const chatData = { content: message };
+    ChatMessage.applyRollMode(chatData, game.settings.get("core", "rollMode"));
+    ChatMessage.create(chatData, {});
+}
+
+/**
+ * Returns a random item from an array
+ * @param {Array} array - The array to select from
+ * @returns {*} A random element from the array
+ */
+function randomArrayItem(array) {
+    const index = Math.floor(Math.random() * array.length);
+    return array[index];
+}
+
+/**
+ * Returns a random integer between min and max (inclusive)
+ * @param {number} min - Minimum value
+ * @param {number} max - Maximum value
+ * @returns {number} Random integer
+ */
+function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+/**
+ * Extracts a substring between two delimiters
+ * @param {string} fullString - The full string to search
+ * @param {string} startString - The starting delimiter
+ * @param {string} endString - The ending delimiter
+ * @returns {string|null} The extracted substring or null if not found
+ */
+function getStringBetween(fullString, startString, endString) {
+    const startIndex = fullString.indexOf(startString);
+    if (startIndex === -1) {
+        return null;
+    }
+
+    const endIndex = fullString.indexOf(
+        endString,
+        startIndex + startString.length
+    );
+    if (endIndex === -1) {
+        return null;
+    }
+    return fullString.substring(startIndex + startString.length, endIndex);
+}
+
+/**
+ * Returns the list of stellar object types
+ * @returns {Array} Array of stellar object type definitions
+ */
+function getStellarObjectTypes() {
+    return SECTOR_CONFIG.STELLAR_OBJECT_TYPES;
+}
+
+// ============================================================================
+// HELPER CLASSES
+// ============================================================================
+
+/**
+ * Handles all table rolling operations with error handling
+ */
+class TableRoller {
+    constructor(prefix) {
+        this.prefix = prefix;
+        this.cache = new Map();
+    }
+
+    /**
+     * Rolls a table by UUID
+     * @param {string} uuid - Full UUID or suffix to append to prefix
+     * @returns {Promise<Object>} The roll result
+     */
+    async rollTable(uuid) {
+        try {
+            const fullUuid = uuid.startsWith("Compendium.")
+                ? uuid
+                : this.prefix + uuid;
+
+            // Check cache first
+            if (this.cache.has(fullUuid)) {
+                const table = this.cache.get(fullUuid);
+                return await table.roll();
+            }
+
+            const table = await fromUuid(fullUuid);
+            this.cache.set(fullUuid, table);
+            return await table.roll();
+        } catch (error) {
+            console.error(`Error rolling table ${uuid}:`, error);
+            throw new Error(`Failed to roll table: ${uuid}`);
+        }
+    }
+
+    /**
+     * Rolls a table from an array of UUIDs (randomly selects one)
+     * @param {Array<string>} uuidArray - Array of UUID suffixes
+     * @returns {Promise<Object>} The roll result
+     */
+    async rollFromArray(uuidArray) {
+        const uuid = randomArrayItem(uuidArray);
+        return await this.rollTable(uuid);
+    }
+
+    /**
+     * Gets the text result from a roll
+     * @param {Object} roll - The roll result
+     * @returns {string} The text content
+     */
+    getRollText(roll) {
+        return roll.results[0]?.text || "";
+    }
+}
+
+/**
+ * Manages folder creation and retrieval with memoization
+ */
+class FolderManager {
+    constructor() {
+        this.cache = new Map();
+    }
+
+    /**
+     * Gets or creates a folder
+     * @param {string} name - Folder name
+     * @param {string} type - Folder type (Scene, JournalEntry, Actor)
+     * @param {string|null} parentId - Parent folder ID (optional)
+     * @returns {Promise<Folder>} The folder document
+     */
+    async getOrCreateFolder(name, type, parentId = null) {
+        const cacheKey = `${name}:${type}:${parentId || ""}`;
+
+        if (this.cache.has(cacheKey)) {
+            return this.cache.get(cacheKey);
+        }
+
+        let folder = game.folders.getName(name);
+
+        if (!folder) {
+            const folderData = { name, type };
+            if (parentId) {
+                folderData.folder = parentId;
+            }
+            folder = await Folder.create(folderData);
+        }
+
+        this.cache.set(cacheKey, folder);
+        return folder;
+    }
+
+    /**
+     * Gets region-specific folders
+     * @param {string} region - Region name
+     * @returns {Promise<Object>} Object containing all region folders
+     */
+    async getRegionFolders(region) {
+        const sectorsFolder = await this.getOrCreateFolder(
+            SECTOR_CONFIG.FOLDERS.SECTORS,
+            "Scene"
+        );
+
+        const sectorFolderName = `Sectors: ${region}`;
+        const sectorFolder = await this.getOrCreateFolder(
+            sectorFolderName,
+            "Scene",
+            sectorsFolder.id
+        );
+
+        const sectorDataFolder = await this.getOrCreateFolder(
+            SECTOR_CONFIG.FOLDERS.SECTOR_DATA,
+            "JournalEntry"
+        );
+
+        const sectorDataFolderName = `Sector Data: ${region}`;
+        const sectorDataRegionFolder = await this.getOrCreateFolder(
+            sectorDataFolderName,
+            "JournalEntry",
+            sectorDataFolder.id
+        );
+
+        const locationsFolder = await this.getOrCreateFolder(
+            SECTOR_CONFIG.FOLDERS.LOCATIONS,
+            "Actor"
+        );
+
+        const locationsFolderName = `Locations: ${region}`;
+        const locationsRegionFolder = await this.getOrCreateFolder(
+            locationsFolderName,
+            "Actor",
+            locationsFolder.id
+        );
+
+        return {
+            sector: sectorFolder,
+            sectorData: sectorDataRegionFolder,
+            locations: locationsRegionFolder,
+            baseSectors: sectorsFolder,
+            baseSectorData: sectorDataFolder,
+            baseLocations: locationsFolder,
+        };
+    }
+}
+
+/**
+ * Handles hex grid calculations and token positioning
+ */
+class TokenPlacer {
+    constructor(gridSize) {
+        this.gridSize = gridSize;
+        this.rowHeight = gridSize * (Math.sqrt(3) / 2);
+        this.colWidth = gridSize;
+    }
+
+    /**
+     * Calculates hex coordinates for a settlement
+     * @param {number} index - Settlement index (0-based)
+     * @param {number} totalSettlements - Total number of settlements
+     * @returns {Object} Object with col, row, x, y coordinates
+     */
+    calculateSettlementPosition(index, totalSettlements) {
+        const targetHexCol =
+            ((index + 1) * SECTOR_CONFIG.HEX_GRID.SETTLEMENT_COL_SPACING) /
+                (totalSettlements + 1) +
+            getRandomInt(-1, 1);
+        const targetHexRow = getRandomInt(
+            SECTOR_CONFIG.HEX_GRID.SETTLEMENT_ROW_MIN,
+            SECTOR_CONFIG.HEX_GRID.SETTLEMENT_ROW_MAX
+        );
+
+        let x = targetHexCol * this.colWidth;
+        let y = targetHexRow * this.rowHeight;
+
+        // Offset for even rows
+        if (targetHexRow % 2 === 0) {
+            x += this.colWidth / 2;
+        }
+
+        return { col: targetHexCol, row: targetHexRow, x, y };
+    }
+
+    /**
+     * Calculates hex coordinates for a planet (below settlement)
+     * @param {number} settlementCol - Settlement column
+     * @param {number} settlementRow - Settlement row
+     * @returns {Object} Object with col, row, x, y coordinates
+     */
+    calculatePlanetPosition(settlementCol, settlementRow) {
+        const targetHexRow =
+            settlementRow + SECTOR_CONFIG.HEX_GRID.PLANET_ROW_OFFSET;
+        let x = settlementCol * this.colWidth;
+        let y = targetHexRow * this.rowHeight;
+
+        // Offset for even rows
+        if (targetHexRow % 2 === 0) {
+            x -= this.colWidth / 2;
+        }
+
+        return { col: settlementCol, row: targetHexRow, x, y };
+    }
+}
+
+/**
+ * Generates locations (settlements, planets, stellar objects)
+ */
+class LocationGenerator {
+    constructor(tableRoller, folderManager) {
+        this.tableRoller = tableRoller;
+        this.folderManager = folderManager;
+    }
+
+    /**
+     * Creates a settlement actor
+     * @param {string} name - Settlement name
+     * @param {string} folderId - Folder ID for the settlement
+     * @param {string} klass - Settlement class
+     * @param {string} description - Settlement description
+     * @returns {Promise<Actor>} The created settlement actor
+     */
+    async createSettlement(name, folderId, klass, description) {
+        try {
+            const settlement = await CONFIG.IRONSWORN.actorClass.create({
+                type: "location",
+                name,
+                folder: folderId,
+                system: {
+                    subtype: "settlement",
+                    klass,
+                    description,
+                },
+                img: `${SECTOR_CONFIG.ASSETS.SETTLEMENT_BASE}${klass.replace(
+                    /\s+/g,
+                    ""
+                )}.webp`,
+                prototypeToken: {
+                    displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                    actorLink: true,
+                    "texture.scaleX": SECTOR_CONFIG.TOKEN_SCALES.SETTLEMENT,
+                    "texture.scaleY": SECTOR_CONFIG.TOKEN_SCALES.SETTLEMENT,
+                },
+            });
+            return settlement;
+        } catch (error) {
+            console.error(`Error creating settlement ${name}:`, error);
+            throw error;
+        }
+    }
+
+    /**
+     * Creates a planet actor
+     * @param {string} name - Planet name
+     * @param {string} folderId - Folder ID for the planet
+     * @param {string} klass - Planet class
+     * @param {string} description - Planet description
+     * @param {string} planetaryClass - Full planetary class name
+     * @returns {Promise<Actor>} The created planet actor
+     */
+    async createPlanet(name, folderId, klass, description, planetaryClass) {
+        try {
+            const planet = await CONFIG.IRONSWORN.actorClass.create({
+                type: "location",
+                name,
+                folder: folderId,
+                system: {
+                    subtype: "planet",
+                    klass,
+                    description,
+                },
+                img: `${SECTOR_CONFIG.ASSETS.PLANET_BASE}${
+                    planetaryClass.split(" ")[0]
+                }-0${getRandomInt(1, 2)}.webp`,
+                prototypeToken: {
+                    displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                    actorLink: true,
+                    "texture.scaleX": SECTOR_CONFIG.TOKEN_SCALES.PLANET,
+                    "texture.scaleY": SECTOR_CONFIG.TOKEN_SCALES.PLANET,
+                },
+            });
+            return planet;
+        } catch (error) {
+            console.error(`Error creating planet ${name}:`, error);
+            throw error;
+        }
+    }
+
+    /**
+     * Creates a stellar object actor
+     * @param {string} name - Stellar object name
+     * @param {string} folderId - Folder ID for the stellar object
+     * @param {string} klass - Stellar object class
+     * @param {string} description - Stellar object description
+     * @param {string} imgKey - Image key for the stellar object
+     * @returns {Promise<Actor>} The created stellar object actor
+     */
+    async createStellarObject(name, folderId, klass, description, imgKey) {
+        try {
+            const img = imgKey
+                ? `${SECTOR_CONFIG.ASSETS.STELLAR_OBJECT_BASE}${imgKey}-01.webp`
+                : SECTOR_CONFIG.ASSETS.STELLAR_OBJECT_FALLBACK;
+
+            const stellarObject = await CONFIG.IRONSWORN.actorClass.create({
+                type: "location",
+                name,
+                folder: folderId,
+                system: {
+                    subtype: "star",
+                    klass,
+                    description,
+                },
+                img,
+                prototypeToken: {
+                    displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                    actorLink: true,
+                    "texture.scaleX": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
+                    "texture.scaleY": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
+                },
+            });
+            return stellarObject;
+        } catch (error) {
+            console.error(`Error creating stellar object ${name}:`, error);
+            throw error;
+        }
+    }
+}
+
+// ============================================================================
+// MAIN GENERATION FUNCTIONS
+// ============================================================================
+
+/**
+ * Gets region configuration
+ * @param {string} region - Region name
+ * @returns {Object} Region configuration
+ */
+function getRegionConfig(region) {
+    const regionUpper = region.toUpperCase();
+    const config = SECTOR_CONFIG.REGIONS[regionUpper];
+
+    if (!config) {
+        console.warn(`Unknown region ${region}, defaulting to Terminus`);
+        return SECTOR_CONFIG.REGIONS.TERMINUS;
+    }
+
+    return {
+        ...config,
+        populationOracle:
+            SECTOR_CONFIG.ROLL_TABLES.PREFIX + config.populationOracle,
+    };
+}
+
+/**
+ * Creates a sector scene
+ * @param {string} region - Region name
+ * @param {string} sectorName - Sector name
+ * @param {Folder} sectorFolder - Folder for the sector
+ * @returns {Promise<Scene>} The created scene
+ */
+async function createSectorScene(region, sectorName, sectorFolder) {
+    try {
+        const result = await FilePicker.browse(
+            "data",
+            SECTOR_CONFIG.ASSETS.SECTORS_PATH
+        );
+
+        if (result.files.length === 0) {
+            throw new Error("No sector image files found");
+        }
+
+        const sceneData = [];
+        for (const file of result.files) {
+            const { width, height } = await loadTexture(file);
+            sceneData.push({
+                folder: sectorFolder.id,
+                name: sectorName,
+                fogExploration: false,
+                "flags.foundry-ironsworn.region": region.toLowerCase(),
+                tokenVision: false,
+                navigation: false,
+                "grid.type": SECTOR_CONFIG.SCENE.GRID_TYPE,
+                "grid.color": SECTOR_CONFIG.SCENE.GRID_COLOR,
+                "grid.alpha": SECTOR_CONFIG.SCENE.GRID_ALPHA,
+                "grid.size": SECTOR_CONFIG.SCENE.GRID_SIZE,
+                "background.src": file,
+                backgroundColor: SECTOR_CONFIG.SCENE.BACKGROUND_COLOR,
+                padding: 0,
+                "initial.scale": SECTOR_CONFIG.SCENE.INITIAL_SCALE,
+                "initial.x": SECTOR_CONFIG.SCENE.INITIAL_X,
+                "initial.y": SECTOR_CONFIG.SCENE.INITIAL_Y,
+                foregroundElevation: SECTOR_CONFIG.SCENE.FOREGROUND_ELEVATION,
+                width,
+                height,
+            });
+        }
+
+        const scenes = await Scene.createDocuments(sceneData);
+        console.log("Created sector:", scenes[0].name);
+        return scenes[0];
+    } catch (error) {
+        console.error("Error creating sector scene:", error);
+        throw error;
+    }
+}
+
+/**
+ * Generates settlement description
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @param {string} populationOracle - Population oracle UUID
+ * @returns {Promise<Object>} Settlement details
+ */
+async function generateSettlementDetails(tableRoller, populationOracle) {
+    const nameRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME
+    );
+    const settlementName = tableRoller.getRollText(nameRoll);
+
+    const klassRoll = await tableRoller.rollTable(
+        SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_KLASS
+    );
+    const settlementKlass = tableRoller.getRollText(klassRoll).toLowerCase();
+
+    const populationRoll = await tableRoller.rollTable(populationOracle);
+    const population = tableRoller.getRollText(populationRoll);
+
+    const authorityRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.AUTHORITY
+    );
+    const authority = tableRoller.getRollText(authorityRoll);
+
+    let settlementProject = "";
+    const projectCount = getRandomInt(1, 2);
+    for (let i = 0; i < projectCount; i++) {
+        const projectRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT
+        );
+        settlementProject += tableRoller.getRollText(projectRoll) + "<br>";
+    }
+
+    const description = `<p><strong>Population:</strong> ${population}</p>
+        <p><strong>Authority:</strong> ${authority}</p>
+        <p><strong>Settlement projects:</strong> ${settlementProject}</p>`;
+
+    return {
+        name: settlementName,
+        klass: settlementKlass,
+        description,
+    };
+}
+
+/**
+ * Generates planet details
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @returns {Promise<Object>} Planet details
+ */
+async function generatePlanetDetails(tableRoller) {
+    const classRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.PLANETARY_CLASS
+    );
+    const rollText = tableRoller.getRollText(classRoll);
+
+    const planetaryClass =
+        getStringBetween(rollText, "</i>", "</a>")?.trim() || rollText.trim();
+    const planetaryKlass = planetaryClass.split(" ")[0].toLowerCase();
+
+    const planetTables =
+        SECTOR_CONFIG.PLANET_TABLES[planetaryKlass] ||
+        SECTOR_CONFIG.PLANET_TABLES.vital;
+    
+    if (!planetTables || !planetTables.name) {
+        console.error(`No planet tables found for class: ${planetaryKlass}`);
+        return {
+            name: "Unknown Planet",
+            klass: planetaryKlass,
+            class: planetaryClass,
+        };
+    }
+
+    const nameRoll = await tableRoller.rollFromArray(planetTables.name);
+    const planetaryName = tableRoller.getRollText(nameRoll);
+
+    return {
+        name: planetaryName,
+        klass: planetaryKlass,
+        class: planetaryClass,
+        tables: planetTables, // Include full tables object for future use
+    };
+}
+
+/**
+ * Generates stellar object details
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @param {string} settlementName - Settlement name for naming
+ * @returns {Promise<Object>} Stellar object details
+ */
+async function generateStellarObjectDetails(tableRoller, settlementName) {
+    const typeRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.STELLAR_OBJECT
+    );
+    const stellarObjectTypeDescription = tableRoller.getRollText(typeRoll);
+
+    const star = getStellarObjectTypes().find(
+        (item) =>
+            item.value.toLowerCase() ===
+            stellarObjectTypeDescription.toLowerCase()
+    );
+
+    return {
+        name: `${settlementName}'s Star`,
+        klass: stellarObjectTypeDescription.toLowerCase(),
+        imgKey: star?.imgKey || null,
+    };
+}
+
+/**
+ * Creates a settlement with associated planet and stellar object
+ * @param {Object} params - Parameters object
+ * @returns {Promise<Object>} Created entities and UUIDs
+ */
+async function createSettlementWithLocation(params) {
+    const {
+        index,
+        totalSettlements,
+        tableRoller,
+        locationGenerator,
+        tokenPlacer,
+        scene,
+        folderId,
+        populationOracle,
+        generateStars,
+        useTokenAttacher,
+    } = params;
+
+    // Generate settlement details
+    const settlementDetails = await generateSettlementDetails(
+        tableRoller,
+        populationOracle
+    );
+    const settlement = await locationGenerator.createSettlement(
+        settlementDetails.name,
+        folderId,
+        settlementDetails.klass,
+        settlementDetails.description
+    );
+
+    // Calculate settlement position
+    const settlementPos = tokenPlacer.calculateSettlementPosition(
+        index,
+        totalSettlements
+    );
+    const tokenDataSettlement = await settlement.getTokenDocument();
+
+    scene.activate();
+    const tokenSettlement = await scene.createEmbeddedDocuments("Token", [
+        {
+            ...tokenDataSettlement.toObject(),
+            x: settlementPos.x,
+            y: settlementPos.y,
+            sort: 1,
+        },
+    ]);
+
+    const uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
+    const conjunction =
+        settlementDetails.klass === "deep space"
+            ? "is a deep space settlement"
+            : settlementDetails.klass === "orbital"
+            ? "is an orbital settlement of planet"
+            : "is a planetside settlement on planet";
+
+    let planet = null;
+    let uuidPlanet = "";
+    let uuidStellarObject = "";
+
+    // Create planet if not deep space
+    if (settlementDetails.klass !== "deep space") {
+        const planetDetails = await generatePlanetDetails(tableRoller);
+        const planetDescription = `<p><b>Settlement:</b> ${uuidSettlement}</p>`;
+
+        planet = await locationGenerator.createPlanet(
+            planetDetails.name,
+            folderId,
+            planetDetails.klass,
+            planetDescription,
+            planetDetails.class
+        );
+
+        uuidPlanet = `@UUID[${planet.uuid}]{${planet.name}}`;
+
+        // Update settlement with planet link
+        settlement.system.description += `\n<p><b>Planet:</b> ${uuidPlanet}</p>`;
+        await CONFIG.IRONSWORN.actorClass.updateDocuments([
+            {
+                _id: settlement._id,
+                system: { description: settlement.system.description },
+            },
+        ]);
+
+        // Place planet token
+        const planetPos = tokenPlacer.calculatePlanetPosition(
+            settlementPos.col,
+            settlementPos.row
+        );
+        const tokenDataPlanet = await planet.getTokenDocument();
+
+        console.log(
+            `Placing planet ${planet.name} at hex col ${planetPos.col}, row ${planetPos.row} (x: ${planetPos.x}, y: ${planetPos.y})`
+        );
+
+        const tokenPlanet = await scene.createEmbeddedDocuments("Token", [
+            {
+                ...tokenDataPlanet.toObject(),
+                x: planetPos.x,
+                y: planetPos.y,
+            },
+        ]);
+
+        // Attach tokens if requested
+        if (
+            useTokenAttacher &&
+            game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active
+        ) {
+            const targetTokenSettlement = canvas.tokens.get(
+                tokenSettlement[0].id
+            );
+            const targetTokenPlanet = canvas.tokens.get(tokenPlanet[0].id);
+
+            targetTokenPlanet.setTarget(true, {
+                user: game.user,
+                releaseOthers: true,
+            });
+            tokenAttacher.attachElementToToken(
+                targetTokenPlanet,
+                targetTokenSettlement
+            );
+            targetTokenPlanet.setTarget(false, {
+                user: game.user,
+                releaseOthers: true,
+            });
+        }
+    }
+
+    // Create stellar object if requested
+    if (generateStars) {
+        const stellarDetails = await generateStellarObjectDetails(
+            tableRoller,
+            settlementDetails.name
+        );
+        const stellarDescription =
+            `<p><b>Settlement:</b> ${uuidSettlement}</p>` +
+            (uuidPlanet ? `\n<p><b>Planet:</b> ${uuidPlanet}</p>` : "");
+
+        const stellarObject = await locationGenerator.createStellarObject(
+            stellarDetails.name,
+            folderId,
+            stellarDetails.klass,
+            stellarDescription,
+            stellarDetails.imgKey
+        );
+
+        uuidStellarObject = `@UUID[${stellarObject.uuid}]{${stellarObject.name}}`;
+
+        // Update settlement with star link
+        settlement.system.description += `\n<p><b>Star:</b> ${uuidStellarObject}</p>`;
+        await CONFIG.IRONSWORN.actorClass.updateDocuments([
+            {
+                _id: settlement._id,
+                system: { description: settlement.system.description },
+            },
+        ]);
+
+        // Update planet with star link if it exists
+        if (planet) {
+            planet.system.description += `\n<p><b>Star:</b> ${uuidStellarObject}</p>`;
+            await CONFIG.IRONSWORN.actorClass.updateDocuments([
+                {
+                    _id: planet._id,
+                    system: { description: planet.system.description },
+                },
+            ]);
+        }
+    }
+
+    // Build description string for journal
+    let description;
+    if (settlementDetails.klass !== "deep space") {
+        description =
+            `${uuidSettlement} ${conjunction} ${uuidPlanet}` +
+            (generateStars
+                ? ` in the ${uuidStellarObject} stellar system.`
+                : ".");
+    } else {
+        description =
+            `${uuidSettlement} ${conjunction}` +
+            (generateStars
+                ? ` in the ${uuidStellarObject} stellar system.`
+                : ".");
+    }
+
+    return { description };
+}
+
+/**
+ * Generates all settlements for a sector
+ * @param {Object} params - Parameters object
+ * @returns {Promise<Array<string>>} Array of settlement descriptions
+ */
+async function generateSettlements(params) {
+    const {
+        numberOfSettlements,
+        region,
+        sectorName,
+        tableRoller,
+        locationGenerator,
+        tokenPlacer,
+        scene,
+        folderManager,
+        populationOracle,
+        generateStars,
+        useTokenAttacher,
+    } = params;
+
+    const folders = await folderManager.getRegionFolders(region);
+    const locationsSectorFolder = await folderManager.getOrCreateFolder(
+        sectorName,
+        "Actor",
+        folders.locations.id
+    );
+
+    const descriptions = [];
+
+    for (let i = 0; i < numberOfSettlements; i++) {
+        try {
+            const result = await createSettlementWithLocation({
+                index: i,
+                totalSettlements: numberOfSettlements,
+                tableRoller,
+                locationGenerator,
+                tokenPlacer,
+                scene,
+                folderId: locationsSectorFolder.id,
+                populationOracle,
+                generateStars,
+                useTokenAttacher,
+            });
+            descriptions.push(result.description);
+        } catch (error) {
+            console.error(`Error creating settlement ${i + 1}:`, error);
+            ui.notifications.error(`Failed to create settlement ${i + 1}`);
+        }
+    }
+
+    return descriptions;
+}
+
+/**
+ * Creates a sector journal entry
+ * @param {string} sectorName - Sector name
+ * @param {string} region - Region name
+ * @param {string} sectorTrouble - Sector trouble description
+ * @param {Array<string>} locationDescriptions - Array of location descriptions
+ * @param {Folder} journalFolder - Folder for the journal
+ * @returns {Promise<JournalEntry>} The created journal entry
+ */
+async function createSectorJournal(
+    sectorName,
+    region,
+    sectorTrouble,
+    locationDescriptions,
+    journalFolder
+) {
+    try {
+        const journal = await JournalEntry.create({
+            name: sectorName,
+            folder: journalFolder.id,
+            pages: [
+                {
+                    name: "Overview",
+                    text: {
+                        content: `${sectorName} is located in the ${region}.`,
+                    },
+                },
+                {
+                    name: "Sector Trouble",
+                    text: { content: `${sectorTrouble}.` },
+                },
+                {
+                    name: "Sector Locations",
+                    text: {
+                        content:
+                            locationDescriptions
+                                .sort((a, b) =>
+                                    a.localeCompare(b, undefined, {
+                                        sensitivity: "base",
+                                    })
+                                )
+                                .join("<br>") + `</p>`,
+                    },
+                },
+            ],
+        });
+        return journal;
+    } catch (error) {
+        console.error("Error creating sector journal:", error);
+        throw error;
+    }
+}
+
+/**
+ * Zooms in on a settlement (generates additional details)
+ * @param {TableRoller} tableRoller - Table roller instance
+ */
+async function zoomInOnASettlement(tableRoller) {
+    try {
+        const firstLookRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK
+        );
+        const firstLook = tableRoller.getRollText(firstLookRoll);
+
+        const troubleRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE
+        );
+        const settlementTrouble = tableRoller.getRollText(troubleRoll);
+
+        const diversityRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.PLANET_TABLES.vital.diversity
+        );
+        const diversity = tableRoller.getRollText(diversityRoll);
+
+        const biomesRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.PLANET_TABLES.vital.biomes
+        );
+        const biomes = tableRoller.getRollText(biomesRoll);
+
+        console.log(`First Look: ${firstLook}`);
+        console.log(`Settlement Trouble: ${settlementTrouble}`);
+        console.log(`Diversity: ${diversity}`);
+        console.log(`Biomes: ${biomes}`);
+    } catch (error) {
+        console.error("Error in zoomInOnASettlement:", error);
+    }
+}
+
+/**
+ * Main function to create a starting sector
+ * @param {string} region - Region name
+ * @param {boolean} startingSector - Whether this is a starting sector
+ * @param {boolean} useTokenAttacher - Whether to use token attacher
+ * @param {boolean} createPassages - Whether to create passages (not implemented)
+ * @param {boolean} generateStars - Whether to generate stellar objects
+ */
+async function createStartingSector(
+    region,
+    startingSector,
+    useTokenAttacher,
+    createPassages,
+    generateStars
+) {
+    if (!region || region === "") {
+        ui.notifications.warn("No region selected");
+        return;
+    }
+
+    try {
+        // Initialize helpers
+        const tableRoller = new TableRoller(SECTOR_CONFIG.ROLL_TABLES.PREFIX);
+        const folderManager = new FolderManager();
+        const tokenPlacer = new TokenPlacer(SECTOR_CONFIG.SCENE.GRID_SIZE);
+        const locationGenerator = new LocationGenerator(
+            tableRoller,
+            folderManager
+        );
+
+        // Get region configuration
+        const regionConfig = getRegionConfig(region);
+
+        // Roll for sector name and trouble
+        const sectorPrefixRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.SECTOR_PREFIX
+        );
+        const sectorPrefix = tableRoller.getRollText(sectorPrefixRoll);
+
+        const sectorSuffixRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.SECTOR_SUFFIX
+        );
+        const sectorSuffix = tableRoller.getRollText(sectorSuffixRoll);
+
+        const sectorTroubleRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.SECTOR_TROUBLE
+        );
+        const sectorTrouble = tableRoller.getRollText(sectorTroubleRoll);
+
+        const sectorName = `${sectorPrefix} ${sectorSuffix}`;
+
+        // Get folders
+        const folders = await folderManager.getRegionFolders(region);
+
+        // Create sector scene
+        const scene = await createSectorScene(
+            region,
+            sectorName,
+            folders.sector
+        );
+
+        // Generate settlements
+        const locationDescriptions = await generateSettlements({
+            numberOfSettlements: regionConfig.settlements,
+            region,
+            sectorName,
+            tableRoller,
+            locationGenerator,
+            tokenPlacer,
+            scene,
+            folderManager,
+            populationOracle: regionConfig.populationOracle,
+            generateStars,
+            useTokenAttacher,
+        });
+
+        // Check for token attacher module
+        if (
+            useTokenAttacher &&
+            !game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active
+        ) {
+            ui.notifications.info(
+                `The module ${SECTOR_CONFIG.MODULES.TOKEN_ATTACHER} is not active.`
+            );
+        }
+
+        // Zoom in on settlement if starting sector
+        if (startingSector) {
+            await zoomInOnASettlement(tableRoller);
+        }
+
+        // Create journal
+        const journal = await createSectorJournal(
+            sectorName,
+            region,
+            sectorTrouble,
+            locationDescriptions,
+            folders.sectorData
+        );
+
+        // Link journal to scene
+        await scene.update({ journal: journal.id });
+
+        ui.notifications.info(`Successfully created sector: ${sectorName}`);
+    } catch (error) {
+        console.error("Error creating starting sector:", error);
+        ui.notifications.error(`Failed to create sector: ${error.message}`);
+    }
+}
+
+// ============================================================================
+// UI FUNCTIONS
+// ============================================================================
+
+/**
+ * Creates and shows the configuration dialog
+ */
+function showSectorCreationDialog() {
+    const tokenAttacherActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active || false;
+    const jb2aActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active || false;
+
+    let region = "";
+    let startingSector = false;
+    let useTokenAttacher = false;
+    let createPassages = false;
+    let generateStars = false;
+    let shouldCreate = false;
+
+    new Dialog({
+        title: "Select Region and Sector Type",
+        content: `
+        <form class="flexcol">
+            <div class="form-group">
+                <label for="selectRegion">Region</label>
+                <select name="selectRegion">
+                    <option value="Terminus">Terminus</option>
+                    <option value="Outlands">Outlands</option>
+                    <option value="Expanse">Expanse</option>
+                </select>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="selectStartingSector" checked> Starting Sector</label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="useTokenAttacher" ${
+                    tokenAttacherActive ? "checked" : ""
+                }> Use Token Attacher</label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="createPassages" ${
+                    jb2aActive ? "checked" : ""
+                }> Create Passages</label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="generateStars"> Generate Stars</label>
+            </div>
+        </form>
+        `,
+        buttons: {
+            cancel: {
+                icon: '<i class="fas fa-times"></i>',
+                label: "Cancel",
+                callback: () => {
+                    shouldCreate = false;
+                },
+            },
+            create: {
+                icon: '<i class="fas fa-check"></i>',
+                label: "Create",
+                callback: (html) => {
+                    try {
+                        region = html.find('[name="selectRegion"]').val();
+                        startingSector = html
+                            .find('[name="selectStartingSector"]')
+                            .is(":checked");
+                        useTokenAttacher = html
+                            .find('[name="useTokenAttacher"]')
+                            .is(":checked");
+                        createPassages = html
+                            .find('[name="createPassages"]')
+                            .is(":checked");
+                        generateStars = html
+                            .find('[name="generateStars"]')
+                            .is(":checked");
+                        shouldCreate = true;
+                    } catch (error) {
+                        console.error("Error reading dialog values:", error);
+                        shouldCreate = false;
+                    }
+                },
+            },
+        },
+        default: "create",
+        close: () => {
+            try {
+                if (shouldCreate && region) {
+                    createStartingSector(
+                        region,
+                        startingSector,
+                        useTokenAttacher,
+                        createPassages,
+                        generateStars
+                    );
+                }
+            } catch (error) {
+                console.error("Error in dialog close callback:", error);
+            }
+        },
+    }).render(true);
+}
+
+// ============================================================================
+// ENTRY POINT
+// ============================================================================
+
+try {
+    showSectorCreationDialog();
+} catch (error) {
+    console.error("Error in sector creation macro:", error);
+    ui.notifications.error("Failed to initialize sector creation dialog");
+}
