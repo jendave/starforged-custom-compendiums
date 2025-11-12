@@ -23,6 +23,10 @@ const SECTOR_CONFIG = {
         STELLAR_OBJECT: ["f2bba7a759c5871a"],
         FIRST_LOOK: ["5ff0f4816e9338b4"],
         SETTLEMENT_TROUBLE: ["b42abc2bc10cd38b"],
+        ACTION: ["b347a87fb81a3abb"],
+        THEME: ["0c5ce82c7adbb4e2"],
+        DESCRIPTOR: ["e2bae1632870e2d2"],
+        FOCUS: ["9d920a9da68abf62"]
     },
 
     // Region Settings
@@ -601,45 +605,6 @@ class LocationGenerator {
         }
     }
 
-    /**
-     * Creates a stellar object actor
-     * @param {string} name - Stellar object name
-     * @param {string} folderId - Folder ID for the stellar object
-     * @param {string} klass - Stellar object class
-     * @param {string} description - Stellar object description
-     * @param {string} imgKey - Image key for the stellar object
-     * @returns {Promise<Actor>} The created stellar object actor
-     */
-    async createStellarObject(name, folderId, klass, description, imgKey) {
-        try {
-            const img = imgKey
-                ? `${SECTOR_CONFIG.ASSETS.STELLAR_OBJECT_BASE}${imgKey}-01.webp`
-                : SECTOR_CONFIG.ASSETS.STELLAR_OBJECT_FALLBACK;
-
-            const stellarObject = await CONFIG.IRONSWORN.actorClass.create({
-                type: "location",
-                name,
-                folder: folderId,
-                system: {
-                    subtype: "star",
-                    klass,
-                    description,
-                },
-                img,
-                prototypeToken: {
-                    displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
-                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
-                    actorLink: true,
-                    "texture.scaleX": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
-                    "texture.scaleY": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
-                },
-            });
-            return stellarObject;
-        } catch (error) {
-            console.error(`Error creating stellar object ${name}:`, error);
-            throw error;
-        }
-    }
 }
 
 // ============================================================================
@@ -830,6 +795,46 @@ async function generateStellarObjectDetails(tableRoller, settlementName) {
 }
 
 /**
+ * Creates a stellar object actor
+ * @param {string} name - Stellar object name
+ * @param {string} folderId - Folder ID for the stellar object
+ * @param {string} klass - Stellar object class
+ * @param {string} description - Stellar object description
+ * @param {string|null} imgKey - Image key for the stellar object
+ * @returns {Promise<Actor>} The created stellar object actor
+ */
+async function createStellarObject(name, folderId, klass, description, imgKey) {
+    try {
+        const img = imgKey
+            ? `${SECTOR_CONFIG.ASSETS.STELLAR_OBJECT_BASE}${imgKey}-01.webp`
+            : SECTOR_CONFIG.ASSETS.STELLAR_OBJECT_FALLBACK;
+
+        const stellarObject = await CONFIG.IRONSWORN.actorClass.create({
+            type: "location",
+            name,
+            folder: folderId,
+            system: {
+                subtype: "star",
+                klass,
+                description,
+            },
+            img,
+            prototypeToken: {
+                displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                actorLink: true,
+                "texture.scaleX": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
+                "texture.scaleY": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
+            },
+        });
+        return stellarObject;
+    } catch (error) {
+        console.error(`Error creating stellar object ${name}:`, error);
+        throw error;
+    }
+}
+
+/**
  * Creates a settlement with associated planet and stellar object
  * @param {Object} params - Parameters object
  * @returns {Promise<Object>} Created entities and UUIDs
@@ -967,7 +972,7 @@ async function createSettlementWithLocation(params) {
             `<p><b>Settlement:</b> ${uuidSettlement}</p>` +
             (uuidPlanet ? `\n<p><b>Planet:</b> ${uuidPlanet}</p>` : "");
 
-        const stellarObject = await locationGenerator.createStellarObject(
+        const stellarObject = await createStellarObject(
             stellarDetails.name,
             folderId,
             stellarDetails.klass,
@@ -1014,13 +1019,13 @@ async function createSettlementWithLocation(params) {
                 : ".");
     }
 
-    return { description };
+    return { description, settlement };
 }
 
 /**
  * Generates all settlements for a sector
  * @param {Object} params - Parameters object
- * @returns {Promise<Array<string>>} Array of settlement descriptions
+ * @returns {Promise<Object>} Object with descriptions array and settlements array
  */
 async function generateSettlements(params) {
     const {
@@ -1045,6 +1050,7 @@ async function generateSettlements(params) {
     );
 
     const descriptions = [];
+    const settlements = [];
 
     for (let i = 0; i < numberOfSettlements; i++) {
         try {
@@ -1061,13 +1067,14 @@ async function generateSettlements(params) {
                 useTokenAttacher,
             });
             descriptions.push(result.description);
+            settlements.push(result.settlement);
         } catch (error) {
             console.error(`Error creating settlement ${i + 1}:`, error);
             ui.notifications.error(`Failed to create settlement ${i + 1}`);
         }
     }
 
-    return descriptions;
+    return { descriptions, settlements };
 }
 
 /**
@@ -1126,33 +1133,190 @@ async function createSectorJournal(
 /**
  * Zooms in on a settlement (generates additional details)
  * @param {TableRoller} tableRoller - Table roller instance
+ * @param {Array<Actor>} settlements - Array of settlement actors
  */
-async function zoomInOnASettlement(tableRoller) {
+async function zoomInOnASettlement(tableRoller, settlements) {
     try {
-        const firstLookRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK
-        );
-        const firstLook = tableRoller.getRollText(firstLookRoll);
+        if (!settlements || settlements.length === 0) {
+            console.warn("No settlements available for zoom in");
+            return;
+        }
 
+        // Choose a random settlement
+        const randomSettlement = randomArrayItem(settlements);
+        console.log(`Zooming in on settlement: ${randomSettlement.name}`);
+
+        // Roll on First Look table 1-2 times
+        const firstLookCount = getRandomInt(1, 2);
+        const firstLooks = [];
+        for (let i = 0; i < firstLookCount; i++) {
+            let firstLook;
+            let attempts = 0;
+            const maxAttempts = 10; // Prevent infinite loops
+            
+            do {
+                const firstLookRoll = await tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK
+                );
+                firstLook = tableRoller.getRollText(firstLookRoll);
+                attempts++;
+                
+                // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
+                if (firstLook.includes("Descriptor") && firstLook.includes("Focus")) {
+                    const descriptorRoll = await tableRoller.rollFromArray(
+                        SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR
+                    );
+                    const descriptor = tableRoller.getRollText(descriptorRoll);
+                    
+                    const focusRoll = await tableRoller.rollFromArray(
+                        SECTOR_CONFIG.ROLL_TABLES.FOCUS
+                    );
+                    const focus = tableRoller.getRollText(focusRoll);
+                    
+                    // Concatenate with space
+                    firstLook = `${descriptor} ${focus}`;
+                }
+                
+                // If this is the second roll and it matches the first, re-roll
+                if (i === 1 && firstLook === firstLooks[0] && attempts < maxAttempts) {
+                    continue;
+                }
+                break;
+            } while (attempts < maxAttempts);
+            
+            firstLooks.push(firstLook);
+        }
+
+        // Roll once on Settlement Trouble table
         const troubleRoll = await tableRoller.rollFromArray(
             SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE
         );
-        const settlementTrouble = tableRoller.getRollText(troubleRoll);
+        let settlementTrouble = tableRoller.getRollText(troubleRoll);
+        
+        // Check if result contains "Action" and "Theme" - if so, roll on those tables
+        if (settlementTrouble.includes("Action") && settlementTrouble.includes("Theme")) {
+            const actionRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.ACTION
+            );
+            const action = tableRoller.getRollText(actionRoll);
+            
+            const themeRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.THEME
+            );
+            const theme = tableRoller.getRollText(themeRoll);
+            
+            // Concatenate with space
+            settlementTrouble = `${action} ${theme}`;
+        }
 
-        const diversityRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.PLANET_TABLES.vital.diversity
-        );
-        const diversity = tableRoller.getRollText(diversityRoll);
+        // Build the additional description text
+        let additionalDescription = "<p><strong>First Look:</strong> ";
+        additionalDescription += firstLooks.join("<br>");
+        additionalDescription += "</p>";
+        additionalDescription += `<p><strong>Settlement Trouble:</strong> ${settlementTrouble}</p>`;
 
-        const biomesRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.PLANET_TABLES.vital.biomes
-        );
-        const biomes = tableRoller.getRollText(biomesRoll);
+        // If settlement is planetside or orbital, add planet details
+        const settlementKlass = randomSettlement.system.klass;
+        if (settlementKlass !== "deep space") {
+            // Extract planet UUID from settlement description (look for Planet: line)
+            const planetUuidMatch = randomSettlement.system.description.match(/<b>Planet:<\/b>\s*@UUID\[([^\]]+)\]/);
+            if (planetUuidMatch) {
+                try {
+                    const planet = await fromUuid(planetUuidMatch[1]);
+                    if (planet && planet.system && planet.system.klass) {
+                        const planetKlass = planet.system.klass.toLowerCase();
+                        const planetTables = SECTOR_CONFIG.PLANET_TABLES[planetKlass];
+                        
+                        if (planetTables) {
+                            // Roll on Atmosphere table (once)
+                            const atmosphereRoll = await tableRoller.rollFromArray(
+                                planetTables.atmosphere
+                            );
+                            const atmosphere = tableRoller.getRollText(atmosphereRoll);
+                            
+                            // Roll on Observed From Space table (1-2 times, no duplicates)
+                            const observedCount = getRandomInt(1, 2);
+                            const observedResults = [];
+                            for (let i = 0; i < observedCount; i++) {
+                                let observed;
+                                let attempts = 0;
+                                const maxAttempts = 10;
+                                
+                                do {
+                                    const observedRoll = await tableRoller.rollFromArray(
+                                        planetTables.observedFromSpace
+                                    );
+                                    observed = tableRoller.getRollText(observedRoll);
+                                    attempts++;
+                                    
+                                    // If this is the second roll and it matches the first, re-roll
+                                    if (i === 1 && observed === observedResults[0] && attempts < maxAttempts) {
+                                        continue;
+                                    }
+                                    break;
+                                } while (attempts < maxAttempts);
+                                
+                                observedResults.push(observed);
+                            }
+                            
+                            // Roll on Planetside Features table (1-2 times, no duplicates)
+                            const featureCount = getRandomInt(1, 2);
+                            const featureResults = [];
+                            for (let i = 0; i < featureCount; i++) {
+                                let feature;
+                                let attempts = 0;
+                                const maxAttempts = 10;
+                                
+                                do {
+                                    const featureRoll = await tableRoller.rollFromArray(
+                                        planetTables.planetsideFeature
+                                    );
+                                    feature = tableRoller.getRollText(featureRoll);
+                                    attempts++;
+                                    
+                                    // If this is the second roll and it matches the first, re-roll
+                                    if (i === 1 && feature === featureResults[0] && attempts < maxAttempts) {
+                                        continue;
+                                    }
+                                    break;
+                                } while (attempts < maxAttempts);
+                                
+                                featureResults.push(feature);
+                            }
+                            
+                            // Add planet details to planet's description
+                            let planetDescription = planet.system.description;
+                            planetDescription += `\n<p><strong>Atmosphere:</strong> ${atmosphere}</p>`;
+                            planetDescription += `<p><strong>Observed From Space:</strong> ${observedResults.join("<br>")}</p>`;
+                            planetDescription += `<p><strong>Planetside Features:</strong> ${featureResults.join("<br>")}</p>`;
+                            
+                            // Update the planet's description
+                            await CONFIG.IRONSWORN.actorClass.updateDocuments([
+                                {
+                                    _id: planet._id,
+                                    system: { description: planetDescription },
+                                },
+                            ]);
+                            
+                            console.log(`Updated planet ${planet.name} with Atmosphere, Observed From Space, and Planetside Features`);
+                        }
+                    }
+                } catch (error) {
+                    console.error(`Error finding planet for settlement ${randomSettlement.name}:`, error);
+                }
+            }
+        }
 
-        console.log(`First Look: ${firstLook}`);
-        console.log(`Settlement Trouble: ${settlementTrouble}`);
-        console.log(`Diversity: ${diversity}`);
-        console.log(`Biomes: ${biomes}`);
+        // Update the settlement's description
+        randomSettlement.system.description += "\n" + additionalDescription;
+        await CONFIG.IRONSWORN.actorClass.updateDocuments([
+            {
+                _id: randomSettlement._id,
+                system: { description: randomSettlement.system.description },
+            },
+        ]);
+
+        console.log(`Updated settlement ${randomSettlement.name} with First Look and Settlement Trouble details`);
     } catch (error) {
         console.error("Error in zoomInOnASettlement:", error);
     }
@@ -1220,7 +1384,7 @@ async function createStartingSector(
         );
 
         // Generate settlements
-        const locationDescriptions = await generateSettlements({
+        const { descriptions: locationDescriptions, settlements } = await generateSettlements({
             numberOfSettlements: regionConfig.settlements,
             region,
             sectorName,
@@ -1246,7 +1410,7 @@ async function createStartingSector(
 
         // Zoom in on settlement if starting sector
         if (startingSector) {
-            await zoomInOnASettlement(tableRoller);
+            await zoomInOnASettlement(tableRoller, settlements);
         }
 
         // Create journal
