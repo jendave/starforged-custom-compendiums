@@ -101,6 +101,50 @@ function getStellarObjectTypes() {
     ];
 }
 
+async function zoomInOnASettlement(
+    rollTablePrefix,
+    settlementToken,
+    planetToken
+) {
+    const firstLookArray = ["5ff0f4816e9338b4"];
+    const settlementTroubleArray = ["b42abc2bc10cd38b"];
+
+    const atmosphereArray = ["f2bba7a759c5871a"];
+    const observedFromSpaceArray = ["f2bba7a759c5871a"];
+    const planetsideFeatureArray = ["f2bba7a759c5871a"];
+
+    const diversityArray = ["2ccc456d0af8d199"];
+    const biomesArray = ["85e11dcd94c71ef2"];
+    let table;
+    let roll;
+
+    table = await fromUuid(rollTablePrefix + randomArrayItem(firstLookArray));
+    roll = await table.roll();
+    let firstLook = roll.results[0].text;
+
+    table = await fromUuid(
+        rollTablePrefix + randomArrayItem(settlementTroubleArray)
+    );
+    roll = await table.roll();
+    let settlementTrouble = roll.results[0].text;
+
+    table = await fromUuid(rollTablePrefix + randomArrayItem(diversityArray));
+    roll = await table.roll();
+    let diversity = roll.results[0].text;
+
+    table = await fromUuid(rollTablePrefix + randomArrayItem(biomesArray));
+    roll = await table.roll();
+    let biomes = roll.results[0].text;
+
+    console.log(`First Look: ${firstLook}`);
+    console.log(`Settlement Trouble: ${settlementTrouble}`);
+    // console.log(`Atmosphere: ${atmosphere}`);
+    // console.log(`Observed From Space: ${observedFromSpace}`);
+    // console.log(`Planetside Feature: ${planetsideFeature}`);
+    console.log(`Diversity: ${diversity}`);
+    console.log(`Biomes: ${biomes}`);
+}
+
 async function coreFunction(
     region,
     startingSector,
@@ -565,10 +609,6 @@ async function coreFunction(
                     releaseOthers: true,
                 });
             }
-        } else {
-            // uuidSettlementsAndPlanets.push(
-            //     uuidSettlement + " " + conjunction + ". "
-            // );
         }
 
         let uuidStellarObject = "";
@@ -689,6 +729,9 @@ async function coreFunction(
     //             .play();
     //     }
     // }
+    if (startingSector === true) {
+        zoomInOnASettlement(rollTablePrefix, "uuidSettlement", "uuidPlanet");
+    }
 
     const newJournal = await JournalEntry.create({
         name: sectorPrefix + " " + sectorSuffix,
