@@ -26,7 +26,14 @@ const SECTOR_CONFIG = {
         ACTION: ["b347a87fb81a3abb"],
         THEME: ["0c5ce82c7adbb4e2"],
         DESCRIPTOR: ["e2bae1632870e2d2"],
-        FOCUS: ["9d920a9da68abf62"]
+        FOCUS: ["9d920a9da68abf62"],
+        CHARACTER_ROLE: ["fbb49cabf7e9596c"],
+        CHARACTER_FIRST_LOOK: ["e422399eb54ed7b1"],
+        CHARACTER_GOAL: ["a707e132902305f0"],
+        REVEALED_CHARACTER_ASPECT: ["4c4b6c28ff08ad98"],
+        CHARACTER_GIVEN_NAME: ["2ac8af92c0509f72"],
+        CHARACTER_FAMILY_NAME: ["f94e58504ac34af8"],
+        CHARACTER_CALLSIGN: ["76cd6f5340a4978a"],
     },
 
     // Region Settings
@@ -341,15 +348,23 @@ class TableRoller {
             // Check cache first
             if (this.cache.has(fullUuid)) {
                 const table = this.cache.get(fullUuid);
+                if (!table) {
+                    throw new Error(`Table not found in cache: ${uuid}`);
+                }
                 return await table.roll();
             }
 
             const table = await fromUuid(fullUuid);
+            if (!table) {
+                throw new Error(
+                    `Table not found: ${uuid} (full UUID: ${fullUuid})`
+                );
+            }
             this.cache.set(fullUuid, table);
             return await table.roll();
         } catch (error) {
             console.error(`Error rolling table ${uuid}:`, error);
-            throw new Error(`Failed to roll table: ${uuid}`);
+            throw new Error(`Failed to roll table: ${uuid} - ${error.message}`);
         }
     }
 
@@ -518,6 +533,32 @@ class TokenPlacer {
 
         return { col: settlementCol, row: targetHexRow, x, y };
     }
+
+    /**
+     * Calculates hex coordinates one hex to the left of a given position
+     * @param {number} x - Current x coordinate
+     * @param {number} y - Current y coordinate
+     * @returns {Object} Object with x, y coordinates for one hex to the left
+     */
+    calculateLeftHexPosition(x, y) {
+        // In a hex grid, going one hex to the left (west) means subtracting colWidth
+        const leftX = x - this.colWidth;
+        return { x: leftX, y: y };
+    }
+
+    /**
+     * Calculates hex coordinates one row above and half a hex to the left
+     * @param {number} x - Current x coordinate
+     * @param {number} y - Current y coordinate
+     * @returns {Object} Object with x, y coordinates for one row above and half hex left
+     */
+    calculateAboveLeftHexPosition(x, y) {
+        // One row above: subtract rowHeight
+        // Half a hex to the left: subtract colWidth / 2
+        const newX = x - this.colWidth / 2;
+        const newY = y - this.rowHeight;
+        return { x: newX, y: newY };
+    }
 }
 
 /**
@@ -604,7 +645,6 @@ class LocationGenerator {
             throw error;
         }
     }
-
 }
 
 // ============================================================================
@@ -766,7 +806,7 @@ async function generatePlanetDetails(tableRoller) {
     const planetTables =
         SECTOR_CONFIG.PLANET_TABLES[planetaryKlass] ||
         SECTOR_CONFIG.PLANET_TABLES.vital;
-    
+
     if (!planetTables || !planetTables.name) {
         console.error(`No planet tables found for class: ${planetaryKlass}`);
         return {
@@ -853,6 +893,214 @@ async function createStellarObject(name, folderId, klass, description, imgKey) {
 }
 
 /**
+ * Generates connection (foe) details
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @param {string} settlementName - Settlement name for context
+ * @returns {Promise<Object>} Connection details
+ */
+async function generateConnectionDetails(tableRoller, settlementName) {
+    // Generate all three name types
+    const givenNameRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GIVEN_NAME
+    );
+    const givenName = tableRoller.getRollText(givenNameRoll);
+
+    const familyNameRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_FAMILY_NAME
+    );
+    const familyName = tableRoller.getRollText(familyNameRoll);
+
+    const callsignRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_CALLSIGN
+    );
+    const callsign = tableRoller.getRollText(callsignRoll);
+
+    // Concatenate name in format: "given_name family_name / callsign"
+    const connectionName = `${givenName} ${familyName} (${callsign})`;
+
+    // Roll for role
+    const roleRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE
+    );
+    let role = tableRoller.getRollText(roleRoll);
+
+    // Check if result contains "roll twice" - if so, roll twice and ensure no duplicates
+    if (role.toLowerCase().includes("roll twice")) {
+        const roleResults = [];
+        let attempts = 0;
+        const maxAttempts = 20; // Prevent infinite loops
+
+        while (roleResults.length < 2 && attempts < maxAttempts) {
+            const roleRoll2 = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE
+            );
+            let roleText = tableRoller.getRollText(roleRoll2);
+
+            // Process Action/Theme if needed
+            if (roleText.includes("Action") && roleText.includes("Theme")) {
+                const actionRoll = await tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.ACTION
+                );
+                const action = tableRoller.getRollText(actionRoll);
+
+                const themeRoll = await tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.THEME
+                );
+                const theme = tableRoller.getRollText(themeRoll);
+
+                roleText = `${action} ${theme}`;
+            }
+
+            // Skip if it's a duplicate or another "roll twice"
+            if (
+                !roleText.toLowerCase().includes("roll twice") &&
+                !roleResults.includes(roleText)
+            ) {
+                roleResults.push(roleText);
+            }
+            attempts++;
+        }
+
+        role = roleResults.join("<br>");
+    } else {
+        // Check if result contains "Action" and "Theme" - if so, roll on those tables
+        if (role.includes("Action") && role.includes("Theme")) {
+            const actionRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.ACTION
+            );
+            const action = tableRoller.getRollText(actionRoll);
+
+            const themeRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.THEME
+            );
+            const theme = tableRoller.getRollText(themeRoll);
+
+            // Concatenate with space
+            role = `${action} ${theme}`;
+        }
+    }
+
+    // Roll for first look
+    const firstLookRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_FIRST_LOOK
+    );
+    const firstLook = tableRoller.getRollText(firstLookRoll);
+
+    // Roll for goal
+    const goalRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL
+    );
+    let goal = tableRoller.getRollText(goalRoll);
+
+    // Check if result contains "roll twice" - if so, roll twice and ensure no duplicates
+    if (goal.toLowerCase().includes("roll twice")) {
+        const goalResults = [];
+        let attempts = 0;
+        const maxAttempts = 20; // Prevent infinite loops
+
+        while (goalResults.length < 2 && attempts < maxAttempts) {
+            const goalRoll2 = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL
+            );
+            let goalText = tableRoller.getRollText(goalRoll2);
+
+            // Process Action/Theme if needed
+            if (goalText.includes("Action") && goalText.includes("Theme")) {
+                const actionRoll = await tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.ACTION
+                );
+                const action = tableRoller.getRollText(actionRoll);
+
+                const themeRoll = await tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.THEME
+                );
+                const theme = tableRoller.getRollText(themeRoll);
+
+                goalText = `${action} ${theme}`;
+            }
+
+            // Skip if it's a duplicate or another "roll twice"
+            if (
+                !goalText.toLowerCase().includes("roll twice") &&
+                !goalResults.includes(goalText)
+            ) {
+                goalResults.push(goalText);
+            }
+            attempts++;
+        }
+
+        goal = goalResults.join("<br>");
+    } else {
+        // Check if result contains "Action" and "Theme" - if so, roll on those tables
+        if (goal.includes("Action") && goal.includes("Theme")) {
+            const actionRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.ACTION
+            );
+            const action = tableRoller.getRollText(actionRoll);
+
+            const themeRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.THEME
+            );
+            const theme = tableRoller.getRollText(themeRoll);
+
+            // Concatenate with space
+            goal = `${action} ${theme}`;
+        }
+    }
+
+    // Roll for revealed aspect
+    const aspectRoll = await tableRoller.rollFromArray(
+        SECTOR_CONFIG.ROLL_TABLES.REVEALED_CHARACTER_ASPECT
+    );
+    const aspect = tableRoller.getRollText(aspectRoll);
+
+    return {
+        name: connectionName,
+        givenName,
+        familyName,
+        callsign,
+        role,
+        firstLook,
+        goal,
+        aspect,
+    };
+}
+
+/**
+ * Creates a connection (foe) actor
+ * @param {string} name - Connection name
+ * @param {string} folderId - Folder ID for the connection
+ * @param {string} description - Connection description
+ * @returns {Promise<Actor>} The created connection actor
+ */
+async function createConnection(name, folderId, description) {
+    try {
+        const connection = await CONFIG.IRONSWORN.actorClass.create({
+            type: "foe",
+            img: "icons/svg/mystery-man.svg",
+            name,
+            folder: folderId,
+            system: {
+                description,
+            },
+            prototypeToken: {
+                name,
+                displayName: CONST.TOKEN_DISPLAY_MODES.ALWAYS,
+                disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                actorLink: true,
+                "texture.scaleX": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
+                "texture.scaleY": SECTOR_CONFIG.TOKEN_SCALES.STELLAR_OBJECT,
+                "texture.src": "icons/svg/mystery-man.svg",
+            },
+        });
+        return connection;
+    } catch (error) {
+        console.error(`Error creating connection ${name}:`, error);
+        throw error;
+    }
+}
+
+/**
  * Creates a settlement with associated planet and stellar object
  * @param {Object} params - Parameters object
  * @returns {Promise<Object>} Created entities and UUIDs
@@ -896,7 +1144,7 @@ async function createSettlementWithLocation(params) {
             ...tokenDataSettlement.toObject(),
             x: settlementPos.x,
             y: settlementPos.y,
-            sort: 1,
+            sort: 2,
         },
     ]);
 
@@ -1180,7 +1428,10 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                 attempts++;
 
                 // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
-                if (firstLook.includes("Descriptor") && firstLook.includes("Focus")) {
+                if (
+                    firstLook.includes("Descriptor") &&
+                    firstLook.includes("Focus")
+                ) {
                     const descriptorRoll = await tableRoller.rollFromArray(
                         SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR
                     );
@@ -1196,7 +1447,11 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                 }
 
                 // If this is the second roll and it matches the first, re-roll
-                if (i === 1 && firstLook === firstLooks[0] && attempts < maxAttempts) {
+                if (
+                    i === 1 &&
+                    firstLook === firstLooks[0] &&
+                    attempts < maxAttempts
+                ) {
                     continue;
                 }
                 break;
@@ -1212,7 +1467,10 @@ async function zoomInOnASettlement(tableRoller, settlements) {
         let settlementTrouble = tableRoller.getRollText(troubleRoll);
 
         // Check if result contains "Action" and "Theme" - if so, roll on those tables
-        if (settlementTrouble.includes("Action") && settlementTrouble.includes("Theme")) {
+        if (
+            settlementTrouble.includes("Action") &&
+            settlementTrouble.includes("Theme")
+        ) {
             const actionRoll = await tableRoller.rollFromArray(
                 SECTOR_CONFIG.ROLL_TABLES.ACTION
             );
@@ -1237,20 +1495,25 @@ async function zoomInOnASettlement(tableRoller, settlements) {
         const settlementKlass = randomSettlement.system.klass;
         if (settlementKlass !== "deep space") {
             // Extract planet UUID from settlement description (look for Planet: line)
-            const planetUuidMatch = randomSettlement.system.description.match(/<b>Planet:<\/b>\s*@UUID\[([^\]]+)\]/);
+            const planetUuidMatch = randomSettlement.system.description.match(
+                /<b>Planet:<\/b>\s*@UUID\[([^\]]+)\]/
+            );
             if (planetUuidMatch) {
                 try {
                     const planet = await fromUuid(planetUuidMatch[1]);
                     if (planet && planet.system && planet.system.klass) {
                         const planetKlass = planet.system.klass.toLowerCase();
-                        const planetTables = SECTOR_CONFIG.PLANET_TABLES[planetKlass];
+                        const planetTables =
+                            SECTOR_CONFIG.PLANET_TABLES[planetKlass];
 
                         if (planetTables) {
                             // Roll on Atmosphere table (once)
-                            const atmosphereRoll = await tableRoller.rollFromArray(
-                                planetTables.atmosphere
-                            );
-                            const atmosphere = tableRoller.getRollText(atmosphereRoll);
+                            const atmosphereRoll =
+                                await tableRoller.rollFromArray(
+                                    planetTables.atmosphere
+                                );
+                            const atmosphere =
+                                tableRoller.getRollText(atmosphereRoll);
 
                             // Roll on Observed From Space table (1-2 times, no duplicates)
                             const observedCount = getRandomInt(1, 2);
@@ -1261,14 +1524,20 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 const maxAttempts = 10;
 
                                 do {
-                                    const observedRoll = await tableRoller.rollFromArray(
-                                        planetTables.observedFromSpace
-                                    );
-                                    observed = tableRoller.getRollText(observedRoll);
+                                    const observedRoll =
+                                        await tableRoller.rollFromArray(
+                                            planetTables.observedFromSpace
+                                        );
+                                    observed =
+                                        tableRoller.getRollText(observedRoll);
                                     attempts++;
 
                                     // If this is the second roll and it matches the first, re-roll
-                                    if (i === 1 && observed === observedResults[0] && attempts < maxAttempts) {
+                                    if (
+                                        i === 1 &&
+                                        observed === observedResults[0] &&
+                                        attempts < maxAttempts
+                                    ) {
                                         continue;
                                     }
                                     break;
@@ -1286,14 +1555,20 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 const maxAttempts = 10;
 
                                 do {
-                                    const featureRoll = await tableRoller.rollFromArray(
-                                        planetTables.planetsideFeature
-                                    );
-                                    feature = tableRoller.getRollText(featureRoll);
+                                    const featureRoll =
+                                        await tableRoller.rollFromArray(
+                                            planetTables.planetsideFeature
+                                        );
+                                    feature =
+                                        tableRoller.getRollText(featureRoll);
                                     attempts++;
 
                                     // If this is the second roll and it matches the first, re-roll
-                                    if (i === 1 && feature === featureResults[0] && attempts < maxAttempts) {
+                                    if (
+                                        i === 1 &&
+                                        feature === featureResults[0] &&
+                                        attempts < maxAttempts
+                                    ) {
                                         continue;
                                     }
                                     break;
@@ -1304,8 +1579,12 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 
                             let planetDescription = planet.system.description;
                             planetDescription += `\n<p><strong>Atmosphere:</strong> ${atmosphere}</p>`;
-                            planetDescription += `<p><strong>Observed From Space:</strong> ${observedResults.join("<br>")}</p>`;
-                            planetDescription += `<p><strong>Planetside Features:</strong> ${featureResults.join("<br>")}</p>`;
+                            planetDescription += `<p><strong>Observed From Space:</strong> ${observedResults.join(
+                                "<br>"
+                            )}</p>`;
+                            planetDescription += `<p><strong>Planetside Features:</strong> ${featureResults.join(
+                                "<br>"
+                            )}</p>`;
 
                             // If the planet is "vital", roll on Diveristy and Biomes tables and add those as well
                             if (planetKlass === "vital") {
@@ -1314,19 +1593,23 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 let biomesStr = "";
 
                                 if (planetTables.diversity) {
-                                    const diversityRoll = await tableRoller.rollFromArray(
-                                        planetTables.diversity
-                                    );
-                                    const diversity = tableRoller.getRollText(diversityRoll);
+                                    const diversityRoll =
+                                        await tableRoller.rollFromArray(
+                                            planetTables.diversity
+                                        );
+                                    const diversity =
+                                        tableRoller.getRollText(diversityRoll);
                                     diversityStr = diversity;
                                 }
 
                                 // Roll once on Biomes
                                 if (planetTables.biomes) {
-                                    const biomesRoll = await tableRoller.rollFromArray(
-                                        planetTables.biomes
-                                    );
-                                    const biomes = tableRoller.getRollText(biomesRoll);
+                                    const biomesRoll =
+                                        await tableRoller.rollFromArray(
+                                            planetTables.biomes
+                                        );
+                                    const biomes =
+                                        tableRoller.getRollText(biomesRoll);
                                     biomesStr = biomes;
                                 }
 
@@ -1342,11 +1625,22 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 },
                             ]);
 
-                            console.log(`Updated planet ${planet.name} with Atmosphere, Observed From Space, and Planetside Features${planetKlass === "vital" ? ", Diversity, Biomes" : ""}`);
+                            console.log(
+                                `Updated planet ${
+                                    planet.name
+                                } with Atmosphere, Observed From Space, and Planetside Features${
+                                    planetKlass === "vital"
+                                        ? ", Diversity, Biomes"
+                                        : ""
+                                }`
+                            );
                         }
                     }
                 } catch (error) {
-                    console.error(`Error finding planet for settlement ${randomSettlement.name}:`, error);
+                    console.error(
+                        `Error finding planet for settlement ${randomSettlement.name}:`,
+                        error
+                    );
                 }
             }
         }
@@ -1360,7 +1654,9 @@ async function zoomInOnASettlement(tableRoller, settlements) {
             },
         ]);
 
-        console.log(`Updated settlement ${randomSettlement.name} with First Look and Settlement Trouble details`);
+        console.log(
+            `Updated settlement ${randomSettlement.name} with First Look and Settlement Trouble details`
+        );
     } catch (error) {
         console.error("Error in zoomInOnASettlement:", error);
     }
@@ -1428,19 +1724,20 @@ async function createStartingSector(
         );
 
         // Generate settlements
-        const { descriptions: locationDescriptions, settlements } = await generateSettlements({
-            numberOfSettlements: regionConfig.settlements,
-            region,
-            sectorName,
-            tableRoller,
-            locationGenerator,
-            tokenPlacer,
-            scene,
-            folderManager,
-            populationOracle: regionConfig.populationOracle,
-            generateStars,
-            useTokenAttacher,
-        });
+        const { descriptions: locationDescriptions, settlements } =
+            await generateSettlements({
+                numberOfSettlements: regionConfig.settlements,
+                region,
+                sectorName,
+                tableRoller,
+                locationGenerator,
+                tokenPlacer,
+                scene,
+                folderManager,
+                populationOracle: regionConfig.populationOracle,
+                generateStars,
+                useTokenAttacher,
+            });
 
         // Check for token attacher module
         if (
@@ -1450,6 +1747,97 @@ async function createStartingSector(
             ui.notifications.info(
                 `The module ${SECTOR_CONFIG.MODULES.TOKEN_ATTACHER} is not active.`
             );
+        }
+
+        // Create connection if starting sector
+        if (startingSector && settlements.length > 0) {
+            try {
+                // Get a random settlement to associate the connection with
+                const randomSettlement = randomArrayItem(settlements);
+                const uuidSettlement = `@UUID[${randomSettlement.uuid}]{${randomSettlement.name}}`;
+
+                // Generate connection details
+                const connectionDetails = await generateConnectionDetails(
+                    tableRoller,
+                    randomSettlement.name
+                );
+
+                // Build connection description
+                const connectionDescription = `<p><b>Settlement:</b> ${uuidSettlement}</p>
+                    <p><strong>Given Name:</strong> ${connectionDetails.givenName}</p>
+                    <p><strong>Family Name:</strong> ${connectionDetails.familyName}</p>
+                    <p><strong>Callsign:</strong> ${connectionDetails.callsign}</p>
+                    <p><strong>Role:</strong> ${connectionDetails.role}</p>
+                    <p><strong>First Look:</strong> ${connectionDetails.firstLook}</p>
+                    <p><strong>Goal:</strong> ${connectionDetails.goal}</p>
+                    <p><strong>Revealed Aspect:</strong> ${connectionDetails.aspect}</p>`;
+
+                // Get or create characters folder
+                const charactersFolder = await folderManager.getOrCreateFolder(
+                    "Characters",
+                    "Actor"
+                );
+                const charactersSectorFolder =
+                    await folderManager.getOrCreateFolder(
+                        sectorName,
+                        "Actor",
+                        charactersFolder.id
+                    );
+
+                // Create connection actor
+                const connection = await createConnection(
+                    connectionDetails.name,
+                    charactersSectorFolder.id,
+                    connectionDescription
+                );
+
+                // Place connection token on scene to the left of the settlement
+                scene.activate();
+                const settlementTokens = scene.tokens.filter(
+                    (token) => token.actor?.id === randomSettlement.id
+                );
+
+                if (settlementTokens.length > 0) {
+                    const settlementToken = settlementTokens[0];
+                    const tokenDataConnection =
+                        await connection.getTokenDocument();
+
+                    // Calculate position one hex to the left
+                    const connectionPos = tokenPlacer.calculateLeftHexPosition(
+                        settlementToken.x,
+                        settlementToken.y
+                    );
+
+                    await scene.createEmbeddedDocuments("Token", [
+                        {
+                            ...tokenDataConnection.toObject(),
+                            x: connectionPos.x,
+                            y: connectionPos.y,
+                            sort: 1,
+                        },
+                    ]);
+
+                    // Update settlement with connection link
+                    const uuidConnection = `@UUID[${connection.uuid}]{${connection.name}}`;
+                    randomSettlement.system.description += `\n<p><b>Connection:</b> ${uuidConnection}</p>`;
+                    await CONFIG.IRONSWORN.actorClass.updateDocuments([
+                        {
+                            _id: randomSettlement._id,
+                            system: {
+                                description:
+                                    randomSettlement.system.description,
+                            },
+                        },
+                    ]);
+                }
+
+                console.log(
+                    `Created connection ${connection.name} for settlement ${randomSettlement.name}`
+                );
+            } catch (error) {
+                console.error("Error creating connection:", error);
+                ui.notifications.warn("Failed to create connection");
+            }
         }
 
         // Zoom in on settlement if starting sector
