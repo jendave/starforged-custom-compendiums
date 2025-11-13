@@ -1286,7 +1286,7 @@ async function createSettlementWithLocation(params) {
                 : ".");
     }
 
-    return { description, settlement };
+    return { description, settlement, settlementToken: tokenSettlement[0] };
 }
 
 /**
@@ -1318,6 +1318,7 @@ async function generateSettlements(params) {
 
     const descriptions = [];
     const settlements = [];
+    const settlementTokens = [];
 
     for (let i = 0; i < numberOfSettlements; i++) {
         try {
@@ -1335,13 +1336,16 @@ async function generateSettlements(params) {
             });
             descriptions.push(result.description);
             settlements.push(result.settlement);
+            if (result.settlementToken) {
+                settlementTokens.push(result.settlementToken);
+            }
         } catch (error) {
             console.error(`Error creating settlement ${i + 1}:`, error);
             ui.notifications.error(`Failed to create settlement ${i + 1}`);
         }
     }
 
-    return { descriptions, settlements };
+    return { descriptions, settlements, settlementTokens };
 }
 
 /**
@@ -1667,24 +1671,44 @@ async function zoomInOnASettlement(tableRoller, settlements) {
  * Creates passage animations on the sector scene
  * @param {number} numberOfPassages - Number of passages to create
  * @param {Scene} scene - The scene to create passages on
+ * @param {Array} settlementTokens - Array of settlement token documents
  */
-async function createPassageAnimations(numberOfPassages, scene) {
+async function createPassageAnimations(numberOfPassages, scene, settlementTokens) {
     if (game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active && game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active) {
+        if (!settlementTokens || settlementTokens.length === 0) {
+            console.warn("No settlement tokens available for passage animations");
+            return;
+        }
+
         scene.activate();
         for (let i = 0; i < numberOfPassages; i++) {
-            // Create random start and end points for the passage
-            const startX = getRandomInt(200, scene.width - 200);
-            const startY = getRandomInt(200, scene.height - 200);
+            // Select a random settlement token
+            const settlementToken = randomArrayItem(settlementTokens);
+            
+            // Get the token's position
+            const tokenX = settlementToken.x;
+            const tokenY = settlementToken.y;
+            
+            // Create random end point for the passage
             const endX = getRandomInt(200, scene.width - 200);
             const endY = getRandomInt(200, scene.height - 200);
 
+            // Get the actual token object from canvas
+            const canvasToken = canvas.tokens.get(settlementToken.id);
+            
+            if (!canvasToken) {
+                console.warn(`Token ${settlementToken.id} not found on canvas`);
+                continue;
+            }
+            
             let passageAnimation = new Sequence()
                 .effect()
                 .file("jb2a.energy_beam.normal.blue.01")
                 .atLocation({
-                    x: startX,
-                    y: startY,
+                    x: tokenX,
+                    y: tokenY,
                 })
+                .attachTo(canvasToken)
                 .stretchTo({ x: endX, y: endY })
                 .persist()
                 .duration(1)
@@ -1756,7 +1780,7 @@ async function createStartingSector(
         );
 
         // Generate settlements
-        const { descriptions: locationDescriptions, settlements } =
+        const { descriptions: locationDescriptions, settlements, settlementTokens } =
             await generateSettlements({
                 numberOfSettlements: regionConfig.settlements,
                 region,
@@ -1874,7 +1898,7 @@ async function createStartingSector(
 
         // Create passages if requested
         if (createPassages) {
-            await createPassageAnimations(regionConfig.passages, scene);
+            await createPassageAnimations(regionConfig.passages, scene, settlementTokens);
         }
 
         // Zoom in on settlement if starting sector
