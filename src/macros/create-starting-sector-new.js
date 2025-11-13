@@ -1680,36 +1680,48 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
             return;
         }
 
+        // Need at least 2 tokens to create passages between them
+        if (settlementTokens.length < 2) {
+            console.warn("Need at least 2 settlement tokens to create passages");
+            return;
+        }
+
         scene.activate();
         for (let i = 0; i < numberOfPassages; i++) {
-            // Select a random settlement token
-            const settlementToken = randomArrayItem(settlementTokens);
+            // Select a random settlement token as the source
+            const sourceSettlementToken = randomArrayItem(settlementTokens);
             
-            // Get the token's position
-            const tokenX = settlementToken.x;
-            const tokenY = settlementToken.y;
+            // Filter out the source token and select a different random token as the target
+            const availableTargetTokens = settlementTokens.filter(
+                token => token.id !== sourceSettlementToken.id
+            );
             
-            // Create random end point for the passage
-            const endX = getRandomInt(200, scene.width - 200);
-            const endY = getRandomInt(200, scene.height - 200);
+            if (availableTargetTokens.length === 0) {
+                console.warn("No available target tokens, skipping passage");
+                continue;
+            }
+            
+            const targetSettlementToken = randomArrayItem(availableTargetTokens);
 
-            // Get the actual token object from canvas
-            const canvasToken = canvas.tokens.get(settlementToken.id);
+            // Get the actual token objects from canvas
+            const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
+            const targetToken = canvas.tokens.get(targetSettlementToken.id);
             
             if (!canvasToken) {
-                console.warn(`Token ${settlementToken.id} not found on canvas`);
+                console.warn(`Source token ${sourceSettlementToken.id} not found on canvas`);
+                continue;
+            }
+            
+            if (!targetToken) {
+                console.warn(`Target token ${targetSettlementToken.id} not found on canvas`);
                 continue;
             }
             
             let passageAnimation = new Sequence()
                 .effect()
                 .file("jb2a.energy_beam.normal.blue.01")
-                .atLocation({
-                    x: tokenX,
-                    y: tokenY,
-                })
                 .attachTo(canvasToken)
-                .stretchTo({ x: endX, y: endY })
+                .stretchTo(targetToken, { attachTo: true })
                 .persist()
                 .duration(1)
                 .scale({ x: 1.0, y: 0.5 })
