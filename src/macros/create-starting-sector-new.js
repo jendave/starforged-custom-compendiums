@@ -716,7 +716,25 @@ async function generateSettlementDetails(tableRoller, populationOracle) {
         const projectRoll = await tableRoller.rollFromArray(
             SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT
         );
-        settlementProject += tableRoller.getRollText(projectRoll) + "<br>";
+        let projectText = tableRoller.getRollText(projectRoll);
+
+        // Check if result contains "Action" and "Theme" - if so, roll on those tables
+        if (projectText.includes("Action") && projectText.includes("Theme")) {
+            const actionRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.ACTION
+            );
+            const action = tableRoller.getRollText(actionRoll);
+
+            const themeRoll = await tableRoller.rollFromArray(
+                SECTOR_CONFIG.ROLL_TABLES.THEME
+            );
+            const theme = tableRoller.getRollText(themeRoll);
+
+            // Concatenate with space
+            projectText = `${action} ${theme}`;
+        }
+
+        settlementProject += projectText + "<br>";
     }
 
     const description = `<p><strong>Population:</strong> ${population}</p>
@@ -1153,37 +1171,37 @@ async function zoomInOnASettlement(tableRoller, settlements) {
             let firstLook;
             let attempts = 0;
             const maxAttempts = 10; // Prevent infinite loops
-            
+
             do {
                 const firstLookRoll = await tableRoller.rollFromArray(
                     SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK
                 );
                 firstLook = tableRoller.getRollText(firstLookRoll);
                 attempts++;
-                
+
                 // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
                 if (firstLook.includes("Descriptor") && firstLook.includes("Focus")) {
                     const descriptorRoll = await tableRoller.rollFromArray(
                         SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR
                     );
                     const descriptor = tableRoller.getRollText(descriptorRoll);
-                    
+
                     const focusRoll = await tableRoller.rollFromArray(
                         SECTOR_CONFIG.ROLL_TABLES.FOCUS
                     );
                     const focus = tableRoller.getRollText(focusRoll);
-                    
+
                     // Concatenate with space
                     firstLook = `${descriptor} ${focus}`;
                 }
-                
+
                 // If this is the second roll and it matches the first, re-roll
                 if (i === 1 && firstLook === firstLooks[0] && attempts < maxAttempts) {
                     continue;
                 }
                 break;
             } while (attempts < maxAttempts);
-            
+
             firstLooks.push(firstLook);
         }
 
@@ -1192,19 +1210,19 @@ async function zoomInOnASettlement(tableRoller, settlements) {
             SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE
         );
         let settlementTrouble = tableRoller.getRollText(troubleRoll);
-        
+
         // Check if result contains "Action" and "Theme" - if so, roll on those tables
         if (settlementTrouble.includes("Action") && settlementTrouble.includes("Theme")) {
             const actionRoll = await tableRoller.rollFromArray(
                 SECTOR_CONFIG.ROLL_TABLES.ACTION
             );
             const action = tableRoller.getRollText(actionRoll);
-            
+
             const themeRoll = await tableRoller.rollFromArray(
                 SECTOR_CONFIG.ROLL_TABLES.THEME
             );
             const theme = tableRoller.getRollText(themeRoll);
-            
+
             // Concatenate with space
             settlementTrouble = `${action} ${theme}`;
         }
@@ -1226,14 +1244,14 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                     if (planet && planet.system && planet.system.klass) {
                         const planetKlass = planet.system.klass.toLowerCase();
                         const planetTables = SECTOR_CONFIG.PLANET_TABLES[planetKlass];
-                        
+
                         if (planetTables) {
                             // Roll on Atmosphere table (once)
                             const atmosphereRoll = await tableRoller.rollFromArray(
                                 planetTables.atmosphere
                             );
                             const atmosphere = tableRoller.getRollText(atmosphereRoll);
-                            
+
                             // Roll on Observed From Space table (1-2 times, no duplicates)
                             const observedCount = getRandomInt(1, 2);
                             const observedResults = [];
@@ -1241,24 +1259,24 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 let observed;
                                 let attempts = 0;
                                 const maxAttempts = 10;
-                                
+
                                 do {
                                     const observedRoll = await tableRoller.rollFromArray(
                                         planetTables.observedFromSpace
                                     );
                                     observed = tableRoller.getRollText(observedRoll);
                                     attempts++;
-                                    
+
                                     // If this is the second roll and it matches the first, re-roll
                                     if (i === 1 && observed === observedResults[0] && attempts < maxAttempts) {
                                         continue;
                                     }
                                     break;
                                 } while (attempts < maxAttempts);
-                                
+
                                 observedResults.push(observed);
                             }
-                            
+
                             // Roll on Planetside Features table (1-2 times, no duplicates)
                             const featureCount = getRandomInt(1, 2);
                             const featureResults = [];
@@ -1266,30 +1284,56 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 let feature;
                                 let attempts = 0;
                                 const maxAttempts = 10;
-                                
+
                                 do {
                                     const featureRoll = await tableRoller.rollFromArray(
                                         planetTables.planetsideFeature
                                     );
                                     feature = tableRoller.getRollText(featureRoll);
                                     attempts++;
-                                    
+
                                     // If this is the second roll and it matches the first, re-roll
                                     if (i === 1 && feature === featureResults[0] && attempts < maxAttempts) {
                                         continue;
                                     }
                                     break;
                                 } while (attempts < maxAttempts);
-                                
+
                                 featureResults.push(feature);
                             }
-                            
-                            // Add planet details to planet's description
+
                             let planetDescription = planet.system.description;
                             planetDescription += `\n<p><strong>Atmosphere:</strong> ${atmosphere}</p>`;
                             planetDescription += `<p><strong>Observed From Space:</strong> ${observedResults.join("<br>")}</p>`;
                             planetDescription += `<p><strong>Planetside Features:</strong> ${featureResults.join("<br>")}</p>`;
-                            
+
+                            // If the planet is "vital", roll on Diveristy and Biomes tables and add those as well
+                            if (planetKlass === "vital") {
+                                // Roll once on Diversity
+                                let diversityStr = "";
+                                let biomesStr = "";
+
+                                if (planetTables.diversity) {
+                                    const diversityRoll = await tableRoller.rollFromArray(
+                                        planetTables.diversity
+                                    );
+                                    const diversity = tableRoller.getRollText(diversityRoll);
+                                    diversityStr = diversity;
+                                }
+
+                                // Roll once on Biomes
+                                if (planetTables.biomes) {
+                                    const biomesRoll = await tableRoller.rollFromArray(
+                                        planetTables.biomes
+                                    );
+                                    const biomes = tableRoller.getRollText(biomesRoll);
+                                    biomesStr = biomes;
+                                }
+
+                                planetDescription += `<p><strong>Diversity:</strong> ${diversityStr}</p>`;
+                                planetDescription += `<p><strong>Biomes:</strong> ${biomesStr}</p>`;
+                            }
+
                             // Update the planet's description
                             await CONFIG.IRONSWORN.actorClass.updateDocuments([
                                 {
@@ -1297,8 +1341,8 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                     system: { description: planetDescription },
                                 },
                             ]);
-                            
-                            console.log(`Updated planet ${planet.name} with Atmosphere, Observed From Space, and Planetside Features`);
+
+                            console.log(`Updated planet ${planet.name} with Atmosphere, Observed From Space, and Planetside Features${planetKlass === "vital" ? ", Diversity, Biomes" : ""}`);
                         }
                     }
                 } catch (error) {
