@@ -7,6 +7,7 @@ const SECTOR_CONFIG = {
     MODULES: {
         TOKEN_ATTACHER: "token-attacher",
         JB2A_DND5E: "JB2A_DnD5e",
+        SEQUENCER: "sequencer",
     },
 
     // Roll Table Configuration
@@ -1663,11 +1664,42 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 }
 
 /**
+ * Creates passage animations on the sector scene
+ * @param {number} numberOfPassages - Number of passages to create
+ * @param {Scene} scene - The scene to create passages on
+ */
+async function createPassageAnimations(numberOfPassages, scene) {
+    if (game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active && game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active) {
+        scene.activate();
+        for (let i = 0; i < numberOfPassages; i++) {
+            // Create random start and end points for the passage
+            const startX = getRandomInt(200, scene.width - 200);
+            const startY = getRandomInt(200, scene.height - 200);
+            const endX = getRandomInt(200, scene.width - 200);
+            const endY = getRandomInt(200, scene.height - 200);
+
+            let passageAnimation = new Sequence()
+                .effect()
+                .file("jb2a.energy_beam.normal.blue.01")
+                .atLocation({
+                    x: startX,
+                    y: startY,
+                })
+                .stretchTo({ x: endX, y: endY })
+                .persist()
+                .duration(1)
+                .scale({ x: 1.0, y: 0.5 })
+                .play();
+        }
+    }
+}
+
+/**
  * Main function to create a starting sector
  * @param {string} region - Region name
  * @param {boolean} startingSector - Whether this is a starting sector
  * @param {boolean} useTokenAttacher - Whether to use token attacher
- * @param {boolean} createPassages - Whether to create passages (not implemented)
+ * @param {boolean} createPassages - Whether to create passages
  * @param {boolean} generateStars - Whether to generate stellar objects
  */
 async function createStartingSector(
@@ -1840,6 +1872,11 @@ async function createStartingSector(
             }
         }
 
+        // Create passages if requested
+        if (createPassages) {
+            await createPassageAnimations(regionConfig.passages, scene);
+        }
+
         // Zoom in on settlement if starting sector
         if (startingSector) {
             await zoomInOnASettlement(tableRoller, settlements);
@@ -1876,6 +1913,8 @@ function showSectorCreationDialog() {
         game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active || false;
     const jb2aActive =
         game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active || false;
+    const sequencerActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active || false;
 
     let region = "";
     let startingSector = false;
@@ -1906,7 +1945,7 @@ function showSectorCreationDialog() {
             </div>
             <div class="checkbox">
                 <label><input type="checkbox" name="createPassages" ${
-                    jb2aActive ? "checked" : ""
+                    jb2aActive && sequencerActive ? "checked" : ""
                 }> Create Passages</label>
             </div>
             <div class="checkbox">
