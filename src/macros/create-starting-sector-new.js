@@ -560,6 +560,73 @@ class TokenPlacer {
         const newY = y - this.rowHeight;
         return { x: newX, y: newY };
     }
+
+    /**
+     * Calculates marker positions on scene edges (inner edge)
+     * @param {number} sceneWidth - Scene width
+     * @param {number} sceneHeight - Scene height
+     * @returns {Array<Object>} Array of marker positions with {x, y, edge} for each edge
+     */
+    calculateEdgeMarkerPositions(sceneWidth, sceneHeight) {
+        const cornerBuffer = 3 * this.colWidth; // 3 hexes from corner
+
+        const markers = [];
+
+        // Top edge - first row (y = one row height from top)
+        // Calculate a random column position, ensuring it's at least 3 hexes from corners
+        const minTopCol = Math.ceil(cornerBuffer / this.colWidth);
+        const maxTopCol = Math.floor((sceneWidth - cornerBuffer) / this.colWidth);
+        const topCol = getRandomInt(minTopCol, maxTopCol);
+        let topX = topCol * this.colWidth;
+        // Top row (row 0) is even, so apply offset
+        const topRow = 0;
+        if (topRow % 2 === 0) {
+            topX += this.colWidth / 2;
+        }
+        markers.push({ x: topX, y: this.rowHeight, edge: "top" });
+
+        // Bottom edge - last row (y = sceneHeight - one row height from bottom)
+        const bottomRow = Math.floor((sceneHeight - this.rowHeight) / this.rowHeight);
+        const minBottomCol = Math.ceil(cornerBuffer / this.colWidth);
+        const maxBottomCol = Math.floor((sceneWidth - cornerBuffer) / this.colWidth);
+        const bottomCol = getRandomInt(minBottomCol, maxBottomCol);
+        let bottomX = bottomCol * this.colWidth;
+        // Apply hex grid offset for even rows
+        if (bottomRow % 2 === 0) {
+            bottomX += this.colWidth / 2;
+        }
+        markers.push({ x: bottomX, y: sceneHeight - this.rowHeight, edge: "bottom" });
+
+        // Left edge - first column (x = 0 or colWidth/2 depending on row)
+        const leftY = getRandomInt(
+            cornerBuffer,
+            sceneHeight - cornerBuffer
+        );
+        // Calculate which row this is
+        const leftRow = Math.floor(leftY / this.rowHeight);
+        let leftXPos = 0;
+        // Apply hex grid offset for even rows
+        if (leftRow % 2 === 0) {
+            leftXPos = this.colWidth / 2;
+        }
+        markers.push({ x: leftXPos, y: leftY, edge: "left" });
+
+        // Right edge - last column (x = sceneWidth - colWidth or sceneWidth - colWidth/2)
+        const rightY = getRandomInt(
+            cornerBuffer,
+            sceneHeight - cornerBuffer
+        );
+        // Calculate which row this is
+        const rightRow = Math.floor(rightY / this.rowHeight);
+        let rightXPos = sceneWidth - this.colWidth;
+        // Apply hex grid offset for even rows
+        if (rightRow % 2 === 0) {
+            rightXPos = sceneWidth - this.colWidth / 2;
+        }
+        markers.push({ x: rightXPos, y: rightY, edge: "right" });
+
+        return markers;
+    }
 }
 
 /**
@@ -1668,26 +1735,82 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 }
 
 /**
+ * Finds the nearest marker token to a given settlement token
+ * @param {TokenDocument} settlementToken - The settlement token to find nearest marker for
+ * @param {Array} markerTokens - Array of marker token documents
+ * @returns {TokenDocument|null} The nearest marker token, or null if none found
+ */
+function findNearestMarker(settlementToken, markerTokens) {
+    if (!markerTokens || markerTokens.length === 0) {
+        return null;
+    }
+
+    let nearestMarker = null;
+    let minDistance = Infinity;
+
+    for (const markerToken of markerTokens) {
+        const dx = markerToken.x - settlementToken.x;
+        const dy = markerToken.y - settlementToken.y;
+        const distance = Math.sqrt(dx * dx + dy * dy);
+
+        if (distance < minDistance) {
+            minDistance = distance;
+            nearestMarker = markerToken;
+        }
+    }
+
+    return nearestMarker;
+}
+
+/**
  * Creates passage animations on the sector scene
  * @param {number} numberOfPassages - Number of passages to create
  * @param {Scene} scene - The scene to create passages on
  * @param {Array} settlementTokens - Array of settlement token documents
+ * @param {Array} markerTokens - Array of marker token documents
  */
-async function createPassageAnimations(numberOfPassages, scene, settlementTokens) {
+async function createPassageAnimations(numberOfPassages, scene, settlementTokens, markerTokens) {
     if (game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active && game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active) {
         if (!settlementTokens || settlementTokens.length === 0) {
             console.warn("No settlement tokens available for passage animations");
             return;
         }
 
+        scene.activate();
+
+        // Create one passage from a settlement to the nearest marker
+        if (markerTokens && markerTokens.length > 0 && numberOfPassages > 0) {
+            // Select a random settlement
+            const sourceSettlementToken = randomArrayItem(settlementTokens);
+            const nearestMarker = findNearestMarker(sourceSettlementToken, markerTokens);
+
+            if (nearestMarker) {
+                const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
+                const targetMarkerToken = canvas.tokens.get(nearestMarker.id);
+
+                if (canvasToken && targetMarkerToken) {
+                    let passageAnimation = new Sequence()
+                        .effect()
+                        .file("jb2a.energy_beam.normal.blue.01")
+                        .attachTo(canvasToken)
+                        .stretchTo(targetMarkerToken, { attachTo: true })
+                        .persist()
+                        .duration(1)
+                        .scale({ x: 1.0, y: 0.5 })
+                        .play();
+                }
+            }
+        }
+
+        // Create remaining passages between settlements
         // Need at least 2 tokens to create passages between them
         if (settlementTokens.length < 2) {
-            console.warn("Need at least 2 settlement tokens to create passages");
+            console.warn("Need at least 2 settlement tokens to create passages between settlements");
             return;
         }
 
-        scene.activate();
-        for (let i = 0; i < numberOfPassages; i++) {
+        const remainingPassages = numberOfPassages - 1;
+        for (let i = 0; i < remainingPassages; i++) {
             // Select a random settlement token as the source
             const sourceSettlementToken = randomArrayItem(settlementTokens);
             
@@ -1727,6 +1850,82 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
                 .scale({ x: 1.0, y: 0.5 })
                 .play();
         }
+    }
+}
+
+/**
+ * Creates marker tokens on the scene edges
+ * @param {Scene} scene - The scene to create markers on
+ * @param {TokenPlacer} tokenPlacer - Token placer instance for calculations
+ * @param {string} folderId - Folder ID for marker actors
+ * @returns {Promise<Array>} Array of created marker token documents
+ */
+async function createMarkerTokens(scene, tokenPlacer, folderId) {
+    try {
+        scene.activate();
+
+        // Calculate marker positions on edges
+        const markerPositions = tokenPlacer.calculateEdgeMarkerPositions(
+            scene.width,
+            scene.height
+        );
+
+        const edgeNames = {
+            top: "Coreward",
+            bottom: "Rimward",
+            left: "Spinward",
+            right: "Trailing",
+        };
+
+        // Create marker actors and tokens
+        const markerTokens = [];
+        for (let i = 0; i < markerPositions.length; i++) {
+            const pos = markerPositions[i];
+            const markerName = `${edgeNames[pos.edge]} Marker`;
+
+            // Create marker actor
+            const markerActor = await CONFIG.IRONSWORN.actorClass.create({
+                type: "location",
+                name: markerName,
+                folder: folderId,
+                system: {
+                    subtype: "marker",
+                    description: `<p>Marker located on the ${pos.edge} edge of the sector.</p>`,
+                },
+                img: "modules/starforged-custom-oracles/assets/square.svg",
+                prototypeToken: {
+                    displayName: CONST.TOKEN_DISPLAY_MODES.NONE,
+                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                    actorLink: true,
+                    lockRotation: true,
+                    rotation: 0,
+                },
+            });
+
+            // Get token document from actor
+            const tokenData = await markerActor.getTokenDocument();
+
+            // Create token data
+            markerTokens.push({
+                ...tokenData.toObject(),
+                x: pos.x,
+                y: pos.y,
+                sort: 0, // Place markers at the bottom of the sort order
+            });
+        }
+
+        // Create all tokens at once
+        const createdTokens = await scene.createEmbeddedDocuments("Token", markerTokens);
+
+        console.log(
+            `Created ${markerPositions.length} marker tokens on scene edges`
+        );
+
+        return createdTokens;
+    } catch (error) {
+        console.error("Error creating marker tokens:", error);
+        ui.notifications.warn("Failed to create marker tokens");
+        return [];
     }
 }
 
@@ -1790,6 +1989,16 @@ async function createStartingSector(
             sectorName,
             folders.sector
         );
+
+        // Get locations folder for markers (same as settlements)
+        const locationsSectorFolder = await folderManager.getOrCreateFolder(
+            sectorName,
+            "Actor",
+            folders.locations.id
+        );
+
+        // Create marker tokens on scene edges
+        const markerTokens = await createMarkerTokens(scene, tokenPlacer, locationsSectorFolder.id);
 
         // Generate settlements
         const { descriptions: locationDescriptions, settlements, settlementTokens } =
@@ -1910,7 +2119,7 @@ async function createStartingSector(
 
         // Create passages if requested
         if (createPassages) {
-            await createPassageAnimations(regionConfig.passages, scene, settlementTokens);
+            await createPassageAnimations(regionConfig.passages, scene, settlementTokens, markerTokens);
         }
 
         // Zoom in on settlement if starting sector
