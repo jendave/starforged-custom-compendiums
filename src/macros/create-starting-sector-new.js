@@ -172,6 +172,7 @@ const SECTOR_CONFIG = {
     HEX_GRID: {
         SETTLEMENT_COL_SPACING: 24,
         PLANET_ROW_OFFSET: 1,
+        MARKER_CORNER_BUFFER: 3, // Hexes from corner for marker placement
     },
 
     // Maximum Attempts Configuration
@@ -292,6 +293,19 @@ function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
     return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+/**
+ * Shuffles an array in place using Fisher-Yates algorithm
+ * @param {Array} array - Array to shuffle
+ * @returns {Array} The shuffled array (same reference)
+ */
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
 }
 
 /**
@@ -839,13 +853,7 @@ class TokenPlacer {
         }
 
         // Shuffle for randomness
-        for (let i = candidatePositions.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [candidatePositions[i], candidatePositions[j]] = [
-                candidatePositions[j],
-                candidatePositions[i],
-            ];
-        }
+        shuffleArray(candidatePositions);
 
         // Try each position until we find a valid one
         for (const pos of candidatePositions) {
@@ -1086,7 +1094,7 @@ class TokenPlacer {
      * @returns {Array<Object>} Array of marker positions with {x, y, edge} for each edge
      */
     calculateEdgeMarkerPositions(sceneWidth, sceneHeight) {
-        const cornerBuffer = 3; // 3 hexes from corner
+        const cornerBuffer = SECTOR_CONFIG.HEX_GRID.MARKER_CORNER_BUFFER;
 
         // Calculate max row and column based on scene dimensions
         const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
@@ -1178,6 +1186,7 @@ class LocationGenerator {
      * @param {string} klass - Settlement class
      * @param {string} description - Settlement description
      * @returns {Promise<Actor>} The created settlement actor
+     * @throws {Error} If actor creation fails
      */
     async createSettlement(name, folderId, klass, description) {
         try {
@@ -1204,7 +1213,10 @@ class LocationGenerator {
             });
             return settlement;
         } catch (error) {
-            console.error(`Error creating settlement ${name}:`, error);
+            console.error(
+                `Error creating settlement actor "${name}" in folder ${folderId}:`,
+                error
+            );
             throw error;
         }
     }
@@ -1217,6 +1229,7 @@ class LocationGenerator {
      * @param {string} description - Planet description
      * @param {string} planetaryClass - Full planetary class name
      * @returns {Promise<Actor>} The created planet actor
+     * @throws {Error} If actor creation fails
      */
     async createPlanet(name, folderId, klass, description, planetaryClass) {
         try {
@@ -1242,7 +1255,10 @@ class LocationGenerator {
             });
             return planet;
         } catch (error) {
-            console.error(`Error creating planet ${name}:`, error);
+            console.error(
+                `Error creating planet actor "${name}" (${klass}) in folder ${folderId}:`,
+                error
+            );
             throw error;
         }
     }
@@ -1279,8 +1295,14 @@ function getRegionConfig(region) {
  * @param {string} sectorName - Sector name
  * @param {Folder} sectorFolder - Folder for the sector
  * @returns {Promise<Scene>} The created scene
+ * @throws {Error} If no sector image files are found or scene creation fails
  */
 async function createSectorScene(region, sectorName, sectorFolder) {
+    // Early validation
+    validateRequired(region, "region");
+    validateRequired(sectorName, "sectorName");
+    validateRequired(sectorFolder, "sectorFolder");
+
     try {
         const result = await FilePicker.browse(
             "data",
@@ -1321,7 +1343,10 @@ async function createSectorScene(region, sectorName, sectorFolder) {
         debugLog("Created sector:", scenes[0].name);
         return scenes[0];
     } catch (error) {
-        console.error("Error creating sector scene:", error);
+        console.error(
+            `Error creating sector scene "${sectorName}" for region ${region}:`,
+            error
+        );
         throw error;
     }
 }
@@ -1394,7 +1419,9 @@ async function generatePlanetDetails(tableRoller) {
         SECTOR_CONFIG.PLANET_TABLES.vital;
 
     if (!planetTables || !planetTables.name) {
-        console.error(`No planet tables found for class: ${planetaryKlass}`);
+        console.error(
+            `No planet tables found for class "${planetaryKlass}" (from roll: ${rollText})`
+        );
         return {
             name: "Unknown Planet",
             klass: planetaryKlass,
@@ -1445,6 +1472,7 @@ async function generateStellarObjectDetails(tableRoller, settlementName) {
  * @param {string} description - Stellar object description
  * @param {string|null} imgKey - Image key for the stellar object
  * @returns {Promise<Actor>} The created stellar object actor
+ * @throws {Error} If actor creation fails
  */
 async function createStellarObject(name, folderId, klass, description, imgKey) {
     try {
@@ -1472,7 +1500,10 @@ async function createStellarObject(name, folderId, klass, description, imgKey) {
         });
         return stellarObject;
     } catch (error) {
-        console.error(`Error creating stellar object ${name}:`, error);
+        console.error(
+            `Error creating stellar object "${name}" (${klass}) in folder ${folderId}:`,
+            error
+        );
         throw error;
     }
 }
@@ -1554,6 +1585,7 @@ async function generateConnectionDetails(tableRoller) {
  * @param {string} folderId - Folder ID for the connection
  * @param {string} description - Connection description
  * @returns {Promise<Actor>} The created connection actor
+ * @throws {Error} If actor creation fails
  */
 async function createConnection(name, folderId, description) {
     try {
@@ -1577,7 +1609,10 @@ async function createConnection(name, folderId, description) {
         });
         return connection;
     } catch (error) {
-        console.error(`Error creating connection ${name}:`, error);
+        console.error(
+            `Error creating connection actor "${name}" in folder ${folderId}:`,
+            error
+        );
         throw error;
     }
 }
@@ -1605,6 +1640,16 @@ async function createConnection(name, folderId, description) {
  * @throws {Error} If settlement creation fails
  */
 async function createSettlementWithLocation(params) {
+    // Early validation
+    validateRequired(params, "params");
+    validateRequired(params.tableRoller, "tableRoller");
+    validateRequired(params.locationGenerator, "locationGenerator");
+    validateRequired(params.tokenPlacer, "tokenPlacer");
+    validateRequired(params.scene, "scene");
+    validateRequired(params.folderManager, "folderManager");
+    validateRequired(params.locationsSectorFolder, "locationsSectorFolder");
+    validateRequired(params.populationOracle, "populationOracle");
+
     const {
         index,
         totalSettlements,
@@ -1811,6 +1856,18 @@ async function createSettlementWithLocation(params) {
  * @returns {Promise<Object>} Object with descriptions array and settlements array
  */
 async function generateSettlements(params) {
+    // Early validation
+    validateRequired(params, "params");
+    validateRequired(params.numberOfSettlements, "numberOfSettlements");
+    validateRequired(params.region, "region");
+    validateRequired(params.sectorName, "sectorName");
+    validateRequired(params.tableRoller, "tableRoller");
+    validateRequired(params.locationGenerator, "locationGenerator");
+    validateRequired(params.tokenPlacer, "tokenPlacer");
+    validateRequired(params.scene, "scene");
+    validateRequired(params.folderManager, "folderManager");
+    validateRequired(params.populationOracle, "populationOracle");
+
     const {
         numberOfSettlements,
         region,
@@ -1863,8 +1920,13 @@ async function generateSettlements(params) {
                 existingPositions.push(result.position);
             }
         } catch (error) {
-            console.error(`Error creating settlement ${i + 1}:`, error);
-            ui.notifications.error(`Failed to create settlement ${i + 1}`);
+            console.error(
+                `Error creating settlement ${i + 1} of ${numberOfSettlements} in ${region}:`,
+                error
+            );
+            ui.notifications.error(
+                `Failed to create settlement ${i + 1} of ${numberOfSettlements}`
+            );
         }
     }
 
@@ -1879,6 +1941,7 @@ async function generateSettlements(params) {
  * @param {Array<string>} locationDescriptions - Array of location descriptions
  * @param {Folder} journalFolder - Folder for the journal
  * @returns {Promise<JournalEntry>} The created journal entry
+ * @throws {Error} If journal creation fails
  */
 async function createSectorJournal(
     sectorName,
@@ -1887,6 +1950,13 @@ async function createSectorJournal(
     locationDescriptions,
     journalFolder
 ) {
+    // Early validation
+    validateRequired(sectorName, "sectorName");
+    validateRequired(region, "region");
+    validateRequired(sectorTrouble, "sectorTrouble");
+    validateRequired(locationDescriptions, "locationDescriptions");
+    validateRequired(journalFolder, "journalFolder");
+
     try {
         const journal = await JournalEntry.create({
             name: sectorName,
@@ -1919,7 +1989,10 @@ async function createSectorJournal(
         });
         return journal;
     } catch (error) {
-        console.error("Error creating sector journal:", error);
+        console.error(
+            `Error creating sector journal "${sectorName}" in folder ${journalFolder?.id || "unknown"}:`,
+            error
+        );
         throw error;
     }
 }
@@ -2437,7 +2510,10 @@ async function createMarkerTokens(
 
         return createdTokens;
     } catch (error) {
-        console.error("Error creating marker tokens:", error);
+        console.error(
+            `Error creating ${markerPositions.length} marker tokens for scene "${scene.name}":`,
+            error
+        );
         ui.notifications.warn("Failed to create marker tokens");
         return [];
     }
@@ -2634,7 +2710,10 @@ async function createStartingSector(
                     `Created connection ${connection.name} for settlement ${randomSettlement.name}`
                 );
             } catch (error) {
-                console.error("Error creating connection:", error);
+                console.error(
+                    `Error creating connection "${connection.name}" for settlement "${randomSettlement.name}":`,
+                    error
+                );
                 ui.notifications.warn("Failed to create connection");
             }
         }
