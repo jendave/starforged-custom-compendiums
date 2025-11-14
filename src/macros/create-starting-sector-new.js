@@ -131,17 +131,8 @@ const SECTOR_CONFIG = {
     // Folder Names
     FOLDERS: {
         SECTORS: "Sectors",
-        SECTORS_TERMINUS: "Sectors: Terminus",
-        SECTORS_OUTLANDS: "Sectors: Outlands",
-        SECTORS_EXPANSE: "Sectors: Expanse",
         SECTOR_DATA: "Sector Data",
-        SECTOR_DATA_TERMINUS: "Sector Data: Terminus",
-        SECTOR_DATA_OUTLANDS: "Sector Data: Outlands",
-        SECTOR_DATA_EXPANSE: "Sector Data: Expanse",
         LOCATIONS: "Sector Locations",
-        LOCATIONS_TERMINUS: "Locations: Terminus",
-        LOCATIONS_OUTLANDS: "Locations: Outlands",
-        LOCATIONS_EXPANSE: "Locations: Expanse",
     },
 
     // Scene Configuration
@@ -179,9 +170,7 @@ const SECTOR_CONFIG = {
 
     // Hex Grid Configuration
     HEX_GRID: {
-        SETTLEMENT_COL_SPACING: 20,
-        SETTLEMENT_ROW_MIN: 2,
-        SETTLEMENT_ROW_MAX: 14,
+        SETTLEMENT_COL_SPACING: 24,
         PLANET_ROW_OFFSET: 1,
     },
 
@@ -190,67 +179,54 @@ const SECTOR_CONFIG = {
         {
             value: "smoldering red star",
             imgKey: "Red-Star",
-            label: "Smoldering Red Star",
         },
         {
             value: "glowing orange star",
             imgKey: "Orange-Star",
-            label: "Glowing Orange Star",
         },
         {
             value: "burning yellow star",
             imgKey: "Yellow-Star",
-            label: "Burning Yellow Star",
         },
         {
             value: "blazing blue star",
             imgKey: "Blue-Star",
-            label: "Blazing Blue Star",
         },
         {
             value: "young star incubating in a molecular cloud",
             imgKey: "Star-In-Incubating-Cloud",
-            label: "Young Star",
         },
         {
             value: "white dwarf shining with spectral light",
             imgKey: "White-Dwarf",
-            label: "White Dwarf",
         },
         {
             value: "corrupted star radiating with unnatural light",
             imgKey: "Corrupted-Star",
-            label: "Corrupted Star",
         },
         {
             value: "neutron star surrounded by intense magnetic fields",
             imgKey: "Neutron-Star",
-            label: "Neutron Star",
         },
         {
             value: "two stars in close orbit connected by fiery tendrils of energy",
             imgKey: "Binary-Star",
-            label: "Binary Stars",
         },
         {
             value: "black hole allows nothing to escape—not even light",
             imgKey: "Black-Hole",
-            label: "Black Hole",
         },
         {
             value: "hypergiant star generating turbulent solar winds",
             imgKey: "Hypergiant",
-            label: "Hypergiant",
         },
         {
             value: "artificial star constructed by a long-dead civilization",
             imgKey: null,
-            label: "Artificial Star",
         },
         {
             value: "unstable star showing signs of impending supernova",
             imgKey: "Unstable-Star",
-            label: "Unstable Star",
         },
     ],
 };
@@ -258,16 +234,6 @@ const SECTOR_CONFIG = {
 // ============================================================================
 // UTILITY FUNCTIONS
 // ============================================================================
-
-/**
- * Prints a message to the chat
- * @param {string} message - The message to print
- */
-function printMessage(message) {
-    const chatData = { content: message };
-    ChatMessage.applyRollMode(chatData, game.settings.get("core", "rollMode"));
-    ChatMessage.create(chatData, {});
-}
 
 /**
  * Returns a random item from an array
@@ -413,34 +379,36 @@ class FolderManager {
 
         // Find folder by name and parent - search all folders to find one with matching name, type, and parent
         let folder = null;
-        const foldersWithName = game.folders.filter(f => f.name === name && f.type === type);
-        
+        const foldersWithName = game.folders.filter(
+            (f) => f.name === name && f.type === type
+        );
+
         // Normalize parent ID for comparison
         let targetParentId = null;
         if (parentId) {
             // Extract ID if it's a folder object, otherwise use as string
-            if (typeof parentId === 'object' && parentId.id) {
+            if (typeof parentId === "object" && parentId.id) {
                 targetParentId = String(parentId.id);
             } else {
                 targetParentId = String(parentId);
             }
         }
-        
+
         // Find the folder with the correct parent (must be a direct child)
         for (const f of foldersWithName) {
             // Get the folder's parent ID - f.folder should be a string ID in Foundry
             let folderParentId = null;
             if (f.folder) {
                 // Handle both string IDs and potential object references
-                if (typeof f.folder === 'string') {
+                if (typeof f.folder === "string") {
                     folderParentId = f.folder;
-                } else if (typeof f.folder === 'object' && f.folder.id) {
+                } else if (typeof f.folder === "object" && f.folder.id) {
                     folderParentId = String(f.folder.id);
                 } else {
                     folderParentId = String(f.folder);
                 }
             }
-            
+
             // Compare parent IDs (both should be strings or both null)
             if (folderParentId === targetParentId) {
                 folder = f;
@@ -451,17 +419,25 @@ class FolderManager {
         if (!folder) {
             // Safety check: ensure we're not creating a folder with the same name as its parent
             if (parentId) {
-                const parentFolderId = typeof parentId === 'object' && parentId.id ? parentId.id : parentId;
+                const parentFolderId =
+                    typeof parentId === "object" && parentId.id
+                        ? parentId.id
+                        : parentId;
                 const parentFolder = game.folders.get(parentFolderId);
                 if (parentFolder && parentFolder.name === name) {
-                    console.warn(`Warning: Attempted to create folder "${name}" inside parent folder with the same name. This may cause nesting issues.`);
+                    console.warn(
+                        `Warning: Attempted to create folder "${name}" inside parent folder with the same name. This may cause nesting issues.`
+                    );
                 }
             }
-            
+
             const folderData = { name, type };
             if (parentId) {
                 // Ensure we always pass the ID string, not a folder object
-                folderData.folder = typeof parentId === 'object' && parentId.id ? parentId.id : parentId;
+                folderData.folder =
+                    typeof parentId === "object" && parentId.id
+                        ? parentId.id
+                        : parentId;
             }
             folder = await Folder.create(folderData);
         }
@@ -516,9 +492,6 @@ class FolderManager {
             sector: sectorFolder,
             sectorData: sectorDataRegionFolder,
             locations: locationsRegionFolder,
-            baseSectors: sectorsFolder,
-            baseSectorData: sectorDataFolder,
-            baseLocations: locationsFolder,
         };
     }
 }
@@ -543,7 +516,7 @@ class TokenPlacer {
         // Account for even row offset
         const row = Math.round(y / this.rowHeight);
         let col;
-        
+
         if (row % 2 === 0) {
             // Even row: offset by half a column
             col = (x - this.colWidth / 2) / this.colWidth;
@@ -551,7 +524,7 @@ class TokenPlacer {
             // Odd row: no offset
             col = x / this.colWidth;
         }
-        
+
         return { col: Math.round(col), row };
     }
 
@@ -581,12 +554,17 @@ class TokenPlacer {
     hexDistance(x1, y1, x2, y2) {
         const hex1 = this.pixelToHex(x1, y1);
         const hex2 = this.pixelToHex(x2, y2);
-        
+
         const cube1 = this.offsetToCube(hex1.col, hex1.row);
         const cube2 = this.offsetToCube(hex2.col, hex2.row);
-        
+
         // Calculate distance using cube coordinates
-        return (Math.abs(cube1.x - cube2.x) + Math.abs(cube1.y - cube2.y) + Math.abs(cube1.z - cube2.z)) / 2;
+        return (
+            (Math.abs(cube1.x - cube2.x) +
+                Math.abs(cube1.y - cube2.y) +
+                Math.abs(cube1.z - cube2.z)) /
+            2
+        );
     }
 
     /**
@@ -601,11 +579,13 @@ class TokenPlacer {
     isPositionAwayFromEdges(col, row, sceneWidth, sceneHeight, minDistance) {
         const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
         const maxCol = Math.floor(sceneWidth / this.colWidth) - 1;
-        
-        return row >= minDistance && 
-               row <= maxRow - minDistance &&
-               col >= minDistance && 
-               col <= maxCol - minDistance;
+
+        return (
+            row >= minDistance &&
+            row <= maxRow - minDistance &&
+            col >= minDistance &&
+            col <= maxCol - minDistance
+        );
     }
 
     /**
@@ -618,68 +598,103 @@ class TokenPlacer {
      * @param {number} minDistanceFromOthers - Minimum hex distance from other settlements
      * @returns {Object} Object with col, row, x, y coordinates
      */
-    calculateSettlementPosition(index, totalSettlements, sceneWidth, sceneHeight, existingPositions = [], minDistanceFromOthers = 7) {
+    calculateSettlementPosition(
+        index,
+        totalSettlements,
+        sceneWidth,
+        sceneHeight,
+        existingPositions = [],
+        minDistanceFromOthers = 7
+    ) {
         const edgeBuffer = 4; // Minimum hexes from edge
         const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
         const maxCol = Math.floor(sceneWidth / this.colWidth) - 1;
-        
+
         // Valid range for rows and columns (at least 4 hexes from edges)
         const minRow = edgeBuffer;
         const maxRowValid = maxRow - edgeBuffer;
         const minCol = edgeBuffer;
         const maxColValid = maxCol - edgeBuffer;
-        
+
         let attempts = 0;
         const maxAttempts = 1000;
         let targetHexCol, targetHexRow, x, y;
-        
+
         do {
             // Start with a base position based on index
-            const baseCol = ((index + 1) * SECTOR_CONFIG.HEX_GRID.SETTLEMENT_COL_SPACING) / (totalSettlements + 1);
-            const baseRow = (minRow + maxRowValid) / 2;
-            
+            const baseCol = Math.round(
+                ((index + 1) * SECTOR_CONFIG.HEX_GRID.SETTLEMENT_COL_SPACING) /
+                    (totalSettlements + 1)
+            );
+
             // Add random variation
-            targetHexCol = baseCol + getRandomInt(-Math.floor((maxColValid - minCol) / 3), Math.floor((maxColValid - minCol) / 3));
+            targetHexCol =
+                baseCol +
+                getRandomInt(
+                    -Math.floor((maxColValid - minCol) / 3),
+                    Math.floor((maxColValid - minCol) / 3)
+                );
             targetHexRow = getRandomInt(minRow, maxRowValid);
-            
+
             // Clamp to valid range
-            targetHexCol = Math.max(minCol, Math.min(maxColValid, targetHexCol));
-            targetHexRow = Math.max(minRow, Math.min(maxRowValid, targetHexRow));
-            
+            targetHexCol = Math.max(
+                minCol,
+                Math.min(maxColValid, targetHexCol)
+            );
+            targetHexRow = Math.max(
+                minRow,
+                Math.min(maxRowValid, targetHexRow)
+            );
+
             // Convert to pixel coordinates
             x = targetHexCol * this.colWidth;
             y = targetHexRow * this.rowHeight;
-            
+
             // Offset for even rows
             if (Math.floor(targetHexRow) % 2 === 0) {
                 x += this.colWidth / 2;
             }
-            
+
             // Check if position is valid (away from edges and other settlements)
-            const isAwayFromEdges = this.isPositionAwayFromEdges(targetHexCol, targetHexRow, sceneWidth, sceneHeight, edgeBuffer);
+            const isAwayFromEdges = this.isPositionAwayFromEdges(
+                targetHexCol,
+                targetHexRow,
+                sceneWidth,
+                sceneHeight,
+                edgeBuffer
+            );
             let isAwayFromOthers = true;
-            
+
             if (isAwayFromEdges && existingPositions.length > 0) {
                 for (const existingPos of existingPositions) {
-                    const distance = this.hexDistance(x, y, existingPos.x, existingPos.y);
+                    const distance = this.hexDistance(
+                        x,
+                        y,
+                        existingPos.x,
+                        existingPos.y
+                    );
                     if (distance < minDistanceFromOthers) {
                         isAwayFromOthers = false;
                         break;
                     }
                 }
             }
-            
+
             attempts++;
-            
+
             if (isAwayFromEdges && isAwayFromOthers) {
                 break;
             }
         } while (attempts < maxAttempts);
-        
+
         if (attempts >= maxAttempts) {
-            console.warn(`Could not find valid position for settlement ${index + 1} after ${maxAttempts} attempts. Using best available position.`);
+            console.warn(
+                `Could not find valid position for settlement ${
+                    index + 1
+                } after ${maxAttempts} attempts. Using best available position.`
+            );
         }
-        
+
         return { col: targetHexCol, row: targetHexRow, x, y };
     }
 
@@ -690,7 +705,8 @@ class TokenPlacer {
      * @returns {Object} Object with col, row, x, y coordinates
      */
     calculatePlanetPosition(settlementCol, settlementRow) {
-        const targetHexRow = settlementRow + SECTOR_CONFIG.HEX_GRID.PLANET_ROW_OFFSET;
+        const targetHexRow =
+            settlementRow + SECTOR_CONFIG.HEX_GRID.PLANET_ROW_OFFSET;
         let x = settlementCol * this.colWidth;
         let y = targetHexRow * this.rowHeight;
 
@@ -712,20 +728,6 @@ class TokenPlacer {
         // In a hex grid, going one hex to the left (west) means subtracting colWidth
         const leftX = x - this.colWidth;
         return { x: leftX, y: y };
-    }
-
-    /**
-     * Calculates hex coordinates one row above and half a hex to the left
-     * @param {number} x - Current x coordinate
-     * @param {number} y - Current y coordinate
-     * @returns {Object} Object with x, y coordinates for one row above and half hex left
-     */
-    calculateAboveLeftHexPosition(x, y) {
-        // One row above: subtract rowHeight
-        // Half a hex to the left: subtract colWidth / 2
-        const newX = x - this.colWidth / 2;
-        const newY = y - this.rowHeight;
-        return { x: newX, y: newY };
     }
 
     /**
@@ -1073,7 +1075,6 @@ async function generatePlanetDetails(tableRoller) {
         name: planetaryName,
         klass: planetaryKlass,
         class: planetaryClass,
-        tables: planetTables, // Include full tables object for future use
     };
 }
 
@@ -1145,10 +1146,9 @@ async function createStellarObject(name, folderId, klass, description, imgKey) {
 /**
  * Generates connection (foe) details
  * @param {TableRoller} tableRoller - Table roller instance
- * @param {string} settlementName - Settlement name for context
  * @returns {Promise<Object>} Connection details
  */
-async function generateConnectionDetails(tableRoller, settlementName) {
+async function generateConnectionDetails(tableRoller) {
     // Generate all three name types
     const givenNameRoll = await tableRoller.rollFromArray(
         SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GIVEN_NAME
@@ -1548,11 +1548,11 @@ async function createSettlementWithLocation(params) {
                 : ".");
     }
 
-    return { 
-        description, 
-        settlement, 
+    return {
+        description,
+        settlement,
         settlementToken: tokenSettlement[0],
-        position: { x: settlementPos.x, y: settlementPos.y }
+        position: { x: settlementPos.x, y: settlementPos.y },
     };
 }
 
@@ -1976,10 +1976,20 @@ function findNearestMarker(settlementToken, markerTokens) {
  * @param {Array} settlementTokens - Array of settlement token documents
  * @param {Array} markerTokens - Array of marker token documents
  */
-async function createPassageAnimations(numberOfPassages, scene, settlementTokens, markerTokens) {
-    if (game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active && game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active) {
+async function createPassageAnimations(
+    numberOfPassages,
+    scene,
+    settlementTokens,
+    markerTokens
+) {
+    if (
+        game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active &&
+        game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active
+    ) {
         if (!settlementTokens || settlementTokens.length === 0) {
-            console.warn("No settlement tokens available for passage animations");
+            console.warn(
+                "No settlement tokens available for passage animations"
+            );
             return;
         }
 
@@ -1989,14 +1999,17 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
         if (markerTokens && markerTokens.length > 0 && numberOfPassages > 0) {
             // Select a random settlement
             const sourceSettlementToken = randomArrayItem(settlementTokens);
-            const nearestMarker = findNearestMarker(sourceSettlementToken, markerTokens);
+            const nearestMarker = findNearestMarker(
+                sourceSettlementToken,
+                markerTokens
+            );
 
             if (nearestMarker) {
                 const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
                 const targetMarkerToken = canvas.tokens.get(nearestMarker.id);
 
                 if (canvasToken && targetMarkerToken) {
-                    let passageAnimation = new Sequence()
+                    new Sequence()
                         .effect()
                         .file("jb2a.energy_beam.normal.blue.01")
                         .attachTo(canvasToken)
@@ -2011,18 +2024,20 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
 
         // Create remaining passages between settlements
         const remainingPassages = numberOfPassages - 1;
-        
+
         // Only create passages between settlements if there are remaining passages to create
         if (remainingPassages > 0) {
             // Need at least 2 tokens to create passages between them
             if (settlementTokens.length < 2) {
-                console.warn("Need at least 2 settlement tokens to create passages between settlements");
+                console.warn(
+                    "Need at least 2 settlement tokens to create passages between settlements"
+                );
                 return;
             }
 
             // Track connected pairs to prevent duplicates (normalized: smaller ID first)
             const connectedPairs = new Set();
-            
+
             /**
              * Creates a normalized pair key (smaller ID first) to treat A->B and B->A as the same
              * @param {string} id1 - First token ID
@@ -2035,24 +2050,35 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
             let attempts = 0;
             const maxAttempts = remainingPassages * 10; // Prevent infinite loops
 
-            for (let i = 0; i < remainingPassages && attempts < maxAttempts; attempts++) {
+            for (
+                let i = 0;
+                i < remainingPassages && attempts < maxAttempts;
+                attempts++
+            ) {
                 // Select a random settlement token as the source
                 const sourceSettlementToken = randomArrayItem(settlementTokens);
-                
+
                 // Filter out the source token and select a different random token as the target
                 const availableTargetTokens = settlementTokens.filter(
-                    token => token.id !== sourceSettlementToken.id
+                    (token) => token.id !== sourceSettlementToken.id
                 );
-                
+
                 if (availableTargetTokens.length === 0) {
-                    console.warn("No available target tokens, skipping passage");
+                    console.warn(
+                        "No available target tokens, skipping passage"
+                    );
                     break;
                 }
-                
-                const targetSettlementToken = randomArrayItem(availableTargetTokens);
-                
+
+                const targetSettlementToken = randomArrayItem(
+                    availableTargetTokens
+                );
+
                 // Check if this pair has already been connected
-                const pairKey = getPairKey(sourceSettlementToken.id, targetSettlementToken.id);
+                const pairKey = getPairKey(
+                    sourceSettlementToken.id,
+                    targetSettlementToken.id
+                );
                 if (connectedPairs.has(pairKey)) {
                     // This pair is already connected, try again
                     continue;
@@ -2061,21 +2087,25 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
                 // Get the actual token objects from canvas
                 const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
                 const targetToken = canvas.tokens.get(targetSettlementToken.id);
-                
+
                 if (!canvasToken) {
-                    console.warn(`Source token ${sourceSettlementToken.id} not found on canvas`);
+                    console.warn(
+                        `Source token ${sourceSettlementToken.id} not found on canvas`
+                    );
                     continue;
                 }
-                
+
                 if (!targetToken) {
-                    console.warn(`Target token ${targetSettlementToken.id} not found on canvas`);
+                    console.warn(
+                        `Target token ${targetSettlementToken.id} not found on canvas`
+                    );
                     continue;
                 }
-                
+
                 // Mark this pair as connected
                 connectedPairs.add(pairKey);
-                
-                let passageAnimation = new Sequence()
+
+                new Sequence()
                     .effect()
                     .file("jb2a.energy_beam.normal.blue.01")
                     .attachTo(canvasToken)
@@ -2084,13 +2114,15 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
                     .duration(1)
                     .scale({ x: 1.0, y: 0.3 })
                     .play();
-                
+
                 // Only increment i when we successfully create a passage
                 i++;
             }
-            
+
             if (attempts >= maxAttempts) {
-                console.warn(`Reached maximum attempts (${maxAttempts}) while creating passages. Created ${connectedPairs.size} unique passages.`);
+                console.warn(
+                    `Reached maximum attempts (${maxAttempts}) while creating passages. Created ${connectedPairs.size} unique passages.`
+                );
             }
         }
     }
@@ -2104,7 +2136,12 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
  * @param {Folder} locationsSectorFolder - Sector-specific locations folder
  * @returns {Promise<Array>} Array of created marker token documents
  */
-async function createMarkerTokens(scene, tokenPlacer, folderManager, locationsSectorFolder) {
+async function createMarkerTokens(
+    scene,
+    tokenPlacer,
+    folderManager,
+    locationsSectorFolder
+) {
     try {
         scene.activate();
 
@@ -2167,7 +2204,10 @@ async function createMarkerTokens(scene, tokenPlacer, folderManager, locationsSe
         }
 
         // Create all tokens at once
-        const createdTokens = await scene.createEmbeddedDocuments("Token", markerTokens);
+        const createdTokens = await scene.createEmbeddedDocuments(
+            "Token",
+            markerTokens
+        );
 
         console.log(
             `Created ${markerPositions.length} marker tokens on scene edges`
@@ -2250,23 +2290,31 @@ async function createStartingSector(
         );
 
         // Create marker tokens on scene edges
-        const markerTokens = await createMarkerTokens(scene, tokenPlacer, folderManager, locationsSectorFolder);
+        const markerTokens = await createMarkerTokens(
+            scene,
+            tokenPlacer,
+            folderManager,
+            locationsSectorFolder
+        );
 
         // Generate settlements
-        const { descriptions: locationDescriptions, settlements, settlementTokens } =
-            await generateSettlements({
-                numberOfSettlements: regionConfig.settlements,
-                region,
-                sectorName,
-                tableRoller,
-                locationGenerator,
-                tokenPlacer,
-                scene,
-                folderManager,
-                populationOracle: regionConfig.populationOracle,
-                generateStars,
-                useTokenAttacher,
-            });
+        const {
+            descriptions: locationDescriptions,
+            settlements,
+            settlementTokens,
+        } = await generateSettlements({
+            numberOfSettlements: regionConfig.settlements,
+            region,
+            sectorName,
+            tableRoller,
+            locationGenerator,
+            tokenPlacer,
+            scene,
+            folderManager,
+            populationOracle: regionConfig.populationOracle,
+            generateStars,
+            useTokenAttacher,
+        });
 
         // Check for token attacher module
         if (
@@ -2287,8 +2335,7 @@ async function createStartingSector(
 
                 // Generate connection details
                 const connectionDetails = await generateConnectionDetails(
-                    tableRoller,
-                    randomSettlement.name
+                    tableRoller
                 );
 
                 // Build connection description
@@ -2371,7 +2418,12 @@ async function createStartingSector(
 
         // Create passages if requested
         if (createPassages) {
-            await createPassageAnimations(regionConfig.passages, scene, settlementTokens, markerTokens);
+            await createPassageAnimations(
+                regionConfig.passages,
+                scene,
+                settlementTokens,
+                markerTokens
+            );
         }
 
         // Zoom in on settlement if starting sector
