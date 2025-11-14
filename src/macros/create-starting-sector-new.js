@@ -583,7 +583,7 @@ class TokenPlacer {
         if (topRow % 2 === 0) {
             topX += this.colWidth / 2;
         }
-        markers.push({ x: topX, y: this.rowHeight, edge: "top" });
+        markers.push({ x: topX, y: this.rowHeight, edge: "coreward" });
 
         // Bottom edge - last row (y = sceneHeight - one row height from bottom)
         const bottomRow = Math.floor((sceneHeight - this.rowHeight) / this.rowHeight);
@@ -595,7 +595,7 @@ class TokenPlacer {
         if (bottomRow % 2 === 0) {
             bottomX += this.colWidth / 2;
         }
-        markers.push({ x: bottomX, y: sceneHeight - this.rowHeight, edge: "bottom" });
+        markers.push({ x: bottomX, y: sceneHeight - this.rowHeight, edge: "rimward" });
 
         // Left edge - first column (x = 0 or colWidth/2 depending on row)
         const leftY = getRandomInt(
@@ -609,7 +609,7 @@ class TokenPlacer {
         if (leftRow % 2 === 0) {
             leftXPos = this.colWidth / 2;
         }
-        markers.push({ x: leftXPos, y: leftY, edge: "left" });
+        markers.push({ x: leftXPos, y: leftY, edge: "spinward" });
 
         // Right edge - last column (x = sceneWidth - colWidth or sceneWidth - colWidth/2)
         const rightY = getRandomInt(
@@ -623,7 +623,7 @@ class TokenPlacer {
         if (rightRow % 2 === 0) {
             rightXPos = sceneWidth - this.colWidth / 2;
         }
-        markers.push({ x: rightXPos, y: rightY, edge: "right" });
+        markers.push({ x: rightXPos, y: rightY, edge: "trailing" });
 
         return markers;
     }
@@ -1181,7 +1181,8 @@ async function createSettlementWithLocation(params) {
         locationGenerator,
         tokenPlacer,
         scene,
-        folderId,
+        folderManager,
+        locationsSectorFolder,
         populationOracle,
         generateStars,
         useTokenAttacher,
@@ -1192,9 +1193,17 @@ async function createSettlementWithLocation(params) {
         tableRoller,
         populationOracle
     );
+
+    // Create a folder for this settlement
+    const settlementFolder = await folderManager.getOrCreateFolder(
+        settlementDetails.name,
+        "Actor",
+        locationsSectorFolder.id
+    );
+
     const settlement = await locationGenerator.createSettlement(
         settlementDetails.name,
-        folderId,
+        settlementFolder.id,
         settlementDetails.klass,
         settlementDetails.description
     );
@@ -1235,7 +1244,7 @@ async function createSettlementWithLocation(params) {
 
         planet = await locationGenerator.createPlanet(
             planetDetails.name,
-            folderId,
+            settlementFolder.id,
             planetDetails.klass,
             planetDescription,
             planetDetails.class
@@ -1308,7 +1317,7 @@ async function createSettlementWithLocation(params) {
 
         const stellarObject = await createStellarObject(
             stellarDetails.name,
-            folderId,
+            settlementFolder.id,
             stellarDetails.klass,
             stellarDescription,
             stellarDetails.imgKey
@@ -1396,7 +1405,8 @@ async function generateSettlements(params) {
                 locationGenerator,
                 tokenPlacer,
                 scene,
-                folderId: locationsSectorFolder.id,
+                folderManager,
+                locationsSectorFolder,
                 populationOracle,
                 generateStars,
                 useTokenAttacher,
@@ -1857,10 +1867,11 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
  * Creates marker tokens on the scene edges
  * @param {Scene} scene - The scene to create markers on
  * @param {TokenPlacer} tokenPlacer - Token placer instance for calculations
- * @param {string} folderId - Folder ID for marker actors
+ * @param {FolderManager} folderManager - Folder manager instance
+ * @param {Folder} locationsSectorFolder - Sector-specific locations folder
  * @returns {Promise<Array>} Array of created marker token documents
  */
-async function createMarkerTokens(scene, tokenPlacer, folderId) {
+async function createMarkerTokens(scene, tokenPlacer, folderManager, locationsSectorFolder) {
     try {
         scene.activate();
 
@@ -1871,11 +1882,18 @@ async function createMarkerTokens(scene, tokenPlacer, folderId) {
         );
 
         const edgeNames = {
-            top: "Coreward",
-            bottom: "Rimward",
-            left: "Spinward",
-            right: "Trailing",
+            coreward: "Coreward",
+            rimward: "Rimward",
+            spinward: "Spinward",
+            trailing: "Trailing",
         };
+
+        // Get or create " Navigation Markers" folder (with leading space for sorting)
+        const navigationMarkersFolder = await folderManager.getOrCreateFolder(
+            "Navigation Markers",
+            "Actor",
+            locationsSectorFolder.id
+        );
 
         // Create marker actors and tokens
         const markerTokens = [];
@@ -1887,7 +1905,7 @@ async function createMarkerTokens(scene, tokenPlacer, folderId) {
             const markerActor = await CONFIG.IRONSWORN.actorClass.create({
                 type: "location",
                 name: markerName,
-                folder: folderId,
+                folder: navigationMarkersFolder.id,
                 system: {
                     subtype: "marker",
                     description: `<p>Marker located on the ${pos.edge} edge of the sector.</p>`,
@@ -1998,7 +2016,7 @@ async function createStartingSector(
         );
 
         // Create marker tokens on scene edges
-        const markerTokens = await createMarkerTokens(scene, tokenPlacer, locationsSectorFolder.id);
+        const markerTokens = await createMarkerTokens(scene, tokenPlacer, folderManager, locationsSectorFolder);
 
         // Generate settlements
         const { descriptions: locationDescriptions, settlements, settlementTokens } =
