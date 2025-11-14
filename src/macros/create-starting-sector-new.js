@@ -1990,6 +1990,7 @@ async function generateSettlements(params) {
  * @param {string} sectorTrouble - Sector trouble description
  * @param {Array<string>} locationDescriptions - Array of location descriptions
  * @param {Folder} journalFolder - Folder for the journal
+ * @param {Array<string>} [connectionDescriptions] - Optional array of connection descriptions
  * @returns {Promise<JournalEntry>} The created journal entry
  * @throws {Error} If journal creation fails
  */
@@ -1998,7 +1999,8 @@ async function createSectorJournal(
     region,
     sectorTrouble,
     locationDescriptions,
-    journalFolder
+    journalFolder,
+    connectionDescriptions = []
 ) {
     // Early validation
     validateRequired(sectorName, "sectorName");
@@ -2008,34 +2010,53 @@ async function createSectorJournal(
     validateRequired(journalFolder, "journalFolder");
 
     try {
+        const pages = [
+            {
+                name: "Overview",
+                text: {
+                    content: `${sectorName} is located in the ${region}.`,
+                },
+            },
+            {
+                name: "Sector Trouble",
+                text: { content: `${sectorTrouble}.` },
+            },
+            {
+                name: "Sector Locations",
+                text: {
+                    content:
+                        locationDescriptions
+                            .sort((a, b) =>
+                                a.localeCompare(b, undefined, {
+                                    sensitivity: "base",
+                                })
+                            )
+                            .join("<br>") + `</p>`,
+                },
+            },
+        ];
+
+        // Add connections page if there are any connections
+        if (connectionDescriptions.length > 0) {
+            pages.push({
+                name: "Connections",
+                text: {
+                    content:
+                        connectionDescriptions
+                            .sort((a, b) =>
+                                a.localeCompare(b, undefined, {
+                                    sensitivity: "base",
+                                })
+                            )
+                            .join("<br>") + `</p>`,
+                },
+            });
+        }
+
         const journal = await JournalEntry.create({
             name: sectorName,
             folder: journalFolder.id,
-            pages: [
-                {
-                    name: "Overview",
-                    text: {
-                        content: `${sectorName} is located in the ${region}.`,
-                    },
-                },
-                {
-                    name: "Sector Trouble",
-                    text: { content: `${sectorTrouble}.` },
-                },
-                {
-                    name: "Sector Locations",
-                    text: {
-                        content:
-                            locationDescriptions
-                                .sort((a, b) =>
-                                    a.localeCompare(b, undefined, {
-                                        sensitivity: "base",
-                                    })
-                                )
-                                .join("<br>") + `</p>`,
-                    },
-                },
-            ],
+            pages,
         });
         return journal;
     } catch (error) {
@@ -2675,6 +2696,9 @@ async function createStartingSector(
             );
         }
 
+        // Track connections for journal entry
+        const connectionDescriptions = [];
+
         // Create connection if starting sector
         if (startingSector && settlements.length > 0) {
             try {
@@ -2723,6 +2747,9 @@ async function createStartingSector(
                     connectionDetails
                 );
 
+                // Build UUID link for connection (used in multiple places)
+                const uuidConnection = buildUuidLink(connection);
+
                 // Place connection token on scene to the left of the settlement
                 scene.activate();
                 const settlementTokens = scene.tokens.filter(
@@ -2750,7 +2777,6 @@ async function createStartingSector(
                     ]);
 
                     // Update settlement with connection link
-                    const uuidConnection = buildUuidLink(connection);
                     randomSettlement.system.description += `\n<p><b>Connection:</b> ${uuidConnection}</p>`;
                     await CONFIG.IRONSWORN.actorClass.updateDocuments([
                         {
@@ -2762,6 +2788,11 @@ async function createStartingSector(
                         },
                     ]);
                 }
+
+                // Add connection description to array for journal entry
+                connectionDescriptions.push(
+                    `${uuidConnection} is at ${uuidSettlement}.`
+                );
 
                 debugLog(
                     `Created connection ${connection.name} for settlement ${randomSettlement.name}`
@@ -2796,7 +2827,8 @@ async function createStartingSector(
             region,
             sectorTrouble,
             locationDescriptions,
-            folders.sectorData
+            folders.sectorData,
+            connectionDescriptions
         );
 
         // Link journal to scene
