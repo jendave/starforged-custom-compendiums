@@ -288,6 +288,71 @@ function getStellarObjectTypes() {
     return SECTOR_CONFIG.STELLAR_OBJECT_TYPES;
 }
 
+/**
+ * Processes a roll result that may contain "Action" and "Theme" placeholders
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @param {string} text - Text that may contain "Action" and "Theme"
+ * @returns {Promise<string>} Processed text with Action/Theme replaced
+ */
+async function processActionTheme(tableRoller, text) {
+    if (text.includes("Action") && text.includes("Theme")) {
+        const actionRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.ACTION
+        );
+        const action = tableRoller.getRollText(actionRoll);
+
+        const themeRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.THEME
+        );
+        const theme = tableRoller.getRollText(themeRoll);
+
+        return `${action} ${theme}`;
+    }
+    return text;
+}
+
+/**
+ * Processes a roll that may require rolling twice
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @param {Array<string>} tableArray - Table UUID array to roll on
+ * @param {string} initialText - Initial roll text
+ * @returns {Promise<string>} Processed text (may be joined with <br>)
+ */
+async function processRollTwice(tableRoller, tableArray, initialText) {
+    if (!initialText.toLowerCase().includes("roll twice")) {
+        return await processActionTheme(tableRoller, initialText);
+    }
+
+    const results = [];
+    let attempts = 0;
+    const maxAttempts = 20; // Prevent infinite loops
+
+    while (results.length < 2 && attempts < maxAttempts) {
+        const roll = await tableRoller.rollFromArray(tableArray);
+        let text = tableRoller.getRollText(roll);
+        text = await processActionTheme(tableRoller, text);
+
+        if (
+            !text.toLowerCase().includes("roll twice") &&
+            !results.includes(text)
+        ) {
+            results.push(text);
+        }
+        attempts++;
+    }
+
+    return results.join("<br>");
+}
+
+/**
+ * Builds a UUID link string for an actor
+ * @param {Actor} actor - The actor to build a link for
+ * @returns {string} UUID link string in format @UUID[uuid]{name}
+ */
+function buildUuidLink(actor) {
+    return `@UUID[${actor.uuid}]{${actor.name}}`;
+}
+
 // ============================================================================
 // HELPER CLASSES
 // ============================================================================
@@ -1009,22 +1074,7 @@ async function generateSettlementDetails(tableRoller, populationOracle) {
             SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT
         );
         let projectText = tableRoller.getRollText(projectRoll);
-
-        // Check if result contains "Action" and "Theme" - if so, roll on those tables
-        if (projectText.includes("Action") && projectText.includes("Theme")) {
-            const actionRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.ACTION
-            );
-            const action = tableRoller.getRollText(actionRoll);
-
-            const themeRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.THEME
-            );
-            const theme = tableRoller.getRollText(themeRoll);
-
-            // Concatenate with space
-            projectText = `${action} ${theme}`;
-        }
+        projectText = await processActionTheme(tableRoller, projectText);
 
         settlementProject += projectText + "<br>";
     }
@@ -1172,63 +1222,12 @@ async function generateConnectionDetails(tableRoller) {
     const roleRoll = await tableRoller.rollFromArray(
         SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE
     );
-    let role = tableRoller.getRollText(roleRoll);
-
-    // Check if result contains "roll twice" - if so, roll twice and ensure no duplicates
-    if (role.toLowerCase().includes("roll twice")) {
-        const roleResults = [];
-        let attempts = 0;
-        const maxAttempts = 20; // Prevent infinite loops
-
-        while (roleResults.length < 2 && attempts < maxAttempts) {
-            const roleRoll2 = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE
-            );
-            let roleText = tableRoller.getRollText(roleRoll2);
-
-            // Process Action/Theme if needed
-            if (roleText.includes("Action") && roleText.includes("Theme")) {
-                const actionRoll = await tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.ACTION
-                );
-                const action = tableRoller.getRollText(actionRoll);
-
-                const themeRoll = await tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.THEME
-                );
-                const theme = tableRoller.getRollText(themeRoll);
-
-                roleText = `${action} ${theme}`;
-            }
-
-            // Skip if it's a duplicate or another "roll twice"
-            if (
-                !roleText.toLowerCase().includes("roll twice") &&
-                !roleResults.includes(roleText)
-            ) {
-                roleResults.push(roleText);
-            }
-            attempts++;
-        }
-
-        role = roleResults.join("<br>");
-    } else {
-        // Check if result contains "Action" and "Theme" - if so, roll on those tables
-        if (role.includes("Action") && role.includes("Theme")) {
-            const actionRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.ACTION
-            );
-            const action = tableRoller.getRollText(actionRoll);
-
-            const themeRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.THEME
-            );
-            const theme = tableRoller.getRollText(themeRoll);
-
-            // Concatenate with space
-            role = `${action} ${theme}`;
-        }
-    }
+    const roleInitialText = tableRoller.getRollText(roleRoll);
+    const role = await processRollTwice(
+        tableRoller,
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE,
+        roleInitialText
+    );
 
     // Roll for first look
     const firstLookRoll = await tableRoller.rollFromArray(
@@ -1240,63 +1239,12 @@ async function generateConnectionDetails(tableRoller) {
     const goalRoll = await tableRoller.rollFromArray(
         SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL
     );
-    let goal = tableRoller.getRollText(goalRoll);
-
-    // Check if result contains "roll twice" - if so, roll twice and ensure no duplicates
-    if (goal.toLowerCase().includes("roll twice")) {
-        const goalResults = [];
-        let attempts = 0;
-        const maxAttempts = 20; // Prevent infinite loops
-
-        while (goalResults.length < 2 && attempts < maxAttempts) {
-            const goalRoll2 = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL
-            );
-            let goalText = tableRoller.getRollText(goalRoll2);
-
-            // Process Action/Theme if needed
-            if (goalText.includes("Action") && goalText.includes("Theme")) {
-                const actionRoll = await tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.ACTION
-                );
-                const action = tableRoller.getRollText(actionRoll);
-
-                const themeRoll = await tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.THEME
-                );
-                const theme = tableRoller.getRollText(themeRoll);
-
-                goalText = `${action} ${theme}`;
-            }
-
-            // Skip if it's a duplicate or another "roll twice"
-            if (
-                !goalText.toLowerCase().includes("roll twice") &&
-                !goalResults.includes(goalText)
-            ) {
-                goalResults.push(goalText);
-            }
-            attempts++;
-        }
-
-        goal = goalResults.join("<br>");
-    } else {
-        // Check if result contains "Action" and "Theme" - if so, roll on those tables
-        if (goal.includes("Action") && goal.includes("Theme")) {
-            const actionRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.ACTION
-            );
-            const action = tableRoller.getRollText(actionRoll);
-
-            const themeRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.THEME
-            );
-            const theme = tableRoller.getRollText(themeRoll);
-
-            // Concatenate with space
-            goal = `${action} ${theme}`;
-        }
-    }
+    const goalInitialText = tableRoller.getRollText(goalRoll);
+    const goal = await processRollTwice(
+        tableRoller,
+        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL,
+        goalInitialText
+    );
 
     // Roll for revealed aspect
     const aspectRoll = await tableRoller.rollFromArray(
@@ -1411,7 +1359,7 @@ async function createSettlementWithLocation(params) {
         },
     ]);
 
-    const uuidSettlement = `@UUID[${settlement.uuid}]{${settlement.name}}`;
+    const uuidSettlement = buildUuidLink(settlement);
     const conjunction =
         settlementDetails.klass === "deep space"
             ? "is a deep space settlement"
@@ -1436,7 +1384,7 @@ async function createSettlementWithLocation(params) {
             planetDetails.class
         );
 
-        uuidPlanet = `@UUID[${planet.uuid}]{${planet.name}}`;
+        uuidPlanet = buildUuidLink(planet);
 
         // Update settlement with planet link
         settlement.system.description += `\n<p><b>Planet:</b> ${uuidPlanet}</p>`;
@@ -1509,7 +1457,7 @@ async function createSettlementWithLocation(params) {
             stellarDetails.imgKey
         );
 
-        uuidStellarObject = `@UUID[${stellarObject.uuid}]{${stellarObject.name}}`;
+        uuidStellarObject = buildUuidLink(stellarObject);
 
         // Update settlement with star link
         settlement.system.description += `\n<p><b>Star:</b> ${uuidStellarObject}</p>`;
@@ -1744,25 +1692,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
             SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE
         );
         let settlementTrouble = tableRoller.getRollText(troubleRoll);
-
-        // Check if result contains "Action" and "Theme" - if so, roll on those tables
-        if (
-            settlementTrouble.includes("Action") &&
-            settlementTrouble.includes("Theme")
-        ) {
-            const actionRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.ACTION
-            );
-            const action = tableRoller.getRollText(actionRoll);
-
-            const themeRoll = await tableRoller.rollFromArray(
-                SECTOR_CONFIG.ROLL_TABLES.THEME
-            );
-            const theme = tableRoller.getRollText(themeRoll);
-
-            // Concatenate with space
-            settlementTrouble = `${action} ${theme}`;
-        }
+        settlementTrouble = await processActionTheme(tableRoller, settlementTrouble);
 
         // Build the additional description text
         let additionalDescription = "<p><strong>First Look:</strong> ";
@@ -2331,7 +2261,7 @@ async function createStartingSector(
             try {
                 // Get a random settlement to associate the connection with
                 const randomSettlement = randomArrayItem(settlements);
-                const uuidSettlement = `@UUID[${randomSettlement.uuid}]{${randomSettlement.name}}`;
+                const uuidSettlement = buildUuidLink(randomSettlement);
 
                 // Generate connection details
                 const connectionDetails = await generateConnectionDetails(
@@ -2394,7 +2324,7 @@ async function createStartingSector(
                     ]);
 
                     // Update settlement with connection link
-                    const uuidConnection = `@UUID[${connection.uuid}]{${connection.name}}`;
+                    const uuidConnection = buildUuidLink(connection);
                     randomSettlement.system.description += `\n<p><b>Connection:</b> ${uuidConnection}</p>`;
                     await CONFIG.IRONSWORN.actorClass.updateDocuments([
                         {
