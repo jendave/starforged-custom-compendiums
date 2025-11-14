@@ -618,9 +618,8 @@ class FolderManager {
             SECTOR_CONFIG.DOCUMENT_TYPES.SCENE
         );
 
-        const sectorFolderName = `Sectors: ${region}`;
         const sectorFolder = await this.getOrCreateFolder(
-            sectorFolderName,
+            region,
             SECTOR_CONFIG.DOCUMENT_TYPES.SCENE,
             sectorsFolder.id
         );
@@ -630,9 +629,8 @@ class FolderManager {
             SECTOR_CONFIG.DOCUMENT_TYPES.JOURNAL_ENTRY
         );
 
-        const sectorDataFolderName = `Sector Data: ${region}`;
         const sectorDataRegionFolder = await this.getOrCreateFolder(
-            sectorDataFolderName,
+            region,
             SECTOR_CONFIG.DOCUMENT_TYPES.JOURNAL_ENTRY,
             sectorDataFolder.id
         );
@@ -642,9 +640,8 @@ class FolderManager {
             SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR
         );
 
-        const locationsFolderName = `Locations: ${region}`;
         const locationsRegionFolder = await this.getOrCreateFolder(
-            locationsFolderName,
+            region,
             SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
             locationsFolder.id
         );
@@ -2700,16 +2697,22 @@ async function createStartingSector(
                     <p><strong>Goal:</strong> ${connectionDetails.goal}</p>
                     <p><strong>Revealed Aspect:</strong> ${connectionDetails.aspect}</p>`;
 
-                // Get or create characters folder
+                // Get or create characters folder structure: Characters > Region > Sector
                 const charactersFolder = await folderManager.getOrCreateFolder(
                     "Characters",
                     SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR
                 );
+                const charactersRegionFolder =
+                    await folderManager.getOrCreateFolder(
+                        region,
+                        SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
+                        charactersFolder.id
+                    );
                 const charactersSectorFolder =
                     await folderManager.getOrCreateFolder(
                         sectorName,
                         SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
-                        charactersFolder.id
+                        charactersRegionFolder.id
                     );
 
                 // Create connection actor
