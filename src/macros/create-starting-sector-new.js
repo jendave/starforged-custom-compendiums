@@ -174,6 +174,17 @@ const SECTOR_CONFIG = {
         PLANET_ROW_OFFSET: 1,
     },
 
+    // Maximum Attempts Configuration
+    MAX_ATTEMPTS: {
+        ROLL_TWICE: 20,
+        DUPLICATE_CHECK: 10,
+        SETTLEMENT_PLACEMENT: 1000,
+        PASSAGE_CREATION_MULTIPLIER: 10,
+    },
+
+    // Debug Configuration
+    DEBUG: false,
+
     // Stellar Object Types
     STELLAR_OBJECT_TYPES: [
         {
@@ -325,7 +336,7 @@ async function processRollTwice(tableRoller, tableArray, initialText) {
 
     const results = [];
     let attempts = 0;
-    const maxAttempts = 20; // Prevent infinite loops
+    const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.ROLL_TWICE;
 
     while (results.length < 2 && attempts < maxAttempts) {
         const roll = await tableRoller.rollFromArray(tableArray);
@@ -351,6 +362,39 @@ async function processRollTwice(tableRoller, tableArray, initialText) {
  */
 function buildUuidLink(actor) {
     return `@UUID[${actor.uuid}]{${actor.name}}`;
+}
+
+/**
+ * Debug logging wrapper - only logs if DEBUG is enabled
+ * @param {...any} args - Arguments to log
+ */
+function debugLog(...args) {
+    if (SECTOR_CONFIG.DEBUG) {
+        console.log(...args);
+    }
+}
+
+/**
+ * Processes a roll result that may contain "Descriptor" and "Focus" placeholders
+ * @param {TableRoller} tableRoller - Table roller instance
+ * @param {string} text - Text that may contain "Descriptor" and "Focus"
+ * @returns {Promise<string>} Processed text with Descriptor/Focus replaced
+ */
+async function processDescriptorFocus(tableRoller, text) {
+    if (text.includes("Descriptor") && text.includes("Focus")) {
+        const descriptorRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR
+        );
+        const descriptor = tableRoller.getRollText(descriptorRoll);
+
+        const focusRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.FOCUS
+        );
+        const focus = tableRoller.getRollText(focusRoll);
+
+        return `${descriptor} ${focus}`;
+    }
+    return text;
 }
 
 // ============================================================================
@@ -682,7 +726,7 @@ class TokenPlacer {
         const maxColValid = maxCol - edgeBuffer;
 
         let attempts = 0;
-        const maxAttempts = 1000;
+        const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.SETTLEMENT_PLACEMENT;
         let targetHexCol, targetHexRow, x, y;
 
         do {
@@ -1034,7 +1078,7 @@ async function createSectorScene(region, sectorName, sectorFolder) {
         }
 
         const scenes = await Scene.createDocuments(sceneData);
-        console.log("Created sector:", scenes[0].name);
+        debugLog("Created sector:", scenes[0].name);
         return scenes[0];
     } catch (error) {
         console.error("Error creating sector scene:", error);
@@ -1402,7 +1446,7 @@ async function createSettlementWithLocation(params) {
         );
         const tokenDataPlanet = await planet.getTokenDocument();
 
-        console.log(
+        debugLog(
             `Placing planet ${planet.name} at (x: ${planetPos.x}, y: ${planetPos.y})`
         );
 
@@ -1637,7 +1681,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 
         // Choose a random settlement
         const randomSettlement = randomArrayItem(settlements);
-        console.log(`Zooming in on settlement: ${randomSettlement.name}`);
+        debugLog(`Zooming in on settlement: ${randomSettlement.name}`);
 
         // Roll on First Look table 1-2 times
         const firstLookCount = getRandomInt(1, 2);
@@ -1645,7 +1689,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
         for (let i = 0; i < firstLookCount; i++) {
             let firstLook;
             let attempts = 0;
-            const maxAttempts = 10; // Prevent infinite loops
+            const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
 
             do {
                 const firstLookRoll = await tableRoller.rollFromArray(
@@ -1655,23 +1699,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                 attempts++;
 
                 // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
-                if (
-                    firstLook.includes("Descriptor") &&
-                    firstLook.includes("Focus")
-                ) {
-                    const descriptorRoll = await tableRoller.rollFromArray(
-                        SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR
-                    );
-                    const descriptor = tableRoller.getRollText(descriptorRoll);
-
-                    const focusRoll = await tableRoller.rollFromArray(
-                        SECTOR_CONFIG.ROLL_TABLES.FOCUS
-                    );
-                    const focus = tableRoller.getRollText(focusRoll);
-
-                    // Concatenate with space
-                    firstLook = `${descriptor} ${focus}`;
-                }
+                firstLook = await processDescriptorFocus(tableRoller, firstLook);
 
                 // If this is the second roll and it matches the first, re-roll
                 if (
@@ -1695,10 +1723,10 @@ async function zoomInOnASettlement(tableRoller, settlements) {
         settlementTrouble = await processActionTheme(tableRoller, settlementTrouble);
 
         // Build the additional description text
-        let additionalDescription = "<p><strong>First Look:</strong> ";
-        additionalDescription += firstLooks.join("<br>");
-        additionalDescription += "</p>";
-        additionalDescription += `<p><strong>Settlement Trouble:</strong> ${settlementTrouble}</p>`;
+        const additionalDescription = `
+            <p><strong>First Look:</strong> ${firstLooks.join("<br>")}</p>
+            <p><strong>Settlement Trouble:</strong> ${settlementTrouble}</p>
+        `.trim();
 
         // If settlement is planetside or orbital, add planet details
         const settlementKlass = randomSettlement.system.klass;
@@ -1730,7 +1758,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                             for (let i = 0; i < observedCount; i++) {
                                 let observed;
                                 let attempts = 0;
-                                const maxAttempts = 10;
+                                const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
 
                                 do {
                                     const observedRoll =
@@ -1761,7 +1789,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                             for (let i = 0; i < featureCount; i++) {
                                 let feature;
                                 let attempts = 0;
-                                const maxAttempts = 10;
+                                const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
 
                                 do {
                                     const featureRoll =
@@ -1786,16 +1814,14 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 featureResults.push(feature);
                             }
 
-                            let planetDescription = planet.system.description;
-                            planetDescription += `\n<p><strong>Atmosphere:</strong> ${atmosphere}</p>`;
-                            planetDescription += `<p><strong>Observed From Space:</strong> ${observedResults.join(
-                                "<br>"
-                            )}</p>`;
-                            planetDescription += `<p><strong>Planetside Features:</strong> ${featureResults.join(
-                                "<br>"
-                            )}</p>`;
+                            // Build additional planet description parts
+                            const planetDescriptionParts = [
+                                `<p><strong>Atmosphere:</strong> ${atmosphere}</p>`,
+                                `<p><strong>Observed From Space:</strong> ${observedResults.join("<br>")}</p>`,
+                                `<p><strong>Planetside Features:</strong> ${featureResults.join("<br>")}</p>`,
+                            ];
 
-                            // If the planet is "vital", roll on Diveristy and Biomes tables and add those as well
+                            // If the planet is "vital", roll on Diversity and Biomes tables and add those as well
                             if (planetKlass === "vital") {
                                 // Roll once on Diversity
                                 let diversityStr = "";
@@ -1822,9 +1848,16 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                     biomesStr = biomes;
                                 }
 
-                                planetDescription += `<p><strong>Diversity:</strong> ${diversityStr}</p>`;
-                                planetDescription += `<p><strong>Biomes:</strong> ${biomesStr}</p>`;
+                                planetDescriptionParts.push(
+                                    `<p><strong>Diversity:</strong> ${diversityStr}</p>`,
+                                    `<p><strong>Biomes:</strong> ${biomesStr}</p>`
+                                );
                             }
+
+                            const planetDescription = [
+                                planet.system.description,
+                                ...planetDescriptionParts,
+                            ].join("\n");
 
                             // Update the planet's description
                             await CONFIG.IRONSWORN.actorClass.updateDocuments([
@@ -1834,7 +1867,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 },
                             ]);
 
-                            console.log(
+                            debugLog(
                                 `Updated planet ${
                                     planet.name
                                 } with Atmosphere, Observed From Space, and Planetside Features${
@@ -1863,7 +1896,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
             },
         ]);
 
-        console.log(
+        debugLog(
             `Updated settlement ${randomSettlement.name} with First Look and Settlement Trouble details`
         );
     } catch (error) {
@@ -1978,7 +2011,7 @@ async function createPassageAnimations(
                 return id1 < id2 ? `${id1}-${id2}` : `${id2}-${id1}`;
             }
             let attempts = 0;
-            const maxAttempts = remainingPassages * 10; // Prevent infinite loops
+            const maxAttempts = remainingPassages * SECTOR_CONFIG.MAX_ATTEMPTS.PASSAGE_CREATION_MULTIPLIER;
 
             for (
                 let i = 0;
@@ -2139,7 +2172,7 @@ async function createMarkerTokens(
             markerTokens
         );
 
-        console.log(
+        debugLog(
             `Created ${markerPositions.length} marker tokens on scene edges`
         );
 
@@ -2337,7 +2370,7 @@ async function createStartingSector(
                     ]);
                 }
 
-                console.log(
+                debugLog(
                     `Created connection ${connection.name} for settlement ${randomSettlement.name}`
                 );
             } catch (error) {
