@@ -74,6 +74,10 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 * Drag and drop macros from the `Starforged Custom Macros` compendium to the macro bar. Macros use the current `Roll Mode` when executed.
 
+#### Build starting Sector Macro
+
+* Try out the macro to generate an entire starting sector with settlements, planets, stars, passages and a connection.
+
 ### Dependencies
 
 * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).

@@ -1,3 +1,4 @@
+// Free to use and modify from https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked
 const target = game.user.targets.first();
 let sequence = new Sequence()
     .effect()
@@ -6,5 +7,5 @@ let sequence = new Sequence()
     .stretchTo(target, { attachTo: true })
     .persist()
     .duration(1)
-    .scale({ x: 1.0, y: 0.5 })
+    .scale({ x: 1.0, y: 0.3 })
     .play();
