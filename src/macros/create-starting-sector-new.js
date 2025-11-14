@@ -205,7 +205,7 @@ const SECTOR_CONFIG = {
     // Settlement Placement Configuration
     SETTLEMENT_DISTANCE: {
         MIN_FROM_EDGE: 4,
-        MIN_FROM_OTHERS: 6,
+        MIN_FROM_OTHERS: 7,
     },
 
     // Debug Configuration
@@ -736,6 +736,146 @@ class TokenPlacer {
     }
 
     /**
+     * Divides the valid hex grid area into zones for even settlement distribution
+     * @param {number} numZones - Number of zones to create
+     * @param {number} minRow - Minimum valid row
+     * @param {number} maxRowValid - Maximum valid row
+     * @param {number} minCol - Minimum valid column
+     * @param {number} maxColValid - Maximum valid column
+     * @returns {Array<Object>} Array of zone definitions with {minRow, maxRow, minCol, maxCol}
+     */
+    divideIntoZones(numZones, minRow, maxRowValid, minCol, maxColValid) {
+        const zones = [];
+        const totalRows = maxRowValid - minRow + 1;
+        const totalCols = maxColValid - minCol + 1;
+
+        // Calculate grid dimensions for zones
+        // Try to create a roughly square grid of zones
+        const colsPerZone = Math.ceil(Math.sqrt(numZones));
+        const rowsPerZone = Math.ceil(numZones / colsPerZone);
+
+        // Calculate zone dimensions
+        const zoneRows = Math.floor(totalRows / rowsPerZone);
+        const zoneCols = Math.floor(totalCols / colsPerZone);
+        const extraRows = totalRows % rowsPerZone;
+        const extraCols = totalCols % colsPerZone;
+
+        let zoneIndex = 0;
+        let currentRow = minRow;
+
+        for (let zoneRow = 0; zoneRow < rowsPerZone && zoneIndex < numZones; zoneRow++) {
+            const rowsInThisZone = zoneRows + (zoneRow < extraRows ? 1 : 0);
+            let currentCol = minCol;
+
+            for (
+                let zoneCol = 0;
+                zoneCol < colsPerZone && zoneIndex < numZones;
+                zoneCol++
+            ) {
+                const colsInThisZone = zoneCols + (zoneCol < extraCols ? 1 : 0);
+
+                zones.push({
+                    minRow: currentRow,
+                    maxRow: currentRow + rowsInThisZone - 1,
+                    minCol: currentCol,
+                    maxCol: currentCol + colsInThisZone - 1,
+                });
+
+                currentCol += colsInThisZone;
+                zoneIndex++;
+            }
+
+            currentRow += rowsInThisZone;
+        }
+
+        return zones;
+    }
+
+    /**
+     * Finds a valid position within a zone
+     * @param {Object} zone - Zone definition {minRow, maxRow, minCol, maxCol}
+     * @param {Array<Object>} existingPositions - Array of existing positions {x, y}
+     * @param {number} minDistanceFromOthers - Minimum hex distance from other settlements
+     * @param {number} sceneWidth - Scene width in pixels
+     * @param {number} sceneHeight - Scene height in pixels
+     * @param {number} edgeBuffer - Minimum hexes from edge
+     * @returns {Object|null} Valid position {col, row, x, y} or null if none found
+     */
+    findPositionInZone(
+        zone,
+        existingPositions,
+        minDistanceFromOthers,
+        sceneWidth,
+        sceneHeight,
+        edgeBuffer
+    ) {
+        // Generate all positions in the zone
+        const candidatePositions = [];
+
+        for (let row = zone.minRow; row <= zone.maxRow; row++) {
+            for (let col = zone.minCol; col <= zone.maxCol; col++) {
+                // Convert to pixel coordinates
+                let x = col * this.colWidth;
+                let y = row * this.rowHeight;
+
+                // Offset for even rows
+                if (row % 2 === 0) {
+                    x += this.colWidth / 2;
+                }
+
+                // Check if position is away from edges
+                if (
+                    this.isPositionAwayFromEdges(
+                        col,
+                        row,
+                        sceneWidth,
+                        sceneHeight,
+                        edgeBuffer
+                    )
+                ) {
+                    candidatePositions.push({ col, row, x, y });
+                }
+            }
+        }
+
+        // Shuffle for randomness
+        for (let i = candidatePositions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [candidatePositions[i], candidatePositions[j]] = [
+                candidatePositions[j],
+                candidatePositions[i],
+            ];
+        }
+
+        // Try each position until we find a valid one
+        for (const pos of candidatePositions) {
+            let isAwayFromOthers = true;
+
+            if (existingPositions.length > 0) {
+                for (const existingPos of existingPositions) {
+                    const distance = this.hexDistance(
+                        pos.x,
+                        pos.y,
+                        existingPos.x,
+                        existingPos.y
+                    );
+                    if (distance < minDistanceFromOthers) {
+                        isAwayFromOthers = false;
+                        break;
+                    }
+                }
+            }
+
+            if (isAwayFromOthers) {
+                return pos;
+            }
+        }
+
+        // If no valid position in zone, return null
+        return null;
+    }
+
+    /**
      * Calculates hex coordinates for a settlement
      * @param {number} index - Settlement index (0-based)
      * @param {number} totalSettlements - Total number of settlements
@@ -763,86 +903,121 @@ class TokenPlacer {
         const minCol = edgeBuffer;
         const maxColValid = maxCol - edgeBuffer;
 
-        let attempts = 0;
-        const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.SETTLEMENT_PLACEMENT;
-        let targetHexCol, targetHexRow, x, y;
+        // Divide scene into zones for even distribution
+        const zones = this.divideIntoZones(
+            totalSettlements,
+            minRow,
+            maxRowValid,
+            minCol,
+            maxColValid
+        );
+        const targetZone = zones[index];
 
-        do {
-            // Start with a base position based on index
-            const baseCol = Math.round(
-                ((index + 1) * SECTOR_CONFIG.HEX_GRID.SETTLEMENT_COL_SPACING) /
-                    (totalSettlements + 1)
-            );
+        // Try to find position in target zone
+        let position = this.findPositionInZone(
+            targetZone,
+            existingPositions,
+            minDistanceFromOthers,
+            sceneWidth,
+            sceneHeight,
+            edgeBuffer
+        );
 
-            // Add random variation
-            targetHexCol =
-                baseCol +
-                getRandomInt(
-                    -Math.floor((maxColValid - minCol) / 3),
-                    Math.floor((maxColValid - minCol) / 3)
+        // If no valid position in target zone, expand search to all zones
+        if (!position) {
+            // Try all zones in order (starting with target zone, then others)
+            const zonesToTry = [
+                targetZone,
+                ...zones.filter((_, i) => i !== index),
+            ];
+
+            for (const zone of zonesToTry) {
+                position = this.findPositionInZone(
+                    zone,
+                    existingPositions,
+                    minDistanceFromOthers,
+                    sceneWidth,
+                    sceneHeight,
+                    edgeBuffer
                 );
-            targetHexRow = getRandomInt(minRow, maxRowValid);
+                if (position) {
+                    break;
+                }
+            }
+        }
 
-            // Clamp to valid range
-            targetHexCol = Math.max(
-                minCol,
-                Math.min(maxColValid, targetHexCol)
+        // If still no position found, fall back to best available (closest to zone center)
+        if (!position) {
+            const zoneCenterRow = Math.floor(
+                (targetZone.minRow + targetZone.maxRow) / 2
             );
-            targetHexRow = Math.max(
-                minRow,
-                Math.min(maxRowValid, targetHexRow)
+            const zoneCenterCol = Math.floor(
+                (targetZone.minCol + targetZone.maxCol) / 2
             );
 
-            // Convert to pixel coordinates
-            x = targetHexCol * this.colWidth;
-            y = targetHexRow * this.rowHeight;
-
-            // Offset for even rows
-            if (Math.floor(targetHexRow) % 2 === 0) {
+            // Convert zone center to pixel coordinates
+            let x = zoneCenterCol * this.colWidth;
+            let y = zoneCenterRow * this.rowHeight;
+            if (zoneCenterRow % 2 === 0) {
                 x += this.colWidth / 2;
             }
 
-            // Check if position is valid (away from edges and other settlements)
-            const isAwayFromEdges = this.isPositionAwayFromEdges(
-                targetHexCol,
-                targetHexRow,
-                sceneWidth,
-                sceneHeight,
-                edgeBuffer
-            );
-            let isAwayFromOthers = true;
+            // Find position closest to zone center that's at least away from edges
+            let bestPosition = null;
+            let bestDistance = Infinity;
 
-            if (isAwayFromEdges && existingPositions.length > 0) {
-                for (const existingPos of existingPositions) {
-                    const distance = this.hexDistance(
-                        x,
-                        y,
-                        existingPos.x,
-                        existingPos.y
-                    );
-                    if (distance < minDistanceFromOthers) {
-                        isAwayFromOthers = false;
-                        break;
+            for (let row = minRow; row <= maxRowValid; row++) {
+                for (let col = minCol; col <= maxColValid; col++) {
+                    if (
+                        this.isPositionAwayFromEdges(
+                            col,
+                            row,
+                            sceneWidth,
+                            sceneHeight,
+                            edgeBuffer
+                        )
+                    ) {
+                        let testX = col * this.colWidth;
+                        let testY = row * this.rowHeight;
+                        if (row % 2 === 0) {
+                            testX += this.colWidth / 2;
+                        }
+
+                        const distance = this.hexDistance(x, y, testX, testY);
+                        if (distance < bestDistance) {
+                            bestDistance = distance;
+                            bestPosition = { col, row, x: testX, y: testY };
+                        }
                     }
                 }
             }
 
-            attempts++;
+            position = bestPosition;
 
-            if (isAwayFromEdges && isAwayFromOthers) {
-                break;
+            if (!position) {
+                console.warn(
+                    `Could not find valid position for settlement ${
+                        index + 1
+                    }. Using fallback position.`
+                );
+                // Ultimate fallback: center of valid area
+                const centerRow = Math.floor((minRow + maxRowValid) / 2);
+                const centerCol = Math.floor((minCol + maxColValid) / 2);
+                let fallbackX = centerCol * this.colWidth;
+                let fallbackY = centerRow * this.rowHeight;
+                if (centerRow % 2 === 0) {
+                    fallbackX += this.colWidth / 2;
+                }
+                position = {
+                    col: centerCol,
+                    row: centerRow,
+                    x: fallbackX,
+                    y: fallbackY,
+                };
             }
-        } while (attempts < maxAttempts);
-
-        if (attempts >= maxAttempts) {
-            console.warn(
-                `Could not find valid position for settlement ${
-                    index + 1
-                } after ${maxAttempts} attempts. Using best available position.`
-            );
         }
 
-        return { col: targetHexCol, row: targetHexRow, x, y };
+        return position;
     }
 
     /**
