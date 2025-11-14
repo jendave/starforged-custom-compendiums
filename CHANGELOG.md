@@ -2,6 +2,13 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
+
+* Added macro to generate starting sector. For full functionality include the following modules
+  * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
+  * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements
+  * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements
+
 ## [3.0.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-10-19)
 
 * Added [Legacy Iron (Starforged Asset Pack)](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack) by [Ludic Pen](https://www.drivethrurpg.com/en/publisher/14520/ludic-pen).
