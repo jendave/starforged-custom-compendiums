@@ -564,19 +564,19 @@ class TokenPlacer {
      * Calculates hex coordinates for a planet (below settlement)
      * @param {number} settlementCol - Settlement column (can be fractional)
      * @param {number} settlementRow - Settlement row
-     * @returns {Object} Object with x, y coordinates
+     * @returns {Object} Object with col, row, x, y coordinates
      */
     calculatePlanetPosition(settlementCol, settlementRow) {
         const targetHexRow = settlementRow + SECTOR_CONFIG.HEX_GRID.PLANET_ROW_OFFSET;
-        const y = targetHexRow * this.rowHeight;
-        
-        // Calculate planet x from settlement column, applying offset for planet's row
         let x = settlementCol * this.colWidth;
+        let y = targetHexRow * this.rowHeight;
+
+        // Offset for even rows
         if (targetHexRow % 2 === 0) {
-            x += this.colWidth / 2;
+            x -= this.colWidth / 2;
         }
 
-        return { x, y };
+        return { col: settlementCol, row: targetHexRow, x, y };
     }
 
     /**
