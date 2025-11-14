@@ -1638,7 +1638,7 @@ async function createConnection(name, folderId, description, connectionDetails =
                     system: {
                         subtype: "connection",
                         description: progressTrackDescription.join("\n"),
-                        rank: 1,
+                        rank: getRandomInt(1, 2),
                         current: 0,
                         completed: false,
                         starred: false,
