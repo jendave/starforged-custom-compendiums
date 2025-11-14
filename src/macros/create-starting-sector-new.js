@@ -1607,6 +1607,35 @@ async function createConnection(name, folderId, description) {
                 "texture.src": "icons/svg/mystery-man.svg",
             },
         });
+
+        // Create progress track item for the connection
+        try {
+            await connection.createEmbeddedDocuments("Item", [
+                {
+                    name: "Progress Track",
+                    type: "progress",
+                    system: {
+                        subtype: "connection",
+                        description: "",
+                        rank: 1,
+                        current: 0,
+                        completed: false,
+                        starred: false,
+                        hasTrack: true,
+                        hasClock: false,
+                        clockTicks: 0,
+                        clockMax: 4,
+                    },
+                },
+            ]);
+        } catch (progressError) {
+            console.warn(
+                `Failed to create progress track for connection "${name}":`,
+                progressError
+            );
+            // Continue - connection actor was created successfully
+        }
+
         return connection;
     } catch (error) {
         console.error(
