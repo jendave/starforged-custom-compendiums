@@ -2003,92 +2003,95 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
                         .stretchTo(targetMarkerToken, { attachTo: true })
                         .persist()
                         .duration(1)
-                        .scale({ x: 1.0, y: 0.5 })
+                        .scale({ x: 1.0, y: 0.3 })
                         .play();
                 }
             }
         }
 
         // Create remaining passages between settlements
-        // Need at least 2 tokens to create passages between them
-        if (settlementTokens.length < 2) {
-            console.warn("Need at least 2 settlement tokens to create passages between settlements");
-            return;
-        }
-
-        // Track connected pairs to prevent duplicates (normalized: smaller ID first)
-        const connectedPairs = new Set();
-        
-        /**
-         * Creates a normalized pair key (smaller ID first) to treat A->B and B->A as the same
-         * @param {string} id1 - First token ID
-         * @param {string} id2 - Second token ID
-         * @returns {string} Normalized pair key
-         */
-        function getPairKey(id1, id2) {
-            return id1 < id2 ? `${id1}-${id2}` : `${id2}-${id1}`;
-        }
-
         const remainingPassages = numberOfPassages - 1;
-        let attempts = 0;
-        const maxAttempts = remainingPassages * 10; // Prevent infinite loops
-
-        for (let i = 0; i < remainingPassages && attempts < maxAttempts; attempts++) {
-            // Select a random settlement token as the source
-            const sourceSettlementToken = randomArrayItem(settlementTokens);
-            
-            // Filter out the source token and select a different random token as the target
-            const availableTargetTokens = settlementTokens.filter(
-                token => token.id !== sourceSettlementToken.id
-            );
-            
-            if (availableTargetTokens.length === 0) {
-                console.warn("No available target tokens, skipping passage");
-                break;
-            }
-            
-            const targetSettlementToken = randomArrayItem(availableTargetTokens);
-            
-            // Check if this pair has already been connected
-            const pairKey = getPairKey(sourceSettlementToken.id, targetSettlementToken.id);
-            if (connectedPairs.has(pairKey)) {
-                // This pair is already connected, try again
-                continue;
-            }
-
-            // Get the actual token objects from canvas
-            const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
-            const targetToken = canvas.tokens.get(targetSettlementToken.id);
-            
-            if (!canvasToken) {
-                console.warn(`Source token ${sourceSettlementToken.id} not found on canvas`);
-                continue;
-            }
-            
-            if (!targetToken) {
-                console.warn(`Target token ${targetSettlementToken.id} not found on canvas`);
-                continue;
-            }
-            
-            // Mark this pair as connected
-            connectedPairs.add(pairKey);
-            
-            let passageAnimation = new Sequence()
-                .effect()
-                .file("jb2a.energy_beam.normal.blue.01")
-                .attachTo(canvasToken)
-                .stretchTo(targetToken, { attachTo: true })
-                .persist()
-                .duration(1)
-                .scale({ x: 1.0, y: 0.5 })
-                .play();
-            
-            // Only increment i when we successfully create a passage
-            i++;
-        }
         
-        if (attempts >= maxAttempts) {
-            console.warn(`Reached maximum attempts (${maxAttempts}) while creating passages. Created ${connectedPairs.size} unique passages.`);
+        // Only create passages between settlements if there are remaining passages to create
+        if (remainingPassages > 0) {
+            // Need at least 2 tokens to create passages between them
+            if (settlementTokens.length < 2) {
+                console.warn("Need at least 2 settlement tokens to create passages between settlements");
+                return;
+            }
+
+            // Track connected pairs to prevent duplicates (normalized: smaller ID first)
+            const connectedPairs = new Set();
+            
+            /**
+             * Creates a normalized pair key (smaller ID first) to treat A->B and B->A as the same
+             * @param {string} id1 - First token ID
+             * @param {string} id2 - Second token ID
+             * @returns {string} Normalized pair key
+             */
+            function getPairKey(id1, id2) {
+                return id1 < id2 ? `${id1}-${id2}` : `${id2}-${id1}`;
+            }
+            let attempts = 0;
+            const maxAttempts = remainingPassages * 10; // Prevent infinite loops
+
+            for (let i = 0; i < remainingPassages && attempts < maxAttempts; attempts++) {
+                // Select a random settlement token as the source
+                const sourceSettlementToken = randomArrayItem(settlementTokens);
+                
+                // Filter out the source token and select a different random token as the target
+                const availableTargetTokens = settlementTokens.filter(
+                    token => token.id !== sourceSettlementToken.id
+                );
+                
+                if (availableTargetTokens.length === 0) {
+                    console.warn("No available target tokens, skipping passage");
+                    break;
+                }
+                
+                const targetSettlementToken = randomArrayItem(availableTargetTokens);
+                
+                // Check if this pair has already been connected
+                const pairKey = getPairKey(sourceSettlementToken.id, targetSettlementToken.id);
+                if (connectedPairs.has(pairKey)) {
+                    // This pair is already connected, try again
+                    continue;
+                }
+
+                // Get the actual token objects from canvas
+                const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
+                const targetToken = canvas.tokens.get(targetSettlementToken.id);
+                
+                if (!canvasToken) {
+                    console.warn(`Source token ${sourceSettlementToken.id} not found on canvas`);
+                    continue;
+                }
+                
+                if (!targetToken) {
+                    console.warn(`Target token ${targetSettlementToken.id} not found on canvas`);
+                    continue;
+                }
+                
+                // Mark this pair as connected
+                connectedPairs.add(pairKey);
+                
+                let passageAnimation = new Sequence()
+                    .effect()
+                    .file("jb2a.energy_beam.normal.blue.01")
+                    .attachTo(canvasToken)
+                    .stretchTo(targetToken, { attachTo: true })
+                    .persist()
+                    .duration(1)
+                    .scale({ x: 1.0, y: 0.3 })
+                    .play();
+                
+                // Only increment i when we successfully create a passage
+                i++;
+            }
+            
+            if (attempts >= maxAttempts) {
+                console.warn(`Reached maximum attempts (${maxAttempts}) while creating passages. Created ${connectedPairs.size} unique passages.`);
+            }
         }
     }
 }
@@ -2147,6 +2150,7 @@ async function createMarkerTokens(scene, tokenPlacer, folderManager, locationsSe
                     actorLink: true,
                     lockRotation: true,
                     rotation: 0,
+                    alpha: 0,
                 },
             });
 
