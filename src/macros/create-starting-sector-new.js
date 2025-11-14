@@ -568,62 +568,77 @@ class TokenPlacer {
      * @returns {Array<Object>} Array of marker positions with {x, y, edge} for each edge
      */
     calculateEdgeMarkerPositions(sceneWidth, sceneHeight) {
-        const cornerBuffer = 3 * this.colWidth; // 3 hexes from corner
+        const cornerBuffer = 3; // 3 hexes from corner
+
+        // Calculate max row and column based on scene dimensions
+        const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
+        const maxCol = Math.floor(sceneWidth / this.colWidth) - 1;
 
         const markers = [];
 
-        // Top edge - first row (y = one row height from top)
-        // Calculate a random column position, ensuring it's at least 3 hexes from corners
-        const minTopCol = Math.ceil(cornerBuffer / this.colWidth);
-        const maxTopCol = Math.floor((sceneWidth - cornerBuffer) / this.colWidth);
-        const topCol = getRandomInt(minTopCol, maxTopCol);
-        let topX = topCol * this.colWidth;
-        // Top row (row 0) is even, so apply offset
-        const topRow = 0;
-        if (topRow % 2 === 0) {
-            topX += this.colWidth / 2;
-        }
-        markers.push({ x: topX, y: this.rowHeight, edge: "coreward" });
+        // Coreward (top edge) - targetHexRow = 0
+        const targetHexRow = 0;
+        const minCol = cornerBuffer;
+        const maxColForTop = maxCol - cornerBuffer;
+        const targetHexCol = getRandomInt(minCol, maxColForTop);
 
-        // Bottom edge - last row (y = sceneHeight - one row height from bottom)
-        const bottomRow = Math.floor((sceneHeight - this.rowHeight) / this.rowHeight);
-        const minBottomCol = Math.ceil(cornerBuffer / this.colWidth);
-        const maxBottomCol = Math.floor((sceneWidth - cornerBuffer) / this.colWidth);
-        const bottomCol = getRandomInt(minBottomCol, maxBottomCol);
-        let bottomX = bottomCol * this.colWidth;
-        // Apply hex grid offset for even rows
-        if (bottomRow % 2 === 0) {
-            bottomX += this.colWidth / 2;
-        }
-        markers.push({ x: bottomX, y: sceneHeight - this.rowHeight, edge: "rimward" });
+        let x = targetHexCol * this.colWidth;
+        let y = targetHexRow * this.rowHeight;
 
-        // Left edge - first column (x = 0 or colWidth/2 depending on row)
-        const leftY = getRandomInt(
-            cornerBuffer,
-            sceneHeight - cornerBuffer
-        );
-        // Calculate which row this is
-        const leftRow = Math.floor(leftY / this.rowHeight);
-        let leftXPos = 0;
-        // Apply hex grid offset for even rows
-        if (leftRow % 2 === 0) {
-            leftXPos = this.colWidth / 2;
+        // Offset for even rows
+        if (targetHexRow % 2 === 0) {
+            x += this.colWidth / 2;
         }
-        markers.push({ x: leftXPos, y: leftY, edge: "spinward" });
 
-        // Right edge - last column (x = sceneWidth - colWidth or sceneWidth - colWidth/2)
-        const rightY = getRandomInt(
-            cornerBuffer,
-            sceneHeight - cornerBuffer
-        );
-        // Calculate which row this is
-        const rightRow = Math.floor(rightY / this.rowHeight);
-        let rightXPos = sceneWidth - this.colWidth;
-        // Apply hex grid offset for even rows
-        if (rightRow % 2 === 0) {
-            rightXPos = sceneWidth - this.colWidth / 2;
+        markers.push({ x, y, edge: "coreward" });
+
+        // Rimward (bottom edge) - targetHexRow = max row
+        const rimwardHexRow = maxRow;
+        const minColForBottom = cornerBuffer;
+        const maxColForBottom = maxCol - cornerBuffer;
+        const rimwardHexCol = getRandomInt(minColForBottom, maxColForBottom);
+
+        let rimwardX = rimwardHexCol * this.colWidth;
+        let rimwardY = rimwardHexRow * this.rowHeight;
+
+        // Offset for even rows
+        if (rimwardHexRow % 2 === 0) {
+            rimwardX += this.colWidth / 2;
         }
-        markers.push({ x: rightXPos, y: rightY, edge: "trailing" });
+
+        markers.push({ x: rimwardX, y: rimwardY, edge: "rimward" });
+
+        // Spinward (left edge) - targetHexCol = 0
+        const targetHexColLeft = 0;
+        const minRow = cornerBuffer;
+        const maxRowForLeft = maxRow - cornerBuffer;
+        const targetHexRowLeft = getRandomInt(minRow, maxRowForLeft);
+
+        let spinwardX = targetHexColLeft * this.colWidth;
+        let spinwardY = targetHexRowLeft * this.rowHeight;
+
+        // Offset for even rows
+        if (targetHexRowLeft % 2 === 0) {
+            spinwardX += this.colWidth / 2;
+        }
+
+        markers.push({ x: spinwardX, y: spinwardY, edge: "spinward" });
+
+        // Trailing (right edge) - targetHexCol = max col
+        const trailingHexCol = maxCol;
+        const minRowForRight = cornerBuffer;
+        const maxRowForRight = maxRow - cornerBuffer;
+        const trailingHexRow = getRandomInt(minRowForRight, maxRowForRight);
+
+        let trailingX = trailingHexCol * this.colWidth;
+        let trailingY = trailingHexRow * this.rowHeight;
+
+        // Offset for even rows
+        if (trailingHexRow % 2 === 0) {
+            trailingX += this.colWidth / 2;
+        }
+
+        markers.push({ x: trailingX, y: trailingY, edge: "trailing" });
 
         return markers;
     }
