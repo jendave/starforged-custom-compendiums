@@ -1017,6 +1017,33 @@ class TokenPlacer {
             }
         }
 
+        // Safety check: ensure we never return null
+        if (!position) {
+            console.warn(
+                `Emergency fallback: Using zone center for settlement ${index + 1}`
+            );
+            const zoneCenterRow = Math.floor(
+                (targetZone.minRow + targetZone.maxRow) / 2
+            );
+            const zoneCenterCol = Math.floor(
+                (targetZone.minCol + targetZone.maxCol) / 2
+            );
+            // Clamp to valid bounds
+            const finalRow = Math.max(minRow, Math.min(maxRowValid, zoneCenterRow));
+            const finalCol = Math.max(minCol, Math.min(maxColValid, zoneCenterCol));
+            let fallbackX = finalCol * this.colWidth;
+            let fallbackY = finalRow * this.rowHeight;
+            if (finalRow % 2 === 0) {
+                fallbackX += this.colWidth / 2;
+            }
+            position = {
+                col: finalCol,
+                row: finalRow,
+                x: fallbackX,
+                y: fallbackY,
+            };
+        }
+
         return position;
     }
 
