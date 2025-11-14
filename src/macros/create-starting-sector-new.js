@@ -534,29 +534,152 @@ class TokenPlacer {
     }
 
     /**
+     * Converts pixel coordinates to hex coordinates (col, row)
+     * @param {number} x - X pixel coordinate
+     * @param {number} y - Y pixel coordinate
+     * @returns {Object} Object with col, row hex coordinates
+     */
+    pixelToHex(x, y) {
+        // Account for even row offset
+        const row = Math.round(y / this.rowHeight);
+        let col;
+        
+        if (row % 2 === 0) {
+            // Even row: offset by half a column
+            col = (x - this.colWidth / 2) / this.colWidth;
+        } else {
+            // Odd row: no offset
+            col = x / this.colWidth;
+        }
+        
+        return { col: Math.round(col), row };
+    }
+
+    /**
+     * Converts offset hex coordinates to cube coordinates for distance calculation
+     * @param {number} col - Column coordinate
+     * @param {number} row - Row coordinate
+     * @returns {Object} Object with x, y, z cube coordinates
+     */
+    offsetToCube(col, row) {
+        // Convert offset coordinates (even rows offset) to cube coordinates
+        // For even rows offset: x = col, z = row - (col + (col & 1)) / 2
+        const x = col;
+        const z = row - Math.floor((col + (col & 1)) / 2);
+        const y = -x - z;
+        return { x, y, z };
+    }
+
+    /**
+     * Calculates hex distance between two positions
+     * @param {number} x1 - First position x coordinate
+     * @param {number} y1 - First position y coordinate
+     * @param {number} x2 - Second position x coordinate
+     * @param {number} y2 - Second position y coordinate
+     * @returns {number} Hex distance between the two positions
+     */
+    hexDistance(x1, y1, x2, y2) {
+        const hex1 = this.pixelToHex(x1, y1);
+        const hex2 = this.pixelToHex(x2, y2);
+        
+        const cube1 = this.offsetToCube(hex1.col, hex1.row);
+        const cube2 = this.offsetToCube(hex2.col, hex2.row);
+        
+        // Calculate distance using cube coordinates
+        return (Math.abs(cube1.x - cube2.x) + Math.abs(cube1.y - cube2.y) + Math.abs(cube1.z - cube2.z)) / 2;
+    }
+
+    /**
+     * Checks if a position is at least minDistance hexes from all edges
+     * @param {number} col - Column coordinate
+     * @param {number} row - Row coordinate
+     * @param {number} sceneWidth - Scene width in pixels
+     * @param {number} sceneHeight - Scene height in pixels
+     * @param {number} minDistance - Minimum distance from edges in hexes
+     * @returns {boolean} True if position is valid
+     */
+    isPositionAwayFromEdges(col, row, sceneWidth, sceneHeight, minDistance) {
+        const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
+        const maxCol = Math.floor(sceneWidth / this.colWidth) - 1;
+        
+        return row >= minDistance && 
+               row <= maxRow - minDistance &&
+               col >= minDistance && 
+               col <= maxCol - minDistance;
+    }
+
+    /**
      * Calculates hex coordinates for a settlement
      * @param {number} index - Settlement index (0-based)
      * @param {number} totalSettlements - Total number of settlements
+     * @param {number} sceneWidth - Scene width in pixels
+     * @param {number} sceneHeight - Scene height in pixels
+     * @param {Array<Object>} existingPositions - Array of existing settlement positions {x, y}
+     * @param {number} minDistanceFromOthers - Minimum hex distance from other settlements
      * @returns {Object} Object with col, row, x, y coordinates
      */
-    calculateSettlementPosition(index, totalSettlements) {
-        const targetHexCol =
-            ((index + 1) * SECTOR_CONFIG.HEX_GRID.SETTLEMENT_COL_SPACING) /
-                (totalSettlements + 1) +
-            getRandomInt(-1, 1);
-        const targetHexRow = getRandomInt(
-            SECTOR_CONFIG.HEX_GRID.SETTLEMENT_ROW_MIN,
-            SECTOR_CONFIG.HEX_GRID.SETTLEMENT_ROW_MAX
-        );
-
-        let x = targetHexCol * this.colWidth;
-        let y = targetHexRow * this.rowHeight;
-
-        // Offset for even rows
-        if (targetHexRow % 2 === 0) {
-            x += this.colWidth / 2;
+    calculateSettlementPosition(index, totalSettlements, sceneWidth, sceneHeight, existingPositions = [], minDistanceFromOthers = 7) {
+        const edgeBuffer = 4; // Minimum hexes from edge
+        const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
+        const maxCol = Math.floor(sceneWidth / this.colWidth) - 1;
+        
+        // Valid range for rows and columns (at least 4 hexes from edges)
+        const minRow = edgeBuffer;
+        const maxRowValid = maxRow - edgeBuffer;
+        const minCol = edgeBuffer;
+        const maxColValid = maxCol - edgeBuffer;
+        
+        let attempts = 0;
+        const maxAttempts = 1000;
+        let targetHexCol, targetHexRow, x, y;
+        
+        do {
+            // Start with a base position based on index
+            const baseCol = ((index + 1) * SECTOR_CONFIG.HEX_GRID.SETTLEMENT_COL_SPACING) / (totalSettlements + 1);
+            const baseRow = (minRow + maxRowValid) / 2;
+            
+            // Add random variation
+            targetHexCol = baseCol + getRandomInt(-Math.floor((maxColValid - minCol) / 3), Math.floor((maxColValid - minCol) / 3));
+            targetHexRow = getRandomInt(minRow, maxRowValid);
+            
+            // Clamp to valid range
+            targetHexCol = Math.max(minCol, Math.min(maxColValid, targetHexCol));
+            targetHexRow = Math.max(minRow, Math.min(maxRowValid, targetHexRow));
+            
+            // Convert to pixel coordinates
+            x = targetHexCol * this.colWidth;
+            y = targetHexRow * this.rowHeight;
+            
+            // Offset for even rows
+            if (Math.floor(targetHexRow) % 2 === 0) {
+                x += this.colWidth / 2;
+            }
+            
+            // Check if position is valid (away from edges and other settlements)
+            const isAwayFromEdges = this.isPositionAwayFromEdges(targetHexCol, targetHexRow, sceneWidth, sceneHeight, edgeBuffer);
+            let isAwayFromOthers = true;
+            
+            if (isAwayFromEdges && existingPositions.length > 0) {
+                for (const existingPos of existingPositions) {
+                    const distance = this.hexDistance(x, y, existingPos.x, existingPos.y);
+                    if (distance < minDistanceFromOthers) {
+                        isAwayFromOthers = false;
+                        break;
+                    }
+                }
+            }
+            
+            attempts++;
+            
+            if (isAwayFromEdges && isAwayFromOthers) {
+                break;
+            }
+        } while (attempts < maxAttempts);
+        
+        if (attempts >= maxAttempts) {
+            console.warn(`Could not find valid position for settlement ${index + 1} after ${maxAttempts} attempts. Using best available position.`);
         }
-
+        
         return { col: targetHexCol, row: targetHexRow, x, y };
     }
 
@@ -1270,7 +1393,11 @@ async function createSettlementWithLocation(params) {
     // Calculate settlement position
     const settlementPos = tokenPlacer.calculateSettlementPosition(
         index,
-        totalSettlements
+        totalSettlements,
+        scene.width,
+        scene.height,
+        params.existingPositions || [],
+        7 // Minimum 7 hexes from other settlements
     );
     const tokenDataSettlement = await settlement.getTokenDocument();
 
@@ -1421,7 +1548,12 @@ async function createSettlementWithLocation(params) {
                 : ".");
     }
 
-    return { description, settlement, settlementToken: tokenSettlement[0] };
+    return { 
+        description, 
+        settlement, 
+        settlementToken: tokenSettlement[0],
+        position: { x: settlementPos.x, y: settlementPos.y }
+    };
 }
 
 /**
@@ -1454,6 +1586,7 @@ async function generateSettlements(params) {
     const descriptions = [];
     const settlements = [];
     const settlementTokens = [];
+    const existingPositions = []; // Track positions to ensure minimum distance
 
     for (let i = 0; i < numberOfSettlements; i++) {
         try {
@@ -1469,11 +1602,16 @@ async function generateSettlements(params) {
                 populationOracle,
                 generateStars,
                 useTokenAttacher,
+                existingPositions: existingPositions, // Pass existing positions
             });
             descriptions.push(result.description);
             settlements.push(result.settlement);
             if (result.settlementToken) {
                 settlementTokens.push(result.settlementToken);
+            }
+            // Add this settlement's position to the list for next iteration
+            if (result.position) {
+                existingPositions.push(result.position);
             }
         } catch (error) {
             console.error(`Error creating settlement ${i + 1}:`, error);
