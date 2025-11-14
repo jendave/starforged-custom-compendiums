@@ -182,6 +182,32 @@ const SECTOR_CONFIG = {
         PASSAGE_CREATION_MULTIPLIER: 10,
     },
 
+    // Settlement Types
+    SETTLEMENT_TYPES: {
+        DEEP_SPACE: "deep space",
+        ORBITAL: "orbital",
+        PLANETSIDE: "planetside",
+    },
+
+    // Document Types
+    DOCUMENT_TYPES: {
+        ACTOR: "Actor",
+        SCENE: "Scene",
+        JOURNAL_ENTRY: "JournalEntry",
+    },
+
+    // Actor Types
+    ACTOR_TYPES: {
+        LOCATION: "location",
+        FOE: "foe",
+    },
+
+    // Settlement Placement Configuration
+    SETTLEMENT_DISTANCE: {
+        MIN_FROM_EDGE: 4,
+        MIN_FROM_OTHERS: 6,
+    },
+
     // Debug Configuration
     DEBUG: false,
 
@@ -362,6 +388,18 @@ async function processRollTwice(tableRoller, tableArray, initialText) {
  */
 function buildUuidLink(actor) {
     return `@UUID[${actor.uuid}]{${actor.name}}`;
+}
+
+/**
+ * Validates that a value is not null, undefined, or empty
+ * @param {*} value - Value to validate
+ * @param {string} name - Name of the parameter for error messages
+ * @throws {Error} If value is invalid
+ */
+function validateRequired(value, name) {
+    if (value === null || value === undefined || value === "") {
+        throw new Error(`${name} is required`);
+    }
 }
 
 /**
@@ -563,37 +601,37 @@ class FolderManager {
     async getRegionFolders(region) {
         const sectorsFolder = await this.getOrCreateFolder(
             SECTOR_CONFIG.FOLDERS.SECTORS,
-            "Scene"
+            SECTOR_CONFIG.DOCUMENT_TYPES.SCENE
         );
 
         const sectorFolderName = `Sectors: ${region}`;
         const sectorFolder = await this.getOrCreateFolder(
             sectorFolderName,
-            "Scene",
+            SECTOR_CONFIG.DOCUMENT_TYPES.SCENE,
             sectorsFolder.id
         );
 
         const sectorDataFolder = await this.getOrCreateFolder(
             SECTOR_CONFIG.FOLDERS.SECTOR_DATA,
-            "JournalEntry"
+            SECTOR_CONFIG.DOCUMENT_TYPES.JOURNAL_ENTRY
         );
 
         const sectorDataFolderName = `Sector Data: ${region}`;
         const sectorDataRegionFolder = await this.getOrCreateFolder(
             sectorDataFolderName,
-            "JournalEntry",
+            SECTOR_CONFIG.DOCUMENT_TYPES.JOURNAL_ENTRY,
             sectorDataFolder.id
         );
 
         const locationsFolder = await this.getOrCreateFolder(
             SECTOR_CONFIG.FOLDERS.LOCATIONS,
-            "Actor"
+            SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR
         );
 
         const locationsFolderName = `Locations: ${region}`;
         const locationsRegionFolder = await this.getOrCreateFolder(
             locationsFolderName,
-            "Actor",
+            SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
             locationsFolder.id
         );
 
@@ -713,9 +751,9 @@ class TokenPlacer {
         sceneWidth,
         sceneHeight,
         existingPositions = [],
-        minDistanceFromOthers = 7
+        minDistanceFromOthers = SECTOR_CONFIG.SETTLEMENT_DISTANCE.MIN_FROM_OTHERS
     ) {
-        const edgeBuffer = 4; // Minimum hexes from edge
+        const edgeBuffer = SECTOR_CONFIG.SETTLEMENT_DISTANCE.MIN_FROM_EDGE;
         const maxRow = Math.floor(sceneHeight / this.rowHeight) - 1;
         const maxCol = Math.floor(sceneWidth / this.colWidth) - 1;
 
@@ -942,7 +980,7 @@ class LocationGenerator {
     async createSettlement(name, folderId, klass, description) {
         try {
             const settlement = await CONFIG.IRONSWORN.actorClass.create({
-                type: "location",
+                type: SECTOR_CONFIG.ACTOR_TYPES.LOCATION,
                 name,
                 folder: folderId,
                 system: {
@@ -981,7 +1019,7 @@ class LocationGenerator {
     async createPlanet(name, folderId, klass, description, planetaryClass) {
         try {
             const planet = await CONFIG.IRONSWORN.actorClass.create({
-                type: "location",
+                type: SECTOR_CONFIG.ACTOR_TYPES.LOCATION,
                 name,
                 folder: folderId,
                 system: {
@@ -1318,7 +1356,7 @@ async function generateConnectionDetails(tableRoller) {
 async function createConnection(name, folderId, description) {
     try {
         const connection = await CONFIG.IRONSWORN.actorClass.create({
-            type: "foe",
+            type: SECTOR_CONFIG.ACTOR_TYPES.FOE,
             img: "icons/svg/mystery-man.svg",
             name,
             folder: folderId,
@@ -1345,7 +1383,24 @@ async function createConnection(name, folderId, description) {
 /**
  * Creates a settlement with associated planet and stellar object
  * @param {Object} params - Parameters object
- * @returns {Promise<Object>} Created entities and UUIDs
+ * @param {number} params.index - Settlement index (0-based)
+ * @param {number} params.totalSettlements - Total number of settlements
+ * @param {TableRoller} params.tableRoller - Table roller instance
+ * @param {LocationGenerator} params.locationGenerator - Location generator instance
+ * @param {TokenPlacer} params.tokenPlacer - Token placer instance
+ * @param {Scene} params.scene - Scene to place tokens on
+ * @param {FolderManager} params.folderManager - Folder manager instance
+ * @param {Folder} params.locationsSectorFolder - Sector-specific locations folder
+ * @param {string} params.populationOracle - Population oracle UUID
+ * @param {boolean} params.generateStars - Whether to generate stellar objects
+ * @param {boolean} params.useTokenAttacher - Whether to use token attacher
+ * @param {Array<Object>} [params.existingPositions] - Array of existing settlement positions
+ * @returns {Promise<Object>} Created entities and UUIDs with position information
+ * @returns {string} returns.description - Description string for journal
+ * @returns {Actor} returns.settlement - Created settlement actor
+ * @returns {TokenDocument} returns.settlementToken - Created settlement token
+ * @returns {Object} returns.position - Position coordinates {x, y}
+ * @throws {Error} If settlement creation fails
  */
 async function createSettlementWithLocation(params) {
     const {
@@ -1371,7 +1426,7 @@ async function createSettlementWithLocation(params) {
     // Create a folder for this settlement
     const settlementFolder = await folderManager.getOrCreateFolder(
         settlementDetails.name,
-        "Actor",
+        SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
         locationsSectorFolder.id
     );
 
@@ -1389,7 +1444,7 @@ async function createSettlementWithLocation(params) {
         scene.width,
         scene.height,
         params.existingPositions || [],
-        7 // Minimum 7 hexes from other settlements
+        SECTOR_CONFIG.SETTLEMENT_DISTANCE.MIN_FROM_OTHERS
     );
     const tokenDataSettlement = await settlement.getTokenDocument();
 
@@ -1405,9 +1460,9 @@ async function createSettlementWithLocation(params) {
 
     const uuidSettlement = buildUuidLink(settlement);
     const conjunction =
-        settlementDetails.klass === "deep space"
+        settlementDetails.klass === SECTOR_CONFIG.SETTLEMENT_TYPES.DEEP_SPACE
             ? "is a deep space settlement"
-            : settlementDetails.klass === "orbital"
+            : settlementDetails.klass === SECTOR_CONFIG.SETTLEMENT_TYPES.ORBITAL
             ? "is an orbital settlement of planet"
             : "is a planetside settlement on planet";
 
@@ -1416,7 +1471,7 @@ async function createSettlementWithLocation(params) {
     let uuidStellarObject = "";
 
     // Create planet if not deep space
-    if (settlementDetails.klass !== "deep space") {
+    if (settlementDetails.klass !== SECTOR_CONFIG.SETTLEMENT_TYPES.DEEP_SPACE) {
         const planetDetails = await generatePlanetDetails(tableRoller);
         const planetDescription = `<p><b>Settlement:</b> ${uuidSettlement}</p>`;
 
@@ -1526,7 +1581,7 @@ async function createSettlementWithLocation(params) {
 
     // Build description string for journal
     let description;
-    if (settlementDetails.klass !== "deep space") {
+    if (settlementDetails.klass !== SECTOR_CONFIG.SETTLEMENT_TYPES.DEEP_SPACE) {
         description =
             `${uuidSettlement} ${conjunction} ${uuidPlanet}` +
             (generateStars
@@ -1571,7 +1626,7 @@ async function generateSettlements(params) {
     const folders = await folderManager.getRegionFolders(region);
     const locationsSectorFolder = await folderManager.getOrCreateFolder(
         sectorName,
-        "Actor",
+        SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
         folders.locations.id
     );
 
@@ -1669,12 +1724,14 @@ async function createSectorJournal(
 
 /**
  * Zooms in on a settlement (generates additional details)
+ * Randomly selects a settlement and adds First Look, Settlement Trouble, and planet details
  * @param {TableRoller} tableRoller - Table roller instance
- * @param {Array<Actor>} settlements - Array of settlement actors
+ * @param {Array<Actor>} settlements - Array of settlement actors to choose from
+ * @throws {Error} If settlement processing fails or planet details cannot be updated
  */
 async function zoomInOnASettlement(tableRoller, settlements) {
     try {
-        if (!settlements || settlements.length === 0) {
+        if (!settlements?.length) {
             console.warn("No settlements available for zoom in");
             return;
         }
@@ -1730,7 +1787,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 
         // If settlement is planetside or orbital, add planet details
         const settlementKlass = randomSettlement.system.klass;
-        if (settlementKlass !== "deep space") {
+        if (settlementKlass !== SECTOR_CONFIG.SETTLEMENT_TYPES.DEEP_SPACE) {
             // Extract planet UUID from settlement description (look for Planet: line)
             const planetUuidMatch = randomSettlement.system.description.match(
                 /<b>Planet:<\/b>\s*@UUID\[([^\]]+)\]/
@@ -1911,7 +1968,7 @@ async function zoomInOnASettlement(tableRoller, settlements) {
  * @returns {TokenDocument|null} The nearest marker token, or null if none found
  */
 function findNearestMarker(settlementToken, markerTokens) {
-    if (!markerTokens || markerTokens.length === 0) {
+    if (!markerTokens?.length) {
         return null;
     }
 
@@ -1949,7 +2006,7 @@ async function createPassageAnimations(
         game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active &&
         game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active
     ) {
-        if (!settlementTokens || settlementTokens.length === 0) {
+        if (!settlementTokens?.length) {
             console.warn(
                 "No settlement tokens available for passage animations"
             );
@@ -2124,7 +2181,7 @@ async function createMarkerTokens(
         // Get or create " Navigation Markers" folder (with leading space for sorting)
         const navigationMarkersFolder = await folderManager.getOrCreateFolder(
             "Navigation Markers",
-            "Actor",
+            SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
             locationsSectorFolder.id
         );
 
@@ -2136,7 +2193,7 @@ async function createMarkerTokens(
 
             // Create marker actor
             const markerActor = await CONFIG.IRONSWORN.actorClass.create({
-                type: "location",
+                type: SECTOR_CONFIG.ACTOR_TYPES.LOCATION,
                 name: markerName,
                 folder: navigationMarkersFolder.id,
                 system: {
@@ -2186,11 +2243,15 @@ async function createMarkerTokens(
 
 /**
  * Main function to create a starting sector
- * @param {string} region - Region name
- * @param {boolean} startingSector - Whether this is a starting sector
- * @param {boolean} useTokenAttacher - Whether to use token attacher
- * @param {boolean} createPassages - Whether to create passages
- * @param {boolean} generateStars - Whether to generate stellar objects
+ * Creates a complete sector with settlements, planets, stellar objects, passages, and journal entries
+ * @param {string} region - Region name (Terminus, Outlands, or Expanse)
+ * @param {boolean} startingSector - Whether this is a starting sector (adds connection and zoom-in details)
+ * @param {boolean} useTokenAttacher - Whether to use token attacher module for token relationships
+ * @param {boolean} createPassages - Whether to create passage animations between settlements
+ * @param {boolean} generateStars - Whether to generate stellar objects for settlements
+ * @throws {Error} If region is invalid or sector creation fails
+ * @example
+ * await createStartingSector("Terminus", true, true, true, false);
  */
 async function createStartingSector(
     region,
@@ -2199,12 +2260,8 @@ async function createStartingSector(
     createPassages,
     generateStars
 ) {
-    if (!region || region === "") {
-        ui.notifications.warn("No region selected");
-        return;
-    }
-
     try {
+        validateRequired(region, "region");
         // Initialize helpers
         const tableRoller = new TableRoller(SECTOR_CONFIG.ROLL_TABLES.PREFIX);
         const folderManager = new FolderManager();
@@ -2217,20 +2274,21 @@ async function createStartingSector(
         // Get region configuration
         const regionConfig = getRegionConfig(region);
 
-        // Roll for sector name and trouble
-        const sectorPrefixRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.SECTOR_PREFIX
-        );
+        // Roll for sector name and trouble (parallel for better performance)
+        const [sectorPrefixRoll, sectorSuffixRoll, sectorTroubleRoll] =
+            await Promise.all([
+                tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.SECTOR_PREFIX
+                ),
+                tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.SECTOR_SUFFIX
+                ),
+                tableRoller.rollFromArray(
+                    SECTOR_CONFIG.ROLL_TABLES.SECTOR_TROUBLE
+                ),
+            ]);
         const sectorPrefix = tableRoller.getRollText(sectorPrefixRoll);
-
-        const sectorSuffixRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.SECTOR_SUFFIX
-        );
         const sectorSuffix = tableRoller.getRollText(sectorSuffixRoll);
-
-        const sectorTroubleRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.SECTOR_TROUBLE
-        );
         const sectorTrouble = tableRoller.getRollText(sectorTroubleRoll);
 
         const sectorName = `${sectorPrefix} ${sectorSuffix}`;
@@ -2248,7 +2306,7 @@ async function createStartingSector(
         // Get locations folder for markers (same as settlements)
         const locationsSectorFolder = await folderManager.getOrCreateFolder(
             sectorName,
-            "Actor",
+            SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
             folders.locations.id
         );
 
@@ -2314,12 +2372,12 @@ async function createStartingSector(
                 // Get or create characters folder
                 const charactersFolder = await folderManager.getOrCreateFolder(
                     "Characters",
-                    "Actor"
+                    SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR
                 );
                 const charactersSectorFolder =
                     await folderManager.getOrCreateFolder(
                         sectorName,
-                        "Actor",
+                        SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
                         charactersFolder.id
                     );
 
