@@ -411,12 +411,57 @@ class FolderManager {
             return this.cache.get(cacheKey);
         }
 
-        let folder = game.folders.getName(name);
+        // Find folder by name and parent - search all folders to find one with matching name, type, and parent
+        let folder = null;
+        const foldersWithName = game.folders.filter(f => f.name === name && f.type === type);
+        
+        // Normalize parent ID for comparison
+        let targetParentId = null;
+        if (parentId) {
+            // Extract ID if it's a folder object, otherwise use as string
+            if (typeof parentId === 'object' && parentId.id) {
+                targetParentId = String(parentId.id);
+            } else {
+                targetParentId = String(parentId);
+            }
+        }
+        
+        // Find the folder with the correct parent (must be a direct child)
+        for (const f of foldersWithName) {
+            // Get the folder's parent ID - f.folder should be a string ID in Foundry
+            let folderParentId = null;
+            if (f.folder) {
+                // Handle both string IDs and potential object references
+                if (typeof f.folder === 'string') {
+                    folderParentId = f.folder;
+                } else if (typeof f.folder === 'object' && f.folder.id) {
+                    folderParentId = String(f.folder.id);
+                } else {
+                    folderParentId = String(f.folder);
+                }
+            }
+            
+            // Compare parent IDs (both should be strings or both null)
+            if (folderParentId === targetParentId) {
+                folder = f;
+                break;
+            }
+        }
 
         if (!folder) {
+            // Safety check: ensure we're not creating a folder with the same name as its parent
+            if (parentId) {
+                const parentFolderId = typeof parentId === 'object' && parentId.id ? parentId.id : parentId;
+                const parentFolder = game.folders.get(parentFolderId);
+                if (parentFolder && parentFolder.name === name) {
+                    console.warn(`Warning: Attempted to create folder "${name}" inside parent folder with the same name. This may cause nesting issues.`);
+                }
+            }
+            
             const folderData = { name, type };
             if (parentId) {
-                folderData.folder = parentId;
+                // Ensure we always pass the ID string, not a folder object
+                folderData.folder = typeof parentId === 'object' && parentId.id ? parentId.id : parentId;
             }
             folder = await Folder.create(folderData);
         }
@@ -517,22 +562,21 @@ class TokenPlacer {
 
     /**
      * Calculates hex coordinates for a planet (below settlement)
-     * @param {number} settlementCol - Settlement column
+     * @param {number} settlementCol - Settlement column (can be fractional)
      * @param {number} settlementRow - Settlement row
-     * @returns {Object} Object with col, row, x, y coordinates
+     * @returns {Object} Object with x, y coordinates
      */
     calculatePlanetPosition(settlementCol, settlementRow) {
-        const targetHexRow =
-            settlementRow + SECTOR_CONFIG.HEX_GRID.PLANET_ROW_OFFSET;
+        const targetHexRow = settlementRow + SECTOR_CONFIG.HEX_GRID.PLANET_ROW_OFFSET;
+        const y = targetHexRow * this.rowHeight;
+        
+        // Calculate planet x from settlement column, applying offset for planet's row
         let x = settlementCol * this.colWidth;
-        let y = targetHexRow * this.rowHeight;
-
-        // Offset for even rows
         if (targetHexRow % 2 === 0) {
-            x -= this.colWidth / 2;
+            x += this.colWidth / 2;
         }
 
-        return { col: settlementCol, row: targetHexRow, x, y };
+        return { x, y };
     }
 
     /**
@@ -1284,7 +1328,7 @@ async function createSettlementWithLocation(params) {
         const tokenDataPlanet = await planet.getTokenDocument();
 
         console.log(
-            `Placing planet ${planet.name} at hex col ${planetPos.col}, row ${planetPos.row} (x: ${planetPos.x}, y: ${planetPos.y})`
+            `Placing planet ${planet.name} at (x: ${planetPos.x}, y: ${planetPos.y})`
         );
 
         const tokenPlanet = await scene.createEmbeddedDocuments("Token", [
@@ -1834,8 +1878,24 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
             return;
         }
 
+        // Track connected pairs to prevent duplicates (normalized: smaller ID first)
+        const connectedPairs = new Set();
+        
+        /**
+         * Creates a normalized pair key (smaller ID first) to treat A->B and B->A as the same
+         * @param {string} id1 - First token ID
+         * @param {string} id2 - Second token ID
+         * @returns {string} Normalized pair key
+         */
+        function getPairKey(id1, id2) {
+            return id1 < id2 ? `${id1}-${id2}` : `${id2}-${id1}`;
+        }
+
         const remainingPassages = numberOfPassages - 1;
-        for (let i = 0; i < remainingPassages; i++) {
+        let attempts = 0;
+        const maxAttempts = remainingPassages * 10; // Prevent infinite loops
+
+        for (let i = 0; i < remainingPassages && attempts < maxAttempts; attempts++) {
             // Select a random settlement token as the source
             const sourceSettlementToken = randomArrayItem(settlementTokens);
             
@@ -1846,10 +1906,17 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
             
             if (availableTargetTokens.length === 0) {
                 console.warn("No available target tokens, skipping passage");
-                continue;
+                break;
             }
             
             const targetSettlementToken = randomArrayItem(availableTargetTokens);
+            
+            // Check if this pair has already been connected
+            const pairKey = getPairKey(sourceSettlementToken.id, targetSettlementToken.id);
+            if (connectedPairs.has(pairKey)) {
+                // This pair is already connected, try again
+                continue;
+            }
 
             // Get the actual token objects from canvas
             const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
@@ -1865,6 +1932,9 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
                 continue;
             }
             
+            // Mark this pair as connected
+            connectedPairs.add(pairKey);
+            
             let passageAnimation = new Sequence()
                 .effect()
                 .file("jb2a.energy_beam.normal.blue.01")
@@ -1874,6 +1944,13 @@ async function createPassageAnimations(numberOfPassages, scene, settlementTokens
                 .duration(1)
                 .scale({ x: 1.0, y: 0.5 })
                 .play();
+            
+            // Only increment i when we successfully create a passage
+            i++;
+        }
+        
+        if (attempts >= maxAttempts) {
+            console.warn(`Reached maximum attempts (${maxAttempts}) while creating passages. Created ${connectedPairs.size} unique passages.`);
         }
     }
 }
