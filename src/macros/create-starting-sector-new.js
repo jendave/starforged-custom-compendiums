@@ -1584,10 +1584,11 @@ async function generateConnectionDetails(tableRoller) {
  * @param {string} name - Connection name
  * @param {string} folderId - Folder ID for the connection
  * @param {string} description - Connection description
+ * @param {Object} [connectionDetails] - Optional connection details object with role, firstLook, goal, aspect
  * @returns {Promise<Actor>} The created connection actor
  * @throws {Error} If actor creation fails
  */
-async function createConnection(name, folderId, description) {
+async function createConnection(name, folderId, description, connectionDetails = null) {
     try {
         const connection = await CONFIG.IRONSWORN.actorClass.create({
             type: SECTOR_CONFIG.ACTOR_TYPES.FOE,
@@ -1610,13 +1611,36 @@ async function createConnection(name, folderId, description) {
 
         // Create progress track item for the connection
         try {
+            // Build description from connection details for the progress track
+            const progressTrackDescription = [];
+            if (connectionDetails?.role) {
+                progressTrackDescription.push(
+                    `<p><strong>Role:</strong> ${connectionDetails.role}</p>`
+                );
+            }
+            if (connectionDetails?.firstLook) {
+                progressTrackDescription.push(
+                    `<p><strong>First Look:</strong> ${connectionDetails.firstLook}</p>`
+                );
+            }
+            if (connectionDetails?.goal) {
+                progressTrackDescription.push(
+                    `<p><strong>Goal:</strong> ${connectionDetails.goal}</p>`
+                );
+            }
+            if (connectionDetails?.aspect) {
+                progressTrackDescription.push(
+                    `<p><strong>Revealed Aspect:</strong> ${connectionDetails.aspect}</p>`
+                );
+            }
+
             await connection.createEmbeddedDocuments("Item", [
                 {
                     name: "Progress Track",
                     type: "progress",
                     system: {
                         subtype: "connection",
-                        description: "",
+                        description: progressTrackDescription.join("\n"),
                         rank: 1,
                         current: 0,
                         completed: false,
@@ -2692,7 +2716,8 @@ async function createStartingSector(
                 const connection = await createConnection(
                     connectionDetails.name,
                     charactersSectorFolder.id,
-                    connectionDescription
+                    connectionDescription,
+                    connectionDetails
                 );
 
                 // Place connection token on scene to the left of the settlement
