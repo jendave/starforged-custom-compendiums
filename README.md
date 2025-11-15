@@ -74,9 +74,13 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 * Drag and drop macros from the `Starforged Custom Macros` compendium to the macro bar. Macros use the current `Roll Mode` when executed.
 
-#### Build starting Sector Macro
+#### Build Starting Sector Macro
 
-* Try out the macro to generate an entire starting sector with settlements, planets, stars, passages and a connection.
+* Try out the [starting sector generation macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection.
+* For full functionality, include the following modules:
+  * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
+  * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
+  * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
 
 ### Dependencies
 
