@@ -2586,11 +2586,14 @@ async function createMarkerTokens(
     folderManager,
     locationsSectorFolder
 ) {
+    // Initialize markerPositions to empty array to prevent undefined errors in catch block
+    let markerPositions = [];
+    
     try {
         scene.activate();
 
         // Calculate marker positions on edges
-        const markerPositions = tokenPlacer.calculateEdgeMarkerPositions(
+        markerPositions = tokenPlacer.calculateEdgeMarkerPositions(
             scene.width,
             scene.height
         );
