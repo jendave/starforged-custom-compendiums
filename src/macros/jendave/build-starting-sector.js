@@ -1014,7 +1014,7 @@ class TokenPlacer {
             position = bestPosition;
 
             if (!position) {
-                console.warn(
+                debugLog(
                     `Could not find valid position for settlement ${
                         index + 1
                     }. Using fallback position.`
@@ -1038,7 +1038,7 @@ class TokenPlacer {
 
         // Safety check: ensure we never return null
         if (!position) {
-            console.warn(
+            debugLog(
                 `Emergency fallback: Using zone center for settlement ${index + 1}`
             );
             const zoneCenterRow = Math.floor(
@@ -1096,19 +1096,6 @@ class TokenPlacer {
         // In a hex grid, going one hex to the left (west) means subtracting colWidth
         const leftX = x - this.colWidth;
         return { x: leftX, y: y };
-    }
-
-    /**
-     * Converts cube coordinates back to offset hex coordinates
-     * @param {number} cubeX - Cube x coordinate
-     * @param {number} cubeY - Cube y coordinate
-     * @param {number} cubeZ - Cube z coordinate
-     * @returns {Object} Object with col, row offset hex coordinates
-     */
-    cubeToOffset(cubeX, cubeY, cubeZ) {
-        const col = cubeX;
-        const row = cubeZ + Math.floor((cubeX + (cubeX & 1)) / 2);
-        return { col, row };
     }
 
     /**
@@ -2149,7 +2136,7 @@ async function createSectorJournal(
 async function zoomInOnASettlement(tableRoller, settlements) {
     try {
         if (!settlements?.length) {
-            console.warn("No settlements available for zoom in");
+            debugLog("No settlements available for zoom in");
             return;
         }
 
@@ -2428,7 +2415,7 @@ async function createPassageAnimations(
         game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active
     ) {
         if (!settlementTokens?.length) {
-            console.warn(
+            debugLog(
                 "No settlement tokens available for passage animations"
             );
             return;
@@ -2505,7 +2492,7 @@ async function createPassageAnimations(
                 );
 
                 if (availableTargetTokens.length === 0) {
-                    console.warn(
+                    debugLog(
                         "No available target tokens, skipping passage"
                     );
                     break;
