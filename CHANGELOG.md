@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.4](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
+
+* Fix bug with marker placement.
+
 ## [3.0.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
 
 * Added a macro to build the starting sector. For full functionality, include the following modules:
