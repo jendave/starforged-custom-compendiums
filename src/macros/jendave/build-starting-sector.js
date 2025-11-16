@@ -1099,6 +1099,55 @@ class TokenPlacer {
     }
 
     /**
+     * Converts cube coordinates back to offset hex coordinates
+     * @param {number} cubeX - Cube x coordinate
+     * @param {number} cubeY - Cube y coordinate
+     * @param {number} cubeZ - Cube z coordinate
+     * @returns {Object} Object with col, row offset hex coordinates
+     */
+    cubeToOffset(cubeX, cubeY, cubeZ) {
+        const col = cubeX;
+        const row = cubeZ + Math.floor((cubeX + (cubeX & 1)) / 2);
+        return { col, row };
+    }
+
+    /**
+     * Calculates hex coordinates one row up and one hex to the left of a given position
+     * Mirrors the planet placement logic but moves up and left instead of down and left
+     * @param {number} x - Current x coordinate
+     * @param {number} y - Current y coordinate
+     * @returns {Object} Object with x, y coordinates for position up and left
+     */
+    calculateUpLeftHexPosition(x, y) {
+        // Convert pixel coordinates to hex coordinates
+        const hex = this.pixelToHex(x, y);
+        
+        // Move up one row (decrease row by 1) and left one hex (decrease col by 1)
+        const targetHexRow = hex.row - 1;
+        const targetHexCol = hex.col - 1;
+        
+        // Calculate pixel coordinates
+        let newX = targetHexCol * this.colWidth;
+        let newY = targetHexRow * this.rowHeight;
+        
+        // Apply offset based on target row parity
+        // Even rows have offset, odd rows don't
+        if (targetHexRow % 2 === 0) {
+            newX += this.colWidth / 2;
+        }
+        
+        // Account for offset change when moving from even to odd row
+        // When settlement is on even row (has offset) and connection is on odd row (no offset),
+        // the connection ends up one hex too far left, so we need to add one hex width
+        if (hex.row % 2 === 0 && targetHexRow % 2 !== 0) {
+            // Moving from even (offset) to odd (no offset): add one hex width to correct position
+            newX += this.colWidth;
+        }
+        
+        return { x: newX, y: newY };
+    }
+
+    /**
      * Calculates marker positions on scene edges (inner edge)
      * @param {number} sceneWidth - Scene width
      * @param {number} sceneHeight - Scene height
@@ -2789,8 +2838,8 @@ async function buildStartingSector(
                     const tokenDataConnection =
                         await connection.getTokenDocument();
 
-                    // Calculate position one hex to the left
-                    const connectionPos = tokenPlacer.calculateLeftHexPosition(
+                    // Calculate position one row up and one hex to the left
+                    const connectionPos = tokenPlacer.calculateUpLeftHexPosition(
                         settlementToken.x,
                         settlementToken.y
                     );
