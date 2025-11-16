@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.0.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
+## [3.0.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
 
 * Added macro to build starting sector. For full functionality, include the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
