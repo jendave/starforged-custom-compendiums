@@ -2433,6 +2433,9 @@ async function createPassageAnimations(
             );
 
             if (nearestMarker) {
+                // Wait a brief moment for tokens to be rendered on canvas
+                await new Promise((resolve) => setTimeout(resolve, 100));
+
                 const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
                 const targetMarkerToken = canvas.tokens.get(nearestMarker.id);
 
@@ -2446,6 +2449,12 @@ async function createPassageAnimations(
                         .duration(1)
                         .scale({ x: 1.0, y: 0.3 })
                         .play();
+                } else {
+                    // Add warning for silent failure
+                    debugLog(
+                        `Could not create passage to marker: ` +
+                            `sourceToken=${!!canvasToken}, markerToken=${!!targetMarkerToken}`
+                    );
                 }
             }
         }
@@ -2512,20 +2521,27 @@ async function createPassageAnimations(
                     continue;
                 }
 
-                // Get the actual token objects from canvas
-                const canvasToken = canvas.tokens.get(sourceSettlementToken.id);
-                const targetToken = canvas.tokens.get(targetSettlementToken.id);
+                // Get the actual token objects from canvas with retry
+                let canvasToken = canvas.tokens.get(sourceSettlementToken.id);
+                let targetToken = canvas.tokens.get(targetSettlementToken.id);
+
+                // Retry once if tokens aren't found (race condition)
+                if (!canvasToken || !targetToken) {
+                    await new Promise((resolve) => setTimeout(resolve, 100));
+                    canvasToken = canvas.tokens.get(sourceSettlementToken.id);
+                    targetToken = canvas.tokens.get(targetSettlementToken.id);
+                }
 
                 if (!canvasToken) {
                     console.warn(
-                        `Source token ${sourceSettlementToken.id} not found on canvas`
+                        `Source token ${sourceSettlementToken.id} not found on canvas after retry`
                     );
                     continue;
                 }
 
                 if (!targetToken) {
                     console.warn(
-                        `Target token ${targetSettlementToken.id} not found on canvas`
+                        `Target token ${targetSettlementToken.id} not found on canvas after retry`
                     );
                     continue;
                 }
