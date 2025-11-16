@@ -1,4 +1,4 @@
-// Free to use and modify from https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked
+// Macro at https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked under the MIT License. 
 const target = game.user.targets.first();
 let sequence = new Sequence()
     .effect()
