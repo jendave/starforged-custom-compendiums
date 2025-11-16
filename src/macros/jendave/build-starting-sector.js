@@ -455,9 +455,13 @@ async function processDescriptorFocus(tableRoller, text) {
 // ============================================================================
 
 /**
- * Handles all table rolling operations with error handling
+ * Handles rolling on Foundry VTT roll tables with caching
  */
 class TableRoller {
+    /**
+     * Creates a new TableRoller instance
+     * @param {string} prefix - Prefix to append to UUID suffixes
+     */
     constructor(prefix) {
         this.prefix = prefix;
         this.cache = new Map();
@@ -467,6 +471,7 @@ class TableRoller {
      * Rolls a table by UUID
      * @param {string} uuid - Full UUID or suffix to append to prefix
      * @returns {Promise<Object>} The roll result
+     * @throws {Error} If table is not found or roll fails
      */
     async rollTable(uuid) {
         try {
@@ -501,6 +506,7 @@ class TableRoller {
      * Rolls a table from an array of UUIDs (randomly selects one)
      * @param {Array<string>} uuidArray - Array of UUID suffixes
      * @returns {Promise<Object>} The roll result
+     * @throws {Error} If table is not found or roll fails
      */
     async rollFromArray(uuidArray) {
         const uuid = randomArrayItem(uuidArray);
@@ -521,6 +527,9 @@ class TableRoller {
  * Manages folder creation and retrieval with memoization
  */
 class FolderManager {
+    /**
+     * Creates a new FolderManager instance
+     */
     constructor() {
         this.cache = new Map();
     }
@@ -659,6 +668,10 @@ class FolderManager {
  * Handles hex grid calculations and token positioning
  */
 class TokenPlacer {
+    /**
+     * Creates a new TokenPlacer instance
+     * @param {number} gridSize - Size of the hex grid in pixels
+     */
     constructor(gridSize) {
         this.gridSize = gridSize;
         this.rowHeight = gridSize * (Math.sqrt(3) / 2);
@@ -1172,6 +1185,11 @@ class TokenPlacer {
  * Generates locations (settlements, planets, stellar objects)
  */
 class LocationGenerator {
+    /**
+     * Creates a new LocationGenerator instance
+     * @param {TableRoller} tableRoller - Table roller instance for rolling on tables
+     * @param {FolderManager} folderManager - Folder manager instance for folder operations
+     */
     constructor(tableRoller, folderManager) {
         this.tableRoller = tableRoller;
         this.folderManager = folderManager;
@@ -1267,16 +1285,18 @@ class LocationGenerator {
 // ============================================================================
 
 /**
- * Gets region configuration
- * @param {string} region - Region name
- * @returns {Object} Region configuration
+ * Gets the configuration for a given region
+ * @param {string} region - Region name (case-insensitive)
+ * @returns {Object} Region configuration object with settlements, passages, and populationOracle
  */
 function getRegionConfig(region) {
     const regionUpper = region.toUpperCase();
     const config = SECTOR_CONFIG.REGIONS[regionUpper];
 
     if (!config) {
-        console.warn(`Unknown region ${region}, defaulting to Terminus`);
+        console.warn(
+            `Unknown region "${region}", defaulting to Terminus. Valid regions: ${Object.keys(SECTOR_CONFIG.REGIONS).join(", ")}`
+        );
         return SECTOR_CONFIG.REGIONS.TERMINUS;
     }
 
@@ -2305,7 +2325,11 @@ async function zoomInOnASettlement(tableRoller, settlements) {
             `Updated settlement ${randomSettlement.name} with First Look and Settlement Trouble details`
         );
     } catch (error) {
-        console.error("Error in zoomInOnASettlement:", error);
+        console.error(
+            `Error in zoomInOnASettlement with ${settlements?.length || 0} settlements:`,
+            error
+        );
+        ui.notifications.warn("Failed to generate additional settlement details");
     }
 }
 
@@ -2338,11 +2362,11 @@ function findNearestMarker(settlementToken, markerTokens) {
 }
 
 /**
- * Creates passage animations on the sector scene
+ * Creates animated passages between settlements and markers
  * @param {number} numberOfPassages - Number of passages to create
- * @param {Scene} scene - The scene to create passages on
- * @param {Array} settlementTokens - Array of settlement token documents
- * @param {Array} markerTokens - Array of marker token documents
+ * @param {Scene} scene - Scene to create passages on
+ * @param {Array<TokenDocument>} settlementTokens - Array of settlement tokens
+ * @param {Array<TokenDocument>} markerTokens - Array of marker tokens
  */
 async function createPassageAnimations(
     numberOfPassages,
@@ -2497,12 +2521,12 @@ async function createPassageAnimations(
 }
 
 /**
- * Creates marker tokens on the scene edges
- * @param {Scene} scene - The scene to create markers on
- * @param {TokenPlacer} tokenPlacer - Token placer instance for calculations
+ * Creates marker tokens on scene edges
+ * @param {Scene} scene - Scene to create markers on
+ * @param {TokenPlacer} tokenPlacer - Token placer instance for position calculations
  * @param {FolderManager} folderManager - Folder manager instance
  * @param {Folder} locationsSectorFolder - Sector-specific locations folder
- * @returns {Promise<Array>} Array of created marker token documents
+ * @returns {Promise<Array<TokenDocument>>} Array of created marker tokens
  */
 async function createMarkerTokens(
     scene,
@@ -2587,7 +2611,9 @@ async function createMarkerTokens(
             `Error creating ${markerPositions.length} marker tokens for scene "${scene.name}":`,
             error
         );
-        ui.notifications.warn("Failed to create marker tokens");
+        ui.notifications.warn(
+            `Failed to create ${markerPositions.length} marker tokens for scene "${scene.name}"`
+        );
         return [];
     }
 }
@@ -2774,7 +2800,7 @@ async function buildStartingSector(
                             ...tokenDataConnection.toObject(),
                             x: connectionPos.x,
                             y: connectionPos.y,
-                            sort: 1,
+                            sort: 3,
                         },
                     ]);
 
@@ -2804,7 +2830,9 @@ async function buildStartingSector(
                     `Error creating connection "${connection.name}" for settlement "${randomSettlement.name}":`,
                     error
                 );
-                ui.notifications.warn("Failed to create connection");
+                ui.notifications.warn(
+                    `Failed to create connection "${connectionDetails?.name || "unknown"}" for settlement "${randomSettlement.name}"`
+                );
             }
         }
 
@@ -2848,6 +2876,16 @@ async function buildStartingSector(
 // ============================================================================
 
 /**
+ * Gets an array of available region names from configuration
+ * @returns {Array<string>} Array of region names
+ */
+function getAvailableRegions() {
+    return Object.keys(SECTOR_CONFIG.REGIONS).map(
+        (key) => key.charAt(0) + key.slice(1).toLowerCase()
+    );
+}
+
+/**
  * Creates and shows the configuration dialog
  */
 function showStartingSectorBuildDialog() {
@@ -2857,6 +2895,11 @@ function showStartingSectorBuildDialog() {
         game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active || false;
     const sequencerActive =
         game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active || false;
+
+    const availableRegions = getAvailableRegions();
+    const regionOptions = availableRegions
+        .map((region) => `<option value="${region}">${region}</option>`)
+        .join("\n                    ");
 
     let region = "";
     let startingSector = false;
@@ -2872,9 +2915,7 @@ function showStartingSectorBuildDialog() {
             <div class="form-group">
                 <label for="selectRegion">Region</label>
                 <select name="selectRegion">
-                    <option value="Terminus">Terminus</option>
-                    <option value="Outlands">Outlands</option>
-                    <option value="Expanse">Expanse</option>
+                    ${regionOptions}
                 </select>
             </div>
             <div class="checkbox">
@@ -2923,17 +2964,35 @@ function showStartingSectorBuildDialog() {
                             .is(":checked");
                         shouldCreate = true;
                     } catch (error) {
-                        console.error("Error reading dialog values:", error);
+                        console.error(
+                            "Error reading dialog values from form:",
+                            error
+                        );
+                        ui.notifications.error(
+                            "Failed to read dialog values. Please try again."
+                        );
                         shouldCreate = false;
                     }
                 },
             },
         },
         default: "create",
-        close: () => {
+        close: async () => {
             try {
                 if (shouldCreate && region) {
-                    buildStartingSector(
+                    // Validate region before proceeding
+                    const validRegions = getAvailableRegions();
+                    if (!validRegions.includes(region)) {
+                        ui.notifications.error(
+                            `Invalid region "${region}". Please select a valid region.`
+                        );
+                        console.error(
+                            `Invalid region selected: "${region}". Valid regions: ${validRegions.join(", ")}`
+                        );
+                        return;
+                    }
+
+                    await buildStartingSector(
                         region,
                         startingSector,
                         useTokenAttacher,
@@ -2942,7 +3001,13 @@ function showStartingSectorBuildDialog() {
                     );
                 }
             } catch (error) {
-                console.error("Error in dialog close callback:", error);
+                console.error(
+                    `Error in dialog close callback for region "${region}":`,
+                    error
+                );
+                ui.notifications.error(
+                    `Failed to create sector: ${error.message || "Unknown error"}`
+                );
             }
         },
     }).render(true);
