@@ -4,7 +4,7 @@
 
 ## [3.0.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
 
-* Added macro to build starting sector. For full functionality, include the following modules:
+* Added a macro to build the starting sector. For full functionality, include the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
   * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
