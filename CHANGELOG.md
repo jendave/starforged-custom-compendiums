@@ -5,6 +5,7 @@
 ## [3.0.4](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
 
 * Fix bug with marker placement.
+* Update minimum FoundryVTT version to v12.
 
 ## [3.0.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
 
