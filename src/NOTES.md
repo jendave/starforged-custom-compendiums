@@ -260,3 +260,7 @@ stellar object placeholder: systems/foundry-ironsworn/assets/icons/stellar-objec
 planets: systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-Grave-01.webp
 
 Size webp 576px ~50kb
+
+### GIF Creation
+
+`ffmpeg -i starforged.mov -s 600x400 -pix_fmt rgb24 -r 10 -f gif - | gifsicle --optimize=3 --delay=10 > build-starting-sector-macro.gif`
