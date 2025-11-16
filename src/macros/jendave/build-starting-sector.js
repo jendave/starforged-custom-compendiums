@@ -660,6 +660,7 @@ class FolderManager {
             sector: sectorFolder,
             sectorData: sectorDataRegionFolder,
             locations: locationsRegionFolder,
+            locationsRoot: locationsFolder, // Top-level "Sector Locations" folder for shared resources
         };
     }
 }
@@ -2573,18 +2574,19 @@ async function createPassageAnimations(
 }
 
 /**
- * Creates marker tokens on scene edges
+ * Gets or creates marker actors and places their tokens on scene edges
+ * Reuses existing marker actors from the "Navigation Markers" folder
  * @param {Scene} scene - Scene to create markers on
  * @param {TokenPlacer} tokenPlacer - Token placer instance for position calculations
  * @param {FolderManager} folderManager - Folder manager instance
- * @param {Folder} locationsSectorFolder - Sector-specific locations folder
+ * @param {Folder} locationsRootFolder - Top-level "Sector Locations" folder (shared across all regions)
  * @returns {Promise<Array<TokenDocument>>} Array of created marker tokens
  */
 async function createMarkerTokens(
     scene,
     tokenPlacer,
     folderManager,
-    locationsSectorFolder
+    locationsRootFolder
 ) {
     // Initialize markerPositions to empty array to prevent undefined errors in catch block
     let markerPositions = [];
@@ -2605,47 +2607,67 @@ async function createMarkerTokens(
             trailing: "Trailing",
         };
 
-        // Get or create " Navigation Markers" folder (with leading space for sorting)
+        // Get or create "Navigation Markers" folder under top-level "Sector Locations" folder
+        // This allows all regions (Terminus, Outlands, Expanse) to share the same marker actors
         const navigationMarkersFolder = await folderManager.getOrCreateFolder(
             "Navigation Markers",
             SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
-            locationsSectorFolder.id
+            locationsRootFolder.id
         );
 
-        // Create marker actors and tokens
-        const markerTokens = [];
+        // Get or create marker actors (reuse existing ones)
+        const markerActors = [];
         for (let i = 0; i < markerPositions.length; i++) {
             const pos = markerPositions[i];
             const markerName = `${edgeNames[pos.edge]} Marker`;
 
-            // Create marker actor
-            const markerActor = await CONFIG.IRONSWORN.actorClass.create({
-                type: SECTOR_CONFIG.ACTOR_TYPES.LOCATION,
-                name: markerName,
-                folder: navigationMarkersFolder.id,
-                system: {
-                    subtype: "marker",
-                    description: `<p>Marker located on the ${pos.edge} edge of the sector.</p>`,
-                },
-                img: "modules/starforged-custom-oracles/assets/square.svg",
-                prototypeToken: {
-                    displayName: CONST.TOKEN_DISPLAY_MODES.NONE,
-                    disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
-                    actorLink: true,
-                    lockRotation: true,
-                    rotation: 0,
-                    alpha: 0,
-                },
-            });
+            // Check if marker actor already exists
+            let markerActor = game.actors.find(
+                (actor) =>
+                    actor.folder?.id === navigationMarkersFolder.id &&
+                    actor.name === markerName &&
+                    actor.type === SECTOR_CONFIG.ACTOR_TYPES.LOCATION
+            );
 
+            // Create marker actor if it doesn't exist
+            if (!markerActor) {
+                markerActor = await CONFIG.IRONSWORN.actorClass.create({
+                    type: SECTOR_CONFIG.ACTOR_TYPES.LOCATION,
+                    name: markerName,
+                    folder: navigationMarkersFolder.id,
+                    system: {
+                        subtype: "marker",
+                        description: `<p>Marker located on the ${pos.edge} edge of the sector.</p>`,
+                    },
+                    img: "modules/starforged-custom-oracles/assets/square.svg",
+                    prototypeToken: {
+                        displayName: CONST.TOKEN_DISPLAY_MODES.NONE,
+                        disposition: CONST.TOKEN_DISPOSITIONS.NEUTRAL,
+                        actorLink: true,
+                        lockRotation: true,
+                        rotation: 0,
+                        alpha: 0,
+                    },
+                });
+                debugLog(`Created new marker actor: ${markerName}`);
+            } else {
+                debugLog(`Reusing existing marker actor: ${markerName}`);
+            }
+
+            markerActors.push({ actor: markerActor, position: pos });
+        }
+
+        // Create token data for all markers
+        const markerTokens = [];
+        for (const { actor, position } of markerActors) {
             // Get token document from actor
-            const tokenData = await markerActor.getTokenDocument();
+            const tokenData = await actor.getTokenDocument();
 
             // Create token data
             markerTokens.push({
                 ...tokenData.toObject(),
-                x: pos.x,
-                y: pos.y,
+                x: position.x,
+                y: position.y,
                 sort: 0, // Place markers at the bottom of the sort order
             });
         }
@@ -2657,7 +2679,7 @@ async function createMarkerTokens(
         );
 
         debugLog(
-            `Created ${markerPositions.length} marker tokens on scene edges`
+            `Placed ${markerPositions.length} marker tokens on scene edges`
         );
 
         return createdTokens;
@@ -2735,19 +2757,19 @@ async function buildStartingSector(
             folders.sector
         );
 
-        // Get locations folder for markers (same as settlements)
+        // Get locations folder for settlements (sector-specific)
         const locationsSectorFolder = await folderManager.getOrCreateFolder(
             sectorName,
             SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
             folders.locations.id
         );
 
-        // Create marker tokens on scene edges
+        // Create marker tokens on scene edges (reuses existing markers from top-level folder)
         const markerTokens = await createMarkerTokens(
             scene,
             tokenPlacer,
             folderManager,
-            locationsSectorFolder
+            folders.locationsRoot  // Use top-level "Sector Locations" folder for shared markers
         );
 
         // Generate settlements
