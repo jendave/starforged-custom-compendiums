@@ -18,6 +18,8 @@ const SECTOR_CONFIG = {
         STARSMITH_PREFIX: "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.",
         SECTOR_PREFIX: ["306501658d12dbad"],
         SECTOR_SUFFIX: ["0b2b7f507f8901cc"],
+        STARSMITH_SECTOR_PREFIX: ["OBgw20hZhAlacN3n", "1qgTxhg1qpPATkiu", "vk6vBQsstREMx9AV"],
+        STARSMITH_SECTOR_SUFFIX: ["KOB1e7oQ9qA5lZIB", "KGTJ4kSSkeyHxgZy", "MQFMTMilYVltbR0q"],
         SECTOR_TROUBLE: ["f6764b50761b77eb"],
         SETTLEMENT_NAME: ["c25eade4d8daa0bc"],
         SETTLEMENT_KLASS: "68efb47a93ee8925",
@@ -2752,16 +2754,18 @@ async function createMarkerTokens(
  * @param {boolean} useTokenAttacher - Whether to use token attacher module for token relationships
  * @param {boolean} createPassages - Whether to create passage animations between settlements
  * @param {boolean} generateStars - Whether to generate stellar objects for settlements
+ * @param {boolean} useStarsmithOracles - Whether to use Starsmith Expanded Oracles for sector names
  * @throws {Error} If region is invalid or sector creation fails
  * @example
- * await buildStartingSector("Terminus", true, true, true, false);
+ * await buildStartingSector("Terminus", true, true, true, false, false);
  */
 async function buildStartingSector(
     region,
     startingSector,
     useTokenAttacher,
     createPassages,
-    generateStars
+    generateStars,
+    useStarsmithOracles = false
 ) {
     try {
         validateRequired(region, "region");
@@ -2778,20 +2782,29 @@ async function buildStartingSector(
         const regionConfig = getRegionConfig(region);
 
         // Roll for sector name and trouble (parallel for better performance)
+        // Use Starsmith oracles for sector names if enabled, otherwise use standard Starforged oracles
+        const sectorNamePrefix = useStarsmithOracles
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SECTOR_PREFIX
+            : SECTOR_CONFIG.ROLL_TABLES.SECTOR_PREFIX;
+        const sectorNameSuffix = useStarsmithOracles
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SECTOR_SUFFIX
+            : SECTOR_CONFIG.ROLL_TABLES.SECTOR_SUFFIX;
+        
+        // Create a TableRoller with the appropriate prefix for sector names
+        const sectorNameRoller = useStarsmithOracles
+            ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+            : tableRoller;
+
         const [sectorPrefixRoll, sectorSuffixRoll, sectorTroubleRoll] =
             await Promise.all([
-                tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.SECTOR_PREFIX
-                ),
-                tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.SECTOR_SUFFIX
-                ),
+                sectorNameRoller.rollFromArray(sectorNamePrefix),
+                sectorNameRoller.rollFromArray(sectorNameSuffix),
                 tableRoller.rollFromArray(
                     SECTOR_CONFIG.ROLL_TABLES.SECTOR_TROUBLE
                 ),
             ]);
-        const sectorPrefix = tableRoller.getRollText(sectorPrefixRoll);
-        const sectorSuffix = tableRoller.getRollText(sectorSuffixRoll);
+        const sectorPrefix = sectorNameRoller.getRollText(sectorPrefixRoll);
+        const sectorSuffix = sectorNameRoller.getRollText(sectorSuffixRoll);
         const sectorTrouble = tableRoller.getRollText(sectorTroubleRoll);
 
         const sectorName = `${sectorPrefix} ${sectorSuffix}`;
@@ -3144,7 +3157,8 @@ function showStartingSectorBuildDialog() {
                         startingSector,
                         useTokenAttacher,
                         createPassages,
-                        generateStars
+                        generateStars,
+                        useStarsmithOracles
                     );
                 }
             } catch (error) {
