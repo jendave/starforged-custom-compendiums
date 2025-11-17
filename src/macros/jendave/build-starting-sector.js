@@ -23,6 +23,7 @@ const SECTOR_CONFIG = {
         SECTOR_TROUBLE: ["f6764b50761b77eb"],
         STARSMITH_SECTOR_TROUBLE: ["65Q1iiumixImppo3", "TOoNVdWtoACPc6uJ", "idw2Om2jWKCJtZ0F"],
         SETTLEMENT_NAME: ["c25eade4d8daa0bc"],
+        STARSMITH_SETTLEMENT_NAME: ["G6mXIbtSkacs9660", "iZtujTpGpTw5tMO4", "ce7JLAwBAGqLYgHo"],
         SETTLEMENT_KLASS: "68efb47a93ee8925",
         AUTHORITY: ["2c3224921966f200"],
         SETTLEMENT_PROJECT: ["eb909255e1df463b"],
@@ -1416,19 +1417,30 @@ async function createSectorScene(region, sectorName, sectorFolder) {
  * @param {TableRoller} tableRoller - Table roller instance
  * @param {string} populationOracle - Population oracle UUID
  * @param {Array<string>} existingNames - Array of existing settlement names to avoid duplicates
+ * @param {boolean} useStarsmithOracles - Whether to use Starsmith Expanded Oracles for settlement names
  * @returns {Promise<Object>} Settlement details
  */
-async function generateSettlementDetails(tableRoller, populationOracle, existingNames = []) {
+async function generateSettlementDetails(tableRoller, populationOracle, existingNames = [], useStarsmithOracles = false) {
     let settlementName;
     let attempts = 0;
     const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
     
+    // Use Starsmith oracles for settlement names if enabled
+    const settlementNameArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_NAME
+        : SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME;
+    
+    // Create a TableRoller with the appropriate prefix for settlement names
+    const settlementNameRoller = useStarsmithOracles
+        ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+        : tableRoller;
+    
     // Re-roll until we get a unique name
     do {
-        const nameRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME
+        const nameRoll = await settlementNameRoller.rollFromArray(
+            settlementNameArray
         );
-        settlementName = tableRoller.getRollText(nameRoll);
+        settlementName = settlementNameRoller.getRollText(nameRoll);
         attempts++;
         
         if (attempts >= maxAttempts) {
@@ -1816,7 +1828,8 @@ async function createSettlementWithLocation(params) {
     const settlementDetails = await generateSettlementDetails(
         tableRoller,
         populationOracle,
-        existingSettlementNames
+        existingSettlementNames,
+        params.useStarsmithOracles || false
     );
 
     // Create a folder for this settlement
@@ -2032,6 +2045,7 @@ async function generateSettlements(params) {
         populationOracle,
         generateStars,
         useTokenAttacher,
+        useStarsmithOracles = false,
     } = params;
 
     const folders = await folderManager.getRegionFolders(region);
@@ -2065,6 +2079,7 @@ async function generateSettlements(params) {
                 existingPositions: existingPositions, // Pass existing positions
                 existingSettlementNames: existingSettlementNames, // Pass existing settlement names
                 existingPlanetNames: existingPlanetNames, // Pass existing planet names
+                useStarsmithOracles: useStarsmithOracles, // Pass Starsmith oracles flag
             });
             descriptions.push(result.description);
             settlements.push(result.settlement);
@@ -2847,6 +2862,7 @@ async function buildStartingSector(
             sectorName,
             tableRoller,
             locationGenerator,
+            useStarsmithOracles: useStarsmithOracles,
             tokenPlacer,
             scene,
             folderManager,
