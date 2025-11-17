@@ -15,6 +15,7 @@ const SECTOR_CONFIG = {
     // Roll Table Configuration
     ROLL_TABLES: {
         PREFIX: "Compendium.foundry-ironsworn.starforgedoracles.RollTable.",
+        STARSMITH_PREFIX: "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.",
         SECTOR_PREFIX: ["306501658d12dbad"],
         SECTOR_SUFFIX: ["0b2b7f507f8901cc"],
         SECTOR_TROUBLE: ["f6764b50761b77eb"],
