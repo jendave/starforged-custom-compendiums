@@ -2579,14 +2579,12 @@ async function createPassageAnimations(
  * @param {Scene} scene - Scene to create markers on
  * @param {TokenPlacer} tokenPlacer - Token placer instance for position calculations
  * @param {FolderManager} folderManager - Folder manager instance
- * @param {Folder} locationsRootFolder - Top-level "Sector Locations" folder (shared across all regions)
  * @returns {Promise<Array<TokenDocument>>} Array of created marker tokens
  */
 async function createMarkerTokens(
     scene,
     tokenPlacer,
-    folderManager,
-    locationsRootFolder
+    folderManager
 ) {
     // Initialize markerPositions to empty array to prevent undefined errors in catch block
     let markerPositions = [];
@@ -2607,12 +2605,12 @@ async function createMarkerTokens(
             trailing: "Trailing",
         };
 
-        // Get or create "Navigation Markers" folder under top-level "Sector Locations" folder
+        // Get or create "Navigation Markers" folder at root level (same level as "Characters" and "Sector Locations")
         // This allows all regions (Terminus, Outlands, Expanse) to share the same marker actors
         const navigationMarkersFolder = await folderManager.getOrCreateFolder(
             "Navigation Markers",
-            SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR,
-            locationsRootFolder.id
+            SECTOR_CONFIG.DOCUMENT_TYPES.ACTOR
+            // No parentId - creates at root level
         );
 
         // Get or create marker actors (reuse existing ones)
@@ -2764,12 +2762,12 @@ async function buildStartingSector(
             folders.locations.id
         );
 
-        // Create marker tokens on scene edges (reuses existing markers from top-level folder)
+        // Create marker tokens on scene edges (reuses existing markers from root-level folder)
         const markerTokens = await createMarkerTokens(
             scene,
             tokenPlacer,
-            folderManager,
-            folders.locationsRoot  // Use top-level "Sector Locations" folder for shared markers
+            folderManager
+            // No parent folder needed - "Navigation Markers" is at root level
         );
 
         // Generate settlements
