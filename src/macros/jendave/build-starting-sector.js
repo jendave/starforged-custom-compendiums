@@ -9,6 +9,7 @@ const SECTOR_CONFIG = {
         TOKEN_ATTACHER: "token-attacher",
         JB2A_DND5E: "JB2A_DnD5e",
         SEQUENCER: "sequencer",
+        STARSMITH_ORACLES: "starsmith-expanded-oracles",
     },
 
     // Roll Table Configuration
@@ -3019,6 +3020,8 @@ function showStartingSectorBuildDialog() {
         game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active || false;
     const sequencerActive =
         game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active || false;
+    const starsmithOraclesActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.STARSMITH_ORACLES)?.active || false;
 
     const availableRegions = getAvailableRegions();
     const regionOptions = availableRegions
@@ -3030,6 +3033,7 @@ function showStartingSectorBuildDialog() {
     let useTokenAttacher = false;
     let createPassages = false;
     let generateStars = false;
+    let useStarsmithOracles = false;
     let shouldCreate = false;
 
     new Dialog({
@@ -3066,6 +3070,13 @@ function showStartingSectorBuildDialog() {
             <div class="checkbox">
                 <label><input type="checkbox" name="generateStars"> Generate Stars</label>
             </div>
+            <div class="checkbox">
+                <label><input type="checkbox" name="useStarsmithOracles" ${
+                    starsmithOraclesActive ? "" : "disabled"
+                }> Include Starsmith Oracles${
+                    !starsmithOraclesActive ? " <span style='color: #888; font-size: 0.9em;'>(Starsmith Expanded Oracles module not active)</span>" : ""
+                }</label>
+            </div>
         </form>
         `,
         buttons: {
@@ -3093,6 +3104,9 @@ function showStartingSectorBuildDialog() {
                             .is(":checked");
                         generateStars = html
                             .find('[name="generateStars"]')
+                            .is(":checked");
+                        useStarsmithOracles = html
+                            .find('[name="useStarsmithOracles"]')
                             .is(":checked");
                         shouldCreate = true;
                     } catch (error) {
