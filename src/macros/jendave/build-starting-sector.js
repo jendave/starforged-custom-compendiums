@@ -3048,12 +3048,20 @@ function showStartingSectorBuildDialog() {
             <div class="checkbox">
                 <label><input type="checkbox" name="useTokenAttacher" ${
                     tokenAttacherActive ? "checked" : ""
-                }> Use Token Attacher</label>
+                } ${
+                    tokenAttacherActive ? "" : "disabled"
+                }> Use Token Attacher${
+                    !tokenAttacherActive ? " <span style='color: #888; font-size: 0.9em;'>(Token Attacher module not active)</span>" : ""
+                }</label>
             </div>
             <div class="checkbox">
                 <label><input type="checkbox" name="createPassages" ${
                     jb2aActive && sequencerActive ? "checked" : ""
-                }> Create Passages</label>
+                } ${
+                    jb2aActive && sequencerActive ? "" : "disabled"
+                }> Create Passages${
+                    !(jb2aActive && sequencerActive) ? " <span style='color: #888; font-size: 0.9em;'>(JB2A and Sequencer modules not active)</span>" : ""
+                }</label>
             </div>
             <div class="checkbox">
                 <label><input type="checkbox" name="generateStars"> Generate Stars</label>
