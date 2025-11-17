@@ -26,6 +26,7 @@ const SECTOR_CONFIG = {
         STARSMITH_SETTLEMENT_NAME: ["G6mXIbtSkacs9660", "iZtujTpGpTw5tMO4", "ce7JLAwBAGqLYgHo"],
         SETTLEMENT_KLASS: "68efb47a93ee8925",
         AUTHORITY: ["2c3224921966f200"],
+        STARSMITH_AUTHORITY: ["aI2wtdKOQvG0pZBY", "eKDmSpdyzwRM7ydc", "zMTlB0xQZyEc8PtQ"],
         SETTLEMENT_PROJECT: ["eb909255e1df463b"],
         PLANETARY_CLASS: ["affbef437e01ef10"],
         STELLAR_OBJECT: ["f2bba7a759c5871a"],
@@ -1459,10 +1460,15 @@ async function generateSettlementDetails(tableRoller, populationOracle, existing
     const populationRoll = await tableRoller.rollTable(populationOracle);
     const population = tableRoller.getRollText(populationRoll);
 
-    const authorityRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.AUTHORITY
+    // Use Starsmith oracles for authority if enabled
+    const authorityArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_AUTHORITY
+        : SECTOR_CONFIG.ROLL_TABLES.AUTHORITY;
+    
+    const authorityRoll = await settlementNameRoller.rollFromArray(
+        authorityArray
     );
-    const authority = tableRoller.getRollText(authorityRoll);
+    const authority = settlementNameRoller.getRollText(authorityRoll);
 
     let settlementProject = "";
     const projectCount = getRandomInt(1, 2);
