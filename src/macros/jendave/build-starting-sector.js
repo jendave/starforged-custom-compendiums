@@ -1410,13 +1410,29 @@ async function createSectorScene(region, sectorName, sectorFolder) {
  * Generates settlement description
  * @param {TableRoller} tableRoller - Table roller instance
  * @param {string} populationOracle - Population oracle UUID
+ * @param {Array<string>} existingNames - Array of existing settlement names to avoid duplicates
  * @returns {Promise<Object>} Settlement details
  */
-async function generateSettlementDetails(tableRoller, populationOracle) {
-    const nameRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME
-    );
-    const settlementName = tableRoller.getRollText(nameRoll);
+async function generateSettlementDetails(tableRoller, populationOracle, existingNames = []) {
+    let settlementName;
+    let attempts = 0;
+    const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
+    
+    // Re-roll until we get a unique name
+    do {
+        const nameRoll = await tableRoller.rollFromArray(
+            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME
+        );
+        settlementName = tableRoller.getRollText(nameRoll);
+        attempts++;
+        
+        if (attempts >= maxAttempts) {
+            debugLog(
+                `Reached maximum attempts (${maxAttempts}) while generating unique settlement name. Using: ${settlementName}`
+            );
+            break;
+        }
+    } while (existingNames.includes(settlementName));
 
     const klassRoll = await tableRoller.rollTable(
         SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_KLASS
@@ -1457,9 +1473,10 @@ async function generateSettlementDetails(tableRoller, populationOracle) {
 /**
  * Generates planet details
  * @param {TableRoller} tableRoller - Table roller instance
+ * @param {Array<string>} existingNames - Array of existing planet names to avoid duplicates
  * @returns {Promise<Object>} Planet details
  */
-async function generatePlanetDetails(tableRoller) {
+async function generatePlanetDetails(tableRoller, existingNames = []) {
     const classRoll = await tableRoller.rollFromArray(
         SECTOR_CONFIG.ROLL_TABLES.PLANETARY_CLASS
     );
@@ -1484,8 +1501,23 @@ async function generatePlanetDetails(tableRoller) {
         };
     }
 
-    const nameRoll = await tableRoller.rollFromArray(planetTables.name);
-    const planetaryName = tableRoller.getRollText(nameRoll);
+    let planetaryName;
+    let attempts = 0;
+    const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
+    
+    // Re-roll until we get a unique name
+    do {
+        const nameRoll = await tableRoller.rollFromArray(planetTables.name);
+        planetaryName = tableRoller.getRollText(nameRoll);
+        attempts++;
+        
+        if (attempts >= maxAttempts) {
+            debugLog(
+                `Reached maximum attempts (${maxAttempts}) while generating unique planet name. Using: ${planetaryName}`
+            );
+            break;
+        }
+    } while (existingNames.includes(planetaryName));
 
     return {
         name: planetaryName,
@@ -1771,12 +1803,15 @@ async function createSettlementWithLocation(params) {
         populationOracle,
         generateStars,
         useTokenAttacher,
+        existingSettlementNames = [],
+        existingPlanetNames = [],
     } = params;
 
-    // Generate settlement details
+    // Generate settlement details (with duplicate name checking)
     const settlementDetails = await generateSettlementDetails(
         tableRoller,
-        populationOracle
+        populationOracle,
+        existingSettlementNames
     );
 
     // Create a folder for this settlement
@@ -1825,10 +1860,11 @@ async function createSettlementWithLocation(params) {
     let planet = null;
     let uuidPlanet = "";
     let uuidStellarObject = "";
+    let planetDetails = null;
 
     // Create planet if not deep space
     if (settlementDetails.klass !== SECTOR_CONFIG.SETTLEMENT_TYPES.DEEP_SPACE) {
-        const planetDetails = await generatePlanetDetails(tableRoller);
+        planetDetails = await generatePlanetDetails(tableRoller, existingPlanetNames);
         const planetDescription = `<p><b>Settlement:</b> ${uuidSettlement}</p>`;
 
         planet = await locationGenerator.createPlanet(
@@ -1956,6 +1992,8 @@ async function createSettlementWithLocation(params) {
         settlement,
         settlementToken: tokenSettlement[0],
         position: { x: settlementPos.x, y: settlementPos.y },
+        settlementName: settlementDetails.name,
+        planetName: planetDetails ? planetDetails.name : null,
     };
 }
 
@@ -2002,6 +2040,8 @@ async function generateSettlements(params) {
     const settlements = [];
     const settlementTokens = [];
     const existingPositions = []; // Track positions to ensure minimum distance
+    const existingSettlementNames = []; // Track settlement names to prevent duplicates
+    const existingPlanetNames = []; // Track planet names to prevent duplicates
 
     for (let i = 0; i < numberOfSettlements; i++) {
         try {
@@ -2018,6 +2058,8 @@ async function generateSettlements(params) {
                 generateStars,
                 useTokenAttacher,
                 existingPositions: existingPositions, // Pass existing positions
+                existingSettlementNames: existingSettlementNames, // Pass existing settlement names
+                existingPlanetNames: existingPlanetNames, // Pass existing planet names
             });
             descriptions.push(result.description);
             settlements.push(result.settlement);
@@ -2027,6 +2069,13 @@ async function generateSettlements(params) {
             // Add this settlement's position to the list for next iteration
             if (result.position) {
                 existingPositions.push(result.position);
+            }
+            // Add settlement and planet names to prevent duplicates
+            if (result.settlementName) {
+                existingSettlementNames.push(result.settlementName);
+            }
+            if (result.planetName) {
+                existingPlanetNames.push(result.planetName);
             }
         } catch (error) {
             console.error(
