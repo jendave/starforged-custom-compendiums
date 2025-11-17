@@ -21,6 +21,7 @@ const SECTOR_CONFIG = {
         STARSMITH_SECTOR_PREFIX: ["OBgw20hZhAlacN3n", "1qgTxhg1qpPATkiu", "vk6vBQsstREMx9AV"],
         STARSMITH_SECTOR_SUFFIX: ["KOB1e7oQ9qA5lZIB", "KGTJ4kSSkeyHxgZy", "MQFMTMilYVltbR0q"],
         SECTOR_TROUBLE: ["f6764b50761b77eb"],
+        STARSMITH_SECTOR_TROUBLE: ["65Q1iiumixImppo3", "TOoNVdWtoACPc6uJ", "idw2Om2jWKCJtZ0F"],
         SETTLEMENT_NAME: ["c25eade4d8daa0bc"],
         SETTLEMENT_KLASS: "68efb47a93ee8925",
         AUTHORITY: ["2c3224921966f200"],
@@ -2782,15 +2783,18 @@ async function buildStartingSector(
         const regionConfig = getRegionConfig(region);
 
         // Roll for sector name and trouble (parallel for better performance)
-        // Use Starsmith oracles for sector names if enabled, otherwise use standard Starforged oracles
+        // Use Starsmith oracles for sector names and trouble if enabled, otherwise use standard Starforged oracles
         const sectorNamePrefix = useStarsmithOracles
             ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SECTOR_PREFIX
             : SECTOR_CONFIG.ROLL_TABLES.SECTOR_PREFIX;
         const sectorNameSuffix = useStarsmithOracles
             ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SECTOR_SUFFIX
             : SECTOR_CONFIG.ROLL_TABLES.SECTOR_SUFFIX;
+        const sectorTroubleArray = useStarsmithOracles
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SECTOR_TROUBLE
+            : SECTOR_CONFIG.ROLL_TABLES.SECTOR_TROUBLE;
         
-        // Create a TableRoller with the appropriate prefix for sector names
+        // Create a TableRoller with the appropriate prefix for sector names and trouble
         const sectorNameRoller = useStarsmithOracles
             ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
             : tableRoller;
@@ -2799,13 +2803,11 @@ async function buildStartingSector(
             await Promise.all([
                 sectorNameRoller.rollFromArray(sectorNamePrefix),
                 sectorNameRoller.rollFromArray(sectorNameSuffix),
-                tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.SECTOR_TROUBLE
-                ),
+                sectorNameRoller.rollFromArray(sectorTroubleArray),
             ]);
         const sectorPrefix = sectorNameRoller.getRollText(sectorPrefixRoll);
         const sectorSuffix = sectorNameRoller.getRollText(sectorSuffixRoll);
-        const sectorTrouble = tableRoller.getRollText(sectorTroubleRoll);
+        const sectorTrouble = sectorNameRoller.getRollText(sectorTroubleRoll);
 
         const sectorName = `${sectorPrefix} ${sectorSuffix}`;
 
