@@ -28,6 +28,7 @@ const SECTOR_CONFIG = {
         AUTHORITY: ["2c3224921966f200"],
         STARSMITH_AUTHORITY: ["aI2wtdKOQvG0pZBY", "eKDmSpdyzwRM7ydc", "zMTlB0xQZyEc8PtQ"],
         SETTLEMENT_PROJECT: ["eb909255e1df463b"],
+        STARSMITH_SETTLEMENT_PROJECT: ["iJbLrynKmB25yxKu", "wPh8ecvQZvyebiE0", "tNudiYQ7dnUpeONr"],
         PLANETARY_CLASS: ["affbef437e01ef10"],
         STELLAR_OBJECT: ["f2bba7a759c5871a"],
         FIRST_LOOK: ["5ff0f4816e9338b4"],
@@ -1470,13 +1471,23 @@ async function generateSettlementDetails(tableRoller, populationOracle, existing
     );
     const authority = settlementNameRoller.getRollText(authorityRoll);
 
+    // Use Starsmith oracles for settlement projects if enabled
+    const projectArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_PROJECT
+        : SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT;
+    
+    // Use the appropriate TableRoller for projects
+    const projectRoller = useStarsmithOracles
+        ? settlementNameRoller
+        : tableRoller;
+    
     let settlementProject = "";
     const projectCount = getRandomInt(1, 2);
     for (let i = 0; i < projectCount; i++) {
-        const projectRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT
+        const projectRoll = await projectRoller.rollFromArray(
+            projectArray
         );
-        let projectText = tableRoller.getRollText(projectRoll);
+        let projectText = projectRoller.getRollText(projectRoll);
         projectText = await processActionTheme(tableRoller, projectText);
 
         settlementProject += projectText + "<br>";
