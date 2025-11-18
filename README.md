@@ -76,7 +76,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 #### Build Starting Sector Macro
 
-* Try out the [starting sector generation macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection. Look for it in the Journal Entries Compendium in the `Sector Location Generators` entry for `Resources by jendave`.
+* Try out the [starting sector generation macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection. Look for it in the `Starforge Custom Macros` Compendium under `Macros by jendave`.
 * For full functionality, include the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
