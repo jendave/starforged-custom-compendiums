@@ -81,6 +81,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
   * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
+  * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles) to use many more oracles.
   
 ![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
 
