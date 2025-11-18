@@ -5,7 +5,7 @@
 ## [3.0.5](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-17)
 
 * Added Starsmith Oracles option to `Build Starting Sector` macro.
-  * Location and Stellar Object Startsmith oracles were not incorporated since they wuold require changes to the Actor sheets.
+  * Location and Stellar Object Startsmith oracles were not incorporated since they would require changes to the Actor sheets.
 * Many bug fixes.
 
 ## [3.0.4](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
