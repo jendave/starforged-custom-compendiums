@@ -44,12 +44,19 @@ const SECTOR_CONFIG = {
         FOCUS: ["9d920a9da68abf62"],
         STARSMITH_FOCUS: ["zQO6QiD9dBseAj2n", "vLrIoBVbDBjNziuq", "s58V9HjgGqP3tmT2"],
         CHARACTER_ROLE: ["fbb49cabf7e9596c"],
+        STARSMITH_CHARACTER_ROLE: ["O5x9KiSkoNAVXW6O", "VEL6LI4wBzI8eb7z", "437mrjVAePTQZGYv"],
         CHARACTER_FIRST_LOOK: ["e422399eb54ed7b1"],
+        STARSMITH_CHARACTER_FIRST_LOOK: ["guv5iEDeLijYuABa", "oTECxhDPRJJ3yUvh", "MsQ7rPo2gDyVIQEE"],
         CHARACTER_GOAL: ["a707e132902305f0"],
+        STARSMITH_CHARACTER_GOAL: ["2xxntLbzYGLZ2cao", "oLDINu3MLyDgABhD", "aqapGyFUQ1Jj9uQl"],
         REVEALED_CHARACTER_ASPECT: ["4c4b6c28ff08ad98"],
+        STARSMITH_REVEALED_CHARACTER_ASPECT: ["5JUVkMmXuH74WBUv", "JhY6HtE1X1xSAJW5", "cFmnWNEUaw8Lf3Qg"],
         CHARACTER_GIVEN_NAME: ["2ac8af92c0509f72"],
+        STARSMITH_CHARACTER_GIVEN_NAME: ["UnTcBB8gwFjNoT9O", "dXJhMhBt7J2FtCVh", "5acO6ocnsJerpEkI"],
         CHARACTER_FAMILY_NAME: ["f94e58504ac34af8"],
+        STARSMITH_CHARACTER_FAMILY_NAME: ["6pv2fJdPmbl6HDGR", "v5XqY7qSbXRuBIDR", "lQR1PUQksmjUX2Fd"],
         CHARACTER_CALLSIGN: ["76cd6f5340a4978a"],
+        STARSMITH_CHARACTER_CALLSIGN: ["0zs4jV8AgYw1GaVB", "iBgIwzZGGKTuCGpR", "vUTgxJRCAbApAZgi"],
     },
 
     // Region Settings
@@ -1732,61 +1739,76 @@ async function createStellarObject(name, folderId, klass, description, imgKey) {
 /**
  * Generates connection (foe) details
  * @param {TableRoller} tableRoller - Table roller instance
+ * @param {boolean} useStarsmithOracles - Whether to use Starsmith Expanded Oracles for character details
  * @returns {Promise<Object>} Connection details
  */
-async function generateConnectionDetails(tableRoller) {
+async function generateConnectionDetails(tableRoller, useStarsmithOracles = false) {
+    // Create a TableRoller with the appropriate prefix for character details
+    const characterRoller = useStarsmithOracles
+        ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+        : tableRoller;
+    
+    // Determine which arrays to use based on Starsmith setting
+    const givenNameArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_CHARACTER_GIVEN_NAME
+        : SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GIVEN_NAME;
+    const familyNameArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_CHARACTER_FAMILY_NAME
+        : SECTOR_CONFIG.ROLL_TABLES.CHARACTER_FAMILY_NAME;
+    const callsignArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_CHARACTER_CALLSIGN
+        : SECTOR_CONFIG.ROLL_TABLES.CHARACTER_CALLSIGN;
+    const roleArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_CHARACTER_ROLE
+        : SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE;
+    const firstLookArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_CHARACTER_FIRST_LOOK
+        : SECTOR_CONFIG.ROLL_TABLES.CHARACTER_FIRST_LOOK;
+    const goalArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_CHARACTER_GOAL
+        : SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL;
+    const aspectArray = useStarsmithOracles
+        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_REVEALED_CHARACTER_ASPECT
+        : SECTOR_CONFIG.ROLL_TABLES.REVEALED_CHARACTER_ASPECT;
+    
     // Generate all three name types
-    const givenNameRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GIVEN_NAME
-    );
-    const givenName = tableRoller.getRollText(givenNameRoll);
+    const givenNameRoll = await characterRoller.rollFromArray(givenNameArray);
+    const givenName = characterRoller.getRollText(givenNameRoll);
 
-    const familyNameRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_FAMILY_NAME
-    );
-    const familyName = tableRoller.getRollText(familyNameRoll);
+    const familyNameRoll = await characterRoller.rollFromArray(familyNameArray);
+    const familyName = characterRoller.getRollText(familyNameRoll);
 
-    const callsignRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_CALLSIGN
-    );
-    const callsign = tableRoller.getRollText(callsignRoll);
+    const callsignRoll = await characterRoller.rollFromArray(callsignArray);
+    const callsign = characterRoller.getRollText(callsignRoll);
 
     // Concatenate name in format: "given_name family_name / callsign"
     const connectionName = `${givenName} ${familyName} (${callsign})`;
 
     // Roll for role
-    const roleRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE
-    );
-    const roleInitialText = tableRoller.getRollText(roleRoll);
+    const roleRoll = await characterRoller.rollFromArray(roleArray);
+    const roleInitialText = characterRoller.getRollText(roleRoll);
     const role = await processRollTwice(
-        tableRoller,
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_ROLE,
+        characterRoller,
+        roleArray,
         roleInitialText
     );
 
     // Roll for first look
-    const firstLookRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_FIRST_LOOK
-    );
-    const firstLook = tableRoller.getRollText(firstLookRoll);
+    const firstLookRoll = await characterRoller.rollFromArray(firstLookArray);
+    const firstLook = characterRoller.getRollText(firstLookRoll);
 
     // Roll for goal
-    const goalRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL
-    );
-    const goalInitialText = tableRoller.getRollText(goalRoll);
+    const goalRoll = await characterRoller.rollFromArray(goalArray);
+    const goalInitialText = characterRoller.getRollText(goalRoll);
     const goal = await processRollTwice(
-        tableRoller,
-        SECTOR_CONFIG.ROLL_TABLES.CHARACTER_GOAL,
+        characterRoller,
+        goalArray,
         goalInitialText
     );
 
     // Roll for revealed aspect
-    const aspectRoll = await tableRoller.rollFromArray(
-        SECTOR_CONFIG.ROLL_TABLES.REVEALED_CHARACTER_ASPECT
-    );
-    const aspect = tableRoller.getRollText(aspectRoll);
+    const aspectRoll = await characterRoller.rollFromArray(aspectArray);
+    const aspect = characterRoller.getRollText(aspectRoll);
 
     return {
         name: connectionName,
@@ -3066,7 +3088,8 @@ async function buildStartingSector(
 
                 // Generate connection details
                 const connectionDetails = await generateConnectionDetails(
-                    tableRoller
+                    tableRoller,
+                    useStarsmithOracles
                 );
 
                 // Build connection description
