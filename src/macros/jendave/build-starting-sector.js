@@ -1,4 +1,47 @@
+/**
+ * Build Starting Sector Macro for Ironsworn: Starforged
+ * 
+ * This macro generates a complete starting sector for Ironsworn: Starforged, including:
+ * - Sector scene with hex grid
+ * - Settlements with planets and stellar objects
+ * - Connections (foes) with progress tracks
+ * - Navigation markers
+ * - Sector journal with location and connection information
+ * - Optional animated passages between settlements
+ * 
+ * Features:
+ * - Zone-based settlement placement for even distribution
+ * - Support for Starsmith Expanded Oracles (optional)
+ * - Integration with Token Attacher, JB2A, and Sequencer modules
+ * - Automatic folder organization
+ * 
+ * Usage:
+ * 1. Run this macro from the Foundry VTT macro bar
+ * 2. Select region (Terminus, Outlands, or Expanse)
+ * 3. Choose options (Starting Sector, Token Attacher, Passages, Stars, Starsmith Oracles)
+ * 4. Click "Create" to generate the sector
+ * 
+ * Dependencies:
+ * - Foundry VTT with Ironsworn: Starforged system
+ * - Required compendiums: Starforged Oracles (standard) or Starsmith Expanded Oracles (optional)
+ * - Optional modules:
+ *   - Token Attacher: For token attachment behavior
+ *   - JB2A DnD5e: For animated passage effects
+ *   - Sequencer: For sequencing passage animations
+ *   - Starsmith Expanded Oracles: For expanded oracle tables
+ * 
+ * Version: 1.0.0
+ * Author: David Hudson
+ * License: MIT
+ */
+
 // Macro by David Hudson under the MIT License.
+// ============================================================================
+// VERSION
+// ============================================================================
+
+const MACRO_VERSION = "1.0.0";
+
 // ============================================================================
 // CONFIGURATION
 // ============================================================================
@@ -510,6 +553,17 @@ function debugLog(...args) {
     if (SECTOR_CONFIG.DEBUG) {
         console.log(...args);
     }
+}
+
+/**
+ * Gets the appropriate table array based on Starsmith setting
+ * @param {boolean} useStarsmith - Whether to use Starsmith tables
+ * @param {Array} standardArray - Standard table array
+ * @param {Array} starsmithArray - Starsmith table array
+ * @returns {Array} The appropriate table array
+ */
+function getTableArray(useStarsmith, standardArray, starsmithArray) {
+    return useStarsmith ? starsmithArray : standardArray;
 }
 
 /**
@@ -1510,9 +1564,11 @@ async function generateSettlementDetails(tableRoller, populationOracle, existing
     const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
     
     // Use Starsmith oracles for settlement names if enabled
-    const settlementNameArray = useStarsmithOracles
-        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_NAME
-        : SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME;
+    const settlementNameArray = getTableArray(
+        useStarsmithOracles,
+        SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_NAME,
+        SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_NAME
+    );
     
     // Create a TableRoller with the appropriate prefix for settlement names
     const settlementNameRoller = useStarsmithOracles
@@ -1544,9 +1600,11 @@ async function generateSettlementDetails(tableRoller, populationOracle, existing
     const population = tableRoller.getRollText(populationRoll);
 
     // Use Starsmith oracles for authority if enabled
-    const authorityArray = useStarsmithOracles
-        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_AUTHORITY
-        : SECTOR_CONFIG.ROLL_TABLES.AUTHORITY;
+    const authorityArray = getTableArray(
+        useStarsmithOracles,
+        SECTOR_CONFIG.ROLL_TABLES.AUTHORITY,
+        SECTOR_CONFIG.ROLL_TABLES.STARSMITH_AUTHORITY
+    );
     
     const authorityRoll = await settlementNameRoller.rollFromArray(
         authorityArray
@@ -1554,9 +1612,11 @@ async function generateSettlementDetails(tableRoller, populationOracle, existing
     const authority = settlementNameRoller.getRollText(authorityRoll);
 
     // Use Starsmith oracles for settlement projects if enabled
-    const projectArray = useStarsmithOracles
-        ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_PROJECT
-        : SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT;
+    const projectArray = getTableArray(
+        useStarsmithOracles,
+        SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_PROJECT,
+        SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_PROJECT
+    );
     
     // Use the appropriate TableRoller for projects
     const projectRoller = useStarsmithOracles
@@ -2363,9 +2423,11 @@ async function zoomInOnASettlement(tableRoller, settlements, useStarsmithOracles
         const firstLooks = [];
         
         // Determine which First Look array to use based on Starsmith setting
-        const firstLookArray = useStarsmithOracles
-            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_FIRST_LOOK
-            : SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK;
+        const firstLookArray = getTableArray(
+            useStarsmithOracles,
+            SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK,
+            SECTOR_CONFIG.ROLL_TABLES.STARSMITH_FIRST_LOOK
+        );
         
         // Create a TableRoller with the appropriate prefix for First Look
         const firstLookRoller = useStarsmithOracles
@@ -2403,9 +2465,11 @@ async function zoomInOnASettlement(tableRoller, settlements, useStarsmithOracles
 
         // Roll once on Settlement Trouble table
         // Determine which Settlement Trouble array to use based on Starsmith setting
-        const troubleArray = useStarsmithOracles
-            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_TROUBLE
-            : SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE;
+        const troubleArray = getTableArray(
+            useStarsmithOracles,
+            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE,
+            SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_TROUBLE
+        );
         
         // Create a TableRoller with the appropriate prefix for Settlement Trouble
         const troubleRoller = useStarsmithOracles
@@ -3220,7 +3284,7 @@ async function buildStartingSector(
         ui.notifications.info(`Successfully created sector: ${sectorName}`);
     } catch (error) {
         console.error("Error creating starting sector:", error);
-        ui.notifications.error(`Failed to create sector: ${error.message}`);
+        ui.notifications.error(`Failed to create sector: ${error.message || "Unknown error occurred"}`);
     }
 }
 
@@ -3239,34 +3303,22 @@ function getAvailableRegions() {
 }
 
 /**
- * Creates and shows the configuration dialog
+ * Generates the HTML content for the sector creation dialog
+ * @param {boolean} tokenAttacherActive - Whether Token Attacher module is active
+ * @param {boolean} jb2aActive - Whether JB2A module is active
+ * @param {boolean} sequencerActive - Whether Sequencer module is active
+ * @param {boolean} starsmithOraclesActive - Whether Starsmith Expanded Oracles module is active
+ * @param {string} regionOptions - HTML string of region options
+ * @returns {string} HTML content for the dialog
  */
-function showStartingSectorBuildDialog() {
-    const tokenAttacherActive =
-        game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active || false;
-    const jb2aActive =
-        game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active || false;
-    const sequencerActive =
-        game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active || false;
-    const starsmithOraclesActive =
-        game.modules.get(SECTOR_CONFIG.MODULES.STARSMITH_ORACLES)?.active || false;
-
-    const availableRegions = getAvailableRegions();
-    const regionOptions = availableRegions
-        .map((region) => `<option value="${region}">${region}</option>`)
-        .join("\n                    ");
-
-    let region = "";
-    let startingSector = false;
-    let useTokenAttacher = false;
-    let createPassages = false;
-    let generateStars = false;
-    let useStarsmithOracles = false;
-    let shouldCreate = false;
-
-    new Dialog({
-        title: "Select Region and Sector Type",
-        content: `
+function generateDialogContent(
+    tokenAttacherActive,
+    jb2aActive,
+    sequencerActive,
+    starsmithOraclesActive,
+    regionOptions
+) {
+    return `
         <form class="flexcol">
             <div class="form-group">
                 <label for="selectRegion">Region</label>
@@ -3308,7 +3360,46 @@ function showStartingSectorBuildDialog() {
                 }</label>
             </div>
         </form>
-        `,
+        `;
+}
+
+/**
+ * Creates and shows the configuration dialog
+ */
+function showStartingSectorBuildDialog() {
+    const tokenAttacherActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active || false;
+    const jb2aActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.JB2A_DND5E)?.active || false;
+    const sequencerActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.SEQUENCER)?.active || false;
+    const starsmithOraclesActive =
+        game.modules.get(SECTOR_CONFIG.MODULES.STARSMITH_ORACLES)?.active || false;
+
+    const availableRegions = getAvailableRegions();
+    const regionOptions = availableRegions
+        .map((region) => `<option value="${region}">${region}</option>`)
+        .join("\n                    ");
+
+    let region = "";
+    let startingSector = false;
+    let useTokenAttacher = false;
+    let createPassages = false;
+    let generateStars = false;
+    let useStarsmithOracles = false;
+    let shouldCreate = false;
+
+    const dialogContent = generateDialogContent(
+        tokenAttacherActive,
+        jb2aActive,
+        sequencerActive,
+        starsmithOraclesActive,
+        regionOptions
+    );
+
+    new Dialog({
+        title: "Select Region and Sector Type",
+        content: dialogContent,
         buttons: {
             cancel: {
                 icon: '<i class="fas fa-times"></i>',
@@ -3383,7 +3474,7 @@ function showStartingSectorBuildDialog() {
                     error
                 );
                 ui.notifications.error(
-                    `Failed to create sector: ${error.message || "Unknown error"}`
+                    `Failed to create sector: ${error.message || "Unknown error occurred"}`
                 );
             }
         },
