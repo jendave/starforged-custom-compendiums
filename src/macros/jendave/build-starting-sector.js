@@ -3300,6 +3300,8 @@ function showStartingSectorBuildDialog() {
             </div>
             <div class="checkbox">
                 <label><input type="checkbox" name="useStarsmithOracles" ${
+                    starsmithOraclesActive ? "checked" : ""
+                } ${
                     starsmithOraclesActive ? "" : "disabled"
                 }> Include Starsmith Oracles${
                     !starsmithOraclesActive ? " <span style='color: #888; font-size: 0.9em;'>(Starsmith Expanded Oracles module not active)</span>" : ""
