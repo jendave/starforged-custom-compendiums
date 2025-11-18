@@ -32,11 +32,17 @@ const SECTOR_CONFIG = {
         PLANETARY_CLASS: ["affbef437e01ef10"],
         STELLAR_OBJECT: ["f2bba7a759c5871a"],
         FIRST_LOOK: ["5ff0f4816e9338b4"],
+        STARSMITH_FIRST_LOOK: ["4mtNdMOiPAWeLe1P", "c6A4BvsaG6NOJdzf", "VWKvi551JyShfjh0"],
         SETTLEMENT_TROUBLE: ["b42abc2bc10cd38b"],
+        STARSMITH_SETTLEMENT_TROUBLE: ["rd2ZCaZFUEhca5lp", "LpumgIbgDG8wRdso", "W6VGcvzStPUK4Yyc"],
         ACTION: ["b347a87fb81a3abb"],
+        STARSMITH_ACTION: ["OSpHuphKhIOcJy6e", "EdMDbQ2rvj1kjsVw", "P2eGB9bEuZtwAQxq"],
         THEME: ["0c5ce82c7adbb4e2"],
+        STARSMITH_THEME: ["mgGRUu62QCdo0n2Z", "cCXTQZgR8f8d0Ojq", "2KgRpUejv7U6Pjzf"],
         DESCRIPTOR: ["e2bae1632870e2d2"],
+        STARSMITH_DESCRIPTOR: ["886Dxrj4VbhJWWH8", "8SO1JnHLK1F7sFwQ", "02ya1SPztxDlHmV0"],
         FOCUS: ["9d920a9da68abf62"],
+        STARSMITH_FOCUS: ["zQO6QiD9dBseAj2n", "vLrIoBVbDBjNziuq", "s58V9HjgGqP3tmT2"],
         CHARACTER_ROLE: ["fbb49cabf7e9596c"],
         CHARACTER_FIRST_LOOK: ["e422399eb54ed7b1"],
         CHARACTER_GOAL: ["a707e132902305f0"],
@@ -134,6 +140,65 @@ const SECTOR_CONFIG = {
             planetsideFeature: ["bcc68163e523f6c9"],
             diversity: ["2ccc456d0af8d199"],
             biomes: ["85e11dcd94c71ef2"],
+        },
+    },
+
+    // Starsmith Planetary Details Arrays by Class
+    STARSMITH_PLANET_TABLES: {
+        shattered: {
+            name_starsmith: ["0gKPLApYlwxPhSaE", "YV6Aysnedk3A7tfo", "kdHE1vWwFy5TRxqN"],
+            observedFromSpace_starsmith: ["0ccW0eVajV4NENbZ", "fJV0agGCQh7hfzW8", "VD3Q2RTuFjSouslM"],
+            planetsideFeature_starsmith: ["K74TKszI8T8HTUId", "XlUqt5BZzlHelXVu", "DsGW7fo4iF64qhWf"],
+        },
+        ice: {
+            name_starsmith: ["JrTmSctB5pxFZJyb", "S04gzGykXCDArYhc", "m41bieZDQIJBVVbB"],
+            observedFromSpace_starsmith: ["Uq1ybjzg3WVNH50Q", "fTHisJyGql8gcVuC", "2bbW8GapNrUbkBiD"],
+            planetsideFeature_starsmith: ["3eZVI73pFd2Vq1Vn", "wUhTOw2fAMtUYXUn", "pma1szGfHplWS97Q"],
+        },
+        jovian: {
+            name_starsmith: ["kqNvGwKvGSC0jmtx", "axzyF0OuGXwVzhmh", "6qKWL6r9sN5h4fHg"],
+            observedFromSpace_starsmith: ["w5yprOoOTFfjZjZj", "Vh4sPOoSMhQK1Mvs", "TMaAUj4wwzIRZu5o"],
+            planetsideFeature_starsmith: ["gV7Wxz4tmajgxe54", "yergAChxtcH7BcKf", "EqSN5ENCg0MqyoCP"],
+        },
+        vital: {
+            name_starsmith: ["imKbV7dPHMQ4awnO", "eBsfgJ5xK9YNVxoB", "t4NRCKhjxiKFpELH"],
+            observedFromSpace_starsmith: ["WF7PRchsM9oevTjM", "YdzwvZU2wgPhmQ7d", "UZEhVGNsNKw67juE"],
+            planetsideFeature_starsmith: ["jhnjSjXc9PmfTMd4", "uE01iOVQTLPPTdoB", "nQyQUAuGZkemZtLh"],
+        },
+        desert: {
+            name_starsmith: ["BdbEFPelmQqkGDxs", "a8S9E1HghcsyxTjX", "MVnD2orENFUEJrOU"],
+            observedFromSpace_starsmith: ["Lfk0gDNUJecpYuRi", "60DIGlrsawAmJuYR", "wfVw6xyf8BY0Fmkw"],
+            planetsideFeature_starsmith: ["EjrmKEYy4ESfBo7C", "UgIpgaYYzFkd424z", "bW8E38iRkmFPXJU8"],
+        },
+        tainted: {
+            name_starsmith: ["y1kZTpBlrThTET3H", "ynZJHvrD1MSxw3N0", "QhVbCgtgVq1tBmPQ"],
+            observedFromSpace_starsmith: ["WVdSiIWYWSpIUCTN", "cSZDLj0BqZDc4hbF", "0LirTYoCP3R8Dgzt"],
+            planetsideFeature_starsmith: ["gxozVy6LZuhqjSeC", "mhrRDafdMmbZTMBq", "jtCNxmrr3miVoZvr"],
+        },
+        grave: {
+            name_starsmith: ["0vFf0yYmD1Kdc9TC", "4Jqgfo9tNEmg6SiL", "O4WIISBXLxsJdOnU"],
+            observedFromSpace_starsmith: ["BrE1gQtsBLvg9tSx", "vBC6s29505G4SVUW", "eCoLvpIQrVfmDUgO"],
+            planetsideFeature_starsmith: ["6l5Hqitvc4RFxpra", "Lf2FvABUcYtgv6Ae", "2JAxDfpav0IlsZLK"],
+        },
+        furnace: {
+            name_starsmith: ["XkWfdDGklRXgyoVW", "DZ27gXKmeNZvQBq8", "XiribiolFLhw9KcB"],
+            observedFromSpace_starsmith: ["mXE7W7P7Vll5qPo4", "gLIiu5sGdkM62Ruo", "1sLkhxEaVUaPy57w"],
+            planetsideFeature_starsmith: ["WIAW8H36hzbjshr0", "5esl8jSbsIyPkLZV", "zlAXlAtOLtqIPqvr"],
+        },
+        rocky: {
+            name_starsmith: ["n1fQSqdBI1hcsq53", "IV7IsgbLgtpPJ0yp", "UDcY6Jp7nppzmlCI"],
+            observedFromSpace_starsmith: ["N54KUtDcuuChzF3r", "aos2ItE40qIbg8aV", "wX7icUFXfjt33JHV"],
+            planetsideFeature_starsmith: ["5R7eSgr0otB7ggVi", "AtmwcrDFmiL5KiZY", "ztBOckg0G5IMb5OX"],
+        },
+        ocean: {
+            name_starsmith: ["HJcSLbX4pAVEhTms", "Pm2jNTRrEBT2xw8g", "pfwQG72bYwf6sxwt"],
+            observedFromSpace_starsmith: ["vAi4oyM0iN9Xaku3", "jGM8ouMCAMH7a9Ac", "YFa3euIzF3Iu3EVs"],
+            planetsideFeature_starsmith: ["raTeFRB4wM1tpaa6", "v9dpHyiCM0N18i0f", "p8ho6XAqC9ubRJLb"],
+        },
+        jungle: {
+            name_starsmith: ["SMgvAe3GhveAOgOg", "rZ9zTYxHP3s4ejZ4", "ytmG9KxquuHDyL0s"],
+            observedFromSpace_starsmith: ["9wCWNV5mg80zJCzz", "8NCFv7yLKaxIjARl", "nFaY8oF7Qg0yKzQn"],
+            planetsideFeature_starsmith: ["vdR5AogzuYvRKWHo", "2uFx0KwWCty8dBMm", "FFmsU2Mxni5t0kAV"],
         },
     },
 
@@ -356,14 +421,19 @@ function getStellarObjectTypes() {
  */
 async function processActionTheme(tableRoller, text) {
     if (text.includes("Action") && text.includes("Theme")) {
-        const actionRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.ACTION
-        );
+        // Check if using Starsmith tables based on tableRoller prefix
+        const useStarsmith = tableRoller.prefix === SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX;
+        
+        const actionArray = useStarsmith
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_ACTION
+            : SECTOR_CONFIG.ROLL_TABLES.ACTION;
+        const actionRoll = await tableRoller.rollFromArray(actionArray);
         const action = tableRoller.getRollText(actionRoll);
 
-        const themeRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.THEME
-        );
+        const themeArray = useStarsmith
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_THEME
+            : SECTOR_CONFIG.ROLL_TABLES.THEME;
+        const themeRoll = await tableRoller.rollFromArray(themeArray);
         const theme = tableRoller.getRollText(themeRoll);
 
         return `${action} ${theme}`;
@@ -443,14 +513,19 @@ function debugLog(...args) {
  */
 async function processDescriptorFocus(tableRoller, text) {
     if (text.includes("Descriptor") && text.includes("Focus")) {
-        const descriptorRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR
-        );
+        // Check if using Starsmith tables based on tableRoller prefix
+        const useStarsmith = tableRoller.prefix === SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX;
+        
+        const descriptorArray = useStarsmith
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_DESCRIPTOR
+            : SECTOR_CONFIG.ROLL_TABLES.DESCRIPTOR;
+        const descriptorRoll = await tableRoller.rollFromArray(descriptorArray);
         const descriptor = tableRoller.getRollText(descriptorRoll);
 
-        const focusRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.FOCUS
-        );
+        const focusArray = useStarsmith
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_FOCUS
+            : SECTOR_CONFIG.ROLL_TABLES.FOCUS;
+        const focusRoll = await tableRoller.rollFromArray(focusArray);
         const focus = tableRoller.getRollText(focusRoll);
 
         return `${descriptor} ${focus}`;
@@ -1508,9 +1583,10 @@ async function generateSettlementDetails(tableRoller, populationOracle, existing
  * Generates planet details
  * @param {TableRoller} tableRoller - Table roller instance
  * @param {Array<string>} existingNames - Array of existing planet names to avoid duplicates
+ * @param {boolean} useStarsmithOracles - Whether to use Starsmith Expanded Oracles for planet details
  * @returns {Promise<Object>} Planet details
  */
-async function generatePlanetDetails(tableRoller, existingNames = []) {
+async function generatePlanetDetails(tableRoller, existingNames = [], useStarsmithOracles = false) {
     const classRoll = await tableRoller.rollFromArray(
         SECTOR_CONFIG.ROLL_TABLES.PLANETARY_CLASS
     );
@@ -1520,11 +1596,14 @@ async function generatePlanetDetails(tableRoller, existingNames = []) {
         getStringBetween(rollText, "</i>", "</a>")?.trim() || rollText.trim();
     const planetaryKlass = planetaryClass.split(" ")[0].toLowerCase();
 
-    const planetTables =
-        SECTOR_CONFIG.PLANET_TABLES[planetaryKlass] ||
-        SECTOR_CONFIG.PLANET_TABLES.vital;
+    // Use Starsmith planet tables if enabled, otherwise use standard tables
+    const planetTablesSource = useStarsmithOracles
+        ? SECTOR_CONFIG.STARSMITH_PLANET_TABLES
+        : SECTOR_CONFIG.PLANET_TABLES;
+    
+    const planetTables = planetTablesSource[planetaryKlass] || planetTablesSource.vital;
 
-    if (!planetTables || !planetTables.name) {
+    if (!planetTables) {
         console.error(
             `No planet tables found for class "${planetaryKlass}" (from roll: ${rollText})`
         );
@@ -1535,14 +1614,35 @@ async function generatePlanetDetails(tableRoller, existingNames = []) {
         };
     }
 
+    // Determine which name array to use based on Starsmith setting
+    const nameArray = useStarsmithOracles
+        ? planetTables.name_starsmith
+        : planetTables.name;
+
+    if (!nameArray) {
+        console.error(
+            `No name tables found for class "${planetaryKlass}" (from roll: ${rollText})`
+        );
+        return {
+            name: "Unknown Planet",
+            klass: planetaryKlass,
+            class: planetaryClass,
+        };
+    }
+
+    // Create a TableRoller with the appropriate prefix for planet names
+    const planetNameRoller = useStarsmithOracles
+        ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+        : tableRoller;
+
     let planetaryName;
     let attempts = 0;
     const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
     
     // Re-roll until we get a unique name
     do {
-        const nameRoll = await tableRoller.rollFromArray(planetTables.name);
-        planetaryName = tableRoller.getRollText(nameRoll);
+        const nameRoll = await planetNameRoller.rollFromArray(nameArray);
+        planetaryName = planetNameRoller.getRollText(nameRoll);
         attempts++;
         
         if (attempts >= maxAttempts) {
@@ -1899,7 +1999,11 @@ async function createSettlementWithLocation(params) {
 
     // Create planet if not deep space
     if (settlementDetails.klass !== SECTOR_CONFIG.SETTLEMENT_TYPES.DEEP_SPACE) {
-        planetDetails = await generatePlanetDetails(tableRoller, existingPlanetNames);
+        planetDetails = await generatePlanetDetails(
+            tableRoller,
+            existingPlanetNames,
+            params.useStarsmithOracles || false
+        );
         const planetDescription = `<p><b>Settlement:</b> ${uuidSettlement}</p>`;
 
         planet = await locationGenerator.createPlanet(
@@ -2218,9 +2322,10 @@ async function createSectorJournal(
  * Randomly selects a settlement and adds First Look, Settlement Trouble, and planet details
  * @param {TableRoller} tableRoller - Table roller instance
  * @param {Array<Actor>} settlements - Array of settlement actors to choose from
+ * @param {boolean} useStarsmithOracles - Whether to use Starsmith Expanded Oracles for planet details
  * @throws {Error} If settlement processing fails or planet details cannot be updated
  */
-async function zoomInOnASettlement(tableRoller, settlements) {
+async function zoomInOnASettlement(tableRoller, settlements, useStarsmithOracles = false) {
     try {
         if (!settlements?.length) {
             debugLog("No settlements available for zoom in");
@@ -2234,20 +2339,31 @@ async function zoomInOnASettlement(tableRoller, settlements) {
         // Roll on First Look table 1-2 times
         const firstLookCount = getRandomInt(1, 2);
         const firstLooks = [];
+        
+        // Determine which First Look array to use based on Starsmith setting
+        const firstLookArray = useStarsmithOracles
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_FIRST_LOOK
+            : SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK;
+        
+        // Create a TableRoller with the appropriate prefix for First Look
+        const firstLookRoller = useStarsmithOracles
+            ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+            : tableRoller;
+        
         for (let i = 0; i < firstLookCount; i++) {
             let firstLook;
             let attempts = 0;
             const maxAttempts = SECTOR_CONFIG.MAX_ATTEMPTS.DUPLICATE_CHECK;
 
             do {
-                const firstLookRoll = await tableRoller.rollFromArray(
-                    SECTOR_CONFIG.ROLL_TABLES.FIRST_LOOK
+                const firstLookRoll = await firstLookRoller.rollFromArray(
+                    firstLookArray
                 );
-                firstLook = tableRoller.getRollText(firstLookRoll);
+                firstLook = firstLookRoller.getRollText(firstLookRoll);
                 attempts++;
 
                 // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
-                firstLook = await processDescriptorFocus(tableRoller, firstLook);
+                firstLook = await processDescriptorFocus(firstLookRoller, firstLook);
 
                 // If this is the second roll and it matches the first, re-roll
                 if (
@@ -2264,11 +2380,21 @@ async function zoomInOnASettlement(tableRoller, settlements) {
         }
 
         // Roll once on Settlement Trouble table
-        const troubleRoll = await tableRoller.rollFromArray(
-            SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE
+        // Determine which Settlement Trouble array to use based on Starsmith setting
+        const troubleArray = useStarsmithOracles
+            ? SECTOR_CONFIG.ROLL_TABLES.STARSMITH_SETTLEMENT_TROUBLE
+            : SECTOR_CONFIG.ROLL_TABLES.SETTLEMENT_TROUBLE;
+        
+        // Create a TableRoller with the appropriate prefix for Settlement Trouble
+        const troubleRoller = useStarsmithOracles
+            ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+            : tableRoller;
+        
+        const troubleRoll = await troubleRoller.rollFromArray(
+            troubleArray
         );
-        let settlementTrouble = tableRoller.getRollText(troubleRoll);
-        settlementTrouble = await processActionTheme(tableRoller, settlementTrouble);
+        let settlementTrouble = troubleRoller.getRollText(troubleRoll);
+        settlementTrouble = await processActionTheme(troubleRoller, settlementTrouble);
 
         // Build the additional description text
         const additionalDescription = `
@@ -2288,14 +2414,32 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                     const planet = await fromUuid(planetUuidMatch[1]);
                     if (planet && planet.system && planet.system.klass) {
                         const planetKlass = planet.system.klass.toLowerCase();
-                        const planetTables =
-                            SECTOR_CONFIG.PLANET_TABLES[planetKlass];
+                        
+                        // Use Starsmith planet tables if enabled, otherwise use standard tables
+                        const planetTablesSource = useStarsmithOracles
+                            ? SECTOR_CONFIG.STARSMITH_PLANET_TABLES
+                            : SECTOR_CONFIG.PLANET_TABLES;
+                        
+                        const planetTables = planetTablesSource[planetKlass];
 
                         if (planetTables) {
-                            // Roll on Atmosphere table (once)
+                            // Create a TableRoller with the appropriate prefix for planet details
+                            const planetDetailRoller = useStarsmithOracles
+                                ? new TableRoller(SECTOR_CONFIG.ROLL_TABLES.STARSMITH_PREFIX)
+                                : tableRoller;
+                            
+                            // Determine which arrays to use based on Starsmith setting
+                            const observedArray = useStarsmithOracles
+                                ? planetTables.observedFromSpace_starsmith
+                                : planetTables.observedFromSpace;
+                            const featureArray = useStarsmithOracles
+                                ? planetTables.planetsideFeature_starsmith
+                                : planetTables.planetsideFeature;
+                            
+                            // Roll on Atmosphere table (once) - Atmosphere is always from standard tables
                             const atmosphereRoll =
                                 await tableRoller.rollFromArray(
-                                    planetTables.atmosphere
+                                    SECTOR_CONFIG.PLANET_TABLES[planetKlass]?.atmosphere || []
                                 );
                             const atmosphere =
                                 tableRoller.getRollText(atmosphereRoll);
@@ -2310,11 +2454,15 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 
                                 do {
                                     const observedRoll =
-                                        await tableRoller.rollFromArray(
-                                            planetTables.observedFromSpace
+                                        await planetDetailRoller.rollFromArray(
+                                            observedArray
                                         );
                                     observed =
-                                        tableRoller.getRollText(observedRoll);
+                                        planetDetailRoller.getRollText(observedRoll);
+                                    
+                                    // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
+                                    observed = await processDescriptorFocus(planetDetailRoller, observed);
+                                    
                                     attempts++;
 
                                     // If this is the second roll and it matches the first, re-roll
@@ -2341,11 +2489,15 @@ async function zoomInOnASettlement(tableRoller, settlements) {
 
                                 do {
                                     const featureRoll =
-                                        await tableRoller.rollFromArray(
-                                            planetTables.planetsideFeature
+                                        await planetDetailRoller.rollFromArray(
+                                            featureArray
                                         );
                                     feature =
-                                        tableRoller.getRollText(featureRoll);
+                                        planetDetailRoller.getRollText(featureRoll);
+                                    
+                                    // Check if result contains "Descriptor" and "Focus" - if so, roll on those tables
+                                    feature = await processDescriptorFocus(planetDetailRoller, feature);
+                                    
                                     attempts++;
 
                                     // If this is the second roll and it matches the first, re-roll
@@ -2370,15 +2522,19 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                             ];
 
                             // If the planet is "vital", roll on Diversity and Biomes tables and add those as well
+                            // Note: Diversity and Biomes are always from standard tables (not Starsmith)
                             if (planetKlass === "vital") {
                                 // Roll once on Diversity
                                 let diversityStr = "";
                                 let biomesStr = "";
+                                
+                                // Use standard PLANET_TABLES for diversity and biomes
+                                const standardPlanetTables = SECTOR_CONFIG.PLANET_TABLES[planetKlass];
 
-                                if (planetTables.diversity) {
+                                if (standardPlanetTables?.diversity) {
                                     const diversityRoll =
                                         await tableRoller.rollFromArray(
-                                            planetTables.diversity
+                                            standardPlanetTables.diversity
                                         );
                                     const diversity =
                                         tableRoller.getRollText(diversityRoll);
@@ -2386,10 +2542,10 @@ async function zoomInOnASettlement(tableRoller, settlements) {
                                 }
 
                                 // Roll once on Biomes
-                                if (planetTables.biomes) {
+                                if (standardPlanetTables?.biomes) {
                                     const biomesRoll =
                                         await tableRoller.rollFromArray(
-                                            planetTables.biomes
+                                            standardPlanetTables.biomes
                                         );
                                     const biomes =
                                         tableRoller.getRollText(biomesRoll);
@@ -3022,7 +3178,7 @@ async function buildStartingSector(
 
         // Zoom in on settlement if starting sector
         if (startingSector) {
-            await zoomInOnASettlement(tableRoller, settlements);
+            await zoomInOnASettlement(tableRoller, settlements, useStarsmithOracles);
         }
 
         // Create journal
