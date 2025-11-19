@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.6](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-18)
+
+* Update minimum FoundryVTT version to v13.
+
 ## [3.0.5](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-17)
 
 * Added Starsmith Oracles option to `Build Starting Sector` macro.
