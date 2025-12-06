@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.7](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-12-xx)
+
+* Add custom Conditions to Actor icons using [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler).
+
 ## [3.0.6](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-18)
 
 * Update minimum FoundryVTT version to v13.

@@ -85,6 +85,12 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   
 ![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
 
+### Custom Conditions Setup
+
+* Install the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
+* Add the json files
+* Copy macros.
+
 ### Dependencies
 
 * The oracle arrays depend on the oracles in the following FoundryVTT modules in addition to the [Starforged Oracles](https://foundryvtt.com/packages/foundry-ironsworn).
@@ -162,6 +168,10 @@ Module by David Hudson and licensed for use under the [MIT license](https://open
 All resources have been converted from their original format into a format comaptible with FoundryVTT.
 
 Licenses and permissions for the macros are listed in the source code.
+
+[game-icons.net](https://game-icons.net/) are licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+
+malnutrition.svg - "Bowl of rice" by Caro Asercion under CC BY 3.0
 
 ## Resources
 

@@ -1,0 +1,269 @@
+{
+  "system": "foundry-ironsworn",
+  "map": [
+    {
+      "id": "bleeding",
+      "name": "Wounded",
+      "img": "modules/starforged-custom-oracles/assets/status/bleeding-wound.svg",
+      "reference": "",
+      "applyTrigger": "VPlXHcbeTBP7RuFl",
+      "removeTrigger": "SwzYlQ8nsmuCFoSM",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "outputChat": false,
+        "markDefeated": false,
+        "dead": false,
+        "invisible": false,
+        "blind": false,
+        "burrow": false,
+        "hover": false,
+        "fly": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "fear",
+      "name": "Shaken",
+      "img": "modules/starforged-custom-oracles/assets/status/terror.svg",
+      "reference": "",
+      "applyTrigger": "Fz8KMBU1T1i77lxp",
+      "removeTrigger": "FSMYY8gWADxmjpT9",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "blind",
+      "name": "Unprepared",
+      "img": "modules/starforged-custom-oracles/assets/status/malnutrition.svg",
+      "reference": "",
+      "applyTrigger": "OQcu1SYjS6bo8tUe",
+      "removeTrigger": "GiUIoa9xw7Wlkvyf",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "deaf",
+      "name": "Permanently Harmed",
+      "img": "modules/starforged-custom-oracles/assets/status/sight-disabled.svg",
+      "reference": "",
+      "applyTrigger": "spvHgK3Q64appmQD",
+      "removeTrigger": "laUmCScXOonPeIcb",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "silence",
+      "name": "Traumatized",
+      "img": "modules/starforged-custom-oracles/assets/status/despair.svg",
+      "reference": "",
+      "applyTrigger": "4CCSqJNdEQkV8D9M",
+      "removeTrigger": "a2SivDvyqKy2XabY",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "burning",
+      "name": "Doomed",
+      "img": "modules/game-icons-net/blackbackground/cursed-star.svg",
+      "reference": "",
+      "applyTrigger": "6xMjbHVetdRRYE1e",
+      "removeTrigger": "WR7jXkkinVmhN6CF",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "frozen",
+      "name": "Tormented",
+      "img": "modules/starforged-custom-oracles/assets/status/crystal-ball.svg",
+      "reference": "",
+      "applyTrigger": "10n0g3iG55y6Fkyt",
+      "removeTrigger": "TjJGAeO6OtRHokOW",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "fly",
+      "name": "Indebted",
+      "img": "modules/starforged-custom-oracles/assets/status/expense.svg",
+      "reference": "",
+      "applyTrigger": "jIGIWS0IsIigVEW7",
+      "removeTrigger": "COMMKeT1hjfgYkYP",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "shock",
+      "name": "Battered",
+      "img": "modules/starforged-custom-oracles/assets/status/cracked-disc.svg",
+      "reference": "",
+      "applyTrigger": "UFfuScwlwdqJ0Jbm",
+      "removeTrigger": "B7odxDjZYNsjjvRc",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "paralysis",
+      "name": "Cursed",
+      "img": "modules/starforged-custom-oracles/assets/status/ubisoft-sun.svg",
+      "reference": "",
+      "applyTrigger": "pjMv95q7XSsRJbJ6",
+      "removeTrigger": "6MibPWsFRJDSvSdW",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "disease",
+      "name": "Maimed",
+      "img": "modules/starforged-custom-oracles/assets/status/severed-hand.svg",
+      "reference": "",
+      "applyTrigger": "Ahr5uwoB5oVYhkzB",
+      "removeTrigger": "ac7Squz32GiVupDO",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "poison",
+      "name": "Corrupted",
+      "img": "modules/starforged-custom-oracles/assets/status/poison-gas.svg",
+      "reference": "",
+      "applyTrigger": "ZJRSnVMIjunXRuHj",
+      "removeTrigger": "dLd5ka7mKLtcPmji",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "corrode",
+      "name": "Encumbered",
+      "img": "modules/starforged-custom-oracles/assets/status/swap-bag.svg",
+      "reference": "",
+      "applyTrigger": "7pbgYnd5Rk4pV5wR",
+      "removeTrigger": "Mc0aX1B1jby71w7T",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "upgrade",
+      "name": "In Control",
+      "img": "modules/starforged-custom-oracles/assets/status/upgrade.svg",
+      "reference": "",
+      "applyTrigger": "jDyV54XhADS4hfPM",
+      "removeTrigger": "brWWUoJoqv4uDDmi",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    },
+    {
+      "id": "wj3kfiVkWvxVHj4p",
+      "name": "In a Bad Spot",
+      "img": "modules/starforged-custom-oracles/assets/status/targeted.svg",
+      "reference": "",
+      "applyTrigger": "brWWUoJoqv4uDDmi",
+      "removeTrigger": "jDyV54XhADS4hfPM",
+      "activeEffect": null,
+      "macros": [],
+      "options": {
+        "outputChat": false
+      },
+      "isNew": false,
+      "isChanged": false,
+      "enrichedReference": "",
+      "hidden": false
+    }
+  ]
+}
