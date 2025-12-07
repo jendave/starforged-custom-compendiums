@@ -3,7 +3,7 @@ if (!canvas.tokens.controlled.length) {
     return;
 }
 
-const statusField = "permanentlyHarmed";
+const statusField = "permanentlyharmed";
 const statusDesired = false;
 
 for (let token of canvas.tokens.controlled) {
