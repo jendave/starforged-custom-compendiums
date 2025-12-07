@@ -87,9 +87,9 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ### Custom Conditions Setup
 
-* Install and activate  the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
+* Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
 * Add the json files
-* Copy macros.
+* In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab.
 
 ### Dependencies
 
