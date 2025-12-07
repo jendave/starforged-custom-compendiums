@@ -85,10 +85,10 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   
 ![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
 
-### Custom Conditions Setup
+### Impacts & Combat Positions Setup
 
 * Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
-* Download the follwing files. The files can also be found in the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
+* Download the following files. The files can also be found in the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
   * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-condition-map.json)
   * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-starforged-development-triggers.json)
 * Go into the `Game Settings` and select `Condition Lab & Triggler`
@@ -97,7 +97,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   * Click on the `Triggler Trigger` button. Then click on `Import` to bring up the file selection dialog.
   * Select the `Triggler Triggers Configuration` file. Click on `Save` button and close the dialog.
 * In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab.
-* The `Custom Conditions` will also work with the [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn).
+* The `Impacts & Combat Positions` functionality will also work with the [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn).
 
 ### Dependencies
 
