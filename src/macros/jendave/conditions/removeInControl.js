@@ -3,7 +3,7 @@ if (!canvas.tokens.controlled.length) {
     return;
 }
 
-const statusDesired = "inControl";
+const statusDesired = "none";
 
 for (let token of canvas.tokens.controlled) {
     const actor = token.actor;
