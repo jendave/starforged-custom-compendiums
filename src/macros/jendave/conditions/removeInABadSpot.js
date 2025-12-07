@@ -3,14 +3,19 @@ if (!canvas.tokens.controlled.length) {
     return;
 }
 
-const statusDesired = "none";
+const positionDesired = "none";
+const positionOther = "inControl";
 
 for (let token of canvas.tokens.controlled) {
     const actor = token.actor;
-    const data = {
-        system: {
-            combatPosition: statusDesired,
-        },
-    };
-    await actor.update(data);
+    if (actor.system.combatPosition === positionOther) {
+        continue;
+    } else {
+        const data = {
+            system: {
+                combatPosition: positionDesired,
+            },
+        };
+        await actor.update(data);
+    }
 }

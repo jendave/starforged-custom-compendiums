@@ -356,7 +356,16 @@
       "applyTrigger": "jDyV54XhADS4hfPM",
       "removeTrigger": "koVnaUU0hrtA0htv",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "xVpFit5KhrY0pQm9",
+          "type": "apply"
+        },
+        {
+          "id": "UL8zfzmGXVuQfSpF",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -373,7 +382,16 @@
       "applyTrigger": "brWWUoJoqv4uDDmi",
       "removeTrigger": "tzojULcwod3qtDq5",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "yIybyXEeqYCwy9xe",
+          "type": "apply"
+        },
+        {
+          "id": "AhiXtb3dAPTwWFXY",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
