@@ -9,7 +9,16 @@
       "applyTrigger": "VPlXHcbeTBP7RuFl",
       "removeTrigger": "SwzYlQ8nsmuCFoSM",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "2GbNeQtkPSToTWh2",
+          "type": "apply"
+        },
+        {
+          "id": "x5oRi04g6H3uyJnY",
+          "type": "remove"
+        }
+      ],
       "options": {
         "overlay": false,
         "removeOthers": false,
@@ -35,7 +44,16 @@
       "applyTrigger": "Fz8KMBU1T1i77lxp",
       "removeTrigger": "FSMYY8gWADxmjpT9",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "rhKkWnZz3pKjM743",
+          "type": "apply"
+        },
+        {
+          "id": "UcYHYjEz3pQujnhM",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -52,7 +70,16 @@
       "applyTrigger": "OQcu1SYjS6bo8tUe",
       "removeTrigger": "GiUIoa9xw7Wlkvyf",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "TAksneFg7yuEVd7d",
+          "type": "apply"
+        },
+        {
+          "id": "cDnUx6cd0zMqqRVf",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -69,7 +96,16 @@
       "applyTrigger": "spvHgK3Q64appmQD",
       "removeTrigger": "laUmCScXOonPeIcb",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "zmOYLYqJiyGkuKXY",
+          "type": "apply"
+        },
+        {
+          "id": "WOmAkOmqmivPppps",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -86,7 +122,16 @@
       "applyTrigger": "4CCSqJNdEQkV8D9M",
       "removeTrigger": "a2SivDvyqKy2XabY",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "JHn22gNeP9zNZ5T8",
+          "type": "apply"
+        },
+        {
+          "id": "epiKIQCMCGWZaxdm",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -98,12 +143,21 @@
     {
       "id": "burning",
       "name": "Doomed",
-      "img": "modules/game-icons-net/blackbackground/cursed-star.svg",
+      "img": "modules/starforged-custom-oracles/assets/status/cursed-star.svg",
       "reference": "",
       "applyTrigger": "6xMjbHVetdRRYE1e",
       "removeTrigger": "WR7jXkkinVmhN6CF",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "sH2U8thMVt1bhMnL",
+          "type": "apply"
+        },
+        {
+          "id": "2q6xLKTrq1pHyhtS",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -120,7 +174,16 @@
       "applyTrigger": "10n0g3iG55y6Fkyt",
       "removeTrigger": "TjJGAeO6OtRHokOW",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "d8nixu9yIh42APiB",
+          "type": "apply"
+        },
+        {
+          "id": "KqtjTjDudH3g7KfO",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -137,7 +200,16 @@
       "applyTrigger": "jIGIWS0IsIigVEW7",
       "removeTrigger": "COMMKeT1hjfgYkYP",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "4KfK2KXJ4MMUygIT",
+          "type": "apply"
+        },
+        {
+          "id": "vkMCrsMeBsCBgdl8",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -154,7 +226,16 @@
       "applyTrigger": "UFfuScwlwdqJ0Jbm",
       "removeTrigger": "B7odxDjZYNsjjvRc",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "NBsGokbB0WHlbD5F",
+          "type": "apply"
+        },
+        {
+          "id": "z6L5RGE6qHMuFFfo",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -171,7 +252,16 @@
       "applyTrigger": "pjMv95q7XSsRJbJ6",
       "removeTrigger": "6MibPWsFRJDSvSdW",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "d7PKUh0o1oH7XLav",
+          "type": "apply"
+        },
+        {
+          "id": "Be4sDG59V6gHwYBo",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -188,7 +278,16 @@
       "applyTrigger": "Ahr5uwoB5oVYhkzB",
       "removeTrigger": "ac7Squz32GiVupDO",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "EnaIqgdntDlSuBvG",
+          "type": "apply"
+        },
+        {
+          "id": "EwaceN3eSStWBLNW",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -205,7 +304,16 @@
       "applyTrigger": "ZJRSnVMIjunXRuHj",
       "removeTrigger": "dLd5ka7mKLtcPmji",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "GUmQKItP4yx9UHgg",
+          "type": "apply"
+        },
+        {
+          "id": "6fqyi5HEUg4wroGd",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -222,7 +330,16 @@
       "applyTrigger": "7pbgYnd5Rk4pV5wR",
       "removeTrigger": "Mc0aX1B1jby71w7T",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "EPGsDmcBW66NPKW2",
+          "type": "apply"
+        },
+        {
+          "id": "S5F5YPl0i7UDrHiB",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -239,7 +356,16 @@
       "applyTrigger": "jDyV54XhADS4hfPM",
       "removeTrigger": "brWWUoJoqv4uDDmi",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "xVpFit5KhrY0pQm9",
+          "type": "apply"
+        },
+        {
+          "id": "OHKPDEguOZTx3Zfc",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },
@@ -256,7 +382,16 @@
       "applyTrigger": "brWWUoJoqv4uDDmi",
       "removeTrigger": "jDyV54XhADS4hfPM",
       "activeEffect": null,
-      "macros": [],
+      "macros": [
+        {
+          "id": "yIybyXEeqYCwy9xe",
+          "type": "apply"
+        },
+        {
+          "id": "OHKPDEguOZTx3Zfc",
+          "type": "remove"
+        }
+      ],
       "options": {
         "outputChat": false
       },

@@ -77,7 +77,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 #### Build Starting Sector Macro
 
 * Try out the [starting sector generation macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection. Look for it in the `Starforge Custom Macros` Compendium under `Macros by jendave`.
-* For full functionality, include the following modules:
+* For full functionality, install and activate the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
   * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
@@ -87,7 +87,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ### Custom Conditions Setup
 
-* Install the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
+* Install and activate  the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
 * Add the json files
 * Copy macros.
 
@@ -171,7 +171,7 @@ Licenses and permissions for the macros are listed in the source code.
 
 [game-icons.net](https://game-icons.net/) are licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
 
-malnutrition.svg - "Bowl of rice" by Caro Asercion under CC BY 3.0
+malnutrition.svg - "Bowl of rice" by Caro Asercion under CC BY 3.0.
 
 ## Resources
 
@@ -191,7 +191,7 @@ Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinp
 
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
-Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors.
+Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors. graygeist (Discord) also provided the idea for using the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module for the Impact and Combat Position token conditions.
 
 ### Modules
 
