@@ -1,15 +1,14 @@
-2025/11/15-20:52:12.486207 16df4f000 Recovering log #105
-2025/11/15-20:52:12.486830 16df4f000 Level-0 table #107: started
-2025/11/15-20:52:12.487508 16df4f000 Level-0 table #107: 48507 bytes OK
-2025/11/15-20:52:12.488095 16df4f000 Delete type=3 #104
-2025/11/15-20:52:12.488160 16df4f000 Delete type=0 #105
-2025/11/15-20:52:13.355110 16f88b000 Compacting 1@0 + 1@1 files
-2025/11/15-20:52:13.356518 16f88b000 Generated table #109@0: 283 keys, 131305 bytes
-2025/11/15-20:52:13.356529 16f88b000 Compacted 1@0 + 1@1 files => 131305 bytes
-2025/11/15-20:52:13.356612 16f88b000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/11/15-20:52:13.356656 16f88b000 Delete type=2 #89
-2025/11/15-20:52:13.356733 16f88b000 Delete type=2 #107
-2025/11/15-20:52:17.562002 16f88b000 Level-0 table #111: started
-2025/11/15-20:52:17.562021 16f88b000 Level-0 table #111: 0 bytes OK
-2025/11/15-20:52:17.562134 16f88b000 Delete type=0 #108
-2025/11/15-20:52:17.562208 16f88b000 Manual compaction at level-0 from '!folders!10B0cFjcFTeym7wO' @ 72057594037927935 : 1 .. '!journal.pages!xMEROaajMYWCf6A2.tHYkI8aH5bNnEaYF' @ 0 : 0; will stop at (end)
+2025/12/05-17:00:31.378242 1733c7000 Recovering log #254
+2025/12/05-17:00:31.378775 1733c7000 Delete type=0 #254
+2025/12/05-17:00:31.378822 1733c7000 Delete type=3 #252
+2025/12/07-15:25:51.199233 1744f7000 Level-0 table #259: started
+2025/12/07-15:25:51.201034 1744f7000 Level-0 table #259: 28154 bytes OK
+2025/12/07-15:25:51.201421 1744f7000 Delete type=0 #257
+2025/12/07-15:25:51.207695 1744f7000 Manual compaction at level-0 from '!folders!10B0cFjcFTeym7wO' @ 72057594037927935 : 1 .. '!journal.pages!xMEROaajMYWCf6A2.tHYkI8aH5bNnEaYF' @ 0 : 0; will stop at '!journal.pages!Zp5wKCfs4hcOoLAD.d4TWYIDxvAmGM0jm' @ 1909 : 1
+2025/12/07-15:25:51.207713 1744f7000 Compacting 1@0 + 1@1 files
+2025/12/07-15:25:51.210788 1744f7000 Generated table #260@0: 288 keys, 139508 bytes
+2025/12/07-15:25:51.210799 1744f7000 Compacted 1@0 + 1@1 files => 139508 bytes
+2025/12/07-15:25:51.210865 1744f7000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/07-15:25:51.210932 1744f7000 Delete type=2 #117
+2025/12/07-15:25:51.212063 1744f7000 Delete type=2 #259
+2025/12/07-15:25:51.215437 1744f7000 Manual compaction at level-0 from '!journal.pages!Zp5wKCfs4hcOoLAD.d4TWYIDxvAmGM0jm' @ 1909 : 1 .. '!journal.pages!xMEROaajMYWCf6A2.tHYkI8aH5bNnEaYF' @ 0 : 0; will stop at (end)
