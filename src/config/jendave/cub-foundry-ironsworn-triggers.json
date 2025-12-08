@@ -415,6 +415,36 @@
       "text": "system.combatPosition. = inControl",
       "value": "inControl",
       "operator": "eq"
+    },
+    {
+      "id": "HDPzsmosDdLcPv2r",
+      "triggerType": "advanced",
+      "advancedName": "system.combatPosition. <> inABadSpot",
+      "advancedActorProperty": "system.combatPosition",
+      "advancedActorProperty2": "",
+      "advancedTokenProperty": "",
+      "advancedTokenProperty2": "",
+      "advancedOperator": "ne",
+      "advancedValue": "inABadSpot",
+      "pcOnly": false,
+      "npcOnly": false,
+      "notZero": false,
+      "text": "system.combatPosition. <> inABadSpot"
+    },
+    {
+      "id": "heZzgyvhT5QuYtz2",
+      "triggerType": "advanced",
+      "advancedName": "system.combatPosition. <> inControl",
+      "advancedActorProperty": "system.combatPosition",
+      "advancedActorProperty2": "",
+      "advancedTokenProperty": "system.combatPosition",
+      "advancedTokenProperty2": "",
+      "advancedOperator": "ne",
+      "advancedValue": "inControl",
+      "pcOnly": false,
+      "npcOnly": false,
+      "notZero": false,
+      "text": "system.combatPosition. <> inControl"
     }
   ]
 }

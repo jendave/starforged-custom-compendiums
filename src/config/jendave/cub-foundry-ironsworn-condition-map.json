@@ -354,18 +354,9 @@
       "img": "modules/starforged-custom-oracles/assets/status/upgrade.svg",
       "reference": "",
       "applyTrigger": "jDyV54XhADS4hfPM",
-      "removeTrigger": "koVnaUU0hrtA0htv",
+      "removeTrigger": "heZzgyvhT5QuYtz2",
       "activeEffect": null,
-      "macros": [
-        {
-          "id": "xVpFit5KhrY0pQm9",
-          "type": "apply"
-        },
-        {
-          "id": "UL8zfzmGXVuQfSpF",
-          "type": "remove"
-        }
-      ],
+      "macros": [],
       "options": {
         "outputChat": false
       },
@@ -380,18 +371,9 @@
       "img": "modules/starforged-custom-oracles/assets/status/targeted.svg",
       "reference": "",
       "applyTrigger": "brWWUoJoqv4uDDmi",
-      "removeTrigger": "tzojULcwod3qtDq5",
+      "removeTrigger": "HDPzsmosDdLcPv2r",
       "activeEffect": null,
-      "macros": [
-        {
-          "id": "yIybyXEeqYCwy9xe",
-          "type": "apply"
-        },
-        {
-          "id": "AhiXtb3dAPTwWFXY",
-          "type": "remove"
-        }
-      ],
+      "macros": [],
       "options": {
         "outputChat": false
       },
