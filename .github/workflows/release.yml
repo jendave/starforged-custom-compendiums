@@ -114,6 +114,7 @@ jobs:
             LICENSE-Oracles                      \
             assets/                              \
             config/                              \
+            docs/                                \
             packs/                               
           
           # esmodules/                           \
