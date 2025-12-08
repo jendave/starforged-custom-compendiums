@@ -76,12 +76,13 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 #### Build Starting Sector Macro
 
-* Try out the [starting sector generation macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection. Look for it in the `Starforge Custom Macros` Compendium under `Macros by jendave`.
+* Use the [starting sector generation macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection. Look for it in the `Starforge Custom Macros` Compendium under `Macros by jendave`.
 * For full functionality, install and activate the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
   * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
   * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles) to use many more oracles.
+* Disabling `Game Settings` - `Automated Token Rotation` is highly recommended. Otherwise, the planets will move around unexpectedly relative to the settlements.
   
 ![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
 
@@ -91,14 +92,14 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 * Download the following files. The files can also be found in the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
   * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-condition-map.json)
   * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-triggers.json)
+  * **IMPORTANT** In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab. If this step is skipped, you will have to re-import the configurations below.
 * Go into the `Game Settings` - `Configure Settings` and select `Condition Lab & Triggler`
-  * Check the `Remove Default Status Effects` box.
+  * Enable the `Remove Default Status Effects` checkbox.
   * Click on the `Condition Lab` button. Then click on `Import` to bring up the file selection dialog.
   * Select the `Condition Lab Configuration` file. Click on `Save Mapping` button and close the dialog.
   * Click on the `Triggler Trigger` button. Then click on `Import` to bring up the file selection dialog.
   * Select the `Triggler Triggers Configuration` file. Click on `Save` button and close the dialog.
   * Click on the `Save Changes` button in the `Game Settings` dialog. The screen should refresh.
-* In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab.
 * The `Impacts & Combat Positions` functionality will also work with the [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn).
 
 ### Dependencies
