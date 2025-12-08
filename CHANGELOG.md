@@ -4,7 +4,9 @@
 
 ## [3.0.7](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-12-xx)
 
-* Add custom Conditions to Actor icons using [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler).
+* Added custom Conditions to Actor icons using [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler).
+  * [Installation instructions](https://github.com/jendave/starforged-custom-compendiums/tree/main#impacts-combat-positions-setup).
+  * Many thanks to graygeist (Discord) for the implementation idea.
 
 ## [3.0.6](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-18)
 
