@@ -90,7 +90,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 * Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
 * Download the following files. The files can also be found in the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
   * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-condition-map.json)
-  * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-starforged-development-triggers.json)
+  * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-triggers.json)
 * Go into the `Game Settings` - `Configure Settings` and select `Condition Lab & Triggler`
   * Check the `Remove Default Status Effects` box.
   * Click on the `Condition Lab` button. Then click on `Import` to bring up the file selection dialog.

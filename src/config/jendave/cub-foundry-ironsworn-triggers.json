@@ -429,7 +429,9 @@
       "pcOnly": false,
       "npcOnly": false,
       "notZero": false,
-      "text": "system.combatPosition. <> inABadSpot"
+      "text": "system.combatPosition. <> inABadSpot",
+      "value": "inABadSpot",
+      "operator": "ne"
     },
     {
       "id": "heZzgyvhT5QuYtz2",
@@ -444,7 +446,9 @@
       "pcOnly": false,
       "npcOnly": false,
       "notZero": false,
-      "text": "system.combatPosition. <> inControl"
+      "text": "system.combatPosition. <> inControl",
+      "value": "inControl",
+      "operator": "ne"
     }
   ]
 }
