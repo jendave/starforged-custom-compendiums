@@ -88,6 +88,8 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ### Impacts & Combat Positions Setup
 
+![Impacts & Combat Positions Icons](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/impacts-and-combat-positions.jpg?raw=true)
+
 * Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
 * **IMPORTANT** In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab. If this step is skipped and performed later, you will have to re-import the configuration files below.
 * Download the following files. The files can also be found in the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
