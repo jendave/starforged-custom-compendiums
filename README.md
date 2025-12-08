@@ -91,10 +91,16 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 ![Impacts & Combat Positions Icons](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/impacts-and-combat-positions.jpg?raw=true)
 
 * Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
-* **IMPORTANT** In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab. If this step is skipped and performed later, you will have to re-import the configuration files below.
-* Download the following files. The files can also be found in the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
-  * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-condition-map.json)
-  * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/src/config/jendave/cub-foundry-ironsworn-triggers.json)
+* **IMPORTANT** - In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab. If this step is skipped and performed later, you will have to re-import the configuration files below.
+* Get the `Condition Lab configuration files`. The files can be found several locations:
+  * Download the files using these links.
+    * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/config/cub-foundry-ironsworn-condition-map.json)
+    * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/config/cub-foundry-ironsworn-triggers.json)
+  * The files are in the module itself.
+    * In the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
+  * The files can be found in the installation package.
+    * They are also located in Foundry directory `/Data/modules/starforged-custom-oracles/config`
+    * And in the [latest release zip file](https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.zip) in the config directory.
 * Go into the `Game Settings` - `Configure Settings` and select `Condition Lab & Triggler`
   * Enable the `Remove Default Status Effects` checkbox.
   * Click on the `Condition Lab` button. Then click on `Import` to bring up the file selection dialog.

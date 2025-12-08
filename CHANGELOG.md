@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.8](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-12-08)
+
+* Added `Condition Lab & Triggler` config files to the release .zip file. Updated the installation documentation.
+
 ## [3.0.7](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-12-07)
 
 * Added custom Conditions to Actor icons using [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler).
