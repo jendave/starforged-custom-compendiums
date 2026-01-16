@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.9](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-01-16)
+
+* Added [Forger path](https://discord.com/channels/437120373436186625/470610624842301441/1461732117485457518) by Shawn Tomkin and everhaunted.
+
 ## [3.0.8](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-12-08)
 
 * Added `Condition Lab & Triggler` config files to the release .zip file. Updated the installation documentation.
