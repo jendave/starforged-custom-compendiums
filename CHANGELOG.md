@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.0.10](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-01-16)
+## [3.0.10](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-02-07)
 
 * Added [Bearer path asset](https://discord.com/channels/437120373436186625/470610624842301441/1469485084133556357) by Shawn Tomkin and dicegoblin.
 
