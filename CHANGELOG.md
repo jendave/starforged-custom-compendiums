@@ -4,7 +4,7 @@
 
 ## [3.0.11](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-02-26)
 
-* Verified for version v14.
+* Verified for Foundry v14.
 
 ## [3.0.10](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-02-07)
 
