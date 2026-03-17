@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.12](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-16)
+
+* Added [Pactbound path asset](https://discord.com/channels/437120373436186625/470610624842301441/1483105218181988382) by Shawn Tomkin and WolfJuggler.
+
 ## [3.0.11](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-02-26)
 
 * Verified for Foundry v14.
