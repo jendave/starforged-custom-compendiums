@@ -34,6 +34,35 @@ function parseTableResultToString(result) {
     return result.slice(openBrace + 1, closeBrace);
 }
 
+const ROLL_TWICE_LABEL = "Roll twice";
+
+function isRollTwiceResult(rawText) {
+    const t = (rawText ?? "").trim();
+    if (t === ROLL_TWICE_LABEL) return true;
+    if (t.includes("@Compendium") || t.includes("{")) {
+        return parseTableResultToString(t) === ROLL_TWICE_LABEL;
+    }
+    return false;
+}
+
+/** Guild, Fringe Group (type details), and Relationships tables include a "Roll twice" row. */
+async function rollTableResolvingRollTwice(table) {
+    const out = [];
+    async function addOneResolved() {
+        const roll = await table.roll();
+        const raw = roll.results[0].text;
+        if (isRollTwiceResult(raw)) {
+            console.log("rollTableResolvingRollTwice");
+            await addOneResolved();
+            await addOneResolved();
+        } else {
+            out.push(raw);
+        }
+    }
+    await addOneResolved();
+    return out;
+}
+
 const rollTablePrefix = "Compendium.foundry-ironsworn.starforgedoracles.RollTable.";
 const typeArray = ["9a3e1b0020e66ddb"];
 const influenceArray = ["5f8eb805b526f608"];
@@ -51,52 +80,76 @@ const dominionLeadershipArray = ["a57014c9aabe315a"];
 const guildArray = ["da3a6351fff54ef4"];
 const fringeGroupArray = ["f3403e14e9e6bd71"];
 
+function isActionPlusThemeCompound(rawText) {
+    if (!rawText || !/\s+\+\s+/.test(rawText)) return false;
+    return rawText.includes(actionArray[0]) && rawText.includes(themeArray[0]);
+}
+
+async function resolveActionThemeCompound(rawText) {
+    if (!isActionPlusThemeCompound(rawText)) return rawText;
+    const actionTable = await fromUuid(rollTablePrefix + randomArrayItem(actionArray));
+    const themeTable = await fromUuid(rollTablePrefix + randomArrayItem(themeArray));
+    const actionRoll = await actionTable.roll();
+    const themeRoll = await themeTable.roll();
+    console.log("isActionPlusThemeCompound: " + rawText);
+    return actionRoll.results[0].text + " " + themeRoll.results[0].text;
+}
+
+/** Projects, Quirks, and Rumors: roll 1–2 times (random), comma-separated. */
+async function rollTableOneOrTwoTimes(tableIdArray) {
+    const t = await fromUuid(rollTablePrefix + randomArrayItem(tableIdArray));
+    const rollCount = Math.floor(Math.random() * 2) + 1;
+    const parts = [];
+    for (let i = 0; i < rollCount; i++) {
+        const r = await t.roll();
+        parts.push(await resolveActionThemeCompound(r.results[0].text));
+    }
+    return parts.join(", ");
+}
+
 let table = await fromUuid(rollTablePrefix + randomArrayItem(typeArray));
 let roll = await table.roll();
 let type = roll.results[0].text;
 
 let typeDetailsArray = [];
 if (type.includes("@Compendium")) {
-    typeDetailsArray = [parseTableResultToUUID(type)];
+    typeDetailsArray.push(parseTableResultToUUID(type));
 }
 
+let typeDetails = "";
+if (typeDetailsArray.length > 0) {
+    table = await fromUuid(rollTablePrefix + randomArrayItem(typeDetailsArray));
+    let typeDetailsRolls = await rollTableResolvingRollTwice(table);
+    typeDetails = typeDetailsRolls.join("<br>");
+}
 
-//let typeDetailsTable2 = "";
-console.log("Type: " + parseTableResultToString(type));
-console.log("Type Details Array: " + typeDetailsArray);
+let dominion = "";
+let dominionLeadership = "";
 
-// switch (type) {
-//     case "Dominion":
-//         typeDetailsTable = dominionArray;
-//         typeDetailsTable2 = dominionLeadershipArray;
-//         break;
-//     case "Guild":
-//         typeDetailsTable = guildArray;
-//         break;
-//     case "Fringe Group":
-//         typeDetailsTable = fringeGroupArray;
-//         break;
-//     default:
-//         typeDetailsTable = "";
-// }
+if (parseTableResultToString(type).includes("Dominion")) {
+    table = await fromUuid(rollTablePrefix + randomArrayItem(dominionArray));
+    const dominionRollCount = Math.floor(Math.random() * 3) + 1;
+    const dominionParts = [];
+    for (let i = 0; i < dominionRollCount; i++) {
+        roll = await table.roll();
+        dominionParts.push(roll.results[0].text);
+    }
+    dominion = dominionParts.join(", ");
 
-table = await fromUuid(rollTablePrefix + randomArrayItem(typeDetailsArray));
-roll = await table.roll();
-let typeDetails = roll.results[0].text;
-
-console.log("Type Details: " + typeDetails);
+    table = await fromUuid(rollTablePrefix + randomArrayItem(dominionLeadershipArray));
+    roll = await table.roll();
+    dominionLeadership = roll.results[0].text;
+}
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(influenceArray));
 roll = await table.roll();
 let influence = roll.results[0].text;
 
-table = await fromUuid(rollTablePrefix + randomArrayItem(projectsArray));
-roll = await table.roll();
-let projects = roll.results[0].text;
+let projects = await rollTableOneOrTwoTimes(projectsArray);
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(relationshipsArray));
-roll = await table.roll();
-let relationships = roll.results[0].text;
+let relationshipsRolls = await rollTableResolvingRollTwice(table);
+let relationships = relationshipsRolls.join("<br>");
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(legacyArray));
 roll = await table.roll();
@@ -110,13 +163,9 @@ table = await fromUuid(rollTablePrefix + randomArrayItem(identitiesArray));
 roll = await table.roll();
 let identities = roll.results[0].text;
 
-table = await fromUuid(rollTablePrefix + randomArrayItem(quirksArray));
-roll = await table.roll();
-let quirks = roll.results[0].text;
+let quirks = await rollTableOneOrTwoTimes(quirksArray);
 
-table = await fromUuid(rollTablePrefix + randomArrayItem(rumorsArray));
-roll = await table.roll();
-let rumors = roll.results[0].text;
+let rumors = await rollTableOneOrTwoTimes(rumorsArray);
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(actionArray));
 roll = await table.roll();
@@ -126,8 +175,9 @@ table = await fromUuid(rollTablePrefix + randomArrayItem(themeArray));
 roll = await table.roll();
 let theme = roll.results[0].text;
 
+let typeDisplay = parseTableResultToString(type);
 let title = "<h3><strong>Generate Faction</strong></h3>";
-let message = "<br>Type: " + parseTableResultToString(type) + "<br><br> Type Details:  " + typeDetails + "<br><br> Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br> Legacy:  " + legacy + "<br><br> Affiliation:  " + affiliation + "<br><br> Identities:  " + identities + "<br><br> Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
+let message = "<br>Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominion ? "Dominion:  " + dominion + "<br><br>" : "") + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br> Legacy:  " + legacy + "<br><br> Affiliation:  " + affiliation + "<br><br> Identities:  " + identities + "<br><br> Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
 
 // Print the message
 printMessage(title + message);
