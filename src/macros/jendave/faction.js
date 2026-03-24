@@ -79,6 +79,7 @@ const dominionArray = ["e6552ca1c08225e6"];
 const dominionLeadershipArray = ["a57014c9aabe315a"];
 const guildArray = ["da3a6351fff54ef4"];
 const fringeGroupArray = ["f3403e14e9e6bd71"];
+const nameTemplateArray = ["9e9c1587cf1c98e1"];
 
 function isActionPlusThemeCompound(rawText) {
     if (!rawText || !/\s+\+\s+/.test(rawText)) return false;
@@ -141,6 +142,10 @@ if (parseTableResultToString(type).includes("Dominion")) {
     dominionLeadership = roll.results[0].text;
 }
 
+table = await fromUuid(rollTablePrefix + randomArrayItem(nameTemplateArray));
+roll = await table.roll();
+let nameTemplate = roll.results[0].text;
+
 table = await fromUuid(rollTablePrefix + randomArrayItem(influenceArray));
 roll = await table.roll();
 let influence = roll.results[0].text;
@@ -177,7 +182,7 @@ let theme = roll.results[0].text;
 
 let typeDisplay = parseTableResultToString(type);
 let title = "<h3><strong>Generate Faction</strong></h3>";
-let message = "<br>Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominion ? "Dominion:  " + dominion + "<br><br>" : "") + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br> Legacy:  " + legacy + "<br><br> Affiliation:  " + affiliation + "<br><br> Identities:  " + identities + "<br><br> Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
+let message = "<br> Name: " + nameTemplate + "<br><br> Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominion ? "Dominion:  " + dominion + "<br><br>" : "") + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br> Legacy:  " + legacy + "<br><br> Affiliation:  " + affiliation + "<br><br> Identities:  " + identities + "<br><br> Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
 
 // Print the message
 printMessage(title + message);
