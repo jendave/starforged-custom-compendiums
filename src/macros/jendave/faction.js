@@ -100,7 +100,7 @@ const guildArray = ["da3a6351fff54ef4"];
 const fringeGroupArray = ["f3403e14e9e6bd71"];
 const nameTemplateArray = ["9e9c1587cf1c98e1"];
 
-/** Turn `<em>of the</em>` / `<i>of the</i>` into plain `of the`; other markup is unchanged. */
+/** Turn italic "of the" wrappers into plain text; other markup is unchanged. */
 function normalizeNameTemplateLiterals(s) {
     const unwrapOfThe = (match, inner) => {
         const t = inner.replace(/\s+/g, " ").trim();
@@ -111,7 +111,22 @@ function normalizeNameTemplateLiterals(s) {
         .replace(/<\s*i\s*>([\s\S]*?)<\s*\/\s*i\s*>/gi, unwrapOfThe);
 }
 
-/** Replace each `@Compendium[...]{...}` with a roll on that table; literals pass through `normalizeNameTemplateLiterals`. One roll per link occurrence. Also aggregates Legacy / Affiliation / Identity rolls for the chat breakdown. */
+/** Strip leading/trailing br tags; remove p element wrappers from Foundry table HTML. */
+function sanitizeChatFieldHtml(s) {
+    let t = (s ?? "").trim();
+    const stripBrEdges = () => {
+        t = t.replace(/^(<br\s*\/?>\s*)+/gi, "");
+        t = t.replace(/(\s*<br\s*\/?>)+$/gi, "");
+        t = t.trim();
+    };
+    stripBrEdges();
+    t = t.replace(/<p\b[^>]*>/gi, "");
+    t = t.replace(/<\/p>/gi, " ");
+    stripBrEdges();
+    return t.trim();
+}
+
+/** Replace each compendium link with a table roll; literals pass through normalizeNameTemplateLiterals. */
 async function resolveNameTemplateWithRolls(text, uuidPrefix) {
     const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
     const legacyId = legacyArray[0];
@@ -276,7 +291,8 @@ let theme = roll.results[0].text;
 
 let typeDisplay = parseTableResultToString(type);
 let title = "<h3><strong>Generate Faction</strong></h3>";
-let message = "<br>Name: " + nameResolved + "<br><br> Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br>" + (legacy ? " Legacy:  " + legacy + "<br><br>" : "") + (affiliation ? " Affiliation:  " + affiliation + "<br><br>" : "") + (identities ? " Identities:  " + identities + "<br><br>" : "") + " Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
+let nameForMessage = sanitizeChatFieldHtml(nameResolved);
+let message = "<br>Name: " + nameForMessage + "<br><br>Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br>" + (legacy ? " Legacy:  " + legacy + "<br><br>" : "") + (affiliation ? " Affiliation:  " + affiliation + "<br><br>" : "") + (identities ? " Identities:  " + identities + "<br><br>" : "") + " Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
 
 // Print the message
 printMessage(title + message);
