@@ -150,15 +150,8 @@ if (type.includes("@Compendium")) {
     typeDetailsArray.push(parseTableResultToUUID(type));
 }
 
-let typeDetails = "";
-if (typeDetailsArray.length > 0) {
-    table = await fromUuid(rollTablePrefix + randomArrayItem(typeDetailsArray));
-    let typeDetailsRolls = await rollTableResolvingRollTwice(table);
-    typeDetails = typeDetailsRolls.join("<br>");
-}
-
-let dominion = "";
 let dominionLeadership = "";
+let typeDetails = "";
 
 if (parseTableResultToString(type).includes("Dominion")) {
     table = await fromUuid(rollTablePrefix + randomArrayItem(dominionArray));
@@ -168,11 +161,15 @@ if (parseTableResultToString(type).includes("Dominion")) {
         roll = await table.roll();
         dominionParts.push(roll.results[0].text);
     }
-    dominion = dominionParts.join(", ");
+    typeDetails = dominionParts.join(", ");
 
     table = await fromUuid(rollTablePrefix + randomArrayItem(dominionLeadershipArray));
     roll = await table.roll();
     dominionLeadership = roll.results[0].text;
+} else if (typeDetailsArray.length > 0) {
+    table = await fromUuid(rollTablePrefix + randomArrayItem(typeDetailsArray));
+    let typeDetailsRolls = await rollTableResolvingRollTwice(table);
+    typeDetails = typeDetailsRolls.join("<br>");
 }
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(nameTemplateArray));
@@ -208,7 +205,7 @@ let theme = roll.results[0].text;
 
 let typeDisplay = parseTableResultToString(type);
 let title = "<h3><strong>Generate Faction</strong></h3>";
-let message = "<br> Name: " + nameResolved + "<br><br> Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominion ? "Dominion:  " + dominion + "<br><br>" : "") + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br>" + (legacy ? " Legacy:  " + legacy + "<br><br>" : "") + (affiliation ? " Affiliation:  " + affiliation + "<br><br>" : "") + (identities ? " Identities:  " + identities + "<br><br>" : "") + " Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
+let message = "<br>Name: " + nameResolved + "<br><br> Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br>" + (legacy ? " Legacy:  " + legacy + "<br><br>" : "") + (affiliation ? " Affiliation:  " + affiliation + "<br><br>" : "") + (identities ? " Identities:  " + identities + "<br><br>" : "") + " Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
 
 // Print the message
 printMessage(title + message);
