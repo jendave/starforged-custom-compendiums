@@ -1,8 +1,43 @@
 // Macro by David Hudson under the MIT License.
+//
+// Extension: add RollTable document ids to the arrays in FACTION_ORACLES (one id per table).
+// When an array has multiple ids, a random table is used for that step.
+// Guild / fringe ids are reserved for future type-detail wiring; they are not rolled in this macro yet.
 
-// -----------------------------------------------------------------------------
-// Chat
-// -----------------------------------------------------------------------------
+// =============================================================================
+// Oracle pack configuration (edit here to point at other compendia or more tables)
+// =============================================================================
+
+const FACTION_ORACLES = {
+    rollTablePrefix: "Compendium.foundry-ironsworn.starforgedoracles.RollTable.",
+    ids: {
+        type: ["9a3e1b0020e66ddb"],
+        influence: ["5f8eb805b526f608"],
+        projects: ["0d4433612382146d"],
+        relationships: ["7c48ac6e6d1ff769"],
+        legacy: ["1bc0d594892867ed"],
+        affiliation: ["b6808ae6711d2c7b"],
+        identities: ["4873d9b03e06e901"],
+        quirks: ["fddeddbbad1bc62a"],
+        rumors: ["cfac08ca2345cbed"],
+        action: ["b347a87fb81a3abb"],
+        theme: ["0c5ce82c7adbb4e2"],
+        dominion: ["e6552ca1c08225e6"],
+        dominionLeadership: ["a57014c9aabe315a"],
+        guild: ["da3a6351fff54ef4"],
+        fringe: ["f3403e14e9e6bd71"],
+        nameTemplate: ["9e9c1587cf1c98e1"],
+    },
+};
+
+const FACTION_CHAT = {
+    title: "<h3><strong>Generate Faction</strong></h3>",
+    dominionLabelIncludes: "Dominion",
+};
+
+// =============================================================================
+// Chat utilities
+// =============================================================================
 
 function printMessage(message) {
     const chatData = { content: message };
@@ -14,11 +49,14 @@ function randomArrayItem(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-// -----------------------------------------------------------------------------
-// Compendium / table result parsing (Foundry enriched links)
-// -----------------------------------------------------------------------------
+function firstRollText(roll) {
+    return roll.results[0].text;
+}
 
-/** Document id from `@Compendium[path.to.id]{Label}`-style text (id after last dot in brackets). */
+// =============================================================================
+// Compendium link parsing
+// =============================================================================
+
 function parseTableResultToUUID(result) {
     const open = result.indexOf("[");
     const close = result.indexOf("]");
@@ -33,7 +71,6 @@ function parseTableResultToUUID(result) {
     return insideBrackets.slice(lastDot + 1);
 }
 
-/** Display label from `{Label}` suffix, if present. */
 function parseTableResultToString(result) {
     const openBrace = result.indexOf("{");
     const closeBrace = result.indexOf("}");
@@ -43,9 +80,9 @@ function parseTableResultToString(result) {
     return result.slice(openBrace + 1, closeBrace);
 }
 
-// -----------------------------------------------------------------------------
-// Comparing roll rows (HTML-aware, so duplicates are detected after strip)
-// -----------------------------------------------------------------------------
+// =============================================================================
+// Roll comparison and "Roll twice" handling
+// =============================================================================
 
 function stripRollTextForCompare(s) {
     return (s ?? "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
@@ -69,29 +106,21 @@ function isRollTwiceResult(rawText) {
     return false;
 }
 
-/**
- * Rolls until `raw` maps to a display string not already in `usedDisplayValues`, then appends it.
- * Used for dominion bundles, name-template links, and projects/quirks/rumors (with a mapper).
- */
 async function rollUniqueTableRow(table, usedDisplayValues, mapRawToDisplay = async (raw) => raw) {
     for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS; attempt++) {
-        const raw = (await table.roll()).results[0].text;
+        const raw = firstRollText(await table.roll());
         const display = await mapRawToDisplay(raw);
         if (!usedDisplayValues.some((x) => rollResultTextsEqual(x, display))) {
             usedDisplayValues.push(display);
             return display;
         }
     }
-    const raw = (await table.roll()).results[0].text;
+    const raw = firstRollText(await table.roll());
     const display = await mapRawToDisplay(raw);
     usedDisplayValues.push(display);
     return display;
 }
 
-/**
- * Guild / Fringe / Relationships: "Roll twice" expands recursively.
- * Resolved rows are de-duplicated when the same table produced them.
- */
 async function rollTableResolvingRollTwice(table) {
     const out = [];
 
@@ -99,8 +128,7 @@ async function rollTableResolvingRollTwice(table) {
         let raw = null;
         let placed = false;
         for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS && !placed; attempt++) {
-            const roll = await table.roll();
-            raw = roll.results[0].text;
+            raw = firstRollText(await table.roll());
             if (isRollTwiceResult(raw)) {
                 await addOneResolved();
                 await addOneResolved();
@@ -120,44 +148,39 @@ async function rollTableResolvingRollTwice(table) {
     return out;
 }
 
-// -----------------------------------------------------------------------------
-// Oracle pack: RollTable document ids (Compendium.foundry-ironsworn.starforgedoracles.RollTable.<id>)
-// -----------------------------------------------------------------------------
+// =============================================================================
+// RollTable helpers (use FACTION_ORACLES or pass another pack for reuse)
+// =============================================================================
 
-const rollTablePrefix = "Compendium.foundry-ironsworn.starforgedoracles.RollTable.";
-
-const typeArray = ["9a3e1b0020e66ddb"];
-const influenceArray = ["5f8eb805b526f608"];
-const projectsArray = ["0d4433612382146d"];
-const relationshipsArray = ["7c48ac6e6d1ff769"];
-const legacyArray = ["1bc0d594892867ed"];
-const affiliationArray = ["b6808ae6711d2c7b"];
-const identitiesArray = ["4873d9b03e06e901"];
-const quirksArray = ["fddeddbbad1bc62a"];
-const rumorsArray = ["cfac08ca2345cbed"];
-const actionArray = ["b347a87fb81a3abb"];
-const themeArray = ["0c5ce82c7adbb4e2"];
-const dominionArray = ["e6552ca1c08225e6"];
-const dominionLeadershipArray = ["a57014c9aabe315a"];
-const guildArray = ["da3a6351fff54ef4"];
-const fringeGroupArray = ["f3403e14e9e6bd71"];
-const nameTemplateArray = ["9e9c1587cf1c98e1"];
-
-function rollTableUuid(idArray) {
-    return rollTablePrefix + randomArrayItem(idArray);
+function rollTableFullUuid(oraclePack, idArray) {
+    return oraclePack.rollTablePrefix + randomArrayItem(idArray);
 }
 
-/** One RollTable draw: picks a random id from the array (for multi-table lists). */
-async function rollOnceFromIdArray(idArray) {
+async function getRollTable(oraclePack, idArray) {
+    return fromUuid(rollTableFullUuid(oraclePack, idArray));
+}
+
+/** Picks one random table from idArray and returns one row plus its document id. */
+async function rollOnceFromIdArray(oraclePack, idArray) {
     const id = randomArrayItem(idArray);
-    const t = await fromUuid(rollTablePrefix + id);
-    const r = await t.roll();
-    return { id, text: r.results[0].text };
+    const table = await fromUuid(oraclePack.rollTablePrefix + id);
+    const roll = await table.roll();
+    return { id, text: firstRollText(roll) };
 }
 
-// -----------------------------------------------------------------------------
-// Name template (HTML between oracle links + per-link rolls)
-// -----------------------------------------------------------------------------
+/** Rolls 1–N unique rows on the same table instance (e.g. Dominion 1–3 draws). */
+async function rollUniqueRowsSameTable(oraclePack, idArray, count, mapRaw = async (raw) => raw) {
+    const table = await getRollTable(oraclePack, idArray);
+    const parts = [];
+    for (let i = 0; i < count; i++) {
+        await rollUniqueTableRow(table, parts, mapRaw);
+    }
+    return parts;
+}
+
+// =============================================================================
+// Name template
+// =============================================================================
 
 function normalizeNameTemplateLiterals(s) {
     const unwrapOfThe = (match, inner) => {
@@ -183,15 +206,9 @@ function sanitizeChatFieldHtml(s) {
     return t.trim();
 }
 
-/**
- * Resolve each compendium link in the name template.
- * If `embeddedRolls[uuid]` is set (pre-rolled Legacy / Affiliation / Identity), that text is spliced in instead of rolling again.
- * Other links still roll on the table (de-dupe per table id within the name when rolling).
- */
-async function resolveNameTemplateWithRolls(text, uuidPrefix, embeddedRolls = {}) {
+async function resolveNameTemplateWithRolls(text, oraclePack, embeddedRolls = {}) {
     const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
     const seenByRollTableUuid = new Map();
-
     let out = "";
     let lastIndex = 0;
     let m;
@@ -206,7 +223,7 @@ async function resolveNameTemplateWithRolls(text, uuidPrefix, embeddedRolls = {}
         if (Object.prototype.hasOwnProperty.call(embeddedRolls, uuid)) {
             rowText = embeddedRolls[uuid];
         } else {
-            const table = await fromUuid(uuidPrefix + uuid);
+            const table = await fromUuid(oraclePack.rollTablePrefix + uuid);
             if (!seenByRollTableUuid.has(uuid)) {
                 seenByRollTableUuid.set(uuid, []);
             }
@@ -215,7 +232,6 @@ async function resolveNameTemplateWithRolls(text, uuidPrefix, embeddedRolls = {}
         }
 
         out += rowText;
-
         lastIndex = m.index + m[0].length;
     }
 
@@ -223,130 +239,152 @@ async function resolveNameTemplateWithRolls(text, uuidPrefix, embeddedRolls = {}
     return { text: out };
 }
 
-// -----------------------------------------------------------------------------
-// Action + Theme placeholder row on some tables
-// -----------------------------------------------------------------------------
+// =============================================================================
+// Action + Theme compound row (projects / quirks / rumors)
+// =============================================================================
 
-function isActionPlusThemeCompound(rawText) {
+function isActionPlusThemeCompound(oraclePack, rawText) {
+    const { action, theme } = oraclePack.ids;
     if (!rawText || !/\s+\+\s+/.test(rawText)) {
         return false;
     }
-    return rawText.includes(actionArray[0]) && rawText.includes(themeArray[0]);
+    return rawText.includes(action[0]) && rawText.includes(theme[0]);
 }
 
-async function resolveActionThemeCompound(rawText) {
-    if (!isActionPlusThemeCompound(rawText)) {
+async function resolveActionThemeCompound(oraclePack, rawText) {
+    if (!isActionPlusThemeCompound(oraclePack, rawText)) {
         return rawText;
     }
-    const actionTable = await fromUuid(rollTableUuid(actionArray));
-    const themeTable = await fromUuid(rollTableUuid(themeArray));
-    const actionRoll = await actionTable.roll();
-    const themeRoll = await themeTable.roll();
-    return actionRoll.results[0].text + " " + themeRoll.results[0].text;
+    const actionTable = await getRollTable(oraclePack, oraclePack.ids.action);
+    const themeTable = await getRollTable(oraclePack, oraclePack.ids.theme);
+    return `${firstRollText(await actionTable.roll())} ${firstRollText(await themeTable.roll())}`;
 }
 
-/** 1–2 rolls on the same table, comma-separated; second row never duplicates the first (best effort). */
-async function rollTableOneOrTwoTimes(tableIdArray) {
-    const table = await fromUuid(rollTableUuid(tableIdArray));
+async function rollTableOneOrTwoTimes(oraclePack, idArrayKey) {
+    const idArray = oraclePack.ids[idArrayKey];
+    const table = await getRollTable(oraclePack, idArray);
     const rollCount = Math.floor(Math.random() * 2) + 1;
     const parts = [];
+    const mapper = (raw) => resolveActionThemeCompound(oraclePack, raw);
     for (let i = 0; i < rollCount; i++) {
-        await rollUniqueTableRow(table, parts, resolveActionThemeCompound);
+        await rollUniqueTableRow(table, parts, mapper);
     }
     return parts.join(", ");
 }
 
-// -----------------------------------------------------------------------------
-// Main macro
-// -----------------------------------------------------------------------------
+// =============================================================================
+// Faction-specific steps (compose from oracle pack + chat labels)
+// =============================================================================
 
-let table = await fromUuid(rollTableUuid(typeArray));
-let roll = await table.roll();
-let type = roll.results[0].text;
+async function rollFactionTypeAndDetails(oraclePack, typeRollText) {
+    const { ids } = oraclePack;
+    const typeLabel = parseTableResultToString(typeRollText);
+    let typeDetails = "";
+    let dominionLeadership = "";
 
-let typeDetailsArray = [];
-if (type.includes("@Compendium")) {
-    typeDetailsArray.push(parseTableResultToUUID(type));
-}
+    const typeDetailUuid = typeRollText.includes("@Compendium") ? parseTableResultToUUID(typeRollText) : null;
+    const typeDetailsCandidates = typeDetailUuid ? [typeDetailUuid] : [];
 
-let dominionLeadership = "";
-let typeDetails = "";
-
-const typeLabel = parseTableResultToString(type);
-
-if (typeLabel.includes("Dominion")) {
-    table = await fromUuid(rollTableUuid(dominionArray));
-    const dominionRollCount = Math.floor(Math.random() * 3) + 1;
-    const dominionParts = [];
-    for (let i = 0; i < dominionRollCount; i++) {
-        await rollUniqueTableRow(table, dominionParts, async (raw) => raw);
+    if (typeLabel.includes(FACTION_CHAT.dominionLabelIncludes)) {
+        const dominionCount = Math.floor(Math.random() * 3) + 1;
+        const dominionParts = await rollUniqueRowsSameTable(oraclePack, ids.dominion, dominionCount, async (raw) => raw);
+        typeDetails = dominionParts.join(", ");
+        const leadTable = await getRollTable(oraclePack, ids.dominionLeadership);
+        dominionLeadership = firstRollText(await leadTable.roll());
+    } else if (typeDetailsCandidates.length > 0) {
+        const table = await fromUuid(oraclePack.rollTablePrefix + randomArrayItem(typeDetailsCandidates));
+        const typeDetailsRolls = await rollTableResolvingRollTwice(table);
+        typeDetails = typeDetailsRolls.join(", ");
     }
-    typeDetails = dominionParts.join(", ");
 
-    table = await fromUuid(rollTableUuid(dominionLeadershipArray));
-    roll = await table.roll();
-    dominionLeadership = roll.results[0].text;
-} else if (typeDetailsArray.length > 0) {
-    table = await fromUuid(rollTableUuid(typeDetailsArray));
-    const typeDetailsRolls = await rollTableResolvingRollTwice(table);
-    typeDetails = typeDetailsRolls.join(", ");
+    return { typeLabel, typeDetails, dominionLeadership };
 }
 
-const legacyRoll = await rollOnceFromIdArray(legacyArray);
-const legacy = legacyRoll.text;
-const affiliationRoll = await rollOnceFromIdArray(affiliationArray);
-const affiliation = affiliationRoll.text;
-const identitiesRoll = await rollOnceFromIdArray(identitiesArray);
-const identities = identitiesRoll.text;
-
-const embeddedRolls = {
-    [legacyRoll.id]: legacy,
-    [affiliationRoll.id]: affiliation,
-    [identitiesRoll.id]: identities,
-};
-
-table = await fromUuid(rollTableUuid(nameTemplateArray));
-roll = await table.roll();
-const nameTemplate = roll.results[0].text;
-const { text: nameResolved } = await resolveNameTemplateWithRolls(nameTemplate, rollTablePrefix, embeddedRolls);
-
-table = await fromUuid(rollTableUuid(influenceArray));
-roll = await table.roll();
-const influence = roll.results[0].text;
-
-const projects = await rollTableOneOrTwoTimes(projectsArray);
-
-table = await fromUuid(rollTableUuid(relationshipsArray));
-const relationshipsRolls = await rollTableResolvingRollTwice(table);
-const relationships = relationshipsRolls.join("<br>");
-
-const quirks = await rollTableOneOrTwoTimes(quirksArray);
-const rumors = await rollTableOneOrTwoTimes(rumorsArray);
-
-const title = "<h3><strong>Generate Faction</strong></h3>";
-const nameForMessage = sanitizeChatFieldHtml(nameResolved);
-
-const messageSections = [
-    `<br>Name: ${nameForMessage}`,
-    `<br><br>Type: ${typeLabel}`,
-    `<br><br> Type Details:  ${typeDetails}`,
-];
-
-if (dominionLeadership) {
-    messageSections.push(`<br><br>Dominion Leadership:  ${dominionLeadership}`);
+async function preRollLegacyAffiliationIdentityForName(oraclePack) {
+    const { ids } = oraclePack;
+    const legacyRoll = await rollOnceFromIdArray(oraclePack, ids.legacy);
+    const affiliationRoll = await rollOnceFromIdArray(oraclePack, ids.affiliation);
+    const identitiesRoll = await rollOnceFromIdArray(oraclePack, ids.identities);
+    const embeddedRolls = {
+        [legacyRoll.id]: legacyRoll.text,
+        [affiliationRoll.id]: affiliationRoll.text,
+        [identitiesRoll.id]: identitiesRoll.text,
+    };
+    return {
+        legacy: legacyRoll.text,
+        affiliation: affiliationRoll.text,
+        identities: identitiesRoll.text,
+        embeddedRolls,
+    };
 }
 
-messageSections.push(
-    `<br><br> Influence:  ${influence}`,
-    `<br><br> Projects:  ${projects}`,
-    `<br><br> Relationships:  ${relationships}`,
-    `<br><br> Legacy:  ${legacy}`,
-    `<br><br> Affiliation:  ${affiliation}`,
-    `<br><br> Identities:  ${identities}`,
-    `<br><br> Quirks:  ${quirks}`,
-    `<br><br> Rumors:  ${rumors}`,
-);
+function buildFactionMessageBody(fields) {
+    const parts = [
+        `<br>Name: ${fields.nameForMessage}`,
+        `<br><br>Type: ${fields.typeLabel}`,
+        `<br><br> Type Details:  ${fields.typeDetails}`,
+    ];
+    if (fields.dominionLeadership) {
+        parts.push(`<br><br>Dominion Leadership:  ${fields.dominionLeadership}`);
+    }
+    parts.push(
+        `<br><br> Influence:  ${fields.influence}`,
+        `<br><br> Projects:  ${fields.projects}`,
+        `<br><br> Relationships:  ${fields.relationships}`,
+        `<br><br> Legacy:  ${fields.legacy}`,
+        `<br><br> Affiliation:  ${fields.affiliation}`,
+        `<br><br> Identities:  ${fields.identities}`,
+        `<br><br> Quirks:  ${fields.quirks}`,
+        `<br><br> Rumors:  ${fields.rumors}`,
+    );
+    return parts.join("");
+}
 
-const message = messageSections.join("");
+// =============================================================================
+// Main entry (call with FACTION_ORACLES or a copy with different ids)
+// =============================================================================
 
-printMessage(title + message);
+async function runFactionGenerator(oraclePack = FACTION_ORACLES) {
+    const { ids } = oraclePack;
+
+    const typeTable = await getRollTable(oraclePack, ids.type);
+    const typeRollText = firstRollText(await typeTable.roll());
+
+    const { typeLabel, typeDetails, dominionLeadership } = await rollFactionTypeAndDetails(oraclePack, typeRollText);
+
+    const { legacy, affiliation, identities, embeddedRolls } = await preRollLegacyAffiliationIdentityForName(oraclePack);
+
+    const nameTemplateTable = await getRollTable(oraclePack, ids.nameTemplate);
+    const nameTemplate = firstRollText(await nameTemplateTable.roll());
+    const { text: nameResolved } = await resolveNameTemplateWithRolls(nameTemplate, oraclePack, embeddedRolls);
+
+    const influenceTable = await getRollTable(oraclePack, ids.influence);
+    const influence = firstRollText(await influenceTable.roll());
+
+    const projects = await rollTableOneOrTwoTimes(oraclePack, "projects");
+
+    const relationshipsTable = await getRollTable(oraclePack, ids.relationships);
+    const relationships = (await rollTableResolvingRollTwice(relationshipsTable)).join("<br>");
+
+    const quirks = await rollTableOneOrTwoTimes(oraclePack, "quirks");
+    const rumors = await rollTableOneOrTwoTimes(oraclePack, "rumors");
+
+    const message = buildFactionMessageBody({
+        nameForMessage: sanitizeChatFieldHtml(nameResolved),
+        typeLabel,
+        typeDetails,
+        dominionLeadership,
+        influence,
+        projects,
+        relationships,
+        legacy,
+        affiliation,
+        identities,
+        quirks,
+        rumors,
+    });
+
+    printMessage(FACTION_CHAT.title + message);
+}
+
+await runFactionGenerator(FACTION_ORACLES);
