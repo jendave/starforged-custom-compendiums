@@ -147,6 +147,14 @@ function rollTableUuid(idArray) {
     return rollTablePrefix + randomArrayItem(idArray);
 }
 
+/** One RollTable draw: picks a random id from the array (for multi-table lists). */
+async function rollOnceFromIdArray(idArray) {
+    const id = randomArrayItem(idArray);
+    const t = await fromUuid(rollTablePrefix + id);
+    const r = await t.roll();
+    return { id, text: r.results[0].text };
+}
+
 // -----------------------------------------------------------------------------
 // Name template (HTML between oracle links + per-link rolls)
 // -----------------------------------------------------------------------------
@@ -176,18 +184,12 @@ function sanitizeChatFieldHtml(s) {
 }
 
 /**
- * Resolve each compendium link in the name template (de-dupe per table id within the name).
- * Also collects Legacy / Affiliation / Identity rows for chat when those links appear.
+ * Resolve each compendium link in the name template.
+ * If `embeddedRolls[uuid]` is set (pre-rolled Legacy / Affiliation / Identity), that text is spliced in instead of rolling again.
+ * Other links still roll on the table (de-dupe per table id within the name when rolling).
  */
-async function resolveNameTemplateWithRolls(text, uuidPrefix) {
+async function resolveNameTemplateWithRolls(text, uuidPrefix, embeddedRolls = {}) {
     const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
-    const legacyId = legacyArray[0];
-    const affiliationId = affiliationArray[0];
-    const identitiesId = identitiesArray[0];
-
-    const legacyParts = [];
-    const affiliationParts = [];
-    const identitiesParts = [];
     const seenByRollTableUuid = new Map();
 
     let out = "";
@@ -200,32 +202,25 @@ async function resolveNameTemplateWithRolls(text, uuidPrefix) {
         }
 
         const uuid = parseTableResultToUUID(m[0]);
-        const table = await fromUuid(uuidPrefix + uuid);
-        if (!seenByRollTableUuid.has(uuid)) {
-            seenByRollTableUuid.set(uuid, []);
+        let rowText;
+        if (Object.prototype.hasOwnProperty.call(embeddedRolls, uuid)) {
+            rowText = embeddedRolls[uuid];
+        } else {
+            const table = await fromUuid(uuidPrefix + uuid);
+            if (!seenByRollTableUuid.has(uuid)) {
+                seenByRollTableUuid.set(uuid, []);
+            }
+            const seenForTable = seenByRollTableUuid.get(uuid);
+            rowText = await rollUniqueTableRow(table, seenForTable, async (raw) => raw);
         }
-        const seenForTable = seenByRollTableUuid.get(uuid);
-        const rowText = await rollUniqueTableRow(table, seenForTable, async (raw) => raw);
 
         out += rowText;
-        if (uuid === legacyId) {
-            legacyParts.push(rowText);
-        } else if (uuid === affiliationId) {
-            affiliationParts.push(rowText);
-        } else if (uuid === identitiesId) {
-            identitiesParts.push(rowText);
-        }
 
         lastIndex = m.index + m[0].length;
     }
 
     out += normalizeNameTemplateLiterals(text.slice(lastIndex));
-    return {
-        text: out,
-        legacy: legacyParts.join(", "),
-        affiliation: affiliationParts.join(", "),
-        identities: identitiesParts.join(", "),
-    };
+    return { text: out };
 }
 
 // -----------------------------------------------------------------------------
@@ -297,14 +292,23 @@ if (typeLabel.includes("Dominion")) {
     typeDetails = typeDetailsRolls.join(", ");
 }
 
+const legacyRoll = await rollOnceFromIdArray(legacyArray);
+const legacy = legacyRoll.text;
+const affiliationRoll = await rollOnceFromIdArray(affiliationArray);
+const affiliation = affiliationRoll.text;
+const identitiesRoll = await rollOnceFromIdArray(identitiesArray);
+const identities = identitiesRoll.text;
+
+const embeddedRolls = {
+    [legacyRoll.id]: legacy,
+    [affiliationRoll.id]: affiliation,
+    [identitiesRoll.id]: identities,
+};
+
 table = await fromUuid(rollTableUuid(nameTemplateArray));
 roll = await table.roll();
 const nameTemplate = roll.results[0].text;
-const nameResolvedResult = await resolveNameTemplateWithRolls(nameTemplate, rollTablePrefix);
-const nameResolved = nameResolvedResult.text;
-const legacy = nameResolvedResult.legacy;
-const affiliation = nameResolvedResult.affiliation;
-const identities = nameResolvedResult.identities;
+const { text: nameResolved } = await resolveNameTemplateWithRolls(nameTemplate, rollTablePrefix, embeddedRolls);
 
 table = await fromUuid(rollTableUuid(influenceArray));
 roll = await table.roll();
@@ -336,19 +340,12 @@ messageSections.push(
     `<br><br> Influence:  ${influence}`,
     `<br><br> Projects:  ${projects}`,
     `<br><br> Relationships:  ${relationships}`,
+    `<br><br> Legacy:  ${legacy}`,
+    `<br><br> Affiliation:  ${affiliation}`,
+    `<br><br> Identities:  ${identities}`,
+    `<br><br> Quirks:  ${quirks}`,
+    `<br><br> Rumors:  ${rumors}`,
 );
-
-if (legacy) {
-    messageSections.push(`<br><br> Legacy:  ${legacy}`);
-}
-if (affiliation) {
-    messageSections.push(`<br><br> Affiliation:  ${affiliation}`);
-}
-if (identities) {
-    messageSections.push(`<br><br> Identities:  ${identities}`);
-}
-
-messageSections.push(`<br><br> Quirks:  ${quirks}`, `<br><br> Rumors:  ${rumors}`);
 
 const message = messageSections.join("");
 
