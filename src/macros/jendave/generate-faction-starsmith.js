@@ -20,7 +20,7 @@ const FACTION_ORACLES = {
         nameTemplate: "Compendium.foundry-ironsworn.starforgedoracles.RollTable.",
     },
     ids: {
-        type: ["jrxDHQYEuB6XayQB"],
+        type: ["jrxDHQYEuB6XayQB", "tvatzl8nPjjuAAgm", "jAQFBWOxlwoqbkvz"],
         influence: ["5f8eb805b526f608"],
         projects: ["OwLUXvgCKzKEa1wr", "69hcmdT5pjf2F1IU", "7VdNGiCm6peWzLMr"],
         relationships: ["Lh2QRYQ2jkRnEI4m", "tlrca4lQsFIZ8IwZ", "tRYvWAQqU7xkpJYu"],
@@ -36,6 +36,12 @@ const FACTION_ORACLES = {
         guild: ["k3ylcTmv45qOhxMM", "39brIk5GOHXK0Gqw", "PDnjZEt9uprBcXoY"],
         fringe: ["mhQqIfHi4ldU6lk3", "UE6b4kAluQqrAGUO", "yjYdyPveqyWUOgwF"],
         nameTemplate: ["9e9c1587cf1c98e1"],
+        aihive: ["u1MRVAikLO9ZUn05"],
+        corporationfield: ["FDvT6fPqV2zshZRQ"],
+        military: ["HvKV3pycO2gyqB92"],
+        religious: ["KAFl5CXZdfKUmt9J"],
+        researchgroup: ["AVjqygbVDncdAY0P"],
+        dataharvesters: ["IQxQ2I356Vz0TSGB"],
     },
 };
 
