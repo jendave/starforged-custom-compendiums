@@ -34,6 +34,16 @@ function parseTableResultToString(result) {
     return result.slice(openBrace + 1, closeBrace);
 }
 
+function stripRollTextForCompare(s) {
+    return (s ?? "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+}
+
+function rollResultTextsEqual(a, b) {
+    return stripRollTextForCompare(a) === stripRollTextForCompare(b);
+}
+
+const ROLL_TWICE_MAX_UNIQUE_ATTEMPTS = 200;
+
 const ROLL_TWICE_LABEL = "Roll twice";
 
 function isRollTwiceResult(rawText) {
@@ -45,16 +55,26 @@ function isRollTwiceResult(rawText) {
     return false;
 }
 
-/** Guild, Fringe Group (type details), and Relationships tables include a "Roll twice" row. */
+/** Guild, Fringe Group (type details), and Relationships tables include a "Roll twice" row. Multiple resolved rows on the same table are never duplicates (best effort). */
 async function rollTableResolvingRollTwice(table) {
     const out = [];
     async function addOneResolved() {
-        const roll = await table.roll();
-        const raw = roll.results[0].text;
-        if (isRollTwiceResult(raw)) {
-            await addOneResolved();
-            await addOneResolved();
-        } else {
+        let raw = null;
+        let placed = false;
+        for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS && !placed; attempt++) {
+            const roll = await table.roll();
+            raw = roll.results[0].text;
+            if (isRollTwiceResult(raw)) {
+                await addOneResolved();
+                await addOneResolved();
+                return;
+            }
+            if (!out.some((t) => rollResultTextsEqual(t, raw))) {
+                out.push(raw);
+                placed = true;
+            }
+        }
+        if (!placed && raw !== null && !isRollTwiceResult(raw)) {
             out.push(raw);
         }
     }
@@ -80,7 +100,18 @@ const guildArray = ["da3a6351fff54ef4"];
 const fringeGroupArray = ["f3403e14e9e6bd71"];
 const nameTemplateArray = ["9e9c1587cf1c98e1"];
 
-/** Replace each `@Compendium[...]{...}` with a roll on that table; literals (e.g. `<em>of the</em>`) are kept. One roll per link occurrence. Also aggregates Legacy / Affiliation / Identity rolls for the chat breakdown. */
+/** Turn `<em>of the</em>` / `<i>of the</i>` into plain `of the`; other markup is unchanged. */
+function normalizeNameTemplateLiterals(s) {
+    const unwrapOfThe = (match, inner) => {
+        const t = inner.replace(/\s+/g, " ").trim();
+        return t.toLowerCase() === "of the" ? "of the" : match;
+    };
+    return s
+        .replace(/<\s*em\s*>([\s\S]*?)<\s*\/\s*em\s*>/gi, unwrapOfThe)
+        .replace(/<\s*i\s*>([\s\S]*?)<\s*\/\s*i\s*>/gi, unwrapOfThe);
+}
+
+/** Replace each `@Compendium[...]{...}` with a roll on that table; literals pass through `normalizeNameTemplateLiterals`. One roll per link occurrence. Also aggregates Legacy / Affiliation / Identity rolls for the chat breakdown. */
 async function resolveNameTemplateWithRolls(text, uuidPrefix) {
     const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
     const legacyId = legacyArray[0];
@@ -89,24 +120,40 @@ async function resolveNameTemplateWithRolls(text, uuidPrefix) {
     const legacyParts = [];
     const affiliationParts = [];
     const identitiesParts = [];
+    const seenByRollTableUuid = new Map();
     let out = "";
     let lastIndex = 0;
     let m;
     while ((m = linkRe.exec(text)) !== null) {
         if (m.index > lastIndex) {
-            out += text.slice(lastIndex, m.index);
+            out += normalizeNameTemplateLiterals(text.slice(lastIndex, m.index));
         }
         const uuid = parseTableResultToUUID(m[0]);
         const t = await fromUuid(uuidPrefix + uuid);
-        const r = await t.roll();
-        const rowText = r.results[0].text;
+        if (!seenByRollTableUuid.has(uuid)) seenByRollTableUuid.set(uuid, []);
+        const seenForTable = seenByRollTableUuid.get(uuid);
+        let rowText;
+        let gotUnique = false;
+        for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS && !gotUnique; attempt++) {
+            const r = await t.roll();
+            rowText = r.results[0].text;
+            if (!seenForTable.some((prev) => rollResultTextsEqual(prev, rowText))) {
+                seenForTable.push(rowText);
+                gotUnique = true;
+            }
+        }
+        if (!gotUnique) {
+            const r = await t.roll();
+            rowText = r.results[0].text;
+            seenForTable.push(rowText);
+        }
         out += rowText;
         if (uuid === legacyId) legacyParts.push(rowText);
         else if (uuid === affiliationId) affiliationParts.push(rowText);
         else if (uuid === identitiesId) identitiesParts.push(rowText);
         lastIndex = m.index + m[0].length;
     }
-    out += text.slice(lastIndex);
+    out += normalizeNameTemplateLiterals(text.slice(lastIndex));
     return {
         text: out,
         legacy: legacyParts.join(", "),
@@ -129,14 +176,27 @@ async function resolveActionThemeCompound(rawText) {
     return actionRoll.results[0].text + " " + themeRoll.results[0].text;
 }
 
-/** Projects, Quirks, and Rumors: roll 1–2 times (random), comma-separated. */
+/** Projects, Quirks, and Rumors: roll 1–2 times (random), comma-separated; no duplicate results when rolled twice. */
 async function rollTableOneOrTwoTimes(tableIdArray) {
     const t = await fromUuid(rollTablePrefix + randomArrayItem(tableIdArray));
     const rollCount = Math.floor(Math.random() * 2) + 1;
     const parts = [];
     for (let i = 0; i < rollCount; i++) {
-        const r = await t.roll();
-        parts.push(await resolveActionThemeCompound(r.results[0].text));
+        let resolved;
+        let placed = false;
+        for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS && !placed; attempt++) {
+            const r = await t.roll();
+            resolved = await resolveActionThemeCompound(r.results[0].text);
+            if (!parts.some((p) => rollResultTextsEqual(p, resolved))) {
+                parts.push(resolved);
+                placed = true;
+            }
+        }
+        if (!placed) {
+            const r = await t.roll();
+            resolved = await resolveActionThemeCompound(r.results[0].text);
+            parts.push(resolved);
+        }
     }
     return parts.join(", ");
 }
@@ -158,8 +218,19 @@ if (parseTableResultToString(type).includes("Dominion")) {
     const dominionRollCount = Math.floor(Math.random() * 3) + 1;
     const dominionParts = [];
     for (let i = 0; i < dominionRollCount; i++) {
-        roll = await table.roll();
-        dominionParts.push(roll.results[0].text);
+        let placed = false;
+        for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS && !placed; attempt++) {
+            roll = await table.roll();
+            const txt = roll.results[0].text;
+            if (!dominionParts.some((p) => rollResultTextsEqual(p, txt))) {
+                dominionParts.push(txt);
+                placed = true;
+            }
+        }
+        if (!placed) {
+            roll = await table.roll();
+            dominionParts.push(roll.results[0].text);
+        }
     }
     typeDetails = dominionParts.join(", ");
 
