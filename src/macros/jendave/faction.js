@@ -52,7 +52,6 @@ async function rollTableResolvingRollTwice(table) {
         const roll = await table.roll();
         const raw = roll.results[0].text;
         if (isRollTwiceResult(raw)) {
-            console.log("rollTableResolvingRollTwice");
             await addOneResolved();
             await addOneResolved();
         } else {
@@ -81,6 +80,41 @@ const guildArray = ["da3a6351fff54ef4"];
 const fringeGroupArray = ["f3403e14e9e6bd71"];
 const nameTemplateArray = ["9e9c1587cf1c98e1"];
 
+/** Replace each `@Compendium[...]{...}` with a roll on that table; literals (e.g. `<em>of the</em>`) are kept. One roll per link occurrence. Also aggregates Legacy / Affiliation / Identity rolls for the chat breakdown. */
+async function resolveNameTemplateWithRolls(text, uuidPrefix) {
+    const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
+    const legacyId = legacyArray[0];
+    const affiliationId = affiliationArray[0];
+    const identitiesId = identitiesArray[0];
+    const legacyParts = [];
+    const affiliationParts = [];
+    const identitiesParts = [];
+    let out = "";
+    let lastIndex = 0;
+    let m;
+    while ((m = linkRe.exec(text)) !== null) {
+        if (m.index > lastIndex) {
+            out += text.slice(lastIndex, m.index);
+        }
+        const uuid = parseTableResultToUUID(m[0]);
+        const t = await fromUuid(uuidPrefix + uuid);
+        const r = await t.roll();
+        const rowText = r.results[0].text;
+        out += rowText;
+        if (uuid === legacyId) legacyParts.push(rowText);
+        else if (uuid === affiliationId) affiliationParts.push(rowText);
+        else if (uuid === identitiesId) identitiesParts.push(rowText);
+        lastIndex = m.index + m[0].length;
+    }
+    out += text.slice(lastIndex);
+    return {
+        text: out,
+        legacy: legacyParts.join(", "),
+        affiliation: affiliationParts.join(", "),
+        identities: identitiesParts.join(", "),
+    };
+}
+
 function isActionPlusThemeCompound(rawText) {
     if (!rawText || !/\s+\+\s+/.test(rawText)) return false;
     return rawText.includes(actionArray[0]) && rawText.includes(themeArray[0]);
@@ -92,7 +126,6 @@ async function resolveActionThemeCompound(rawText) {
     const themeTable = await fromUuid(rollTablePrefix + randomArrayItem(themeArray));
     const actionRoll = await actionTable.roll();
     const themeRoll = await themeTable.roll();
-    console.log("isActionPlusThemeCompound: " + rawText);
     return actionRoll.results[0].text + " " + themeRoll.results[0].text;
 }
 
@@ -145,6 +178,11 @@ if (parseTableResultToString(type).includes("Dominion")) {
 table = await fromUuid(rollTablePrefix + randomArrayItem(nameTemplateArray));
 roll = await table.roll();
 let nameTemplate = roll.results[0].text;
+let nameResolvedResult = await resolveNameTemplateWithRolls(nameTemplate, rollTablePrefix);
+let nameResolved = nameResolvedResult.text;
+let legacy = nameResolvedResult.legacy;
+let affiliation = nameResolvedResult.affiliation;
+let identities = nameResolvedResult.identities;
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(influenceArray));
 roll = await table.roll();
@@ -155,18 +193,6 @@ let projects = await rollTableOneOrTwoTimes(projectsArray);
 table = await fromUuid(rollTablePrefix + randomArrayItem(relationshipsArray));
 let relationshipsRolls = await rollTableResolvingRollTwice(table);
 let relationships = relationshipsRolls.join("<br>");
-
-table = await fromUuid(rollTablePrefix + randomArrayItem(legacyArray));
-roll = await table.roll();
-let legacy = roll.results[0].text;
-
-table = await fromUuid(rollTablePrefix + randomArrayItem(affiliationArray));
-roll = await table.roll();
-let affiliation = roll.results[0].text;
-
-table = await fromUuid(rollTablePrefix + randomArrayItem(identitiesArray));
-roll = await table.roll();
-let identities = roll.results[0].text;
 
 let quirks = await rollTableOneOrTwoTimes(quirksArray);
 
@@ -182,7 +208,7 @@ let theme = roll.results[0].text;
 
 let typeDisplay = parseTableResultToString(type);
 let title = "<h3><strong>Generate Faction</strong></h3>";
-let message = "<br> Name: " + nameTemplate + "<br><br> Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominion ? "Dominion:  " + dominion + "<br><br>" : "") + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br> Legacy:  " + legacy + "<br><br> Affiliation:  " + affiliation + "<br><br> Identities:  " + identities + "<br><br> Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
+let message = "<br> Name: " + nameResolved + "<br><br> Type: " + typeDisplay + "<br><br> Type Details:  " + typeDetails + "<br><br>" + (dominion ? "Dominion:  " + dominion + "<br><br>" : "") + (dominionLeadership ? "Dominion Leadership:  " + dominionLeadership + "<br><br>" : "") + " Influence:  " + influence + "<br><br> Projects:  " + projects + "<br><br> Relationships:  " + relationships + "<br><br>" + (legacy ? " Legacy:  " + legacy + "<br><br>" : "") + (affiliation ? " Affiliation:  " + affiliation + "<br><br>" : "") + (identities ? " Identities:  " + identities + "<br><br>" : "") + " Quirks:  " + quirks + "<br><br> Rumors:  " + rumors;
 
 // Print the message
 printMessage(title + message);
