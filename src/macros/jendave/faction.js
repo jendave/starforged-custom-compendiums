@@ -169,7 +169,7 @@ if (parseTableResultToString(type).includes("Dominion")) {
 } else if (typeDetailsArray.length > 0) {
     table = await fromUuid(rollTablePrefix + randomArrayItem(typeDetailsArray));
     let typeDetailsRolls = await rollTableResolvingRollTwice(table);
-    typeDetails = typeDetailsRolls.join("<br>");
+    typeDetails = typeDetailsRolls.join(", ");
 }
 
 table = await fromUuid(rollTablePrefix + randomArrayItem(nameTemplateArray));
