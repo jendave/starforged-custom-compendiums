@@ -175,6 +175,10 @@ function sanitizeChatFieldHtml(s) {
     return t.trim();
 }
 
+/**
+ * Resolve each compendium link in the name template (de-dupe per table id within the name).
+ * Also collects Legacy / Affiliation / Identity rows for chat when those links appear.
+ */
 async function resolveNameTemplateWithRolls(text, uuidPrefix) {
     const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
     const legacyId = legacyArray[0];
