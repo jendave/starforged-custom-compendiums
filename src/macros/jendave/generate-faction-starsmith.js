@@ -2,7 +2,7 @@
 //
 // Extension: add RollTable document ids to the arrays in FACTION_ORACLES.ids (one id per table).
 // For steps that live in another compendium, set prefixOverrides[key] and keep only bare document ids in ids[key].
-// Type Details: Dominion (multi-roll + leadership), Fringe, and Guild use ids.dominion / ids.fringe / ids.guild when the type label matches FACTION_CHAT.
+// Type Details: label routes (Dominion, Fringe, Guild, Corporation, …) map to ids.* RollTables; see FACTION_TYPE_DETAIL_ROUTES.
 
 // =============================================================================
 // Oracle pack configuration
@@ -37,7 +37,7 @@ const FACTION_ORACLES = {
         fringe: ["mhQqIfHi4ldU6lk3", "UE6b4kAluQqrAGUO", "yjYdyPveqyWUOgwF"],
         nameTemplate: ["9e9c1587cf1c98e1"],
         aihive: ["u1MRVAikLO9ZUn05"],
-        corporationfield: ["FDvT6fPqV2zshZRQ"],
+        corporation: ["FDvT6fPqV2zshZRQ"],
         military: ["HvKV3pycO2gyqB92"],
         religious: ["KAFl5CXZdfKUmt9J"],
         researchgroup: ["AVjqygbVDncdAY0P"],
@@ -52,6 +52,19 @@ const FACTION_CHAT = {
     fringeLabelIncludes: "Fringe",
     guildLabelIncludes: "Guild",
 };
+
+/**
+ * After Guild, first matching `needle` in the normalized type label picks `ids[idKey]` for Type Details (Roll twice resolved).
+ * Put longer / more specific needles first if a shorter one could false-match.
+ */
+const FACTION_TYPE_DETAIL_ROUTES = [
+    { needle: "data harvest", idKey: "dataharvesters" },
+    { needle: "research group", idKey: "researchgroup" },
+    { needle: "ai hive", idKey: "aihive" },
+    { needle: "corporation", idKey: "corporation" },
+    { needle: "military", idKey: "military" },
+    { needle: "religious", idKey: "religious" },
+];
 
 // =============================================================================
 // Chat utilities
@@ -398,14 +411,19 @@ async function rollFactionTypeAndDetails(oraclePack, typeRollText) {
         typeDetails = await rollTypeDetailsRollTwiceOnRandomTable(oraclePack, "fringe");
     } else if (typeLabelMatches(typeLabel, FACTION_CHAT.guildLabelIncludes)) {
         typeDetails = await rollTypeDetailsRollTwiceOnRandomTable(oraclePack, "guild");
-    } else if (typeSource.includes("@Compendium")) {
-        const linkMatch = typeSource.match(/@Compendium\[[^\]]+\](?:\{[^}]*\})?/);
-        if (linkMatch) {
-            const inner = parseCompendiumLinkBracketInner(linkMatch[0]);
-            const tableUuid = bracketInnerToRollTableUuid(inner);
-            const table = await fromUuid(tableUuid);
-            const typeDetailsRolls = await rollTableResolvingRollTwice(table);
-            typeDetails = typeDetailsRolls.join(", ");
+    } else {
+        const extraRoute = FACTION_TYPE_DETAIL_ROUTES.find((r) => typeLabelMatches(typeLabel, r.needle));
+        if (extraRoute && oraclePack.ids[extraRoute.idKey]) {
+            typeDetails = await rollTypeDetailsRollTwiceOnRandomTable(oraclePack, extraRoute.idKey);
+        } else if (typeSource.includes("@Compendium")) {
+            const linkMatch = typeSource.match(/@Compendium\[[^\]]+\](?:\{[^}]*\})?/);
+            if (linkMatch) {
+                const inner = parseCompendiumLinkBracketInner(linkMatch[0]);
+                const tableUuid = bracketInnerToRollTableUuid(inner);
+                const table = await fromUuid(tableUuid);
+                const typeDetailsRolls = await rollTableResolvingRollTwice(table);
+                typeDetails = typeDetailsRolls.join(", ");
+            }
         }
     }
 
