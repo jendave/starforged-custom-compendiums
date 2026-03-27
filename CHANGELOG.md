@@ -4,8 +4,11 @@
 
 ## [3.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-26)
 
+* Added macro to generate factions for Sundered Isles.
+  * `Faction Names` are incomplete. The `Faction Themes` tables will be included in a later release.
 * Added Journal Entry for `Faction Details`.
-  * Found under `Gameplay Aids - Factions`.
+* Added Oracle template for `Faction Influence Grid`
+* Look at the Journal Entry `Gameplay Aids - Factions` for a list of `Faction` resources.
 
 ## [3.0.13](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-26)
 
