@@ -1,22 +1,21 @@
 // Macro by David Hudson under the MIT License.
 //
-// Extension: add RollTable document ids to the arrays in FACTION_ORACLES (one id per table).
-// When an array has multiple ids, a random table is used for that step.
-// Guild / fringe ids are reserved for future type-detail wiring; they are not rolled in this macro yet.
+// Sundered Isles faction generator: rolls oracle tables from FACTION_ORACLES and posts a chat message.
+// Edit FACTION_ORACLES.ids plus the maps below (labels, type-gated keys, multi-roll counts).
 
 // =============================================================================
-// Oracle pack configuration (edit here to point at other compendia or more tables)
+// Configuration — oracle ids, labels, and roll behavior
 // =============================================================================
 
 const FACTION_ORACLES = {
     rollTablePrefix: "Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.",
     ids: {
-        type: ["b4383db857ca3b34"],
-        influence: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.66110f9a7d08cf74"],
+        types: ["b4383db857ca3b34"],
+        influences: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.66110f9a7d08cf74"],
+        relationships: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.59b86d78f3bdb745"],
         societychronicles: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.357c11f1cb736462"],
         societyoverseers: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.41d28fe3103bc730"],
         societytouchstones: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.19b1c62d7f0845c5"],
-        relationships: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.59b86d78f3bdb745"],
         organizationtypes: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.fbc5f237d5a0c1bc"],
         organizationmethods: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.c5abc14b60ea728e"],
         organizationsecrets: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.d94642748c2feb36"],
@@ -26,19 +25,85 @@ const FACTION_ORACLES = {
         cursedfactionrole: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.0001ccabdf0d3b5a"],
         cursedfactionaspects: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.0c4ea61819a3090b"],
         namecultures: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.1193319d6bd1d1a2"],
-        namesocietyidentities : ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.93286483fc9f9a1d"],
+        namesocietyidentities: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.93286483fc9f9a1d"],
         nameempireidentities: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.8ff995bc16f63b1a"],
-        nameTemplate: ["9e9c1587cf1c98e1"],
+        nameorganizationidentities: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.7df40b48bb2f5d8d"],
+        themetypes: ["Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5"],
     },
 };
 
+/** Chat heading for the first line; one <br> is inserted after this before body fields. */
 const FACTION_CHAT = {
     title: "<h3><strong>Generate Faction (Sundered Isles)</strong></h3>",
-    dominionLabelIncludes: "Dominion",
 };
 
+/** User-visible labels for each oracle key in FACTION_ORACLES.ids (and “types”). */
+const FACTION_SI_LABELS = {
+    types: "Faction Type",
+    influences: "Faction Influence",
+    relationships: "Faction Relationship",
+    societychronicles: "Society Chronicles",
+    societyoverseers: "Society Overseers",
+    societytouchstones: "Society Touchstones",
+    organizationtypes: "Organization Type",
+    organizationmethods: "Organization Methods",
+    organizationsecrets: "Organization Secrets",
+    imperialleadership: "Imperial Leadership",
+    imperialtactics: "Imperial Tactics",
+    imperialvulnerabilities: "Imperial Vulnerabilities",
+    cursedfactionrole: "Cursed Faction Role",
+    cursedfactionaspects: "Cursed Faction Aspects",
+    namecultures: "Faction Name: Culture",
+    namesocietyidentities: "Faction Name: Society Identity",
+    nameempireidentities: "Faction Name: Empire Identity",
+    nameorganizationidentities: "Faction Name: Organization Identity",
+    themetypes: "Faction Name: Themes",
+};
+
+/** Canonical faction type strings from the types table (used for gated oracles). */
+const FACTION_TYPE_NAMES = ["Society", "Organization", "Empire"];
+
+/** Detail-table keys rolled only when the resolved type matches. */
+const FACTION_SI_TYPE_DETAIL_KEYS = {
+    Society: ["societychronicles", "societyoverseers", "societytouchstones"],
+    Organization: ["organizationtypes", "organizationmethods", "organizationsecrets"],
+    Empire: ["imperialleadership", "imperialtactics", "imperialvulnerabilities"],
+};
+
+/** Name-identity key rolled only for that type (after culture + themetypes in the suffix block). */
+const FACTION_SI_TYPE_NAME_IDENTITY_KEYS = {
+    Society: ["namesocietyidentities"],
+    Organization: ["nameorganizationidentities"],
+    Empire: ["nameempireidentities"],
+};
+
+/** Fixed tail of the roll order (cursed → name pipeline). */
+const FACTION_SI_ORACLE_ORDER_SUFFIX = [
+    "cursedfactionrole",
+    "cursedfactionaspects",
+    "namecultures",
+    "themetypes",
+];
+
+/**
+ * These oracles: run several independent draws (min–max inclusive).
+ * Each draw expands "Roll twice" on that table; formatted results are comma-separated and de-duped.
+ */
+const FACTION_SI_ORACLE_ROLL_COUNT = {
+    societychronicles: { min: 2, max: 3 },
+    societytouchstones: { min: 1, max: 3 },
+    organizationmethods: { min: 1, max: 2 },
+    organizationsecrets: { min: 1, max: 2 },
+    imperialtactics: { min: 2, max: 3 },
+    imperialvulnerabilities: { min: 1, max: 2 },
+    cursedfactionaspects: { min: 1, max: 2 },
+};
+
+const ROLL_TWICE_LABEL = "Roll twice";
+const ROLL_TWICE_MAX_UNIQUE_ATTEMPTS = 200;
+
 // =============================================================================
-// Chat utilities
+// Chat
 // =============================================================================
 
 function printMessage(message) {
@@ -47,8 +112,16 @@ function printMessage(message) {
     ChatMessage.create(chatData, {});
 }
 
+// =============================================================================
+// Random helpers
+// =============================================================================
+
 function randomArrayItem(array) {
     return array[Math.floor(Math.random() * array.length)];
+}
+
+function randomIntInclusive(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
 function firstRollText(roll) {
@@ -56,7 +129,7 @@ function firstRollText(roll) {
 }
 
 // =============================================================================
-// Compendium link parsing
+// Parsings table cell HTML (Compendium links, {labels})
 // =============================================================================
 
 function parseTableResultToUUID(result) {
@@ -83,7 +156,7 @@ function parseTableResultToString(result) {
 }
 
 // =============================================================================
-// Roll comparison and "Roll twice" handling
+// Text normalization
 // =============================================================================
 
 function stripRollTextForCompare(s) {
@@ -94,36 +167,73 @@ function rollResultTextsEqual(a, b) {
     return stripRollTextForCompare(a) === stripRollTextForCompare(b);
 }
 
-const ROLL_TWICE_MAX_UNIQUE_ATTEMPTS = 200;
-const ROLL_TWICE_LABEL = "Roll twice";
+function pushUniqueLine(lines, line) {
+    if (!lines.some((x) => rollResultTextsEqual(x, line))) {
+        lines.push(line);
+    }
+}
+
+function normalizeNameTemplateLiterals(s) {
+    const unwrapOfThe = (match, inner) => {
+        const t = inner.replace(/\s+/g, " ").trim();
+        return t.toLowerCase() === "of the" ? "of the" : match;
+    };
+    return s
+        .replace(/<\s*em\s*>([\s\S]*?)<\s*\/\s*em\s*>/gi, unwrapOfThe)
+        .replace(/<\s*i\s*>([\s\S]*?)<\s*\/\s*i\s*>/gi, unwrapOfThe);
+}
+
+function sanitizeChatFieldHtml(s) {
+    let t = (s ?? "").trim();
+    const stripBrEdges = () => {
+        t = t.replace(/^(<br\s*\/?>\s*)+/gi, "");
+        t = t.replace(/(\s*<br\s*\/?>)+$/gi, "");
+        t = t.trim();
+    };
+    stripBrEdges();
+    t = t.replace(/<p\b[^>]*>/gi, "");
+    t = t.replace(/<\/p>/gi, " ");
+    stripBrEdges();
+    return t.trim();
+}
+
+/** Plain visible label from a row: {…} text or stripped HTML. */
+function plainLabelFromTableRow(raw) {
+    let s = stripRollTextForCompare(parseTableResultToString(raw ?? ""));
+    if (!s) {
+        s = stripRollTextForCompare(raw ?? "");
+    }
+    return s;
+}
+
+// =============================================================================
+// "Roll twice" — detection and recursive single-draw collection
+// =============================================================================
 
 function isRollTwiceResult(rawText) {
-    const t = (rawText ?? "").trim();
-    if (t === ROLL_TWICE_LABEL) {
+    const plain = stripRollTextForCompare(rawText);
+    if (plain === ROLL_TWICE_LABEL || plain.startsWith(ROLL_TWICE_LABEL)) {
         return true;
     }
+    const t = (rawText ?? "").trim();
     if (t.includes("@Compendium") || t.includes("{")) {
-        return parseTableResultToString(t) === ROLL_TWICE_LABEL;
+        const label = parseTableResultToString(t);
+        if (label === ROLL_TWICE_LABEL) {
+            return true;
+        }
+        const labelPlain = stripRollTextForCompare(label);
+        if (labelPlain.startsWith(ROLL_TWICE_LABEL)) {
+            return true;
+        }
     }
     return false;
 }
 
-async function rollUniqueTableRow(table, usedDisplayValues, mapRawToDisplay = async (raw) => raw) {
-    for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS; attempt++) {
-        const raw = firstRollText(await table.roll());
-        const display = await mapRawToDisplay(raw);
-        if (!usedDisplayValues.some((x) => rollResultTextsEqual(x, display))) {
-            usedDisplayValues.push(display);
-            return display;
-        }
-    }
-    const raw = firstRollText(await table.roll());
-    const display = await mapRawToDisplay(raw);
-    usedDisplayValues.push(display);
-    return display;
-}
-
-async function rollTableResolvingRollTwice(table) {
+/**
+ * One logical draw on `table`: any "Roll twice" becomes two more draws (recursive).
+ * Raw results in the returned array are de-duplicated by rollResultTextsEqual.
+ */
+async function collectSingleDrawRawsResolvingRollTwice(table) {
     const out = [];
 
     async function addOneResolved() {
@@ -151,62 +261,41 @@ async function rollTableResolvingRollTwice(table) {
 }
 
 // =============================================================================
-// RollTable helpers (use FACTION_ORACLES or pass another pack for reuse)
+// RollTable documents
 // =============================================================================
 
-function rollTableFullUuid(oraclePack, idArray) {
-    return oraclePack.rollTablePrefix + randomArrayItem(idArray);
+function resolveTableUuid(oraclePack, tableRef) {
+    const s = String(tableRef ?? "").trim();
+    if (s.startsWith("Compendium.")) {
+        return s;
+    }
+    return oraclePack.rollTablePrefix + s;
 }
 
 async function getRollTable(oraclePack, idArray) {
-    return fromUuid(rollTableFullUuid(oraclePack, idArray));
+    return fromUuid(resolveTableUuid(oraclePack, randomArrayItem(idArray)));
 }
 
-/** Picks one random table from idArray and returns one row plus its document id. */
-async function rollOnceFromIdArray(oraclePack, idArray) {
-    const id = randomArrayItem(idArray);
-    const table = await fromUuid(oraclePack.rollTablePrefix + id);
-    const roll = await table.roll();
-    return { id, text: firstRollText(roll) };
-}
-
-/** Rolls 1–N unique rows on the same table instance (e.g. Dominion 1–3 draws). */
-async function rollUniqueRowsSameTable(oraclePack, idArray, count, mapRaw = async (raw) => raw) {
-    const table = await getRollTable(oraclePack, idArray);
-    const parts = [];
-    for (let i = 0; i < count; i++) {
-        await rollUniqueTableRow(table, parts, mapRaw);
+async function rollUniqueTableRow(table, usedDisplayValues, mapRawToDisplay = async (raw) => raw) {
+    for (let attempt = 0; attempt < ROLL_TWICE_MAX_UNIQUE_ATTEMPTS; attempt++) {
+        const raw = firstRollText(await table.roll());
+        const display = await mapRawToDisplay(raw);
+        if (!usedDisplayValues.some((x) => rollResultTextsEqual(x, display))) {
+            usedDisplayValues.push(display);
+            return display;
+        }
     }
-    return parts;
+    const raw = firstRollText(await table.roll());
+    const display = await mapRawToDisplay(raw);
+    if (!usedDisplayValues.some((x) => rollResultTextsEqual(x, display))) {
+        usedDisplayValues.push(display);
+    }
+    return display;
 }
 
 // =============================================================================
-// Name template
+// Embedded @Compendium links inside a template string
 // =============================================================================
-
-function normalizeNameTemplateLiterals(s) {
-    const unwrapOfThe = (match, inner) => {
-        const t = inner.replace(/\s+/g, " ").trim();
-        return t.toLowerCase() === "of the" ? "of the" : match;
-    };
-    return s
-        .replace(/<\s*em\s*>([\s\S]*?)<\s*\/\s*em\s*>/gi, unwrapOfThe)
-        .replace(/<\s*i\s*>([\s\S]*?)<\s*\/\s*i\s*>/gi, unwrapOfThe);
-}
-
-function sanitizeChatFieldHtml(s) {
-    let t = (s ?? "").trim();
-    const stripBrEdges = () => {
-        t = t.replace(/^(<br\s*\/?>\s*)+/gi, "");
-        t = t.replace(/(\s*<br\s*\/?>)+$/gi, "");
-        t = t.trim();
-    };
-    stripBrEdges();
-    t = t.replace(/<p\b[^>]*>/gi, "");
-    t = t.replace(/<\/p>/gi, " ");
-    stripBrEdges();
-    return t.trim();
-}
 
 async function resolveNameTemplateWithRolls(text, oraclePack, embeddedRolls = {}) {
     const linkRe = /@Compendium\[[^\]]+\](?:\{[^}]*\})?/g;
@@ -230,7 +319,7 @@ async function resolveNameTemplateWithRolls(text, oraclePack, embeddedRolls = {}
                 seenByRollTableUuid.set(uuid, []);
             }
             const seenForTable = seenByRollTableUuid.get(uuid);
-            rowText = await rollUniqueTableRow(table, seenForTable, async (raw) => raw);
+            rowText = await rollUniqueTableRow(table, seenForTable, async (r) => r);
         }
 
         out += rowText;
@@ -242,151 +331,104 @@ async function resolveNameTemplateWithRolls(text, oraclePack, embeddedRolls = {}
 }
 
 // =============================================================================
-// Action + Theme compound row (projects / quirks / rumors)
+// Format one oracle row for chat (by oracle key)
 // =============================================================================
 
-function isActionPlusThemeCompound(oraclePack, rawText) {
-    const { action, theme } = oraclePack.ids;
-    if (!rawText || !/\s+\+\s+/.test(rawText)) {
-        return false;
+function normalizeFactionTypeFromRoll(raw) {
+    const s = plainLabelFromTableRow(raw);
+    const lower = s.toLowerCase();
+    for (const name of FACTION_TYPE_NAMES) {
+        const n = name.toLowerCase();
+        if (lower === n || new RegExp(`\\b${n}\\b`).test(lower)) {
+            return name;
+        }
     }
-    return rawText.includes(action[0]) && rawText.includes(theme[0]);
+    return s;
 }
 
-async function resolveActionThemeCompound(oraclePack, rawText) {
-    if (!isActionPlusThemeCompound(oraclePack, rawText)) {
-        return rawText;
+async function formatOracleResultForChat(oraclePack, raw, oracleKey) {
+    if (oracleKey === "types") {
+        return normalizeFactionTypeFromRoll(raw);
     }
-    const actionTable = await getRollTable(oraclePack, oraclePack.ids.action);
-    const themeTable = await getRollTable(oraclePack, oraclePack.ids.theme);
-    return `${firstRollText(await actionTable.roll())} ${firstRollText(await themeTable.roll())}`;
+    if (oracleKey === "themetypes") {
+        return plainLabelFromTableRow(raw);
+    }
+    if ((raw ?? "").includes("@Compendium")) {
+        const { text } = await resolveNameTemplateWithRolls(raw, oraclePack, {});
+        return sanitizeChatFieldHtml(text);
+    }
+    return sanitizeChatFieldHtml(parseTableResultToString(raw));
 }
 
-async function rollTableOneOrTwoTimes(oraclePack, idArrayKey) {
-    const idArray = oraclePack.ids[idArrayKey];
+async function formatRawsToDedupedCommaLine(oraclePack, raws, oracleKey) {
+    const lines = [];
+    for (const raw of raws) {
+        const line = await formatOracleResultForChat(oraclePack, raw, oracleKey);
+        pushUniqueLine(lines, line);
+    }
+    return lines.join(", ");
+}
+
+async function rollOracleSlotToCommaLine(oraclePack, table, oracleKey) {
+    const raws = await collectSingleDrawRawsResolvingRollTwice(table);
+    return formatRawsToDedupedCommaLine(oraclePack, raws, oracleKey);
+}
+
+/**
+ * Roll oracle `key`: either multi-draw (FACTION_SI_ORACLE_ROLL_COUNT) or one slot with roll-twice expansion.
+ */
+async function rollSunderedIslesOracleForChat(oraclePack, key) {
+    const idArray = oraclePack.ids[key];
+    if (!idArray?.length) {
+        return "—";
+    }
     const table = await getRollTable(oraclePack, idArray);
-    const rollCount = Math.floor(Math.random() * 2) + 1;
-    const parts = [];
-    const mapper = (raw) => resolveActionThemeCompound(oraclePack, raw);
-    for (let i = 0; i < rollCount; i++) {
-        await rollUniqueTableRow(table, parts, mapper);
+    const multiSpec = FACTION_SI_ORACLE_ROLL_COUNT[key];
+    if (multiSpec) {
+        const targetCount = randomIntInclusive(multiSpec.min, multiSpec.max);
+        const parts = [];
+        for (let inv = 0; inv < targetCount; inv++) {
+            const raws = await collectSingleDrawRawsResolvingRollTwice(table);
+            for (const raw of raws) {
+                const line = await formatOracleResultForChat(oraclePack, raw, key);
+                pushUniqueLine(parts, line);
+            }
+        }
+        return parts.join(", ");
     }
-    return parts.join(", ");
+    return rollOracleSlotToCommaLine(oraclePack, table, key);
 }
 
 // =============================================================================
-// Faction-specific steps (compose from oracle pack + chat labels)
+// Roll order and main
 // =============================================================================
 
-async function rollFactionTypeAndDetails(oraclePack, typeRollText) {
-    const { ids } = oraclePack;
-    const typeLabel = parseTableResultToString(typeRollText);
-    let typeDetails = "";
-    let dominionLeadership = "";
-
-    const typeDetailUuid = typeRollText.includes("@Compendium") ? parseTableResultToUUID(typeRollText) : null;
-    const typeDetailsCandidates = typeDetailUuid ? [typeDetailUuid] : [];
-
-    if (typeLabel.includes(FACTION_CHAT.dominionLabelIncludes)) {
-        const dominionCount = Math.floor(Math.random() * 3) + 1;
-        const dominionParts = await rollUniqueRowsSameTable(oraclePack, ids.dominion, dominionCount, async (raw) => raw);
-        typeDetails = dominionParts.join(", ");
-        const leadTable = await getRollTable(oraclePack, ids.dominionLeadership);
-        dominionLeadership = firstRollText(await leadTable.roll());
-    } else if (typeDetailsCandidates.length > 0) {
-        const table = await fromUuid(oraclePack.rollTablePrefix + randomArrayItem(typeDetailsCandidates));
-        const typeDetailsRolls = await rollTableResolvingRollTwice(table);
-        typeDetails = typeDetailsRolls.join(", ");
-    }
-
-    return { typeLabel, typeDetails, dominionLeadership };
-}
-
-async function preRollLegacyAffiliationIdentityForName(oraclePack) {
-    const { ids } = oraclePack;
-    const legacyRoll = await rollOnceFromIdArray(oraclePack, ids.legacy);
-    const affiliationRoll = await rollOnceFromIdArray(oraclePack, ids.affiliation);
-    const identitiesRoll = await rollOnceFromIdArray(oraclePack, ids.identities);
-    const embeddedRolls = {
-        [legacyRoll.id]: legacyRoll.text,
-        [affiliationRoll.id]: affiliationRoll.text,
-        [identitiesRoll.id]: identitiesRoll.text,
-    };
-    return {
-        legacy: legacyRoll.text,
-        affiliation: affiliationRoll.text,
-        identities: identitiesRoll.text,
-        embeddedRolls,
-    };
-}
-
-function buildFactionMessageBody(fields) {
-    const parts = [
-        `<br>Name: ${fields.nameForMessage}`,
-        `<br><br>Type: ${fields.typeLabel}`,
-        `<br><br> Type Details:  ${fields.typeDetails}`,
+function factionOracleKeysAfterType(typeText) {
+    const detailKeys = FACTION_SI_TYPE_DETAIL_KEYS[typeText] ?? [];
+    const nameIdentityKeys = FACTION_SI_TYPE_NAME_IDENTITY_KEYS[typeText] ?? [];
+    return [
+        "influences",
+        "relationships",
+        ...detailKeys,
+        ...FACTION_SI_ORACLE_ORDER_SUFFIX,
+        ...nameIdentityKeys,
     ];
-    if (fields.dominionLeadership) {
-        parts.push(`<br><br>Dominion Leadership:  ${fields.dominionLeadership}`);
-    }
-    parts.push(
-        `<br><br> Influence:  ${fields.influence}`,
-        `<br><br> Projects:  ${fields.projects}`,
-        `<br><br> Relationships:  ${fields.relationships}`,
-        `<br><br> Legacy:  ${fields.legacy}`,
-        `<br><br> Affiliation:  ${fields.affiliation}`,
-        `<br><br> Identities:  ${fields.identities}`,
-        `<br><br> Quirks:  ${fields.quirks}`,
-        `<br><br> Rumors:  ${fields.rumors}`,
-    );
-    return parts.join("");
 }
-
-// =============================================================================
-// Main entry (call with FACTION_ORACLES or a copy with different ids)
-// =============================================================================
 
 async function runFactionGenerator(oraclePack = FACTION_ORACLES) {
-    const { ids } = oraclePack;
+    const chunks = [];
+    const typeText = await rollSunderedIslesOracleForChat(oraclePack, "types");
+    chunks.push(`<strong>${FACTION_SI_LABELS.types}:</strong> ${typeText}`);
 
-    const typeTable = await getRollTable(oraclePack, ids.type);
-    const typeRollText = firstRollText(await typeTable.roll());
-
-    const { typeLabel, typeDetails, dominionLeadership } = await rollFactionTypeAndDetails(oraclePack, typeRollText);
-
-    const { legacy, affiliation, identities, embeddedRolls } = await preRollLegacyAffiliationIdentityForName(oraclePack);
-
-    const nameTemplateTable = await getRollTable(oraclePack, ids.nameTemplate);
-    const nameTemplate = firstRollText(await nameTemplateTable.roll());
-    const { text: nameResolved } = await resolveNameTemplateWithRolls(nameTemplate, oraclePack, embeddedRolls);
-
-    const influenceTable = await getRollTable(oraclePack, ids.influence);
-    const influence = firstRollText(await influenceTable.roll());
-
-    const projects = await rollTableOneOrTwoTimes(oraclePack, "projects");
-
-    const relationshipsTable = await getRollTable(oraclePack, ids.relationships);
-    const relationships = (await rollTableResolvingRollTwice(relationshipsTable)).join("<br>");
-
-    const quirks = await rollTableOneOrTwoTimes(oraclePack, "quirks");
-    const rumors = await rollTableOneOrTwoTimes(oraclePack, "rumors");
-
-    const message = buildFactionMessageBody({
-        nameForMessage: sanitizeChatFieldHtml(nameResolved),
-        typeLabel,
-        typeDetails,
-        dominionLeadership,
-        influence,
-        projects,
-        relationships,
-        legacy,
-        affiliation,
-        identities,
-        quirks,
-        rumors,
-    });
-
-    printMessage(FACTION_CHAT.title + message);
+    for (const key of factionOracleKeysAfterType(typeText)) {
+        if (!oraclePack.ids[key]?.length) {
+            continue;
+        }
+        const label = FACTION_SI_LABELS[key] ?? key;
+        const text = await rollSunderedIslesOracleForChat(oraclePack, key);
+        chunks.push(`<br><br><strong>${label}:</strong> ${text}`);
+    }
+    printMessage(`${FACTION_CHAT.title}<br>${chunks.join("")}`);
 }
 
 await runFactionGenerator(FACTION_ORACLES);
