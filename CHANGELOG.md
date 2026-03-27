@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.15](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-27)
+
+* Bug fixes for `Factions`.
+
 ## [3.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-26)
 
 * Added macro to generate factions for Sundered Isles.
