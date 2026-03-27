@@ -2,6 +2,11 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.14](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-26)
+
+* Added Journal Entry for `Faction Details`.
+  * Found under `Gameplay Aids - Factions`.
+
 ## [3.0.13](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-26)
 
 * Added macros to generate factions for Starforged and Starsmith.
