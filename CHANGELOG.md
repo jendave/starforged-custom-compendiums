@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.16](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-04-21)
+
+* Updated macro `Build Starting Sector` so it works on both v13 and v14.
+
 ## [3.0.15](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-03-27)
 
 * Bug fixes for `Factions`.
@@ -61,7 +65,7 @@
 
 ## [3.0.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2025-11-14)
 
-* Added a macro to `Build Starting Sector`. For full functionality, include the following modules:
+* Added a macro `Build Starting Sector`. For full functionality, include the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
   * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
