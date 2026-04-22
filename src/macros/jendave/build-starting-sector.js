@@ -663,7 +663,8 @@ class TableRoller {
      * @returns {string} The text content
      */
     getRollText(roll) {
-        return roll.results[0]?.text || "";
+        const result = roll.results[0];
+        return result?.description || result?.name || result?.text || "";
     }
 }
 
@@ -1503,44 +1504,50 @@ async function createSectorScene(region, sectorName, sectorFolder) {
     validateRequired(sectorFolder, "sectorFolder");
 
     try {
-        const result = await FilePicker.browse(
-            "data",
-            SECTOR_CONFIG.ASSETS.SECTORS_PATH
-        );
+        const file = SECTOR_CONFIG.ASSETS.SECTORS_PATH;
+        const texture = await foundry.canvas.loadTexture(file);
+        const width = texture.baseTexture?.width ?? texture.width;
+        const height = texture.baseTexture?.height ?? texture.height;
 
-        if (result.files.length === 0) {
-            throw new Error("No sector image files found");
-        }
+        const scenes = await Scene.createDocuments([{
+            folder: sectorFolder.id,
+            name: sectorName,
+            fogExploration: false,
+            flags: { "foundry-ironsworn": { region: region.toLowerCase() } },
+            tokenVision: false,
+            navigation: false,
+            grid: {
+                type: SECTOR_CONFIG.SCENE.GRID_TYPE,
+                color: SECTOR_CONFIG.SCENE.GRID_COLOR,
+                alpha: SECTOR_CONFIG.SCENE.GRID_ALPHA,
+                size: SECTOR_CONFIG.SCENE.GRID_SIZE,
+            },
+            backgroundColor: SECTOR_CONFIG.SCENE.BACKGROUND_COLOR,
+            padding: 0,
+            initial: {
+                scale: SECTOR_CONFIG.SCENE.INITIAL_SCALE,
+                x: SECTOR_CONFIG.SCENE.INITIAL_X,
+                y: SECTOR_CONFIG.SCENE.INITIAL_Y,
+            },
+            foregroundElevation: SECTOR_CONFIG.SCENE.FOREGROUND_ELEVATION,
+            width,
+            height,
+        }]);
 
-        const sceneData = [];
-        for (const file of result.files) {
-            const { width, height } = await loadTexture(file);
-            sceneData.push({
-                folder: sectorFolder.id,
-                name: sectorName,
-                fogExploration: false,
-                "flags.foundry-ironsworn.region": region.toLowerCase(),
-                tokenVision: false,
-                navigation: false,
-                "grid.type": SECTOR_CONFIG.SCENE.GRID_TYPE,
-                "grid.color": SECTOR_CONFIG.SCENE.GRID_COLOR,
-                "grid.alpha": SECTOR_CONFIG.SCENE.GRID_ALPHA,
-                "grid.size": SECTOR_CONFIG.SCENE.GRID_SIZE,
-                "background.src": file,
-                backgroundColor: SECTOR_CONFIG.SCENE.BACKGROUND_COLOR,
-                padding: 0,
-                "initial.scale": SECTOR_CONFIG.SCENE.INITIAL_SCALE,
-                "initial.x": SECTOR_CONFIG.SCENE.INITIAL_X,
-                "initial.y": SECTOR_CONFIG.SCENE.INITIAL_Y,
-                foregroundElevation: SECTOR_CONFIG.SCENE.FOREGROUND_ELEVATION,
-                width,
-                height,
-            });
-        }
+        const scene = scenes[0];
 
-        const scenes = await Scene.createDocuments(sceneData);
-        debugLog("Created sector:", scenes[0].name);
-        return scenes[0];
+        // In v14 the background image lives on the Level embedded document, not the top-level Scene.
+        // scene.initialLevel on a live document returns the Level object itself, not the string ID.
+        const levelId = typeof scene.initialLevel === "string"
+            ? scene.initialLevel
+            : scene.initialLevel?.id ?? scene.levels.contents[0]?._id;
+        await scene.updateEmbeddedDocuments("Level", [{
+            _id: levelId,
+            background: { src: file },
+        }]);
+
+        debugLog("Created sector:", scene.name);
+        return scene;
     } catch (error) {
         console.error(
             `Error creating sector scene "${sectorName}" for region ${region}:`,
@@ -3319,7 +3326,7 @@ function generateDialogContent(
     regionOptions
 ) {
     return `
-        <form class="flexcol">
+        <div class="flexcol">
             <div class="form-group">
                 <label for="selectRegion">Region</label>
                 <select name="selectRegion">
@@ -3359,14 +3366,14 @@ function generateDialogContent(
                     !starsmithOraclesActive ? " <span style='color: #888; font-size: 0.9em;'>(Starsmith Expanded Oracles module not active)</span>" : ""
                 }</label>
             </div>
-        </form>
+        </div>
         `;
 }
 
 /**
  * Creates and shows the configuration dialog
  */
-function showStartingSectorBuildDialog() {
+async function showStartingSectorBuildDialog() {
     const tokenAttacherActive =
         game.modules.get(SECTOR_CONFIG.MODULES.TOKEN_ATTACHER)?.active || false;
     const jb2aActive =
@@ -3381,14 +3388,6 @@ function showStartingSectorBuildDialog() {
         .map((region) => `<option value="${region}">${region}</option>`)
         .join("\n                    ");
 
-    let region = "";
-    let startingSector = false;
-    let useTokenAttacher = false;
-    let createPassages = false;
-    let generateStars = false;
-    let useStarsmithOracles = false;
-    let shouldCreate = false;
-
     const dialogContent = generateDialogContent(
         tokenAttacherActive,
         jb2aActive,
@@ -3397,88 +3396,67 @@ function showStartingSectorBuildDialog() {
         regionOptions
     );
 
-    new Dialog({
-        title: "Select Region and Sector Type",
+    const result = await foundry.applications.api.DialogV2.wait({
+        window: { title: "Select Region and Sector Type" },
         content: dialogContent,
-        buttons: {
-            cancel: {
-                icon: '<i class="fas fa-times"></i>',
+        buttons: [
+            {
+                action: "cancel",
+                icon: "fas fa-times",
                 label: "Cancel",
-                callback: () => {
-                    shouldCreate = false;
-                },
+                default: false,
             },
-            create: {
-                icon: '<i class="fas fa-check"></i>',
+            {
+                action: "create",
+                icon: "fas fa-check",
                 label: "Create",
-                callback: (html) => {
-                    try {
-                        region = html.find('[name="selectRegion"]').val();
-                        startingSector = html
-                            .find('[name="selectStartingSector"]')
-                            .is(":checked");
-                        useTokenAttacher = html
-                            .find('[name="useTokenAttacher"]')
-                            .is(":checked");
-                        createPassages = html
-                            .find('[name="createPassages"]')
-                            .is(":checked");
-                        generateStars = html
-                            .find('[name="generateStars"]')
-                            .is(":checked");
-                        useStarsmithOracles = html
-                            .find('[name="useStarsmithOracles"]')
-                            .is(":checked");
-                        shouldCreate = true;
-                    } catch (error) {
-                        console.error(
-                            "Error reading dialog values from form:",
-                            error
-                        );
-                        ui.notifications.error(
-                            "Failed to read dialog values. Please try again."
-                        );
-                        shouldCreate = false;
-                    }
+                default: true,
+                callback: (_event, button, _dialog) => {
+                    const form = button.form;
+                    return {
+                        region: form.elements["selectRegion"].value,
+                        startingSector: form.elements["selectStartingSector"].checked,
+                        useTokenAttacher: form.elements["useTokenAttacher"].checked,
+                        createPassages: form.elements["createPassages"].checked,
+                        generateStars: form.elements["generateStars"].checked,
+                        useStarsmithOracles: form.elements["useStarsmithOracles"].checked,
+                    };
                 },
             },
-        },
-        default: "create",
-        close: async () => {
-            try {
-                if (shouldCreate && region) {
-                    // Validate region before proceeding
-                    const validRegions = getAvailableRegions();
-                    if (!validRegions.includes(region)) {
-                        ui.notifications.error(
-                            `Invalid region "${region}". Please select a valid region.`
-                        );
-                        console.error(
-                            `Invalid region selected: "${region}". Valid regions: ${validRegions.join(", ")}`
-                        );
-                        return;
-                    }
+        ],
+    });
 
-                    await buildStartingSector(
-                        region,
-                        startingSector,
-                        useTokenAttacher,
-                        createPassages,
-                        generateStars,
-                        useStarsmithOracles
-                    );
-                }
-            } catch (error) {
-                console.error(
-                    `Error in dialog close callback for region "${region}":`,
-                    error
-                );
-                ui.notifications.error(
-                    `Failed to create sector: ${error.message || "Unknown error occurred"}`
-                );
-            }
-        },
-    }).render(true);
+    if (!result || !result.region) return;
+
+    try {
+        const validRegions = getAvailableRegions();
+        if (!validRegions.includes(result.region)) {
+            ui.notifications.error(
+                `Invalid region "${result.region}". Please select a valid region.`
+            );
+            console.error(
+                `Invalid region selected: "${result.region}". Valid regions: ${validRegions.join(", ")}`
+            );
+            return;
+        }
+
+        await buildStartingSector(
+            result.region,
+            result.startingSector,
+            result.useTokenAttacher,
+            result.createPassages,
+            result.generateStars,
+            result.useStarsmithOracles
+        );
+    } catch (error) {
+        console.error(
+            `Error creating sector for region "${result.region}":`,
+            error
+        );
+        ui.notifications.error(
+            `Failed to create sector: ${error.message || "Unknown error occurred"}`
+        );
+    }
 }
 
 // ============================================================================
