@@ -1536,15 +1536,20 @@ async function createSectorScene(region, sectorName, sectorFolder) {
 
         const scene = scenes[0];
 
-        // In v14 the background image lives on the Level embedded document, not the top-level Scene.
-        // scene.initialLevel on a live document returns the Level object itself, not the string ID.
-        const levelId = typeof scene.initialLevel === "string"
-            ? scene.initialLevel
-            : scene.initialLevel?.id ?? scene.levels.contents[0]?._id;
-        await scene.updateEmbeddedDocuments("Level", [{
-            _id: levelId,
-            background: { src: file },
-        }]);
+        // v14 moved the background image onto the Level embedded document.
+        // v13 and earlier set it directly on the scene via background.src.
+        const majorVersion = parseInt(game.version?.split(".")[0] ?? "0", 10);
+        if (majorVersion >= 14) {
+            const levelId = typeof scene.initialLevel === "string"
+                ? scene.initialLevel
+                : scene.initialLevel?.id ?? scene.levels.contents[0]?._id;
+            await scene.updateEmbeddedDocuments("Level", [{
+                _id: levelId,
+                background: { src: file },
+            }]);
+        } else {
+            await scene.update({ "background.src": file });
+        }
 
         debugLog("Created sector:", scene.name);
         return scene;
