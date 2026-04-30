@@ -14,7 +14,7 @@ A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged syst
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
 * [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
 * [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
-* [GitHub Repository](https://github.com/jendave/augmented-reality-foundry)
+* [GitHub Repository](https://github.com/jendave/starforged-custom-compendiums)
 * [Itch.io](https://jendave.itch.io/)
 
 ## Features and Notes
@@ -91,7 +91,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 ![Impacts & Combat Positions Icons](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/impacts-and-combat-positions.jpg?raw=true)
 
 * Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
-* **IMPORTANT** - In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Compbat Positions` folder into the `Macros` tab. If this step is skipped and performed later, you will have to re-import the configuration files below.
+* **IMPORTANT** - In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Combat Positions` folder into the `Macros` tab. If this step is skipped and performed later, you will have to re-import the configuration files below.
 * Get the `Condition Lab configuration files`. The files can be found several locations:
   * Download the files using these links.
     * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/config/cub-foundry-ironsworn-condition-map.json)

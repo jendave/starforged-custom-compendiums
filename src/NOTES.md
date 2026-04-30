@@ -264,3 +264,15 @@ Size webp 576px ~50kb
 ### GIF Creation
 
 `ffmpeg -i starforged.mov -s 600x400 -pix_fmt rgb24 -r 10 -f gif - | gifsicle --optimize=3 --delay=10 > build-starting-sector-macro.gif`
+
+### Icon colors
+
+For 4 categories, the Okabe-Ito palette is the standard recommendation — it's distinguishable across protanopia, deuteranopia, and tritanopia:
+
+Category	Color	Hex
+1	Sky blue	#56B4E9
+2	Orange	#E69F00
+3	Bluish green	#009E73
+4	Vermillion	#D55E00
+5 Yellow	#F0E442	rgb(240, 228, 66)
+Avoid pairing red + green (the most common failure). These four work because they vary in both hue and luminance, so they remain distinct even in grayscale simulation — which also means they'll tint your black-and-white SVG icons well using CSS filter or by colorizing the SVGs directly.
