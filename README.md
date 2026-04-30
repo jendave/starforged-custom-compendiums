@@ -9,14 +9,6 @@
 
 A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged system.
 
-## Contact
-
-* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
-* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
-* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
-* [GitHub Repository](https://github.com/jendave/starforged-custom-compendiums)
-* [Itch.io](https://jendave.itch.io/)
-
 ## Features and Notes
 
 * Oracle tables contributed by fans are included in the compendium.
@@ -117,6 +109,14 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
   * [Starsmith Expanded Oracles for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
   * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
+
+## Contact
+
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
+* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
+* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
+* [GitHub Repository](https://github.com/jendave/starforged-custom-compendiums)
+* [Itch.io](https://jendave.itch.io/)
 
 ## Credits
 
@@ -236,6 +236,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
 * [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 * [Roll Table Importer](https://foundryvtt.com/packages/roll-table-importer)
+* [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
 
