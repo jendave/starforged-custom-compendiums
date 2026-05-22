@@ -78,29 +78,9 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   
 ![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
 
-### Impacts & Combat Positions Setup
+#### Impacts & Combat Positions
 
-![Impacts & Combat Positions Icons](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/impacts-and-combat-positions.jpg?raw=true)
-
-* Install and activate the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module.
-* **IMPORTANT** - In the `Starforged Custom Macros` compendium, go into the `Macros by jendave` folder. Copy the `Impacts & Combat Positions` folder into the `Macros` tab. If this step is skipped and performed later, you will have to re-import the configuration files below.
-* Get the `Condition Lab configuration files`. The files can be found several locations:
-  * Download the files using these links.
-    * [Condition Lab Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/config/cub-foundry-ironsworn-condition-map.json)
-    * [Triggler Triggers Configuration](https://raw.githubusercontent.com/jendave/starforged-custom-compendiums/refs/heads/main/config/cub-foundry-ironsworn-triggers.json)
-  * The files are in the module itself.
-    * In the `Starforged Custom Journal Entries` compendium - `Journal Entries by jendave` - `Impacts & Combat Positions Configuration` journal entry.
-  * The files can be found in the installation package.
-    * They are also located in Foundry directory `/Data/modules/starforged-custom-oracles/config`
-    * And in the [latest release zip file](https://github.com/jendave/starforged-custom-compendiums/releases/latest/download/module.zip) in the config directory.
-* Go into the `Game Settings` - `Configure Settings` and select `Condition Lab & Triggler`
-  * Enable the `Remove Default Status Effects` checkbox.
-  * Click on the `Condition Lab` button. Then click on `Import` to bring up the file selection dialog.
-  * Select the `Condition Lab Configuration` file. Click on `Save Mapping` button and close the dialog.
-  * Click on the `Triggler Trigger` button. Then click on `Import` to bring up the file selection dialog.
-  * Select the `Triggler Triggers Configuration` file. Click on `Save` button and close the dialog.
-  * Click on the `Save Changes` button in the `Game Settings` dialog. The screen should refresh.
-* The `Impacts & Combat Positions` functionality will also work with the [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn).
+>The Impacts & Combat Positions macros and configurations have been removed. Please use the [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts) module instead.
 
 ### Dependencies
 
@@ -209,8 +189,6 @@ Many great Ironsworn and Starforged Resources can be found at the links below.
 Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
 
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
-
-Many thanks to graygeist (Discord) for help with finding Oracles to add and getting permission from the authors. graygeist (Discord) also provided the idea for using the [Condition Lab & Triggler](https://foundryvtt.com/packages/condition-lab-triggler) module for the Impact and Combat Position token conditions.
 
 ### Modules
 
