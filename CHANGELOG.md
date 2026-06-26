@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.0.18](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-06-26)
+
+* Added [Anomalist path asset](https://discord.com/channels/437120373436186625/470610624842301441/1519157022149574806) by Shawn Tomkin and Zatch.
+
 ## [3.0.17](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-05-21)
 
 * Added [Mutated path asset](https://discord.com/channels/437120373436186625/470610624842301441/1503818321630597170) by Shawn Tomkin and sumnox.
