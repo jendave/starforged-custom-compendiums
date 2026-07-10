@@ -1,0 +1,84 @@
+{
+  "type": "asset",
+  "folder": "EDFcEwZHqDjqM7zq",
+  "name": "Hound",
+  "system": {
+    "requirement": "",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Your hound is your steadfast companion. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} in the company of their loyal presence, or if you @Compendium[foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} with them by your side, roll +their health.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} alongside your ferocious hound and score a hit, mark progress. On a strong hit with a match, your hound stands resolute by your side; take +momentum equal to their health.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} using your hound's keen senses to track your quarry or investigate a scene, roll +their health and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/sniffing-dog.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Companion/Hound",
+      "dsid": "asset:classic/companion/hound",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_id": "rTRpjSlAvEklrieL",
+  "_key": "!items!rTRpjSlAvEklrieL"
+}

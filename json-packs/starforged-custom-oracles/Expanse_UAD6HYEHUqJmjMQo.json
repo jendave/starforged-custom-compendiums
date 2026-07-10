@@ -1,0 +1,108 @@
+{
+  "name": "Expanse",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        90
+      ],
+      "_id": "CHpuTGtS4caZ1Sg7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!UAD6HYEHUqJmjMQo.CHpuTGtS4caZ1Sg7"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "d3OO1jmbAj1O66lh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!UAD6HYEHUqJmjMQo.d3OO1jmbAj1O66lh"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "gyl2Xc68Z5Jj4pNv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!UAD6HYEHUqJmjMQo.gyl2Xc68Z5Jj4pNv"
+    }
+  ],
+  "folder": "AX8ni0XjdFG1FZSf",
+  "sort": 2,
+  "_id": "UAD6HYEHUqJmjMQo",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet entirely composed of a single creature or a colony of creatures.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288221114,
+    "modifiedTime": 1703293822994,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!UAD6HYEHUqJmjMQo"
+}

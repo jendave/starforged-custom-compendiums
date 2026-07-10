@@ -1,0 +1,186 @@
+{
+  "name": "Opportunity",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "vJSWYxsbCgZMTk3A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opportunity @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FKcW0ngd4tAteFul]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Q0CvTCMrIsZJPjW4]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.h9DmNX5Hw3OyNrB6]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!VbPIBBmvihjhduGw.vJSWYxsbCgZMTk3A"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "3j27IXAYzjunnLrX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opportunity @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FKcW0ngd4tAteFul]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Q0CvTCMrIsZJPjW4]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.h9DmNX5Hw3OyNrB6]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!VbPIBBmvihjhduGw.3j27IXAYzjunnLrX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Qm4CaBnBIBD0fkQc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.6fe85ab379183432]{Mechanical Theme Opportunity} or other Theme Opportunity",
+      "name": "",
+      "_key": "!tables.results!VbPIBBmvihjhduGw.Qm4CaBnBIBD0fkQc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "g83aqEBYdbcfdiVe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.6fe85ab379183432]{Mechanical Theme Opportunity} or other Theme Opportunity",
+      "name": "",
+      "_key": "!tables.results!VbPIBBmvihjhduGw.g83aqEBYdbcfdiVe"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "XHqfsRMK6XiL9IPH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!VbPIBBmvihjhduGw.XHqfsRMK6XiL9IPH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "2QNzzXm59chVq3kM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!VbPIBBmvihjhduGw.2QNzzXm59chVq3kM"
+    }
+  ],
+  "folder": "pSnh3w5RcEVhpg01",
+  "sort": 2,
+  "_id": "VbPIBBmvihjhduGw",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703902223861,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!VbPIBBmvihjhduGw"
+}

@@ -1,0 +1,110 @@
+{
+  "folder": "NO7JjDm3OcpAylNw",
+  "name": "Location in the Forge",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>There should be no need for the <strong>Location in the Forge</strong> table as this should have been decided when you were creating your sector. But just in case you wanted to roll for it (who knows, maybe your character got teleported somewhere?)</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        70
+      ],
+      "drawn": false,
+      "_id": "Mqv8uMMKi1veaiFk",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terminus",
+      "name": "",
+      "_key": "!tables.results!DODrGOfiDoq9UeSg.Mqv8uMMKi1veaiFk"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        90
+      ],
+      "drawn": false,
+      "_id": "pQIpty7zoGeGttMC",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outlands",
+      "name": "",
+      "_key": "!tables.results!DODrGOfiDoq9UeSg.pQIpty7zoGeGttMC"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "PdGqxaZmK49KeNMl",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expanse",
+      "name": "",
+      "_key": "!tables.results!DODrGOfiDoq9UeSg.PdGqxaZmK49KeNMl"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698830045526,
+    "modifiedTime": 1698830224063,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d100",
+  "_id": "DODrGOfiDoq9UeSg",
+  "sort": 200000,
+  "_key": "!tables!DODrGOfiDoq9UeSg"
+}

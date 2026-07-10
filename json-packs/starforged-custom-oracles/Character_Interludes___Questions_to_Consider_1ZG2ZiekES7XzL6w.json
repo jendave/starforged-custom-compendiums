@@ -1,0 +1,550 @@
+{
+  "name": "Character Interludes - Questions to Consider",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "DJF2NN73tVfFbYEK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catch up on writing log entries - What recent occurrence do you focus on? What do you wish could have gone differently?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.DJF2NN73tVfFbYEK"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "Bsj9ycC0UBUPVyWW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Check your gear - What needs to be replaced soon? What are you making certain you're prepared for?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.Bsj9ycC0UBUPVyWW"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "xRiDu2GRhmfeWXLD",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consume a special provision - What is the nature of the provision? What occasion were you saving it for?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.xRiDu2GRhmfeWXLD"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "xRjgFHa3pMySQrys",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Do a brief spacewalk - What task requires you to access the outside of the ship? What causes you to linger?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.xRjgFHa3pMySQrys"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "dNXnFm6aRxC80fG8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flip through your ships manual - What part of the ship are you curious about? What new feature or trait do you discover?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.dNXnFm6aRxC80fG8"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "JxY4Bn6GijPeLURL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Freshen yourself or the ship up - What part of your routine do you focus on this time? What esthetic change do you make?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.JxY4Bn6GijPeLURL"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "Vp3g73crOJI90eCo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Indulge in some entertainment - Do you play a game, or watch/read something? Why is this an activity you always come back to?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.Vp3g73crOJI90eCo"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "bDG03CBXFwHOfMg1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a plan - What event are you preparing for? What extra precaution do you decide to enact or forgo?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.bDG03CBXFwHOfMg1"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "A2pbKli4P2wbcYLe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perform a minor maintenance task - What chore have you been putting off? How do you make it more enjoyable for yourself?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.A2pbKli4P2wbcYLe"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "GrCw66RoO8IzX6IK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pick up a communication echo - What old conversation do you accidentally eavesdrop on? What does it mean to you?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.GrCw66RoO8IzX6IK"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "Kl0yEPL4fDYKQPLH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Practice some basic maneuvers - What part of the ship's operation do you go over? How do you feel when you finish?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.Kl0yEPL4fDYKQPLH"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "2uitNC2PsOozttUg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Record a communication - Who is the message for? What recent event(s) do you share?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.2uitNC2PsOozttUg"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "KRkOa9QGPFgkDMTr",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Review a previous log entry - What event do you revisit? What text do you change?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.KRkOa9QGPFgkDMTr"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "nGkU8TkMFfp0UqL0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Review your ships gazetteer - What topic are you hoping to gain more insight into? What entry seems very inadequate?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.nGkU8TkMFfp0UqL0"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "FFvzVEv8UA2S95Pu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Revisit a previous communication - Who is the message from? What does it make you feel?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.FFvzVEv8UA2S95Pu"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "VSuotDd1BFhOf6G5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Run the calculations for your next transit - What do you do differently? What are you hoping to avoid?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.VSuotDd1BFhOf6G5"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "OWaaQCqSpDiEXwr7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take a rest - What sleep routine do you change? What dream or vision do you have?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.OWaaQCqSpDiEXwr7"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "ZxdBjZVJ3qGdEkSp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take sensor readings - What are you looking for? What piece of routine data feels noteworthy this time?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.ZxdBjZVJ3qGdEkSp"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "pLIRJmYPV99F1WPP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Turn on some background noise - Do you put on music, or something else? What does listening to it make you feel?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.pLIRJmYPV99F1WPP"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "m8LjZ0ACDiAg20r7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visually confirm a sensor reading - What do you need to see with your own eyes? How do you change position to do so?",
+      "name": "",
+      "_key": "!tables.results!1ZG2ZiekES7XzL6w.m8LjZ0ACDiAg20r7"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 12,
+  "_id": "1ZG2ZiekES7XzL6w",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!1ZG2ZiekES7XzL6w"
+}

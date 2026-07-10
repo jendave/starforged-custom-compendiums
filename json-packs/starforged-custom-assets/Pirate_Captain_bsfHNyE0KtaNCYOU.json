@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Pirate Captain",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you seize a notable ship or treasure, roll +wits. On a strong hit, take both, or choose one twice. On a weak hit, choose one. On a miss, choose one, but this prize also brings an unexpected danger; @Compendium[starforged-custom-oracles.starforgedcustommoves.78baa51694fe37c5]{Pay the Price}.</p>\n<ul>\n<li>Build your fortune: Mark 1 tick on your quests legacy track.</li>\n<li>Share the spoils: Mark 1 tick on your bonds legacy track.</li>\n</ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ed490d43a2533506]{Journey} for familiar hunting grounds or to intercept a specific target, you may reroll your action die if its value is less than your ship’s integrity. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.e6ed148eff82c171]{Face Danger} by sailing an area in search of prey, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may spend 1 experience to @Compendium[starforged-custom-oracles.starforgedcustommoves.3de42d2d3cb78855]{Sojourn} with an automatic strong hit. If you do, you and your allies take one extra recovery move.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/pirate-flag.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/path/pirate_captain",
+      "dsid": "asset:sundered_isles/path/pirate_captain"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760214026813,
+    "modifiedTime": 1760214046632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "bsfHNyE0KtaNCYOU",
+  "sort": 2000000,
+  "_key": "!items!bsfHNyE0KtaNCYOU"
+}

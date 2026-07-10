@@ -1,0 +1,186 @@
+{
+  "name": "Peril",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "vQjKK3wWU27wpr4u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4DINDAOyS576i0uC]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CO2a43NmZ4Ui8KHr]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O7AobPhngMyKVX0u]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!q443b2OrsxnAGaBQ.vQjKK3wWU27wpr4u"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "O133xo0fJ1rTjDzn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4DINDAOyS576i0uC]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CO2a43NmZ4Ui8KHr]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O7AobPhngMyKVX0u]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!q443b2OrsxnAGaBQ.O133xo0fJ1rTjDzn"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "OlB3hhlZKZFFhArs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4DINDAOyS576i0uC]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CO2a43NmZ4Ui8KHr]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O7AobPhngMyKVX0u]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!q443b2OrsxnAGaBQ.OlB3hhlZKZFFhArs"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "VzZp98W8gHNuRNWK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.8c5a4c2514797da3]{Mechanical Theme Peril} or other Theme Peril",
+      "name": "",
+      "_key": "!tables.results!q443b2OrsxnAGaBQ.VzZp98W8gHNuRNWK"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "DtmdaLJmKd5Wekim",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!q443b2OrsxnAGaBQ.DtmdaLJmKd5Wekim"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "FBUvkIedd2S9Rji1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Story Complication @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK]{ 3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!q443b2OrsxnAGaBQ.FBUvkIedd2S9Rji1"
+    }
+  ],
+  "folder": "pSnh3w5RcEVhpg01",
+  "sort": 1,
+  "_id": "q443b2OrsxnAGaBQ",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703902223858,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!q443b2OrsxnAGaBQ"
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Myriads - Central Seas",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "VHmKwH8gUfF594gH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shallows",
+      "name": "",
+      "_key": "!tables.results!ycGv1F1KFmEUw7FF.VHmKwH8gUfF594gH"
+    },
+    {
+      "range": [
+        41,
+        100
+      ],
+      "_id": "gBMi0HMaboyU2Dxo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fathoms",
+      "name": "",
+      "_key": "!tables.results!ycGv1F1KFmEUw7FF.gBMi0HMaboyU2Dxo"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Roll when diving from your vessel or when learning about the location of a distant sunken location. If you are diving at the coast of an island, you will always find yourself in the Shallows.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "JQ4WR22ulwVvXRc1",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.9",
+    "createdTime": 1737193947208,
+    "modifiedTime": 1737193982838,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "ycGv1F1KFmEUw7FF",
+  "sort": 200000,
+  "_key": "!tables!ycGv1F1KFmEUw7FF"
+}

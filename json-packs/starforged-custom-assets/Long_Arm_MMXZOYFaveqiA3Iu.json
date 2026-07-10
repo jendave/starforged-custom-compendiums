@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "18b30f608501bf56",
+  "name": "Long-Arm",
+  "system": {
+    "requirement": "<p>If you wield a staff…</p>",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You may @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} +edge at close range. If you do, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} +edge using your staff to disarm, trip, shove, or stun your foe, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} and score a strong hit, or if you accompany an ally who scores a strong hit on that move, your staff provides support and comfort in your travels; take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/bo.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Combat_Talent/Long-Arm",
+      "dsid": "asset:classic/combat_talent/long_arm",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758318223921,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "MMXZOYFaveqiA3Iu",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_key": "!items!MMXZOYFaveqiA3Iu"
+}

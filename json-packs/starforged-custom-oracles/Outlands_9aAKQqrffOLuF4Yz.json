@@ -1,0 +1,134 @@
+{
+  "name": "Outlands",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        85
+      ],
+      "_id": "1Jpe7VVcwugB9FOJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!9aAKQqrffOLuF4Yz.1Jpe7VVcwugB9FOJ"
+    },
+    {
+      "range": [
+        86,
+        96
+      ],
+      "_id": "hoISEd1fnetKDL0x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!9aAKQqrffOLuF4Yz.hoISEd1fnetKDL0x"
+    },
+    {
+      "range": [
+        97,
+        99
+      ],
+      "_id": "O4szCkknYbh1HnGK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!9aAKQqrffOLuF4Yz.O4szCkknYbh1HnGK"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "enXKCVwAitHA1Wne",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple settlements",
+      "name": "",
+      "_key": "!tables.results!9aAKQqrffOLuF4Yz.enXKCVwAitHA1Wne"
+    }
+  ],
+  "folder": "GyqM6BAr48SPfc2J",
+  "sort": 1,
+  "_id": "9aAKQqrffOLuF4Yz",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This planet is in another dimension, or came from another dimension to this one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288355188,
+    "modifiedTime": 1703294001325,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!9aAKQqrffOLuF4Yz"
+}

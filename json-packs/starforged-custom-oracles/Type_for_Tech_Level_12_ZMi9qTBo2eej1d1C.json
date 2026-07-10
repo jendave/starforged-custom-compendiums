@@ -1,0 +1,110 @@
+{
+  "name": "Type for Tech Level 12",
+  "formula": "1d10",
+  "results": [
+    {
+      "_id": "tfOWH947y27VR2vn",
+      "type": "text",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defended",
+      "name": "",
+      "_key": "!tables.results!ZMi9qTBo2eej1d1C.tfOWH947y27VR2vn"
+    },
+    {
+      "_id": "yM0AzMsiCzZ3S5JQ",
+      "type": "text",
+      "weight": 3,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military-Industrial",
+      "name": "",
+      "_key": "!tables.results!ZMi9qTBo2eej1d1C.yM0AzMsiCzZ3S5JQ"
+    },
+    {
+      "_id": "og5WLGmMkLq5XlB6",
+      "type": "text",
+      "weight": 4,
+      "range": [
+        4,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High-Tech",
+      "name": "",
+      "_key": "!tables.results!ZMi9qTBo2eej1d1C.og5WLGmMkLq5XlB6"
+    }
+  ],
+  "_id": "ZMi9qTBo2eej1d1C",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "1ZOc7BsE3qgmGEBY",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697087058552,
+    "modifiedTime": 1697252945647,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.ZMi9qTBo2eej1d1C",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ZMi9qTBo2eej1d1C"
+}

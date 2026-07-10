@@ -1,0 +1,292 @@
+{
+  "name": "New Starship Quirks",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "TCH0K0tDXElUih3Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.TCH0K0tDXElUih3Y"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "M50SHfUWvYDdPuyU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lots of antennas",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.M50SHfUWvYDdPuyU"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "b70IthrNOKYivs6S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emitting lots of signals",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.b70IthrNOKYivs6S"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "vbgvUMfcWlaPQ5x9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone doing a spacewalk outside of it",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.vbgvUMfcWlaPQ5x9"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "3wuD3B8aLARPMVnV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual weapon designs",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.3wuD3B8aLARPMVnV"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "5IHI9IO3e0dGrg1Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lots of mechanical arms/tentacles extending",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.5IHI9IO3e0dGrg1Z"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "WwxfGeqqIO927fq3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A halo of bright energy pulses around it intermittently",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.WwxfGeqqIO927fq3"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "ZKGixEvFaQAoGyf2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A cloud of nano machines or droids surrounds it",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.ZKGixEvFaQAoGyf2"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "XgTIgwY7Uk5guG3G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seems to be in a hurry, quickly moving to jump to lightspeed",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.XgTIgwY7Uk5guG3G"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "AZR2BqdpuJuC2NyI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "They are towing something...",
+      "name": "",
+      "_key": "!tables.results!7WilbwWywYqLDIYl.AZR2BqdpuJuC2NyI"
+    }
+  ],
+  "_id": "7WilbwWywYqLDIYl",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Need a starship? Roll on a table. It will tell you if it is typically affiliated with Empire, Rebel, Smuggler, Hutt, Bounty Hunter, Syndicate, Civilian, or Any characters. These are called <em>tags</em>. The tags are listed from left to right, in order of the likelihood that the ship is affiliated with any of them. (<em>Example: a listing that has the tags Rebel / Empire / Smuggler, is most likely to be Rebel, but can sometimes be affiliated with Smuggler, though that’s less likely since it is farthest to the right.</em>)</p><p></p><p>You may also roll on either the “Large-Scale Ship Table” or the “Small-Scale Ship Table” to simply see what sort of group a new main character is affiliated with. (<em>Example: if you roll up ARC-170 Starfighter / Empire / Rebel, you can ignore the starfighter part of the entry, and determine that the new NPC you just met could either be Imperial or Rebel, but is more likely with the Empire, since that tag is listed first. But it could be neutral, because of course there is always the chance it was simply stolen.</em>) If you just <em>need</em> to know how big a dreadnought is, or the difference in size between, say, a frigate and a cruiser, the “New Starship Type” has all that quick-reference information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "CcVD0BrXB5cCacTG",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545937303,
+    "modifiedTime": 1707552023696,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": "RollTable.7WilbwWywYqLDIYl",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!7WilbwWywYqLDIYl"
+}

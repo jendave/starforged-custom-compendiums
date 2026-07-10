@@ -1,0 +1,186 @@
+{
+  "name": "Heavy",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Hhz1tFTis9eoWSag",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!rAPHdSJ9fkOAm8De.Hhz1tFTis9eoWSag"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "_id": "iUlrnm3DoUh6Ombt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light showers",
+      "name": "",
+      "_key": "!tables.results!rAPHdSJ9fkOAm8De.iUlrnm3DoUh6Ombt"
+    },
+    {
+      "range": [
+        4,
+        5
+      ],
+      "_id": "oV7JF0UoxaoaHbTR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium rain",
+      "name": "",
+      "_key": "!tables.results!rAPHdSJ9fkOAm8De.oV7JF0UoxaoaHbTR"
+    },
+    {
+      "range": [
+        6,
+        8
+      ],
+      "_id": "GJqUe1b8zlKhlN8R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy rain",
+      "name": "",
+      "_key": "!tables.results!rAPHdSJ9fkOAm8De.GJqUe1b8zlKhlN8R"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ojwoBeE3L3kmICEp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential",
+      "name": "",
+      "_key": "!tables.results!rAPHdSJ9fkOAm8De.ojwoBeE3L3kmICEp"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ZC3T0McZrjt6PcIO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Special storm",
+      "name": "",
+      "_key": "!tables.results!rAPHdSJ9fkOAm8De.ZC3T0McZrjt6PcIO"
+    }
+  ],
+  "folder": "vieY1S9gCOmgqo09",
+  "sort": 500000,
+  "_id": "rAPHdSJ9fkOAm8De",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698524994534,
+    "modifiedTime": 1698636026410,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!rAPHdSJ9fkOAm8De"
+}

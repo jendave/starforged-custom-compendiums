@@ -1,0 +1,290 @@
+{
+  "name": "Purpose",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "kYoerDM6kyxXeaT8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charity work",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.kYoerDM6kyxXeaT8"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "AzQwEwMS6rDBk9wp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Competition with another clinic or institution",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.AzQwEwMS6rDBk9wp"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "dwKicI0Yc3tFB6oF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desperate need after an accident",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.dwKicI0Yc3tFB6oF"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "hgimXJqOmctlWZTE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansion due to sudden demand",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.hgimXJqOmctlWZTE"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "J1HosTEKaEAOXke4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Privacy and exclusivity",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.J1HosTEKaEAOXke4"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "jFbIKO05yZoaORxK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Profit",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.jFbIKO05yZoaORxK"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "SaI9dv9vXMHezHbR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scientific curiosity and altruism",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.SaI9dv9vXMHezHbR"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "Lk80AAEIZnB6fWKB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tax reasons",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.Lk80AAEIZnB6fWKB"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "qjv6jS4Nl6Nt7Cbe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Teaching and healing facility",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.qjv6jS4Nl6Nt7Cbe"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "oqi6PWCpkvg5Ugc0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treat a specific disease or condition",
+      "name": "",
+      "_key": "!tables.results!rWzGqzaukFqBw0li.oqi6PWCpkvg5Ugc0"
+    }
+  ],
+  "folder": "OF49XtJ7mT2Z7Pbs",
+  "sort": 2,
+  "_id": "rWzGqzaukFqBw0li",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The founders of this particular place of healing had a specific goal or vision. Is it possible that it still serves that same function? You may roll once or twice for a First Look, or roll once as a Revealed Aspect.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293216803,
+    "modifiedTime": 1699294856201,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!rWzGqzaukFqBw0li"
+}

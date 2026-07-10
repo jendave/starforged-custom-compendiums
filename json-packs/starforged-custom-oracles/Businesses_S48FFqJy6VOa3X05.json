@@ -1,0 +1,192 @@
+{
+  "name": "Businesses",
+  "formula": "1d6",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "n35rhk2cbUbt5urx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Business Type",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.pZXv4Q5MYD9YtpBf",
+      "description": "",
+      "_key": "!tables.results!S48FFqJy6VOa3X05.n35rhk2cbUbt5urx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "uO73WmpUq4MgtXM3",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Business Type",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.pZXv4Q5MYD9YtpBf",
+      "description": "",
+      "_key": "!tables.results!S48FFqJy6VOa3X05.uO73WmpUq4MgtXM3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "fgEK7fCpwqeDohtH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Business Type",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.pZXv4Q5MYD9YtpBf",
+      "description": "",
+      "_key": "!tables.results!S48FFqJy6VOa3X05.fgEK7fCpwqeDohtH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "quaxGEfAmYSq5EkA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Businesses",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.llNLmHBX07lmURqZ",
+      "description": "",
+      "_key": "!tables.results!S48FFqJy6VOa3X05.quaxGEfAmYSq5EkA"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "fmdTspitYLm7YqA4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Businesses",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.llNLmHBX07lmURqZ",
+      "description": "",
+      "_key": "!tables.results!S48FFqJy6VOa3X05.fmdTspitYLm7YqA4"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "fw2zn0cybHep3K1f",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Businesses",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.llNLmHBX07lmURqZ",
+      "description": "",
+      "_key": "!tables.results!S48FFqJy6VOa3X05.fw2zn0cybHep3K1f"
+    }
+  ],
+  "folder": "QLxw877uUvBZlCOV",
+  "sort": 3,
+  "_id": "S48FFqJy6VOa3X05",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><em>We sang about the sun and danced among the trees And we listened to the whispers of the city on the breeze - Ancient pre-Cataclysm proverb</em></p><p>A set of oracle arrays for cities and districts for the Ironsworn: Starforged rpg. When determining the features of a settlement district, use these oracle arrays for inspiration.</p><p>The oracle arrays use the following oracles:</p><p>AR - <a href=\"https://p-d-gallagher.itch.io/augmented-reality\" style=\"text-decoration:none\">Augmented Reality The Holistic City Kit</a> by <a href=\"https://itch.io/profile/p-d-gallagher\" style=\"text-decoration:none\">Geist Hack Games</a></p><p>IC - <a href=\"https://vishae.itch.io/ironcity-district-generator\" style=\"text-decoration:none\">Iron City District Generator</a> by <a href=\"https://vishae.itch.io/\" style=\"text-decoration:none\">vishae</a></p><p>SEO – <a href=\"https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles\" style=\"text-decoration:none\">Starsmith: Expanded Oracles&gt; by </a><a href=\"https://preview.drivethrurpg.com/en/publisher/8584/eric-bright\" style=\"text-decoration:none\">Eric Bright</a></p><p>CP - <a href=\"https://jendave.itch.io/i-owe-my-soul-to-the-company-planet\" style=\"text-decoration:none\">I Owe My Soul to the Company Planet</a> by <a href=\"https://jendave.itch.io/\" style=\"text-decoration:none\">David Hudson</a></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707614485386,
+    "modifiedTime": 1733897985969,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!S48FFqJy6VOa3X05"
+}

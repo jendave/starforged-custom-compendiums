@@ -1,0 +1,65 @@
+{
+  "folder": "Ayzz2JV8B3rXWfFb",
+  "name": "Exotic Planets",
+  "_id": "xDlIgmPUCDUJiQzN",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "Pwlhkhyoi17CpwM1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3ygSvVTTKqLXOZA6]{Exotic Planet}</p><h2>Artificial</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1sZqZHQIHkf5iUJu]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.OYh7pT6IKREk3nHf]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.zzDWjdpWFQ90s9Tl]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ar27I0bX778Qi5Uy]{Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.L0zvdOi8NwGlGV4i]{Observed From Space}</p><h3>Settlements</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.msBBA87aYjNMzYVn]{Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AFLcD4x9YeHOr80o]{Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.gSYBcYUaLV45XgSE]{Terminus}</p><h2>Crystal</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.iaaKRQdYILbDKlnO]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hA1YCJMCsbDLXGtw]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XdJ6meZwPI1oSl8f]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Zgvo15Q6bq4hIWNH]{Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.6yhsY0615HtAnbTT]{Observed From Space}</p><h3>Settlements</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.snbWV6Ejnq5Wv0L8]{Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.w5TuxtuoQUpjiOQd]{Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.QhEbOrmajgsoGGPd]{Terminus}</p><h2>Extradimensional</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YTzJPlmXYxuYmhQh]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cpq1odNJNIRZ08qP]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.O7PbVPmOds5UyxIv]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uf7j8j2doMtCkVYi]{Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RX82DaEtmDixRNOt]{Observed From Space}</p><h3>Settlements</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VzEQ0HDrFc1tJpML]{Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9aAKQqrffOLuF4Yz]{Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.73URVJ0eDSAuMyUy]{Terminus}</p><h2>Living</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.dzQKpfm3YRxkGC5c]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Qliw1klOgHw8h5Bo]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.M2yNZOP8bwIf5IHp]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NhULdHWF4f3vw3VG]{Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.us0gm8Xj2Q4aPAwD]{Observed From Space}</p><h3>Settlements</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UAD6HYEHUqJmjMQo]{Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.N9ViylfEjYk4DPEg]{Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cgJ1sIPOIjuEIvPh]{Terminus}</p><h2>Metallic</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.6uZjDTIYuVWXhezu]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2adX6kgwzZd8IC1n]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.6dfRBNbkiySJgf0Q]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.wdZzLp9jBLhkviDu]{Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xTq1jF3mcP0F6ixH]{Observed From Space}</p><h3>Settlements</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AFR64NYro0VKimLq]{Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.iM8sVPJjjYYFfiUq]{Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ecMrKry4EoHwAe6c]{Terminus}</p><h2>Rogue</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.y05k084HkR5Gxa8T]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.peTA7v2lPFk9ymYz]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XANdiJKv6DQkAdzn]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.dROGDPuBcWKyIsca]{Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2GAnQD2WPXn1HJVx]{Observed From Space}</p><h3>Settlements</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pn2JNNryzKLi60yD]{Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.t2bxoJGJHXawsudc]{Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AvfUdC5WcCMJHtln]{Terminus}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758084374715,
+        "modifiedTime": 1758084818139,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!xDlIgmPUCDUJiQzN.Pwlhkhyoi17CpwM1"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758084363978,
+    "modifiedTime": 1758084363978,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!xDlIgmPUCDUJiQzN"
+}

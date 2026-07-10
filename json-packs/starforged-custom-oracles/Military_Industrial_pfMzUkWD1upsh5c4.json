@@ -1,0 +1,292 @@
+{
+  "name": "Military-Industrial",
+  "formula": "1d10",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tz9axtvat762bm59",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Squat construction",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.tz9axtvat762bm59"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "89uhcsdou7erxe10",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dull colors",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.89uhcsdou7erxe10"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "svri6csrcua5pljz",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visible PA system",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.svri6csrcua5pljz"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jsr8nwrmvljff0f3",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security cameras",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.jsr8nwrmvljff0f3"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5v0xwe8wgfcwns01",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grey color schemes",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.5v0xwe8wgfcwns01"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "l0tm8zr5nfpbzifo",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy doors",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.l0tm8zr5nfpbzifo"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0huwnntj0k7lkb9i",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Copious warehousing",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.0huwnntj0k7lkb9i"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rxc4lgmpg25eea1j",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guarded entries",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.rxc4lgmpg25eea1j"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "v6g9yul52f7ip99m",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barrack-style housing",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.v6g9yul52f7ip99m"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5m45jbmls1kaw8zj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bristling with antennae",
+      "name": "",
+      "_key": "!tables.results!pfMzUkWD1upsh5c4.5m45jbmls1kaw8zj"
+    }
+  ],
+  "_id": "pfMzUkWD1upsh5c4",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 10\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For each (Orbital or Deep Space) Settlement we can now roll up Impressions, Senses and Industries.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "uWbg9MdQVlvciRy3",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697086979205,
+    "modifiedTime": 1697244809176,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.pfMzUkWD1upsh5c4",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!pfMzUkWD1upsh5c4"
+}

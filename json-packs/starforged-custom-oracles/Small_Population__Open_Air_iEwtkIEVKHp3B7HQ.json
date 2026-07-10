@@ -1,0 +1,188 @@
+{
+  "name": "Small Population: Open Air",
+  "formula": "1d20",
+  "results": [
+    {
+      "_id": "ZuIUyifb4imCCnjL",
+      "type": "text",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food growing",
+      "name": "",
+      "_key": "!tables.results!iEwtkIEVKHp3B7HQ.ZuIUyifb4imCCnjL"
+    },
+    {
+      "_id": "OYiix1Rxsp7lva5V",
+      "type": "text",
+      "weight": 3,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food processing and packing",
+      "name": "",
+      "_key": "!tables.results!iEwtkIEVKHp3B7HQ.OYiix1Rxsp7lva5V"
+    },
+    {
+      "_id": "2TStDtF0DigigBOu",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oil and gas drilling",
+      "name": "",
+      "_key": "!tables.results!iEwtkIEVKHp3B7HQ.2TStDtF0DigigBOu"
+    },
+    {
+      "_id": "SjuE7EfstpyrBHdM",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ore mining",
+      "name": "",
+      "_key": "!tables.results!iEwtkIEVKHp3B7HQ.SjuE7EfstpyrBHdM"
+    },
+    {
+      "_id": "Ar71BsGYfBfq4SvM",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small ship repair",
+      "name": "",
+      "_key": "!tables.results!iEwtkIEVKHp3B7HQ.Ar71BsGYfBfq4SvM"
+    },
+    {
+      "_id": "X6K6uP0sLUP3869P",
+      "type": "text",
+      "weight": 10,
+      "range": [
+        11,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsistence",
+      "name": "",
+      "_key": "!tables.results!iEwtkIEVKHp3B7HQ.X6K6uP0sLUP3869P"
+    }
+  ],
+  "_id": "iEwtkIEVKHp3B7HQ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 9\"><div class=\"layoutArea\"><div class=\"column\"><div class=\"page\" title=\"Page 9\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For your Planetside Settlement, Roll d20 and pick 1-2 entries from the relevant column in the Oracle. A population of “Few” or “Dozens” is “Small”. The results are suggestions for the </span><span style=\"font-family:'CIDFont+F5'\">primary </span><span style=\"font-family:'CIDFont+F1'\">industries in the Settlement.<br /><br />“Subsistence” means that the Settlement has nothing that even looks like “industry” and is just trying to survive – frequently the situation in very small Settlements.</span></p></div></div></div></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "D1u8dTejWa5CGAi7",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697085406835,
+    "modifiedTime": 1697244138688,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.iEwtkIEVKHp3B7HQ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!iEwtkIEVKHp3B7HQ"
+}

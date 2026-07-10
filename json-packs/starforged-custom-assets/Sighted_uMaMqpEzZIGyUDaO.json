@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Sighted",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a move to identify, detect, or interact with an anomalous force or mystic being, add +1 and take +1 momentum on a hit. If by the time of the first encounter you score a strong hit, mark 1 tick on your discoveries legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>'When you @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} as a direct result of interacting with an anomalous force or mystic being, add +1. On a strong hit, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.bd6278f18bbd6739]{Ask the Oracle} using the yes/no table about the force or being and take +2 momentum if the answer is helpful.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move by studying or focusing on someone or something in a charged situation, you may [after rolling] pierce the veil of perception. If you do, reroll any dice, but count a weak hit as a miss.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/sunken-eye.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Sighted",
+      "dsid": "asset:classic/path/sighted",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.X1lc1zW5hb1SYMFJ",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "uMaMqpEzZIGyUDaO",
+  "sort": 196875,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!uMaMqpEzZIGyUDaO"
+}

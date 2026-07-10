@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Kraken",
+  "system": {
+    "requirement": "<p>The Kraken destroys all those before you.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Monstrous: When you summon the Kraken, fill 1 segment of a 4-segment clock. The Kraken will heed a single command to overcome a foe or obstacle. While it is in your service, it cannot be harmed. If you are in a fight, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3129f4caa4754caf]{Take Decisive Action} with an automatic strong hit. When the clock is filled, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.bd6278f18bbd6739]{Ask the Oracle} ('50/50') if the Kraken turns against you. On a yes, discard this asset; the Kraken is now an epic foe. On a no, clear 1 segment of the clock.</p>",
+        "hasClock": true,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Terrifying: When you make a move using a threat to call the Kraken as leverage, add +2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Devil-Dealing: One time only, when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.985a5415860a99e9]{Fulfill Your Vow} (formidable or greater) in service to the Kraken, choose one: clear all clock segments, or discard this asset and mark 3 boxes on your bonds legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "",
+      "current": 0,
+      "max": 3,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/suckered-tentacle.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/kraken",
+      "dsid": "asset:sundered_isles/companion/kraken",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906534179,
+    "modifiedTime": 1759806552392,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "qPjGC4wV2XRAKWDI",
+  "sort": 1300000,
+  "_key": "!items!qPjGC4wV2XRAKWDI"
+}

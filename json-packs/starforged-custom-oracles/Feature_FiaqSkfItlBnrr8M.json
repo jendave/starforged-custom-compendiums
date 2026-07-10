@@ -1,0 +1,186 @@
+{
+  "name": "Feature",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "8UG5gyl1GWO8afCQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!FiaqSkfItlBnrr8M.8UG5gyl1GWO8afCQ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "IgaROCEI1qrUNSZ2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Observed From Space @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wCWNV5mg80zJCzz]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8NCFv7yLKaxIjARl]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nFaY8oF7Qg0yKzQn]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!FiaqSkfItlBnrr8M.IgaROCEI1qrUNSZ2"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Vy58mXkL1EwafwTK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.5d673d674c3d1395]{Infested Theme Feature}",
+      "name": "",
+      "_key": "!tables.results!FiaqSkfItlBnrr8M.Vy58mXkL1EwafwTK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Gub7uhMTdyDdSjNg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Z1uRFYQVc71TBfQ0]{Overgrown Theme Feature} or @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.X0BVY0u1oEFvyrzx]{Flooded Theme Feature}",
+      "name": "",
+      "_key": "!tables.results!FiaqSkfItlBnrr8M.Gub7uhMTdyDdSjNg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "habH4BjS6zX0Ht8M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Theme @UUID[Compendium.foundry-ironsworn.ironsworndelvethemes.Item.v3jYuNrr1Jt4TzNZ]{Wild} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.5O7wtNRy7tGrtIXd]{Jurassic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.Dima1MSxxNkacMPG]{Jungle} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.XKAblbfZRtHXekBy]{World Tree} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.MbJlpR81C4Q4WDV2]{Tanglewood} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.Xn1xz4l3r6AMWzg8]{Shadowfen}",
+      "name": "",
+      "_key": "!tables.results!FiaqSkfItlBnrr8M.habH4BjS6zX0Ht8M"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "EU2lqzA2fjde1Qks",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!FiaqSkfItlBnrr8M.EU2lqzA2fjde1Qks"
+    }
+  ],
+  "folder": "n69yBnAQ6igvzODZ",
+  "sort": 0,
+  "_id": "FiaqSkfItlBnrr8M",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703901668676,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!FiaqSkfItlBnrr8M"
+}

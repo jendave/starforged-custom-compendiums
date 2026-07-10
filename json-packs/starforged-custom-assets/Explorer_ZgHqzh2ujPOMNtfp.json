@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Explorer",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.367804b98f30d5f4]{Explore a Waypoint}, take +1 momentum on a hit. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.edac426b7c23f060]{Finish an Expedition} and score a hit, mark 1 extra tick on your discoveries legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you come across a wondrous sight or phenomenon, such as an extraordinary planet, majestic creature, or dazzling stellar object, choose one:</p>\n<ul>\n<li>Find inspiration: Take +1 momentum</li>\n<li>Soak it all in: @Compendium[starforged-custom-oracles.starforgedcustommoves.c2c2f31f564caa06]{Hearten}; add +1, and take +1 momentum on a hit.</li>\n</ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.a2d7793b23c17489]{Secure an Advantage} by studying a newfound place from a safe position, add +1 and take +1 momentum on a hit. On a strong hit with a match, take another +1 momentum and envision an unusual aspect of the site.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/radial-balance.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Explorer",
+      "dsid": "asset:starforged/path/explorer"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760213993522,
+    "modifiedTime": 1760214046632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_id": "ZgHqzh2ujPOMNtfp",
+  "sort": 2300000,
+  "_key": "!items!ZgHqzh2ujPOMNtfp"
+}

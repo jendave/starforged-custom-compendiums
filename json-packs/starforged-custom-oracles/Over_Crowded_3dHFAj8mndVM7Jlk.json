@@ -1,0 +1,292 @@
+{
+  "name": "Over-Crowded",
+  "formula": "1d10",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "za6qdq55s8r69fqg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bunks stacked high",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.za6qdq55s8r69fqg"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b4uw9k9acrb3ph8e",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tightly-packed rooms",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.b4uw9k9acrb3ph8e"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hw5a7820t1s2xwj3",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confined spaces",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.hw5a7820t1s2xwj3"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8dnc6uzz2tikvlos",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Background noise",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.8dnc6uzz2tikvlos"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1449kng0pm7qiz4p",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nagging odors",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.1449kng0pm7qiz4p"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nv8a6xtuyt75g1c6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Traces of vermin",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.nv8a6xtuyt75g1c6"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3iyl30vdvy76nt7q",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass eateries",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.3iyl30vdvy76nt7q"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1cxgyzm8xbfcw788",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dull colors",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.1cxgyzm8xbfcw788"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "21596wig7h71ifrg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "People everywhere",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.21596wig7h71ifrg"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xu0nlox2nff8pwiz",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food vendors",
+      "name": "",
+      "_key": "!tables.results!3dHFAj8mndVM7Jlk.xu0nlox2nff8pwiz"
+    }
+  ],
+  "_id": "3dHFAj8mndVM7Jlk",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 10\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For each (Orbital or Deep Space) Settlement we can now roll up Impressions, Senses and Industries.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "uWbg9MdQVlvciRy3",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697086992742,
+    "modifiedTime": 1697244859783,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.3dHFAj8mndVM7Jlk",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!3dHFAj8mndVM7Jlk"
+}

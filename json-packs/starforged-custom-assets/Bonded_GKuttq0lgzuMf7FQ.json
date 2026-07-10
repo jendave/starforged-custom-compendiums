@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "Bonded",
+  "system": {
+    "requirement": "<p>One time only, once you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.287bb4c2b53ea847]{Forge a Bond} with a special individual…</p>",
+    "category": "Deed",
+    "color": "#40834f",
+    "fields": [
+      {
+        "name": "Bond-mate",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>This person is your bond-mate. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3de42d2d3cb78855]{Sojourn} at their home, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.c2c2f31f564caa06]{Hearten} in their presence, or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.8704c945023355fb]{Test Your Relationship} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.141aec8b92efd14b]{Develop Your Relationship} with them, reroll any dice. On a strong hit, take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ed490d43a2533506]{Journey} back to your bondmate's location, add +heart. On a strong hit with a match, envision a special reunion and mark two ticks on your bonds legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move in a crucial moment and score a miss, you may cling to thoughts of your bond-mate for support. If you do, reroll any dice. On another miss, in addition to the outcome of the move, you must mark shaken or traumatized. If both debilities are already marked, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff17e67a59539df4]{Face Desolation}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/knot.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Deed/Bonded",
+      "dsid": "asset:starforged/deed/bonded",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906569394,
+    "modifiedTime": 1759825390945,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "GKuttq0lgzuMf7FQ",
+  "sort": 1400000,
+  "_key": "!items!GKuttq0lgzuMf7FQ"
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Scene Location Planetside",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        50
+      ],
+      "_id": "S2vgHqMM1NaJm9eA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outdoors",
+      "name": "",
+      "_key": "!tables.results!Vc2CAJSF6YHk0kaO.S2vgHqMM1NaJm9eA"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "XBzmilAEM25AQGEz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Indoors",
+      "name": "",
+      "_key": "!tables.results!Vc2CAJSF6YHk0kaO.XBzmilAEM25AQGEz"
+    }
+  ],
+  "folder": "s6ePZrRlXQyGLeWh",
+  "sort": 1,
+  "_id": "Vc2CAJSF6YHk0kaO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Indoors vs outdoors can mean different things depending on the type of settlement. </p><p>Use this table in conjunction with the Area oracle to create more options for settings. Rolling “indoors” and “red light district” might mean that your character is interrogating a lead in a strip club, whereas “outdoors” might mean your character is hanging outside casing the joint. </p><p>I’ve also included “In Vacuum” for scenes where your character might be hanging outside a space station (maybe they’re fixing something or trying to infiltrate Engineering without triggering the alarms?)</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829747520,
+    "modifiedTime": 1698831574898,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Vc2CAJSF6YHk0kaO"
+}

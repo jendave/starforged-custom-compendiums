@@ -1,0 +1,634 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Moves/Confront_Chaos",
+      "category": "Starforged/Moves/Exploration",
+      "dsid": "move.oracle_rollable:starforged/exploration/confront_chaos.confront_chaos"
+    }
+  },
+  "name": "Confront Chaos",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "a8fd3a35ba62cdbe",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Baneful weapon of mass destruction",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.a8fd3a35ba62cdbe"
+    },
+    {
+      "range": [
+        5,
+        9
+      ],
+      "_id": "e6768d346086a068",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cataclysmic environmental effects",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.e6768d346086a068"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "9a3bbffd58c0283b",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dead given unnatural life",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.9a3bbffd58c0283b"
+    },
+    {
+      "range": [
+        13,
+        17
+      ],
+      "_id": "de450c9353cb6b39",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destructive lifeform of monstrous proportion",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.de450c9353cb6b39"
+    },
+    {
+      "range": [
+        18,
+        20
+      ],
+      "_id": "daeb8d9ceb96d968",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dread hallucinations or illusions",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.daeb8d9ceb96d968"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "33ce2e1ee2bc4d35",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harbingers of an imminent invasion",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.33ce2e1ee2bc4d35"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "dc45111e3cd3ae11",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Horde of insatiable hunger or fury",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.dc45111e3cd3ae11"
+    },
+    {
+      "range": [
+        28,
+        32
+      ],
+      "_id": "637b39f43704b08c",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Horrific lifeforms of inscrutable purpose",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.637b39f43704b08c"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "d71dcd7f73f11e7f",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impostors in human form",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.d71dcd7f73f11e7f"
+    },
+    {
+      "range": [
+        37,
+        41
+      ],
+      "_id": "3f1500e308ff5cad",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machines made enemy",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.3f1500e308ff5cad"
+    },
+    {
+      "range": [
+        42,
+        45
+      ],
+      "_id": "8e4c86ce2e9982d1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malignant contagion or parasite",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.8e4c86ce2e9982d1"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "60ed3e75f17d7a50",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Messenger or signal with a dire warning",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.60ed3e75f17d7a50"
+    },
+    {
+      "range": [
+        51,
+        53
+      ],
+      "_id": "b663c1633e21c4ce",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Passage to a grim alternate reality",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.b663c1633e21c4ce"
+    },
+    {
+      "range": [
+        54,
+        58
+      ],
+      "_id": "d5a781cb2f5df287",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "People corrupted by chaos",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.d5a781cb2f5df287"
+    },
+    {
+      "range": [
+        59,
+        63
+      ],
+      "_id": "9254af161186159b",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful distortions of time or space",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.9254af161186159b"
+    },
+    {
+      "range": [
+        64,
+        68
+      ],
+      "_id": "1e82886059672e77",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of an impending catastrophe",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.1e82886059672e77"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "a36eaf544a531754",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Site of a baffling disappearance",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.a36eaf544a531754"
+    },
+    {
+      "range": [
+        73,
+        77
+      ],
+      "_id": "566ac6d715540a0a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Site of a horrible disaster",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.566ac6d715540a0a"
+    },
+    {
+      "range": [
+        78,
+        82
+      ],
+      "_id": "626f3f35a9f5e279",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Site of terrible carnage",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.626f3f35a9f5e279"
+    },
+    {
+      "range": [
+        83,
+        87
+      ],
+      "_id": "16b29371d42e8714",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology nullified or made unstable",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.16b29371d42e8714"
+    },
+    {
+      "range": [
+        88,
+        92
+      ],
+      "_id": "f6b3fc9f9683db83",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology warped for dark purpose",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.f6b3fc9f9683db83"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "16b1cd80379959b0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vault of dread technology or power",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.16b1cd80379959b0"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "a6b0ca4726a59a62",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worshipers of great and malevolent powers",
+      "name": "",
+      "_key": "!tables.results!NqN1SNnKiMkLwVGA.a6b0ca4726a59a62"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758483673971,
+    "modifiedTime": 1758484142562,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "NqN1SNnKiMkLwVGA",
+  "sort": 800000,
+  "_key": "!tables!NqN1SNnKiMkLwVGA"
+}

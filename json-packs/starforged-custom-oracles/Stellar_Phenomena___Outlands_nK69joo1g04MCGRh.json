@@ -1,0 +1,82 @@
+{
+  "name": "Stellar Phenomena - Outlands",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "TiJziSKz6Jf4lxxi",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "notable phenomenon",
+      "name": "",
+      "_key": "!tables.results!nK69joo1g04MCGRh.TiJziSKz6Jf4lxxi"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "cx0O9Chdrnq5xYEB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "dangerous phenomenon",
+      "name": "",
+      "_key": "!tables.results!nK69joo1g04MCGRh.cx0O9Chdrnq5xYEB"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 7,
+  "_id": "nK69joo1g04MCGRh",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!nK69joo1g04MCGRh"
+}

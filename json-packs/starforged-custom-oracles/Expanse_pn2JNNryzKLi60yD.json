@@ -1,0 +1,108 @@
+{
+  "name": "Expanse",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        95
+      ],
+      "_id": "u5TmvHgMRscVEfX5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!pn2JNNryzKLi60yD.u5TmvHgMRscVEfX5"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "cz5AG42g3C1N1Ph7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!pn2JNNryzKLi60yD.cz5AG42g3C1N1Ph7"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "g9ajScudZ1V62bVY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!pn2JNNryzKLi60yD.g9ajScudZ1V62bVY"
+    }
+  ],
+  "folder": "5sIlkqkBxTpOdl6M",
+  "sort": 2,
+  "_id": "pn2JNNryzKLi60yD",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet ripped away from the star system where it was born, now roaming the cold depths of space.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288185827,
+    "modifiedTime": 1703293665316,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!pn2JNNryzKLi60yD"
+}

@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "_id": "eED3kOAd0Dywoq8x",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Aegismith",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you fabricate a personalized energy ward or bio-synthetic charm, envision it and name the specific person or creature type it protects against. Then roll +wits. On a strong hit, the wearer gains +2 when opposing the designated target through a move. If a 1 is rolled on the action die, the charge is depleted and the artifact goes offline. On a weak hit, as above, but the wearer gains +1 instead of +2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may configure the artifact to defend against anomalies and hostile phenomena - such as psionic attacks, alien pathogens, or reality distortions.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The wearer may make the @Compendium[foundry-ironsworn.starforgedmoves.Item.f4dec946415d8e57]{Aid Your Ally} move by leveraging the artifact's properties. If they do, they take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/fire-silhouette.svg",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Talisman",
+      "dsid": "asset:classic/ritual/talisman",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.84e9642aa474c8f2",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!eED3kOAd0Dywoq8x"
+}

@@ -1,0 +1,192 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Moves/Take_Decisive_Action",
+      "category": "Starforged/Moves/Combat",
+      "dsid": "move.oracle_rollable:starforged/combat/take_decisive_action.take_decisive_action"
+    }
+  },
+  "name": "Take Decisive Action",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "4a0c76579dc050b6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It’s worse than you thought: Make a suffer move (-2)",
+      "name": "",
+      "_key": "!tables.results!VetfqC7efZ8qxHqb.4a0c76579dc050b6"
+    },
+    {
+      "range": [
+        41,
+        52
+      ],
+      "_id": "47ea790061e3bc2d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Victory is short-lived: A new peril or foe appears",
+      "name": "",
+      "_key": "!tables.results!VetfqC7efZ8qxHqb.47ea790061e3bc2d"
+    },
+    {
+      "range": [
+        53,
+        64
+      ],
+      "_id": "c9f9453d3db62600",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You face collateral damage: Something is lost, damaged, or broken",
+      "name": "",
+      "_key": "!tables.results!VetfqC7efZ8qxHqb.c9f9453d3db62600"
+    },
+    {
+      "range": [
+        65,
+        76
+      ],
+      "_id": "8fdffb33ab067922",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Others pay the price: Someone else suffers the cost",
+      "name": "",
+      "_key": "!tables.results!VetfqC7efZ8qxHqb.8fdffb33ab067922"
+    },
+    {
+      "range": [
+        77,
+        88
+      ],
+      "_id": "2e40980b18442255",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Others won’t forget: You are marked for vengeance",
+      "name": "",
+      "_key": "!tables.results!VetfqC7efZ8qxHqb.2e40980b18442255"
+    },
+    {
+      "range": [
+        89,
+        100
+      ],
+      "_id": "3873b6cdab8533a7",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It gets complicated: The true nature of a foe or objective is revealed",
+      "name": "",
+      "_key": "!tables.results!VetfqC7efZ8qxHqb.3873b6cdab8533a7"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758483682053,
+    "modifiedTime": 1758484142562,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "VetfqC7efZ8qxHqb",
+  "sort": 400000,
+  "_key": "!tables!VetfqC7efZ8qxHqb"
+}

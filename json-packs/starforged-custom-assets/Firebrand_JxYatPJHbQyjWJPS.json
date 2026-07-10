@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "RQU0jeVYyTJHSSGQ",
+  "name": "Firebrand",
+  "system": {
+    "requirement": "",
+    "category": "Ritual",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You wield fiery energy. When you rest and meditate to gather this energy, roll +spirit. On a strong hit, take up to +3 fire. On a weak hit, take +2. On a miss, take +2 fire but @Compendium[starforged-custom-oracles.starforgedcustommoves.905205c073b09eac]{Endure Harm} (-2). Your max fire is +5. When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 fire.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you have at least +3 fire, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3f5a834fa3fea5d1]{Gain Ground} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} by unleashing hell. If you do, take an automatic strong hit and mark progress. Then, set your fire to 0.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you perform this ritual, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Fire",
+      "current": 0,
+      "max": 5,
+      "value": 0,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/fire-silhouette.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Firebrand",
+      "dsid": "asset:starforged/path/firebrand",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760031127060,
+    "modifiedTime": 1760031137304,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "JxYatPJHbQyjWJPS",
+  "sort": 800000,
+  "_key": "!items!JxYatPJHbQyjWJPS"
+}

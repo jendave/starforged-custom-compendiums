@@ -1,0 +1,550 @@
+{
+  "name": "Perils",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "jDoC55DdwTYQEjjW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overprotective AI",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.jDoC55DdwTYQEjjW"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "TvgL6vYS0iRQ42Jm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An attempt to hack your gear",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.TvgL6vYS0iRQ42Jm"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "vyoapQ53x5OauywA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunted by horrors",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.vyoapQ53x5OauywA"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "8SF7940HKVPuw21o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Failing power",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.8SF7940HKVPuw21o"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "yCENsutCRxoNlJqK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malfunctioning drones",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.yCENsutCRxoNlJqK"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "Jkq3NChwyR6hW00E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trigger alarm or trap",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.Jkq3NChwyR6hW00E"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "KX4qb1hkBQLi7fCs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of something horrific",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.KX4qb1hkBQLi7fCs"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "sJXmrFwPhRg0YaQA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken machinery",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.sJXmrFwPhRg0YaQA"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "6NfRKtvDiKtrGNOk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Claustrophobic corridors",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.6NfRKtvDiKtrGNOk"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "4BCtPSmTtmpmgLDx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extreme temperature hazard",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.4BCtPSmTtmpmgLDx"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "w5jfyOPacNEiajkM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival starfarers",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.w5jfyOPacNEiajkM"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "r9RJk2DVQP78Ptaw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sealed, contaminated area",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.r9RJk2DVQP78Ptaw"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "XGVNAeax8HTgUNnO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sense of impending doom",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.XGVNAeax8HTgUNnO"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "dkb1ivYGMUZogwNE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden structural collapse",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.dkb1ivYGMUZogwNE"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "JBhSu14lUMHc8DPF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment malfunction",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.JBhSu14lUMHc8DPF"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "SreVYBgEFlITa4M9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lured into a dangerous situation",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.SreVYBgEFlITa4M9"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "e9p1q9tFmRRjqacN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feelings of being watched",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.e9p1q9tFmRRjqacN"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "IPZg0zkokw3hr91q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impassable broken terrain",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.IPZg0zkokw3hr91q"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "iW0YknlovJKYY3HN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.iW0YknlovJKYY3HN"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "c7LtxMxVoYvbRbEL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!As3p71XL94Geqn5w.c7LtxMxVoYvbRbEL"
+    }
+  ],
+  "folder": "Vz3iEVN73HiiGJfK",
+  "sort": 4,
+  "_id": "As3p71XL94Geqn5w",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These satellites are huge, moon-sized space stations. Who built this moon and why? How old is it?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690501075,
+    "modifiedTime": 1698872376347,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!As3p71XL94Geqn5w"
+}

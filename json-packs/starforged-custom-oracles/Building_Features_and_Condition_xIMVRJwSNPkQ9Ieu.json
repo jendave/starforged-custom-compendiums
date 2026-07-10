@@ -1,0 +1,190 @@
+{
+  "name": "Building Features and Condition",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "RcAIFR7ozopfEhjm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "District Condition @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.5qPQmGjL5TnV0VV9]{Terminus}  @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AZdcJ1BSxhYRnOOv]{Outlands}  @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nlPobTCXv1TG1Dce]{Expanse}",
+      "name": "",
+      "_key": "!tables.results!xIMVRJwSNPkQ9Ieu.RcAIFR7ozopfEhjm"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "sV3SnUOZrPg0l7ut",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Features by Area Type @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.SikQ2DDDW9EziJu3]{Access}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Xw44xq8doKvVmMuU]{Community}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NAjhJFfOfnI4RUhG]{Engineering}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0XWUJFkDOKtYBGpe]{Living}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qlLVFSJQFchy8GtD]{Medical}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vaQHHuBfLrQvUWqe]{Operations}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.G1kgbuN1Cimyz0SE]{Production}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Sd4YeQHAaF4HdMKy]{Research}",
+      "name": "",
+      "_key": "!tables.results!xIMVRJwSNPkQ9Ieu.sV3SnUOZrPg0l7ut"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "4ZLW3SmRZuiFRoDG",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Notable Features Table 1",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.5UVnxCiXJYMzyX01",
+      "description": "",
+      "_key": "!tables.results!xIMVRJwSNPkQ9Ieu.4ZLW3SmRZuiFRoDG"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "qpchPcEAq2TLtLC6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Notable Features Table 2",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.NzWJIe6KyLfRjTh4",
+      "description": "",
+      "_key": "!tables.results!xIMVRJwSNPkQ9Ieu.qpchPcEAq2TLtLC6"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "Ueg4dlqZSaUXFpGc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Expanded Building Features",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.iStOB87CjnxOE7aw",
+      "description": "",
+      "_key": "!tables.results!xIMVRJwSNPkQ9Ieu.Ueg4dlqZSaUXFpGc"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "o7okiIgs1efk2sAj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Legacy Infrastructure",
+      "documentUuid": "Compendium.augmented-reality-foundry.augmentedrealityrolltables.RollTable.NA4ZrtCfMCwhS6BM",
+      "description": "",
+      "_key": "!tables.results!xIMVRJwSNPkQ9Ieu.o7okiIgs1efk2sAj"
+    }
+  ],
+  "folder": "QLxw877uUvBZlCOV",
+  "sort": 2,
+  "_id": "xIMVRJwSNPkQ9Ieu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><em>We sang about the sun and danced among the trees And we listened to the whispers of the city on the breeze - Ancient pre-Cataclysm proverb</em></p><p>A set of oracle arrays for cities and districts for the Ironsworn: Starforged rpg. When determining the features of a settlement district, use these oracle arrays for inspiration.</p><p>The oracle arrays use the following oracles:</p><p>AR - <a href=\"https://p-d-gallagher.itch.io/augmented-reality\" style=\"text-decoration:none\">Augmented Reality The Holistic City Kit</a> by <a href=\"https://itch.io/profile/p-d-gallagher\" style=\"text-decoration:none\">Geist Hack Games</a></p><p>IC - <a href=\"https://vishae.itch.io/ironcity-district-generator\" style=\"text-decoration:none\">Iron City District Generator</a> by <a href=\"https://vishae.itch.io/\" style=\"text-decoration:none\">vishae</a></p><p>SEO – <a href=\"https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles\" style=\"text-decoration:none\">Starsmith: Expanded Oracles&gt; by </a><a href=\"https://preview.drivethrurpg.com/en/publisher/8584/eric-bright\" style=\"text-decoration:none\">Eric Bright</a></p><p>CP - <a href=\"https://jendave.itch.io/i-owe-my-soul-to-the-company-planet\" style=\"text-decoration:none\">I Owe My Soul to the Company Planet</a> by <a href=\"https://jendave.itch.io/\" style=\"text-decoration:none\">David Hudson</a></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707614485381,
+    "modifiedTime": 1733898010240,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!xIMVRJwSNPkQ9Ieu"
+}

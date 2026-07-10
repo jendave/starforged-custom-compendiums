@@ -1,0 +1,166 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Oracles/Moves/Delve_the_Depths/Wits",
+      "category": "Ironsworn/Moves/Delve",
+      "dsid": "move.oracle_rollable:delve/delve/delve_the_depths.wits"
+    }
+  },
+  "name": "Wits",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "549facc27f3c72e1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark progress and @Compendium[foundry-ironsworn.ironsworndelvemoves.06f78b87b9532437]{Reveal a Danger}.",
+      "name": "",
+      "_key": "!tables.results!yAtMTN3e58Gd1zzt.549facc27f3c72e1"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "6e15eb0f9c28f29d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark progress.",
+      "name": "",
+      "_key": "!tables.results!yAtMTN3e58Gd1zzt.6e15eb0f9c28f29d"
+    },
+    {
+      "range": [
+        56,
+        80
+      ],
+      "_id": "b964105534c203f1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Choose one: Mark progress or @Compendium[foundry-ironsworn.ironsworndelvemoves.4da87fd54eaa1b89]{Find an Opportunity}.",
+      "name": "",
+      "_key": "!tables.results!yAtMTN3e58Gd1zzt.b964105534c203f1"
+    },
+    {
+      "range": [
+        81,
+        99
+      ],
+      "_id": "d3f5e5b7eaf21f08",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both: Mark progress and @Compendium[foundry-ironsworn.ironsworndelvemoves.4da87fd54eaa1b89]{Find an Opportunity}.",
+      "name": "",
+      "_key": "!tables.results!yAtMTN3e58Gd1zzt.d3f5e5b7eaf21f08"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "725a43c354b9efca",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark progress twice and @Compendium[foundry-ironsworn.ironsworndelvemoves.06f78b87b9532437]{Reveal a Danger}.",
+      "name": "",
+      "_key": "!tables.results!yAtMTN3e58Gd1zzt.725a43c354b9efca"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758484146942,
+    "modifiedTime": 1758484146942,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "yAtMTN3e58Gd1zzt",
+  "sort": 0,
+  "_key": "!tables!yAtMTN3e58Gd1zzt"
+}

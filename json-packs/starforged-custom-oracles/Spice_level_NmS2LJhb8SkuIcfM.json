@@ -1,0 +1,186 @@
+{
+  "name": "Spice level",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "YTiCs9Eilh2jK6nC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Not spicy",
+      "name": "",
+      "_key": "!tables.results!NmS2LJhb8SkuIcfM.YTiCs9Eilh2jK6nC"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "Ze1mhf9Opbyd7pFi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subtly spicy, enhances flavor",
+      "name": "",
+      "_key": "!tables.results!NmS2LJhb8SkuIcfM.Ze1mhf9Opbyd7pFi"
+    },
+    {
+      "range": [
+        31,
+        60
+      ],
+      "_id": "7xsfycZUeYfws3CG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A good kick, satisfying",
+      "name": "",
+      "_key": "!tables.results!NmS2LJhb8SkuIcfM.7xsfycZUeYfws3CG"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "BzAZhW8JSJiIWUpJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extremely spicy, very good",
+      "name": "",
+      "_key": "!tables.results!NmS2LJhb8SkuIcfM.BzAZhW8JSJiIWUpJ"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "HgxWYeEhKJ8U9lRg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Help me, too spicy",
+      "name": "",
+      "_key": "!tables.results!NmS2LJhb8SkuIcfM.HgxWYeEhKJ8U9lRg"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "TW8QVFPU1CqdydQ4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelmingly spicy: Lose 1 momentum or 1 spirit",
+      "name": "",
+      "_key": "!tables.results!NmS2LJhb8SkuIcfM.TW8QVFPU1CqdydQ4"
+    }
+  ],
+  "folder": "V8p1jKVmQbcfZe8R",
+  "sort": 0,
+  "_id": "NmS2LJhb8SkuIcfM",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you taste new food, you may roll +heart or roll +iron to see if you can handle the spice level in this community. On a strong hit, it’s perfectly seasoned and others notice your good taste. On a weak hit, you must add some kind of seasoning or need the dish to be remade, which causes a few raised eyebrows, teasing, or minor social discomfort. On a miss, you can’t handle the flavors and embarrass yourself; lose 1 momentum or 1 spirit.</p><p>Alternatively, you may roll to determine the standard spice level for this community.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293174457,
+    "modifiedTime": 1699294878018,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!NmS2LJhb8SkuIcfM"
+}

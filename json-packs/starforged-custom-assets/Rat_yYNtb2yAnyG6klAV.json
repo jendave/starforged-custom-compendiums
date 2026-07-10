@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Rat",
+  "system": {
+    "requirement": "<p>Your sneaky rat is small but smart.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Evasive: Your rat companion shows the way. When you make a move to flee a danger aboard a ship or within a confined site, and let your rat take the lead, add +its health.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Unexpected: When you make a move by setting loose the rat to cause a commotion in public, add +1 and take +1 momentum on a hit. On a strong hit with a match, it creates unexpected chaos; take +1 momentum more.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Seeking: You may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.367804b98f30d5f4]{Explore a Waypoint} (even if not on an expedition) by sending the rat to search a promising confined area for something of interest or value. If you do, roll +its health. On a miss, its instincts have you forewarned; you may reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 2,
+      "value": 2,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/rat.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/rat",
+      "dsid": "asset:sundered_isles/companion/rat",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906545353,
+    "modifiedTime": 1759807404323,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "yYNtb2yAnyG6klAV",
+  "sort": 900000,
+  "_key": "!items!yYNtb2yAnyG6klAV"
+}

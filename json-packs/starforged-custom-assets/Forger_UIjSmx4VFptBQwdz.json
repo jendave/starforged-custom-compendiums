@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Forger",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you prepare or craft a forged object or document, roll +shadow or +wits. On a strong hit, it’s a flawless reproduction; you or an ally may reroll any dice when making a move using the forgery as leverage or proof. On a weak hit, it’s subtly flawed; you or an ally may reroll one die when making a move using the forgery. On a miss, as with a weak hit, but you waste time or resources in the process: @Compendium[foundry-ironsworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-2) or @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-2).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you or an ally @Compendium[foundry-ironsworn.starforgedmoves.703964b8d02355b8]{Resupply} using a forgery as payment or collateral, take +1 supply on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you prepare forged identification, you or an ally take +2 momentum when first adopting the persona. In addition, for as long as the ruse remains undetected and relevant to the situation, increase the imposter’s momentum reset by 1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/scroll-unfurled.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Lore_Hunter",
+      "dsid": "asset:starforged/path/lore_hunter",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1768596381003,
+    "modifiedTime": 1779425653208,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "UIjSmx4VFptBQwdz",
+  "sort": 300000,
+  "_key": "!items!UIjSmx4VFptBQwdz"
+}

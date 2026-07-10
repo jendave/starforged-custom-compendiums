@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "RQU0jeVYyTJHSSGQ",
+  "name": "Sway",
+  "system": {
+    "requirement": "",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you speak a person's name three times to the wind, roll +wits. On a strong hit, the wind whispers of this person's need. Envision what you hear. If you use this information or fulfill this need when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9f538fabf8998c5b]{Compel} them, you may reroll any dice (one time only). On a weak hit, as above, but this person's need creates a troubling dilemma or complication; @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff32c523829d6481]{Endure Stress} (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and if you score a strong hit when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9f538fabf8998c5b]{Compel}, you may also reroll any dice (one time only) when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.13b2d777c6fb719d]{Gather Information} from this person.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you perform this ritual, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/swan-breeze.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Sway",
+      "dsid": "asset:classic/ritual/sway",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760031136052,
+    "modifiedTime": 1760031137304,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "V61mfyy6oetc7KCW",
+  "sort": 600000,
+  "_key": "!items!V61mfyy6oetc7KCW"
+}

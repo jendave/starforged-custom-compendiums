@@ -1,0 +1,186 @@
+{
+  "name": "Feature",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "cTGVN0rYVnv31Qht",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cpq1odNJNIRZ08qP]{Extradimensional Planet Feature}",
+      "name": "",
+      "_key": "!tables.results!MUOpxXjrT6yl3IC3.cTGVN0rYVnv31Qht"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "R7JTpVl6xujwDxL1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cpq1odNJNIRZ08qP]{Extradimensional Planet Feature}",
+      "name": "",
+      "_key": "!tables.results!MUOpxXjrT6yl3IC3.R7JTpVl6xujwDxL1"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "GtIfxieqIvFRH3Nm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RX82DaEtmDixRNOt]{Extradimensional Planet Observed From Space}",
+      "name": "",
+      "_key": "!tables.results!MUOpxXjrT6yl3IC3.GtIfxieqIvFRH3Nm"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Hqxwu4ckt9ZkJTD7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sanctum Feature @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tMI4HdhdS3uPcQ7A]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.GA2VJG2Z4Pud10Xj]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lMMPTGXOGCxKHj1n]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!MUOpxXjrT6yl3IC3.Hqxwu4ckt9ZkJTD7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "IRNiTbyaFTfPJ2B5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.db95ed221d90ea1b]{Chaotic Theme Feature} or other Theme Feature",
+      "name": "",
+      "_key": "!tables.results!MUOpxXjrT6yl3IC3.IRNiTbyaFTfPJ2B5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "SK5Bro93mvLSWkOv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!MUOpxXjrT6yl3IC3.SK5Bro93mvLSWkOv"
+    }
+  ],
+  "folder": "DyPQCMPIypN4OVoX",
+  "sort": 0,
+  "_id": "MUOpxXjrT6yl3IC3",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703901901947,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!MUOpxXjrT6yl3IC3"
+}

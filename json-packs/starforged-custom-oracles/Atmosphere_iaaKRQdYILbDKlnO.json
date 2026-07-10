@@ -1,0 +1,134 @@
+{
+  "name": "Atmosphere",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        65
+      ],
+      "_id": "zI80ESqwds5XYZ7I",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None/Thin",
+      "name": "",
+      "_key": "!tables.results!iaaKRQdYILbDKlnO.zI80ESqwds5XYZ7I"
+    },
+    {
+      "range": [
+        66,
+        80
+      ],
+      "_id": "mt71Wz3zr59YLjke",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!iaaKRQdYILbDKlnO.mt71Wz3zr59YLjke"
+    },
+    {
+      "range": [
+        80,
+        95
+      ],
+      "_id": "65wDlwkAbUBEF2G5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!iaaKRQdYILbDKlnO.65wDlwkAbUBEF2G5"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "jems8HcJjocyu98y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!iaaKRQdYILbDKlnO.jems8HcJjocyu98y"
+    }
+  ],
+  "folder": "ATKdefOqKWIwmRbd",
+  "sort": 0,
+  "_id": "iaaKRQdYILbDKlnO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of crystalline matter, shining brightly in the starlight.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703287706683,
+    "modifiedTime": 1703293562031,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!iaaKRQdYILbDKlnO"
+}

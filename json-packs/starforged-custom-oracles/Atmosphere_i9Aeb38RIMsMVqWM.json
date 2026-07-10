@@ -1,0 +1,134 @@
+{
+  "name": "Atmosphere",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        85
+      ],
+      "_id": "VruAydIj0R6KzmIj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / Thin",
+      "name": "",
+      "_key": "!tables.results!i9Aeb38RIMsMVqWM.VruAydIj0R6KzmIj"
+    },
+    {
+      "range": [
+        86,
+        88
+      ],
+      "_id": "TUTQgaezSofvEWtu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!i9Aeb38RIMsMVqWM.TUTQgaezSofvEWtu"
+    },
+    {
+      "range": [
+        89,
+        97
+      ],
+      "_id": "gVziekp0r4cwnLDm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic To Humans",
+      "name": "",
+      "_key": "!tables.results!i9Aeb38RIMsMVqWM.gVziekp0r4cwnLDm"
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "_id": "0Aj54ZTwTXFD8yyN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!i9Aeb38RIMsMVqWM.0Aj54ZTwTXFD8yyN"
+    }
+  ],
+  "folder": "y506waZHOkP9qT60",
+  "sort": 0,
+  "_id": "i9Aeb38RIMsMVqWM",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Dust, debris and ice that encircles a planet in a shimmering ring, but what are the rings made of? How were they formed?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690598130,
+    "modifiedTime": 1698872401144,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!i9Aeb38RIMsMVqWM"
+}

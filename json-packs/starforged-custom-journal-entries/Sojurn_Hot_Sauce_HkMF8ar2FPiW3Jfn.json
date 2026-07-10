@@ -1,0 +1,104 @@
+{
+  "folder": "Dg98T4Ne66OtfKgY",
+  "name": "Sojurn Hot Sauce",
+  "_id": "HkMF8ar2FPiW3Jfn",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "SwLa0fBZDgbzjFyJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Wsg6a5AD8qJZ6txw]{Flavour}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.kE4Pu6a7fX8jCN5Y]{Downtime Adjective}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.OHS1wGYtjWPBS9rT]{Downtime Noun}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060902796,
+        "modifiedTime": 1758060915654,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!HkMF8ar2FPiW3Jfn.SwLa0fBZDgbzjFyJ"
+    },
+    {
+      "sort": 200000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "ByRJf8mkNAGK5yIr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.69zvRdnrGdK4cKug]{Sojourn Hot Sauce}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060919765,
+        "modifiedTime": 1758060926768,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!HkMF8ar2FPiW3Jfn.ByRJf8mkNAGK5yIr"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758060898431,
+    "modifiedTime": 1758060898431,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!HkMF8ar2FPiW3Jfn"
+}

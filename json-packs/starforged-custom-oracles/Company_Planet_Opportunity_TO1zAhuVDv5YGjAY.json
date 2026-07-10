@@ -1,0 +1,290 @@
+{
+  "name": "Company Planet Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "NdTm4mW040NNVnFb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Another Faction or Company wants to destroy or take over the current Corporation.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.NdTm4mW040NNVnFb"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "NJhFfqeFIZJ3CVjc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Internal infighting threatens the Company leadership.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.NJhFfqeFIZJ3CVjc"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "0tV1x3zEfjppGyDc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Employees want to overthrow the leadership.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.0tV1x3zEfjppGyDc"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "3wnBQoI8CluM14ku",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company is on the verge of financial collapse.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.3wnBQoI8CluM14ku"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "ezeIHURQTt4Pf6hj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company leadership has perished.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.ezeIHURQTt4Pf6hj"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "V0cXq7iMqy6abbOe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An AI is taking over the Company's systems.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.V0cXq7iMqy6abbOe"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "AimV1Ejh614jLtLG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company’s destruction of planetary resources has been exposed.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.AimV1Ejh614jLtLG"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "p09IrwsUvqOxfw9F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inhabitants have figured out what the Company’s  actual domain is.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.p09IrwsUvqOxfw9F"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "nRBnfriI8JTA2mvj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company wants to leave the planet.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.nRBnfriI8JTA2mvj"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "8Wjt4ziuy9rmrYan",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "People have uncovered what the Company does to its disloyal employees.",
+      "name": "",
+      "_key": "!tables.results!TO1zAhuVDv5YGjAY.8Wjt4ziuy9rmrYan"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 6,
+  "_id": "TO1zAhuVDv5YGjAY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969158,
+    "modifiedTime": 1733895690075,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!TO1zAhuVDv5YGjAY"
+}

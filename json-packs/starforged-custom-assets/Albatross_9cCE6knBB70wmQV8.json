@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Albatross",
+  "system": {
+    "requirement": "<p>The albatross brings luck, while it lives.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Intertwined: When you are on the water, increase your momentum reset by 1. If the albatross is killed, discard this asset and suffer a permanent impact.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Favored: When the albatross flies ahead as you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.edac426b7c23f060]{Finish an Expedition}, its luck is on your side. You may reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Auspicious: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage} while on the water by asking the spirit embodied by the albatross for a favorable boon, you may roll +its health. If you do, take +1 momentum on a hit. On a strong hit with a match, also mark 1 tick on your bonds legacy track as you deepen your connection to your companion.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/seagull.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/albatross",
+      "dsid": "asset:sundered_isles/companion/albatross",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906497942,
+    "modifiedTime": 1759633937116,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "9cCE6knBB70wmQV8",
+  "sort": 2100000,
+  "_key": "!items!9cCE6knBB70wmQV8"
+}

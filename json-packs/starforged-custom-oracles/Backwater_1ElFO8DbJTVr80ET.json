@@ -1,0 +1,292 @@
+{
+  "name": "Backwater",
+  "formula": "1d10",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4bwgojz6wclitk9x",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Condensation on walls",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.4bwgojz6wclitk9x"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "unogxif4raqp6yo4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simple materials",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.unogxif4raqp6yo4"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gszmydk3vu5dg7pw",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Buildings spread out",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.gszmydk3vu5dg7pw"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i7qzgkki69bivpim",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rust tone coloring",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.i7qzgkki69bivpim"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "x6093jklc1mvuum7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disused rooms",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.x6093jklc1mvuum7"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "37ov6lg5mh880bqy",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visible weld seams",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.37ov6lg5mh880bqy"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cfg0c280kaowfn2h",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple repairs",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.cfg0c280kaowfn2h"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kcupo1zgrm0y229q",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Old-fashioned airlocks",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.kcupo1zgrm0y229q"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6ysoxf3wyhk61voi",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "External docking",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.6ysoxf3wyhk61voi"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7d0vmovfso6s2hds",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange angles",
+      "name": "",
+      "_key": "!tables.results!1ElFO8DbJTVr80ET.7d0vmovfso6s2hds"
+    }
+  ],
+  "_id": "1ElFO8DbJTVr80ET",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 10\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For each (Orbital or Deep Space) Settlement we can now roll up Impressions, Senses and Industries.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "uWbg9MdQVlvciRy3",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697099550238,
+    "modifiedTime": 1697244548813,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.1ElFO8DbJTVr80ET",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!1ElFO8DbJTVr80ET"
+}

@@ -1,0 +1,1331 @@
+{
+  "name": "Small-Scale Starship/Affiliation",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "PUwsA5ikMHWgZA8E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "YT-1300 light freighter / Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.PUwsA5ikMHWgZA8E"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "HnEXvOHnJui2iX8W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "YT-2400 light freighter / Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.HnEXvOHnJui2iX8W"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "qbT2FjWQSVs0Qq5I",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Delta-class Imperial Shuttle / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.qbT2FjWQSVs0Qq5I"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "8fJbudY4xCwSm26C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Droid Tri-Fighter / Trade Federation",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.8fJbudY4xCwSm26C"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "WRyya4lOGLd1KLQC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "YT-700 transport ship / Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.WRyya4lOGLd1KLQC"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "lMEPJtBufIXithfa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "X-wing starfighter / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.lMEPJtBufIXithfa"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "h63N9G7uc8KfnllT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Y-wing starfighter / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.h63N9G7uc8KfnllT"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "FVB6U9KAFVvyPb3i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A-wing starfighter / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.FVB6U9KAFVvyPb3i"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "oOLJnJP1SzMorjHd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "B-wing bomber / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.oOLJnJP1SzMorjHd"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "XUI41FMzU3FrlQki",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "K-wing bomber / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.XUI41FMzU3FrlQki"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "BM2dSwznj4FlNn2H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TIE fighter (likely a squadron)/ Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.BM2dSwznj4FlNn2H"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "VqumpVz4z04p2C2M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TIE bomber (likely a squadron) / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.VqumpVz4z04p2C2M"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "nr8qjoVCs1BmAXl1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "H-type Nubian yacht / Naboo / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.nr8qjoVCs1BmAXl1"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "sKM3kqQzqpHvdYTw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I-7 Howlrunner starfighter / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.sKM3kqQzqpHvdYTw"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "t0QvDDfmsvNuZBUQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "N-1 starfighter / Naboo / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.t0QvDDfmsvNuZBUQ"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "joQJNwIWzxqM0D6U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starwind-class pleasure yacht / Civilian",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.joQJNwIWzxqM0D6U"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "PPRC9fDgBrfGcdWq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luxury 5000 yacht / Civilian",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.PPRC9fDgBrfGcdWq"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "y7JmqGzsXV1s7qNr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Baudo-class star yacht / Civilian / Smuggler",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.y7JmqGzsXV1s7qNr"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "KH1Ho8iBGGh297Wf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "YV-666 light freighter / Corporate / Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.KH1Ho8iBGGh297Wf"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "N7T6dckBsTzvz2rH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Firespray-31 patrol ship / Planetary Defense / Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.N7T6dckBsTzvz2rH"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "U7qF3srSegC9phvY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "ST-70 class Razor Crest assault ship / Rebel / Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.U7qF3srSegC9phvY"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "tabnEKq9XcplG3XO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "YT-2550 medium freighter / Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.tabnEKq9XcplG3XO"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "Q0pH2IFpfa38jk2X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "ARC-170 starfighter / Empire / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.Q0pH2IFpfa38jk2X"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "eilOGbY9IsU719Qe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TIE Interceptor (\"bent-wing\" type) starfighter / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.eilOGbY9IsU719Qe"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "WohBgCXWMAKjGH3u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fury-class Sith Imperial interceptor / Mystic / Sith",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.WohBgCXWMAKjGH3u"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "O3kw6cUJX6mAn3fc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "T-47 Snowspeeder (atmospheric-only) / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.O3kw6cUJX6mAn3fc"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "GWfUZoNPFSmLPXGC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kom'rk-class starfighter / Mandalorian splinter faction \"Death Watch\"",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.GWfUZoNPFSmLPXGC"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "Pj2dRiCHqGu4PCXY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clawcraft starfighter / Chiss",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.Pj2dRiCHqGu4PCXY"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "5VQBXbOyKrVjP4ZH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "JumpMaster 5000 lightly-armed starship / Civilian Patrol / Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.5VQBXbOyKrVjP4ZH"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "eZpSH2aAk0yMXgMx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geonosian starfighter / Any",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.eZpSH2aAk0yMXgMx"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "xxaUgcZ4R6icL0OY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starscape-class yacht / Civilian / Hutt / Smuggler / Syndicate",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.xxaUgcZ4R6icL0OY"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "QpKfNiZm5bTki9gM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Delta-7 Aethersprite-class light interceptors / Bounty Hunter / Jedi",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.QpKfNiZm5bTki9gM"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "jsF00ZDPeeAVKfLP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "V-wing starfighter / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.jsF00ZDPeeAVKfLP"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "rKBikLSXvz4wS1Qc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "E-wing starfighter / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.rKBikLSXvz4wS1Qc"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "yWNd3jlJ9zV26E5k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Z-95 Headhunter /Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.yWNd3jlJ9zV26E5k"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "qjdR2J8oFVUeSWtD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TIE/LN starfighter (likely with a squadron) / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.qjdR2J8oFVUeSWtD"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "4NtKGVc93voixd8C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Porax-38 starfighter / Civilian / Empire / Utapau Skyforce",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.4NtKGVc93voixd8C"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "bGWwR8HNLNWz1y8i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vulture droid starfighter / Trade Federation",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.bGWwR8HNLNWz1y8i"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ohbR8IsHg8M4IpeH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TIE Defender (multiple bent wings fanning out) / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.ohbR8IsHg8M4IpeH"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "b7w02NYR6KRQ7c0B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twin-Pod Cloud Car (atmospheric-only ship) / Any",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.b7w02NYR6KRQ7c0B"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "qcuYVbE1a1eMQUU8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lambda-class Imperial shuttle / Empire",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.qcuYVbE1a1eMQUU8"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "dxyaqlBGKrrb3Bey",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "HWK-290 light freighter / Civilian / Smuggler / Pirate",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.dxyaqlBGKrrb3Bey"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "POsQ17zmYIXOlaBh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "VCX-100 light freighter / Civilian / Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.POsQ17zmYIXOlaBh"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "Lryo8goQlX2bCYPI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ginivex-class Fanblade starfighter / Bounty Hunter / Civilian",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.Lryo8goQlX2bCYPI"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "t79eGqpx1io8TNYk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yorik-et (Yuuzhan Vong starfighter equivalent) / Yuuzhan Vong",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.t79eGqpx1io8TNYk"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "J2qHDSZiByQmrkPv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quadjumper (\"tugboats\", uses magnetic clamps to move junk) / Any",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.J2qHDSZiByQmrkPv"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "dSwUfyHNila9FraE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fondor Haulcraft / Civilian / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.dSwUfyHNila9FraE"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "5AknCcZ2hykOIvIe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "J-type Star Skiff / Naboo / Rebel",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.5AknCcZ2hykOIvIe"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "gDnmqLn43RGwPVGd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huttian star yacht / Hutt",
+      "name": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.gDnmqLn43RGwPVGd"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "jl948diJfnKY5oH5",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "New Starship Type",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tFdvC1E2Z2kRpDRd",
+      "description": "",
+      "_key": "!tables.results!Ij2SkI744meM1gb9.jl948diJfnKY5oH5"
+    }
+  ],
+  "folder": "CcVD0BrXB5cCacTG",
+  "sort": 300000,
+  "_id": "Ij2SkI744meM1gb9",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Need a starship? Roll on a table. It will tell you if it is typically affiliated with Empire, Rebel, Smuggler, Hutt, Bounty Hunter, Syndicate, Civilian, or Any characters. These are called <em>tags</em>. The tags are listed from left to right, in order of the likelihood that the ship is affiliated with any of them. (<em>Example: a listing that has the tags Rebel / Empire / Smuggler, is most likely to be Rebel, but can sometimes be affiliated with Smuggler, though that’s less likely since it is farthest to the right.</em>)</p><p></p><p>You may also roll on either the “Large-Scale Ship Table” or the “Small-Scale Ship Table” to simply see what sort of group a new main character is affiliated with. (<em>Example: if you roll up ARC-170 Starfighter / Empire / Rebel, you can ignore the starfighter part of the entry, and determine that the new NPC you just met could either be Imperial or Rebel, but is more likely with the Empire, since that tag is listed first. But it could be neutral, because of course there is always the chance it was simply stolen.</em>) If you just <em>need</em> to know how big a dreadnought is, or the difference in size between, say, a frigate and a cruiser, the “New Starship Type” has all that quick-reference information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545845703,
+    "modifiedTime": 1707593390686,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Ij2SkI744meM1gb9"
+}

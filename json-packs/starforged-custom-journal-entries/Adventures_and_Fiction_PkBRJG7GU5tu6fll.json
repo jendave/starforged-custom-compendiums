@@ -1,0 +1,104 @@
+{
+  "name": "Adventures and Fiction",
+  "_id": "PkBRJG7GU5tu6fll",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Adventures",
+      "type": "text",
+      "_id": "3z7179s1TnwDKWsp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by Kerys</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.aFXF1RLQHHWtkOpt]{Voidforged Adventure}</p><h2>Resources by Margot Hutton</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Csoh83MBJmVUr0IO]{Moments Forged - Starforged Adventure Starters}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1759476448262,
+        "modifiedTime": 1759476933886,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!PkBRJG7GU5tu6fll.3z7179s1TnwDKWsp"
+    },
+    {
+      "sort": 200000,
+      "name": "Fiction",
+      "type": "text",
+      "_id": "ipU3tmAniqUBRmpW",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by Margot Hutton</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Csoh83MBJmVUr0IO]{Moments Forged - Starforged Adventure Starters}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1759476505371,
+        "modifiedTime": 1759476515990,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!PkBRJG7GU5tu6fll.ipU3tmAniqUBRmpW"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759476428910,
+    "modifiedTime": 1759476428910,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!PkBRJG7GU5tu6fll"
+}

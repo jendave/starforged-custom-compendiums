@@ -1,0 +1,90 @@
+{
+  "type": "asset",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Enhanced",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You have been altered with a permanent biotech implant. Choose the type.</p>\n<ul>\n<li>Neurospinal booster: Edge / Health</li>\n<li>Fiber strengthener: Iron / Health</li>\n<li>Neural cortex shrouder: Shadow / Spirit</li>\n<li>Brainwave enhancer: Wits / Spirit</li>\n</ul>\n<p>When you wear the mask and make a move which uses its stat, add +1. If you roll a 1 on your action die, suffer -1 to the associated track (in addition to any other outcome of the move).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, but you may instead add +2. If you do, make the suffer move if you roll a 1 or 2 on your action die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.0cfcd6fbaf6135d0]{Face Death} or @Compendium[foundry-ironsworn.starforgedmoves.Item.ff17e67a59539df4]{Face Desolation}, you may roll +the implant stat instead of +heart.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Neurospinal booster",
+        "selected": false
+      },
+      {
+        "name": "Fiber strengthener",
+        "selected": false
+      },
+      {
+        "name": "Neural cortex shrouder",
+        "selected": false
+      },
+      {
+        "name": "Brainwave enhancer",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/healing.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Masked",
+      "dsid": "asset:classic/path/masked",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.0xDPCc4xIoYOYauW",
+    "duplicateSource": "Item.HfWrY1GdnXTIkRga",
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "N3QOrTGMiTSOR0n2",
+  "_key": "!items!N3QOrTGMiTSOR0n2"
+}

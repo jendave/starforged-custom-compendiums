@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "_id": "70aef39e95ed202f",
+  "folder": "a7279f7392f32ff4",
+  "name": "First Mate",
+  "system": {
+    "requirement": "<p>Your First Mate is your strong right hand.</p>",
+    "category": "Ship Upgrade",
+    "color": "#7f5a90",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Your Mate keeps an eye on the ship and crew. When you @Compendium[foundry-ironsworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} or @Compendium[foundry-ironsworn.starforgedmoves.3f5a834fa3fea5d1]{Gain Ground} by talking through a situation with your first mate, you may roll +integrity and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage} and roll on the miss table, your first mate will do what they can to help. Roll twice on the table and choose either result.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The Mate can pilot the ship independently. When you @Compendium[foundry-ironsworn.starforgedmoves.e6ed148eff82c171]{Face Danger} by handing over control to your first mate in an emergency, or to allow them to act while you are offboard, you may roll +integrity. If you do, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/ship-wheel.svg",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Module/Overseer",
+      "dsid": "asset:starforged/module/overseer",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758310673780,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!70aef39e95ed202f"
+}

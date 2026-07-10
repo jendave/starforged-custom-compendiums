@@ -1,0 +1,82 @@
+{
+  "name": "Clear",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "5h4Ol6OgfPyAcCNn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!N9DC5oU4m9bWJ6wZ.5h4Ol6OgfPyAcCNn"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "lZTmbzH3OY6pY571",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light showers",
+      "name": "",
+      "_key": "!tables.results!N9DC5oU4m9bWJ6wZ.lZTmbzH3OY6pY571"
+    }
+  ],
+  "folder": "vieY1S9gCOmgqo09",
+  "sort": 200000,
+  "_id": "N9DC5oU4m9bWJ6wZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698524994523,
+    "modifiedTime": 1698525021966,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!N9DC5oU4m9bWJ6wZ"
+}

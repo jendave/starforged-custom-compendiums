@@ -1,0 +1,134 @@
+{
+  "name": "Endure Harm",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "Lhv5eXUHqTqowBKh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both",
+      "name": "",
+      "_key": "!tables.results!34EdtkJCsJXx284h.Lhv5eXUHqTqowBKh"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "LFIbfMCzAiCeRU2k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. Take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!34EdtkJCsJXx284h.LFIbfMCzAiCeRU2k"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "KTG24UpWPO7UFiF4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. Take +1 health if not wounded. Take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!34EdtkJCsJXx284h.KTG24UpWPO7UFiF4"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "JYV73IWJDazjySKR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. Take +1 health if not wounded. Take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!34EdtkJCsJXx284h.JYV73IWJDazjySKR"
+    }
+  ],
+  "folder": "PRCXSj2LMclLWBy5",
+  "sort": 0,
+  "_id": "34EdtkJCsJXx284h",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466506604,
+    "modifiedTime": 1706853284798,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!34EdtkJCsJXx284h"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "oRGxl5tx5BgYXI2h",
+  "name": "Overview",
+  "_id": "SzzFyCX6KpoL5MJY",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "j01M827SI6WxOprX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The following resources by wilsonam are used with permission from the author for non-commercial use.</p><ul><li><a href=\"https://wilsonam.itch.io/npcs-and-plots-for-starforged\">NPC and Plots Oracles</a></li><li><a href=\"https://wilsonam.itch.io/she-cannae-take-it\">She Cannae Take It!</a></li><li><a href=\"https://wilsonam.itch.io/settlement-detailing-for-starforged\">Settlement Detailing</a></li><li><a href=\"https://wilsonam.itch.io/settlement-weather-oracles-for-starforged\">Settlement Weather</a></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758061274456,
+        "modifiedTime": 1758061301628,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!SzzFyCX6KpoL5MJY.j01M827SI6WxOprX"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758061267977,
+    "modifiedTime": 1758061267977,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!SzzFyCX6KpoL5MJY"
+}

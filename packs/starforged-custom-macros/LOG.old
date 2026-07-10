@@ -1,7 +1,0 @@
-2026/05/07-16:43:34.024647 17393f000 Recovering log #465
-2026/05/07-16:43:34.025358 17393f000 Delete type=3 #463
-2026/05/07-16:43:34.025574 17393f000 Delete type=0 #465
-2026/05/07-16:44:55.393470 173a57000 Level-0 table #470: started
-2026/05/07-16:44:55.393638 173a57000 Level-0 table #470: 0 bytes OK
-2026/05/07-16:44:55.393954 173a57000 Delete type=0 #468
-2026/05/07-16:44:55.394055 173a57000 Manual compaction at level-0 from '!folders!DVE2spST01CKmxQ9' @ 72057594037927935 : 1 .. '!macros!zylbYalGTpbUYKnO' @ 0 : 0; will stop at (end)

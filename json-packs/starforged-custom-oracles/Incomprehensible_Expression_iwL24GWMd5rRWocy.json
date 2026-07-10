@@ -1,0 +1,58 @@
+{
+  "name": "Incomprehensible Expression",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        100
+      ],
+      "_id": "gFtZ9JnPlkEeIEQu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "???/Um…/??!??!",
+      "name": "",
+      "_key": "!tables.results!iwL24GWMd5rRWocy.gFtZ9JnPlkEeIEQu"
+    }
+  ],
+  "_id": "iwL24GWMd5rRWocy",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>By <span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif\">kindfulkirby</span></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "Q9caS0REseItFckx",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697528090200,
+    "modifiedTime": 1697528567238,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.iwL24GWMd5rRWocy",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!iwL24GWMd5rRWocy"
+}

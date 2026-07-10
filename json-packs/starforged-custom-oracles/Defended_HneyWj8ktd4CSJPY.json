@@ -1,0 +1,266 @@
+{
+  "name": "Defended",
+  "formula": "1d20",
+  "results": [
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r0k8chmli8pz81nj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AI",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.r0k8chmli8pz81nj"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "djvj7niskdnl4x5g",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ammunition",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.djvj7niskdnl4x5g"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        6,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gnj2um2wtysyk0a0",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Computers",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.gnj2um2wtysyk0a0"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bjo3ykckamcaxbgc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hand weapons",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.bjo3ykckamcaxbgc"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5y3sqsit6kd4bn6v",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Processed foods",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.5y3sqsit6kd4bn6v"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mt3ds6owbk2a836d",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Robotics",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.mt3ds6owbk2a836d"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2y84sxumw7c4ux5b",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship's weapons",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.2y84sxumw7c4ux5b"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8xybez3iyecgmfxn",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Textiles",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.8xybez3iyecgmfxn"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9d1qhcbdqsg6hgan",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vacc suits",
+      "name": "",
+      "_key": "!tables.results!HneyWj8ktd4CSJPY.9d1qhcbdqsg6hgan"
+    }
+  ],
+  "_id": "HneyWj8ktd4CSJPY",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "3kJLjya7El5dNJHc",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697085448689,
+    "modifiedTime": 1697241086505,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.HneyWj8ktd4CSJPY",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!HneyWj8ktd4CSJPY"
+}

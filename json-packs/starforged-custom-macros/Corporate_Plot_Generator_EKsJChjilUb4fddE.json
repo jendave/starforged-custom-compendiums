@@ -1,0 +1,31 @@
+{
+  "name": "Corporate Plot Generator",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by wilsonam used with permission by the author\n// Modifications by David Hudson\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nlet message = \"\";\nlet CorpFront = \"\";\nlet CorpBack = \"\";\nlet Crime = \"\";\nlet Method = \"\";\n\n// let table = game.tables.getName(\"Corporate - Front Name\");\nlet table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vt3n9TYeQr6sQUVz\");\n\nlet Roll = await table.roll();\nCorpFront = Roll.results[0].text;\n\n// table = game.tables.getName(\"Corporate - Back Name\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.0GtuQnwiClCBnknY\");\nRoll = await table.roll();\nCorpBack = Roll.results[0].text;\n\n// table = game.tables.getName(\"Corporate - Crime\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YUbKhY7DV72tES3i\");\nRoll = await table.roll();\nCrime = Roll.results[0].text;\n\n// table = game.tables.getName(\"Corporate - Method\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3YicVtK49eI2g87F\");\nRoll = await table.roll();\nMethod = Roll.results[0].text;\n\n// Print the message\n\nmessage = \"<h3>Corporate Evil</h3>\" + CorpFront + \" \" + CorpBack + \" is \" + Crime + \" using \" + Method\n\nprintMessage(message);",
+  "folder": "doiG6KtJAB3QULJl",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750834816,
+    "modifiedTime": 1758067005658,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "EKsJChjilUb4fddE",
+  "sort": 400000,
+  "_key": "!macros!EKsJChjilUb4fddE"
+}

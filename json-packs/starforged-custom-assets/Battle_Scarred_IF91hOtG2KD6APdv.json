@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "Battle-Scarred",
+  "system": {
+    "requirement": "<p>Once you become permanently harmed…</p>",
+    "category": "Deed",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You refocus your energies. Reduce your edge or iron by 1 and add +2 to wits or heart, or +1 to each (to a maximum of +4).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You learn to overcome your limitations. Reduce your maximum health by 1. Maimed no longer counts as an impact, and does not reduce your maximum momentum or reset value. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff32c523829d6481]{Endure Stress} +heart, take +1 momentum on a strong hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You have stared down death before. When you are at 0 health and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.905205c073b09eac]{Endure Harm}, you may roll +wits or +heart (instead of +health or +iron). If you do, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/scar-wound.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Battle-Scarred",
+      "dsid": "asset:classic/path/battle_scarred",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759821411682,
+    "modifiedTime": 1759907874137,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "IF91hOtG2KD6APdv",
+  "sort": 0,
+  "_key": "!items!IF91hOtG2KD6APdv"
+}

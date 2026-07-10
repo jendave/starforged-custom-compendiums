@@ -1,0 +1,79 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Rider",
+  "system": {
+    "requirement": "<p>If you are with your animal or beast companion...</p>",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.2051538f0c9d5d27]{Heal} your companion, or when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.e6ed148eff82c171]{Face Danger} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.d9208f9b7d827aec]{React Under Siege} to calm or encourage it, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ed490d43a2533506]{Journey} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3ff03b51f620ab26]{Undertake an Expedition}, you may push your companion harder and add +1 (after rolling). If you do, make the @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} move (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3f5a834fa3fea5d1]{Gain Ground} +wits by sizing up a perilous situation from the saddle, you are one with your companion's instincts. Add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/cavalry.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Rider",
+      "dsid": "asset:classic/path/rider",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760214046587,
+    "modifiedTime": 1760214046632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_id": "Jwkp4zV7rdfswecO",
+  "sort": 800000,
+  "_key": "!items!Jwkp4zV7rdfswecO"
+}

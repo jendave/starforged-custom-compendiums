@@ -1,0 +1,186 @@
+{
+  "name": "Atmosphere",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "YPjDDpLm2pQtbwp4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / Thin",
+      "name": "",
+      "_key": "!tables.results!N58Y34S1B9ooTmbC.YPjDDpLm2pQtbwp4"
+    },
+    {
+      "range": [
+        31,
+        50
+      ],
+      "_id": "GI3VxOAp2DkMtPuR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!N58Y34S1B9ooTmbC.GI3VxOAp2DkMtPuR"
+    },
+    {
+      "range": [
+        51,
+        70
+      ],
+      "_id": "twKM0y5ooVmO97JB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic To Humans",
+      "name": "",
+      "_key": "!tables.results!N58Y34S1B9ooTmbC.twKM0y5ooVmO97JB"
+    },
+    {
+      "range": [
+        71,
+        85
+      ],
+      "_id": "IwbEPfxgj12pCiK7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!N58Y34S1B9ooTmbC.IwbEPfxgj12pCiK7"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "aNJYs72dlEOx0REF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!N58Y34S1B9ooTmbC.aNJYs72dlEOx0REF"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "udM5uLZPtIUPMMvj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oppressive",
+      "name": "",
+      "_key": "!tables.results!N58Y34S1B9ooTmbC.udM5uLZPtIUPMMvj"
+    }
+  ],
+  "folder": "Vz3iEVN73HiiGJfK",
+  "sort": 0,
+  "_id": "N58Y34S1B9ooTmbC",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These satellites are huge, moon-sized space stations. Who built this moon and why? How old is it?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690501056,
+    "modifiedTime": 1698872353123,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!N58Y34S1B9ooTmbC"
+}

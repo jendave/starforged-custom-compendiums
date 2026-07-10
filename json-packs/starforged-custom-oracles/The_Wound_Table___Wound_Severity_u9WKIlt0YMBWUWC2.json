@@ -1,0 +1,186 @@
+{
+  "name": "The Wound Table - Wound Severity",
+  "formula": "1d6",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "gvadgNjPOvolyiM6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You’re actually not wounded. Take +1 Health and clear the impact.",
+      "name": "",
+      "_key": "!tables.results!u9WKIlt0YMBWUWC2.gvadgNjPOvolyiM6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "0aGuGj8ZdxjbgDFK",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flesh Wound. Knocked down, hair burnt, grazed...",
+      "name": "",
+      "_key": "!tables.results!u9WKIlt0YMBWUWC2.0aGuGj8ZdxjbgDFK"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "oW0DMlPacMzxcoOf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Minor Injury. Sprained ankle, laceration, broken rib, large burn, digit mangled…",
+      "name": "",
+      "_key": "!tables.results!u9WKIlt0YMBWUWC2.oW0DMlPacMzxcoOf"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Kx94KyAV9fgjnI7J",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Major Injury. Arm or hand broken, fingers/toes/arm/leg severed, lodged bullet, major burn, paralysed waist down...",
+      "name": "",
+      "_key": "!tables.results!u9WKIlt0YMBWUWC2.Kx94KyAV9fgjnI7J"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "fWHhkKzO2ghMCltx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lethal Injury (Fatal In A Minute). Back broken, limb severed, major blood loss, body on fire, guts spooled on floor…",
+      "name": "",
+      "_key": "!tables.results!u9WKIlt0YMBWUWC2.fWHhkKzO2ghMCltx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "NJOALtVx54ftEcqu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fatal Injury. Face Death. Spine or neck broken, Throat slit or heart pierced, headshot, engulfed in fiery explosion, head explodes...",
+      "name": "",
+      "_key": "!tables.results!u9WKIlt0YMBWUWC2.NJOALtVx54ftEcqu"
+    }
+  ],
+  "_id": "u9WKIlt0YMBWUWC2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 225000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!u9WKIlt0YMBWUWC2"
+}

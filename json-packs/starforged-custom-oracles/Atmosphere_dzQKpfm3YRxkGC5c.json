@@ -1,0 +1,186 @@
+{
+  "name": "Atmosphere",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "PDi1Ek83Z6gJVIEI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None/Thin",
+      "name": "",
+      "_key": "!tables.results!dzQKpfm3YRxkGC5c.PDi1Ek83Z6gJVIEI"
+    },
+    {
+      "range": [
+        11,
+        60
+      ],
+      "_id": "BDmX2No6XPQXBFbK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!dzQKpfm3YRxkGC5c.BDmX2No6XPQXBFbK"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "RVt8mP6o9AuLZO9R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!dzQKpfm3YRxkGC5c.RVt8mP6o9AuLZO9R"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "tl0jXqo2YDoZhnaZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!dzQKpfm3YRxkGC5c.tl0jXqo2YDoZhnaZ"
+    },
+    {
+      "range": [
+        91,
+        98
+      ],
+      "_id": "goQxm0I7txZUHTEQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!dzQKpfm3YRxkGC5c.goQxm0I7txZUHTEQ"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "YPo2fRYCW1VSP2P1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!dzQKpfm3YRxkGC5c.YPo2fRYCW1VSP2P1"
+    }
+  ],
+  "folder": "e9Mn1qrjtY5qOguu",
+  "sort": 0,
+  "_id": "dzQKpfm3YRxkGC5c",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet entirely composed of a single creature or a colony of creatures.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288206584,
+    "modifiedTime": 1703293790748,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!dzQKpfm3YRxkGC5c"
+}

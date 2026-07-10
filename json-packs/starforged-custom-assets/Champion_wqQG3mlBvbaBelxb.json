@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "Champion",
+  "system": {
+    "requirement": "<p>Once you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.287bb4c2b53ea847]{Forge a Bond} (formidable or greater) with a leader of a faction...</p>",
+    "category": "Deed",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You are trusted and authorized to speak on your leader's behalf. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage} by leveraging your faction's resources, add +1. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9f538fabf8998c5b]{Compel}, another member of your faction, you may reroll one die. If you lose your connection to your leader, take 1 experience per marked ability and discard this asset.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3de42d2d3cb78855]{Sojourn} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.VIHnILz9rKlGyRZ1]{Make Camp} in the company of your faction, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.2f2ba4090b22a122]{Enter the Fray} boldly bearing the emblem of your faction, add +1 and take +1 momentum on a hit. When you burn momentum leading your faction in combat, take +1 momentum after you reset.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/vertical-banner.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Blade-Bound",
+      "dsid": "asset:classic/path/blade_bound",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759821681917,
+    "modifiedTime": 1759826124984,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "wqQG3mlBvbaBelxb",
+  "sort": 50000,
+  "_key": "!items!wqQG3mlBvbaBelxb"
+}

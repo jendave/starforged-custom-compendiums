@@ -1,0 +1,108 @@
+{
+  "name": "Expanse",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        95
+      ],
+      "_id": "PxRnUO1Gm3vmerNv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!VzEQ0HDrFc1tJpML.PxRnUO1Gm3vmerNv"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "DOUpyRlWE16c97YY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!VzEQ0HDrFc1tJpML.DOUpyRlWE16c97YY"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "ODJ1RPaINWjgdsAW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!VzEQ0HDrFc1tJpML.ODJ1RPaINWjgdsAW"
+    }
+  ],
+  "folder": "GyqM6BAr48SPfc2J",
+  "sort": 2,
+  "_id": "VzEQ0HDrFc1tJpML",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This planet is in another dimension, or came from another dimension to this one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288355191,
+    "modifiedTime": 1703293990283,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!VzEQ0HDrFc1tJpML"
+}

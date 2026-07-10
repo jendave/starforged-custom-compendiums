@@ -1,0 +1,160 @@
+{
+  "name": "Employee Loyalty",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "r6M5jEmwWjF3cXv3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "\"Burn this place to the ground.\"",
+      "name": "",
+      "_key": "!tables.results!5Sp9BxEXhNUK8KOv.r6M5jEmwWjF3cXv3"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "eq1rJkixndkd3iXm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "\"Whatever, it’s just a job.\"",
+      "name": "",
+      "_key": "!tables.results!5Sp9BxEXhNUK8KOv.eq1rJkixndkd3iXm"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "hlIP2Zqn58R0XYQ4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "\"The Company has been good to me, but…\"",
+      "name": "",
+      "_key": "!tables.results!5Sp9BxEXhNUK8KOv.hlIP2Zqn58R0XYQ4"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "1PrJ1HDa3HUGldI4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "\"I love the Company and hope to work here as long as I can.\"",
+      "name": "",
+      "_key": "!tables.results!5Sp9BxEXhNUK8KOv.1PrJ1HDa3HUGldI4"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "iQPLinikFBPsKOzW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "\"The Company leaders are gods. It is traitorous to defy them.\"",
+      "name": "",
+      "_key": "!tables.results!5Sp9BxEXhNUK8KOv.iQPLinikFBPsKOzW"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 3,
+  "_id": "5Sp9BxEXhNUK8KOv",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969148,
+    "modifiedTime": 1733895830673,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!5Sp9BxEXhNUK8KOv"
+}

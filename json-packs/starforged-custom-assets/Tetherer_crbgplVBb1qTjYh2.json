@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "_id": "crbgplVBb1qTjYh2",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Tetherer",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you synchronize with the unique signature of a location - whether through the environmental data, psychic residue, or mystical entities - roll +heart. On a strong hit, you are tethered. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} to return, you may roll +spirit or +heart. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.edac426b7c23f060]{Finish an Expedition}, take +3 momentum on a hit. The tether is lost if you sync elsewhere. On a weak hit, as above, but the process is harrowing; @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} [-2].</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may also reroll any dice when you @Compendium[foundry-ironsworn.starforgedmoves.Item.3de42d2d3cb78855]{Sojourn} in the tethered place.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make any move in the tethered location, you may leverage the signature to gain insight or protection. If you do, reroll any dice, but @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} [-2] as the connection strains you.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/sonic-lightning.svg",
+  "effects": [],
+  "sort": 160938,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Tether",
+      "dsid": "asset:classic/ritual/tether",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.56eb2ad6c077dc00",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!crbgplVBb1qTjYh2"
+}

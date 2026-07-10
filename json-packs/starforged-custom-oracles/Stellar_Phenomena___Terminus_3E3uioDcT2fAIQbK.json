@@ -1,0 +1,82 @@
+{
+  "name": "Stellar Phenomena - Terminus",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        70
+      ],
+      "_id": "2i89KSoiULncLVvV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "notable phenomenon",
+      "name": "",
+      "_key": "!tables.results!3E3uioDcT2fAIQbK.2i89KSoiULncLVvV"
+    },
+    {
+      "range": [
+        71,
+        100
+      ],
+      "_id": "b7OWydFAx4PhU6Sv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "dangerous phenomenon",
+      "name": "",
+      "_key": "!tables.results!3E3uioDcT2fAIQbK.b7OWydFAx4PhU6Sv"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 6,
+  "_id": "3E3uioDcT2fAIQbK",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!3E3uioDcT2fAIQbK"
+}

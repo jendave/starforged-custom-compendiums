@@ -1,0 +1,212 @@
+{
+  "name": "Specific Phenomena - Dangerous",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "Hn5AEFuUcopJcZRE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "turbulent gravitational wave",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.Hn5AEFuUcopJcZRE"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "KMASxAxcmHkDaEKV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fiery energy storm",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.KMASxAxcmHkDaEKV"
+    },
+    {
+      "range": [
+        26,
+        40
+      ],
+      "_id": "Nv8oOg3NvLcyFfvV",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "inactive mines or defenses",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.Nv8oOg3NvLcyFfvV"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "pks3AiIxYJU75HK8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "chaotic meteoroid shower",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.pks3AiIxYJU75HK8"
+    },
+    {
+      "range": [
+        56,
+        75
+      ],
+      "_id": "eATRYJz4Ij8mDPYU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "heavy dust cloud",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.eATRYJz4Ij8mDPYU"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "8FxEM2bbuN8N0dJq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "...thick and sprawling",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.8FxEM2bbuN8N0dJq"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "kXfHAxFfy5ARhhBF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "...roamed by predator",
+      "name": "",
+      "_key": "!tables.results!36rmF52c0xJhkeAU.kXfHAxFfy5ARhhBF"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 10,
+  "_id": "36rmF52c0xJhkeAU",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!36rmF52c0xJhkeAU"
+}

@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "3zrHGetXJsVA5vR2",
+  "name": "Thunder-Bringer",
+  "system": {
+    "requirement": "<p>If you wield a mighty hammer…</p>",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a move by hitting or breaking an inanimate object, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} a foe to knock them back, stun them, or put them off balance, take +2 momentum on a hit. On a strong hit, you also create an opening and add +1 on your next move.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3129f4caa4754caf]{Take Decisive Action} while in a Bad Spot, by summoning all the fury and power you can muster. If you do you may reroll one die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/hammer-drop.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Combat_Talent/Thunder-Bringer",
+      "dsid": "asset:classic/combat_talent/thunder_bringer",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906153884,
+    "modifiedTime": 1759570003791,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "3er6VHn51t7Xyu5J",
+  "sort": 1400000,
+  "_key": "!items!3er6VHn51t7Xyu5J"
+}

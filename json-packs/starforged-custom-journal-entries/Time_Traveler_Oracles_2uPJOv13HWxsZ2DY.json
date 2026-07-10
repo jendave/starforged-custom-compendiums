@@ -1,0 +1,65 @@
+{
+  "folder": "F98i7cw5oVEjzX6k",
+  "name": "Time Traveler Oracles",
+  "_id": "2uPJOv13HWxsZ2DY",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "LZzYcJI6YwedwlSp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sJo3xnlXbjWZk8XJ]{Planetary Evolution}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.A8TSj2fcrA8SSByv]{Revealed Precursor Aspect}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758059728073,
+        "modifiedTime": 1758059734776,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2uPJOv13HWxsZ2DY.LZzYcJI6YwedwlSp"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758059718231,
+    "modifiedTime": 1758059718231,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!2uPJOv13HWxsZ2DY"
+}

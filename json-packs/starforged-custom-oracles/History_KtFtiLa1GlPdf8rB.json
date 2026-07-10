@@ -1,0 +1,680 @@
+{
+  "name": "History",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "LC2QTjJOo75eS1NK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Predates the Cataclysm",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.LC2QTjJOo75eS1NK"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "Lfdoj47Z0kzQue9r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accompanied the Exodus",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.Lfdoj47Z0kzQue9r"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "ZPiQ9rtLsv6rpn8e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bolstered a Community",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.ZPiQ9rtLsv6rpn8e"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "C8hO2I0VQiKS10xj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Progressed an Iron vow",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.C8hO2I0VQiKS10xj"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "7KKtSQBls2MKXRqx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violates the Law",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.7KKtSQBls2MKXRqx"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "kBLOxnWxly3YlnoF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Represents a Religion",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.kBLOxnWxly3YlnoF"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "yL916DP49KZ8CZ22",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emulates Magic",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.yL916DP49KZ8CZ22"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "1PpcVLS8pF2xof9v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Carries valuable Data",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.1PpcVLS8pF2xof9v"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "qQ8Xra2wDVQWZEN8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhances Medicine",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.qQ8Xra2wDVQWZEN8"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "axcahRmqC0nUdkx7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Links to Artificial Intelligence",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.axcahRmqC0nUdkx7"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "7WkA0RIbZn64yGMk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Survived a War",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.7WkA0RIbZn64yGMk"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "LZOMjsJt6WA6AMa9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Depicts a Lifeform",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.LZOMjsJt6WA6AMa9"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "9OWQeQjHiGsfk0Y4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Served the Precursors",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.9OWQeQjHiGsfk0Y4"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "nT7Djup3gXrkhGXv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communicates Horror",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.nT7Djup3gXrkhGXv"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "CJoLLa7WFuBNzTB3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forged in a Settlement",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.CJoLLa7WFuBNzTB3"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "lbkQRrEvrf4gbGOf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncovered on Starship",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.lbkQRrEvrf4gbGOf"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "b2Uv2ft8ADZ3Tzgv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sought by Faction",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.b2Uv2ft8ADZ3Tzgv"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "hrSTB5WYHBxTRBaI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escaped a Planet",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.hrSTB5WYHBxTRBaI"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "cwqLHqsmMOHV3ncM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discovered in Derelict",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.cwqLHqsmMOHV3ncM"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "NnikPffW07t0zl2u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Excavated from Vault",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.NnikPffW07t0zl2u"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "QA2vz9qbTBMbtnFH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rewarded for Quest",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.QA2vz9qbTBMbtnFH"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "addFGdip3Km71AeC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gifted by Connection",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.addFGdip3Km71AeC"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "n9evhdQVon5xKYmR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Found during Exploration",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.n9evhdQVon5xKYmR"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "SFcNUoYrQroPuuvn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scavenged from Combat",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.SFcNUoYrQroPuuvn"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "dA1Bzm68mhk7unfa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inherited from Legacy",
+      "name": "",
+      "_key": "!tables.results!KtFtiLa1GlPdf8rB.dA1Bzm68mhk7unfa"
+    }
+  ],
+  "folder": "4WGYlS4dHIeCWcKy",
+  "sort": 400000,
+  "_id": "KtFtiLa1GlPdf8rB",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The History oracle contextualizes the object more broadly in your setting and provides a prompt for further defining its backstory. This oracle relates the item either to one of the 14 Truths (pg. 82), to other setting aspects which have respective oracles (e.g., Factions, pg. 348), to aspects of gameplay covered by movesets (E.g., Connections, pg. 162), or to other aspects of your character. Use this table sparingly when you want an object to play a larger role in your story. Also, use the prompt as a chance to revisit your Truths or flesh out the details of your world. I highly recommend building your own History oracles, and possibly even rolling on a Campaign Elements oracle (pg. 385) to closely tie items to your story. An alternative to the History oracle is the Action + Theme Oracles (pg. 296-297).</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697529407907,
+    "modifiedTime": 1698872616234,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!KtFtiLa1GlPdf8rB"
+}

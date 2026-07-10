@@ -1,0 +1,65 @@
+{
+  "folder": "5ugGm7ATxKj3OPeb",
+  "name": "Critical Success",
+  "pages": [
+    {
+      "sort": 200000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "A8BsJn2FYg6dXY0i",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Adventure Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LsoyR0J0UIecMcAv]{Check Your Gear}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.OBGKGsXF93VslNhp]{Compel}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RzSY5keQOh1n0ike]{Face Danger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.A2VPBNSK1xlKildv]{Gather Information}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2rTmmD27d7D30ao6]{Secure An Advantage}</p><h2>Combat Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.fEFi0kU5QDss8Fme]{Battle}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LPRWlv9WlstAYkmX]{Clash}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AGKgirvbTHGIDXfk]{Enter The Fray}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.emSXfxS4XAwqM7hI]{Gain Ground}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.GomwCcmU2nSDp6Tf]{React Under Fire}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.mIP89ueyLt0Vbjph]{Strike}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rfwsI8gbjf0G2hQ2]{Take Decisive Action}</p><h2>Connections Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.TEHK62kTFXDi2NY8]{Forge A Bond}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.MOnHUGgKXhJP4XLz]{Make A Connection}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HqA1BOY3wannwsQF]{Test Your Relationship}</p><h2>Exploration Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ORSCqhKGnMXYFLwc]{Finish An Expedition}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JUX7rpZSAjcTQKBn]{Set A Course}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LxEWG5G6n9r8VFWH]{Undertake An Expedition}</p><h2>Legacy Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.jhRRgrVk3iFmXoGm]{Continue A Legacy}</p><h2>Quest Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.wmhvGEJc2PWnIQNa]{Fulfill Your Vow}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ILmSRAvPnNLK86VU]{Swear An Iron Vow}</p><h2>Recover Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.DmW5OxrPZrdGScJI]{Heal}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.qZC9yWej5TWMBQdZ]{Hearten}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.V9K15axFFlDszapW]{Repair}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sZSgdthhtXltk765]{Resupply}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.S6vh6H9v3cKH8YOZ]{Sojourn}</p><h2>Suffer Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.34EdtkJCsJXx284h]{Endure Harm}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sGesNLqJTOQiBoUP]{Endure Stress}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.WC3qHB42sPpeC7JB]{Withstand Damage}</p><h2>Threshold Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Pf80Tq6qkp5NBwaV]{Face Death}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hQMZOifz1C9EXeeW]{Face Desolation}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uXWGanndYP7FQCWC]{Overcome Destruction}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": 1757750134900,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!66tj3sj9X1ruwg1p.A8BsJn2FYg6dXY0i"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757749170538,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "66tj3sj9X1ruwg1p",
+  "sort": 100000,
+  "categories": [],
+  "_key": "!journal!66tj3sj9X1ruwg1p"
+}

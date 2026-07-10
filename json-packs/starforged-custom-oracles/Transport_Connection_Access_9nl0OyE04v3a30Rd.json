@@ -1,0 +1,420 @@
+{
+  "name": "Transport/Connection/Access",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "LRvz2IFpLmq83wC4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Airlock or external door (not just applicable to space stations but also to settlements where the external environment is hostile)",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.LRvz2IFpLmq83wC4"
+    },
+    {
+      "range": [
+        5,
+        12
+      ],
+      "_id": "xnTUQFK428P6h4TB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catwalk or bridge",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.xnTUQFK428P6h4TB"
+    },
+    {
+      "range": [
+        13,
+        19
+      ],
+      "_id": "DZBsxqTBjnKzZQNI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corridor",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.DZBsxqTBjnKzZQNI"
+    },
+    {
+      "range": [
+        20,
+        25
+      ],
+      "_id": "jcUp5y5UoQMdOedp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crawl space or duct",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.jcUp5y5UoQMdOedp"
+    },
+    {
+      "range": [
+        26,
+        32
+      ],
+      "_id": "hhMuURQ1YB5E86IL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Highway (are you walking along the side of the road, hitching a ride or lying nearby in an ambush?)",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.hhMuURQ1YB5E86IL"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "PeG1eypU04oVKvG9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hub or intersection",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.PeG1eypU04oVKvG9"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "Nywcyxs7r15UoWXZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lift or elevator",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.Nywcyxs7r15UoWXZ"
+    },
+    {
+      "range": [
+        49,
+        53
+      ],
+      "_id": "WmrOL56hhcglX7Bh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sewers (underground passages, conduit in a space station filled with cables and wiring, smuggling routes)",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.WmrOL56hhcglX7Bh"
+    },
+    {
+      "range": [
+        54,
+        61
+      ],
+      "_id": "9onl5dDj8OePd2I5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Side street",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.9onl5dDj8OePd2I5"
+    },
+    {
+      "range": [
+        62,
+        69
+      ],
+      "_id": "Giy4xgJSNxHAYHzY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stairs",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.Giy4xgJSNxHAYHzY"
+    },
+    {
+      "range": [
+        70,
+        77
+      ],
+      "_id": "OmKsJYf6seKTo5DA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Street",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.OmKsJYf6seKTo5DA"
+    },
+    {
+      "range": [
+        78,
+        80
+      ],
+      "_id": "XeH3AlxjA3mSvwFB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport system (in transit on a monorail, subway, elevator system on a space station, taxi service, hired vehicle)",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.XeH3AlxjA3mSvwFB"
+    },
+    {
+      "range": [
+        81,
+        87
+      ],
+      "_id": "hngrBLzseXcZq7sb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underground tunnel",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.hngrBLzseXcZq7sb"
+    },
+    {
+      "range": [
+        88,
+        94
+      ],
+      "_id": "5ch9c3hlD3UwpXMe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vertical shaft or ladder",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.5ch9c3hlD3UwpXMe"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "8okzNj8rk6OciqrT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waterway",
+      "name": "",
+      "_key": "!tables.results!9nl0OyE04v3a30Rd.8okzNj8rk6OciqrT"
+    }
+  ],
+  "folder": "6HWOhc1aNrOMGOiH",
+  "sort": 8,
+  "_id": "9nl0OyE04v3a30Rd",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This table is more for transitioning from one district to another, just like how the Access table is used in the Derelicts oracle in the Starforged rulebook. However, you can just roll it (or pick from it) as you would for any other area tables, it is entirely possible that your scene is set on a side street or in an airlock.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829721285,
+    "modifiedTime": 1698831474982,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!9nl0OyE04v3a30Rd"
+}

@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "3zrHGetXJsVA5vR2",
+  "name": "Swordmaster",
+  "system": {
+    "requirement": "<p>If you wield a sword…</p>",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash} and burn momentum to improve your result, mark progress twice. If the fight continues, add +1 on your next move.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash} and score a strong hit, add +1 if you immediately follow with a @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.287bb4c2b53ea847]{Forge a Bond} with an act of fealty by kneeling and firmly grasping your sword’s blade so that it draws blood, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.905205c073b09eac]{Endure Harm} (-1). You may then reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/sword-array.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Combat_Talent/Swordmaster",
+      "dsid": "asset:classic/combat_talent/swordmaster",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906152957,
+    "modifiedTime": 1759569896161,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "PGdrMWcYIUaTy0Wy",
+  "sort": 1300000,
+  "_key": "!items!PGdrMWcYIUaTy0Wy"
+}

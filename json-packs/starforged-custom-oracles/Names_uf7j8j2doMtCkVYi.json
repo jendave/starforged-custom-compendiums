@@ -1,0 +1,238 @@
+{
+  "name": "Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        12
+      ],
+      "_id": "k0YBnXmlMJ0uyZBh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "???",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.k0YBnXmlMJ0uyZBh"
+    },
+    {
+      "range": [
+        13,
+        24
+      ],
+      "_id": "vUYMoHvtVT2BEvVr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aberration",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.vUYMoHvtVT2BEvVr"
+    },
+    {
+      "range": [
+        25,
+        36
+      ],
+      "_id": "Wv0I8Pa95mq758TM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anomaly #001",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.Wv0I8Pa95mq758TM"
+    },
+    {
+      "range": [
+        37,
+        48
+      ],
+      "_id": "GSxKDqhwEl0W80av",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eerie",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.GSxKDqhwEl0W80av"
+    },
+    {
+      "range": [
+        49,
+        61
+      ],
+      "_id": "XPb8qoav04CFZsWX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Far-Out",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.XPb8qoav04CFZsWX"
+    },
+    {
+      "range": [
+        62,
+        74
+      ],
+      "_id": "LaYQngChKJlpdGBw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heretic",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.LaYQngChKJlpdGBw"
+    },
+    {
+      "range": [
+        75,
+        87
+      ],
+      "_id": "Gy2cCaCvFhgTAF9d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incongruent",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.Gy2cCaCvFhgTAF9d"
+    },
+    {
+      "range": [
+        88,
+        100
+      ],
+      "_id": "XF6UKvd6oTGpL09B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lovecraft",
+      "name": "",
+      "_key": "!tables.results!uf7j8j2doMtCkVYi.XF6UKvd6oTGpL09B"
+    }
+  ],
+  "folder": "GWoYpsHM7VVgDzEm",
+  "sort": 300000,
+  "_id": "uf7j8j2doMtCkVYi",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This planet is in another dimension, or came from another dimension to this one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288355193,
+    "modifiedTime": 1703294016622,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!uf7j8j2doMtCkVYi"
+}

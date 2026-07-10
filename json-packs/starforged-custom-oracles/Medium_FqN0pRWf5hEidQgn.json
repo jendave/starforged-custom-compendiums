@@ -1,0 +1,134 @@
+{
+  "name": "Medium",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "lc3csAuXFmmFiucV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!FqN0pRWf5hEidQgn.lc3csAuXFmmFiucV"
+    },
+    {
+      "range": [
+        2,
+        4
+      ],
+      "_id": "w955njEil7PrzVka",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light showers",
+      "name": "",
+      "_key": "!tables.results!FqN0pRWf5hEidQgn.w955njEil7PrzVka"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "lO6B9VLs2eQD8mMR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium rain",
+      "name": "",
+      "_key": "!tables.results!FqN0pRWf5hEidQgn.lO6B9VLs2eQD8mMR"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "JOjmifVPnJwBiTok",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy rain",
+      "name": "",
+      "_key": "!tables.results!FqN0pRWf5hEidQgn.JOjmifVPnJwBiTok"
+    }
+  ],
+  "folder": "Q1mplwevCDvVLfd3",
+  "sort": 400000,
+  "_id": "FqN0pRWf5hEidQgn",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698525012787,
+    "modifiedTime": 1698525023316,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!FqN0pRWf5hEidQgn"
+}

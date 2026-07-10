@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "True Friends",
+  "system": {
+    "requirement": "<p>Once you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.287bb4c2b53ea847]{Forge a Bond} with 3 or more connections…</p>",
+    "category": "Deed",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a move which gives you an add for sharing a bond, add +1 more..</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you fill a box on your bonds legacy track, envision what your relationships have taught you, then take +2 moemntum. This box grants 3 experience instead of 2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move in a crucial moment and score a miss, you may cling to thoughts of your friends for courage or encouragment. If you do, reroll any dice. On another miss, in addition to the outcome of the move, you must mark shaken or traumatized. If both impacts are already marked, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff17e67a59539df4]{Face Desolation}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/heart-shield.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Shadow-Kin",
+      "dsid": "asset:classic/path/shadow_kin",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759821815062,
+    "modifiedTime": 1759907092462,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "CQN4xZTAfEeX4DtL",
+  "sort": 0,
+  "_key": "!items!CQN4xZTAfEeX4DtL"
+}

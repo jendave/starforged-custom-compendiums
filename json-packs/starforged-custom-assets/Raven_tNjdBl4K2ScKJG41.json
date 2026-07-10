@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Raven",
+  "system": {
+    "requirement": "<p>Your raven heeds your call.</p>",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>Sly: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage}, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.e6ed148eff82c171]{Face Danger}, or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3f5a834fa3fea5d1]{Gain Ground} using your raven to perform trickery (such as creating a distraction or stealing a small object) add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Knowing: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0cfcd6fbaf6135d0]{Face Death}, add +2 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Diligent: When your raven carries messages for you, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage}, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.13b2d777c6fb719d]{Gather Information}, or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9f538fabf8998c5b]{Compel} from a distance.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 2,
+      "value": 2,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/raven.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Companion/Raven",
+      "dsid": "asset:classic/companion/raven",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906546275,
+    "modifiedTime": 1759807585497,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "tNjdBl4K2ScKJG41",
+  "sort": 100000,
+  "_key": "!items!tNjdBl4K2ScKJG41"
+}

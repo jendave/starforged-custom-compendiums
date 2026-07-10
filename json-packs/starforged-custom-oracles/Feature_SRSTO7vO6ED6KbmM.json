@@ -1,0 +1,186 @@
+{
+  "name": "Feature",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "aySAReDvLz9iyscd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "First Look @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4mtNdMOiPAWeLe1P]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c6A4BvsaG6NOJdzf]{3 - 4}  @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.VWKvi551JyShfjh0]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!SRSTO7vO6ED6KbmM.aySAReDvLz9iyscd"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "oiaMjXmIYPqOb0Xa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settlement Projects @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.iJbLrynKmB25yxKu]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wPh8ecvQZvyebiE0]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tNudiYQ7dnUpeONr]{5 - 6} or Industries @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pea6CvympFx9ZNln]{Medium-Large Population: Enclosed} @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UwISOKINJSUqUs4C]{Small Population: Enclosed}",
+      "name": "",
+      "_key": "!tables.results!SRSTO7vO6ED6KbmM.oiaMjXmIYPqOb0Xa"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "vdUNcYsk93CZAJnY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impressions @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1ElFO8DbJTVr80ET]{Backwater} @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.CH3gI5UCmUmgn0gn]{Defended} @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xVszBEeNlYHAwMQa]{Dilapidated} @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.X7clGO97D2tIbbRs]{High-Tech} @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pfMzUkWD1upsh5c4]{Military-Industrial}@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3dHFAj8mndVM7Jlk]{Over-Crowded}  @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VEWXDUr4ojrqZUqn]{Primitive}",
+      "name": "",
+      "_key": "!tables.results!SRSTO7vO6ED6KbmM.vdUNcYsk93CZAJnY"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "eNbb8oiJsrhZdl8Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Senses @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sddUehP0SDWmfW86]{Medium-Large: Enclosed} @UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rl81naNPAw2aUP4Q]{Small Population: Enclosed}",
+      "name": "",
+      "_key": "!tables.results!SRSTO7vO6ED6KbmM.eNbb8oiJsrhZdl8Z"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "r0hp1Y7BQqNrBMMH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.2cc2de495cf3038e]{Inhabited Feature} or other Theme Feature",
+      "name": "",
+      "_key": "!tables.results!SRSTO7vO6ED6KbmM.r0hp1Y7BQqNrBMMH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "0ZSy6tLooyh4lVxb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!SRSTO7vO6ED6KbmM.0ZSy6tLooyh4lVxb"
+    }
+  ],
+  "folder": "ogwiikxV5Vp1HInV",
+  "sort": 0,
+  "_id": "SRSTO7vO6ED6KbmM",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703902031314,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!SRSTO7vO6ED6KbmM"
+}

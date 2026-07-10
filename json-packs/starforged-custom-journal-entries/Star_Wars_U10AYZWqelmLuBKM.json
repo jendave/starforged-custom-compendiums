@@ -1,0 +1,182 @@
+{
+  "folder": "if2y7M7wG93q5yNr",
+  "name": "Star Wars",
+  "_id": "U10AYZWqelmLuBKM",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Droids",
+      "type": "text",
+      "_id": "8QiIibvA9OKULf96",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Oracles</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XZMdVw9a2tC0XUro]{Droid Type}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.o9QoYnnItcAUYKo4]{Revealed Droid Trait}</p><h2>Macros</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.Bl2SQUm4dI1WY9mM]{Star Wars: New Droid Name}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757983185997,
+        "modifiedTime": 1757996173323,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!U10AYZWqelmLuBKM.8QiIibvA9OKULf96"
+    },
+    {
+      "sort": 200000,
+      "name": "Force Users",
+      "type": "text",
+      "_id": "wcpyBLNWOlommov8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.arHHz2h0n3FsAepe]{Darth/Sith Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.CYnhRUCufBYhfT46]{Lightsaber Forms}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757983236142,
+        "modifiedTime": 1757983246709,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!U10AYZWqelmLuBKM.wcpyBLNWOlommov8"
+    },
+    {
+      "sort": 300000,
+      "name": "Races",
+      "type": "text",
+      "_id": "xzy0ZSRNV2Cnqdj1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xuVQCmKc0zctMiR5]{Races/Homeworlds/Territory}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hXALfgUJ3uTc1nXN]{Rare Races/Homeworld/Territory}</p><h2>New Races</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.zPMv4SlYYVfHvcSU]{New Race Affiliation}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.leO3Xp8fmssikVDe]{New Race Homeworld}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.jaLqjDRKjgVDWh0L]{New Race Intelligence}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RKlJB9w7AVd0HKPr]{New Race Language}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hM4Jz2FZ6UCTQQc9]{New Race Limbs}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LMqK3qs3lWDmKfxW]{New Race Type}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757983256264,
+        "modifiedTime": 1757983342451,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!U10AYZWqelmLuBKM.xzy0ZSRNV2Cnqdj1"
+    },
+    {
+      "sort": 400000,
+      "name": "Ships",
+      "type": "text",
+      "_id": "v0WvCrwxMkWk5trE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nFEyo91psRhIN1fZ]{Large-Scale Starship/Affiliation}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.eMvM6oMRFoK4qRZu]{New Starship Affiliation}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.miuKgOQnk5iAZVTB]{New Starship Design}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.7WilbwWywYqLDIYl]{New Starship Quirks}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tFdvC1E2Z2kRpDRd]{New Starship Type}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NA3sAed2Syd1a9E8]{Planetary Vehicle Type}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Ij2SkI744meM1gb9]{Small-Scale Starship/Affiliation}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757983366816,
+        "modifiedTime": 1757983395087,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!U10AYZWqelmLuBKM.v0WvCrwxMkWk5trE"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757983180442,
+    "modifiedTime": 1757996140909,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!U10AYZWqelmLuBKM"
+}

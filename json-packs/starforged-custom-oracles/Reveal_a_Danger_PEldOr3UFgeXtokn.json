@@ -1,0 +1,348 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Oracles/Moves/Reveal_a_Danger",
+      "category": "Ironsworn/Moves/Delve",
+      "dsid": "move.oracle_rollable:delve/delve/reveal_a_danger.reveal_a_danger"
+    }
+  },
+  "name": "Reveal a Danger",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "8f0e0f663fd51e90",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Check the theme card.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.8f0e0f663fd51e90"
+    },
+    {
+      "range": [
+        31,
+        45
+      ],
+      "_id": "db3869fd6566a70d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Check the domain card.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.db3869fd6566a70d"
+    },
+    {
+      "range": [
+        46,
+        57
+      ],
+      "_id": "1390351dd03c1e23",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You encounter a hostile denizen.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.1390351dd03c1e23"
+    },
+    {
+      "range": [
+        58,
+        68
+      ],
+      "_id": "fe1771e53e145d4e",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You face an environmental or architectural hazard.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.fe1771e53e145d4e"
+    },
+    {
+      "range": [
+        69,
+        76
+      ],
+      "_id": "8a4cf409ede5cb41",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A discovery undermines or complicates your quest.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.8a4cf409ede5cb41"
+    },
+    {
+      "range": [
+        77,
+        79
+      ],
+      "_id": "09b6f95178dd7f10",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You confront a harrowing situation or sensation.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.09b6f95178dd7f10"
+    },
+    {
+      "range": [
+        80,
+        82
+      ],
+      "_id": "02daadd5da9bd560",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You face the consequences of an earlier choice or approach.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.02daadd5da9bd560"
+    },
+    {
+      "range": [
+        83,
+        85
+      ],
+      "_id": "93bb342c5a61a52a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your way is blocked or trapped.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.93bb342c5a61a52a"
+    },
+    {
+      "range": [
+        86,
+        88
+      ],
+      "_id": "360b536e84a4c6bf",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A resource is diminished, broken, or lost.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.360b536e84a4c6bf"
+    },
+    {
+      "range": [
+        89,
+        91
+      ],
+      "_id": "d47507f01d3f694f",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You face a perplexing mystery or tough choice.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.d47507f01d3f694f"
+    },
+    {
+      "range": [
+        92,
+        94
+      ],
+      "_id": "df4cc4f93d92e56d",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose your way or are delayed.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.df4cc4f93d92e56d"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "b24ae24408966531",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
+      "name": "",
+      "_key": "!tables.results!PEldOr3UFgeXtokn.b24ae24408966531"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758484159591,
+    "modifiedTime": 1758484159591,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "PEldOr3UFgeXtokn",
+  "sort": 0,
+  "_key": "!tables!PEldOr3UFgeXtokn"
+}

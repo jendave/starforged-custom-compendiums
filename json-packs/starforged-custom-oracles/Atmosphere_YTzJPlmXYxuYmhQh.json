@@ -1,0 +1,186 @@
+{
+  "name": "Atmosphere",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        17
+      ],
+      "_id": "jyAF8HVszcAMbZsv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None/Thin",
+      "name": "",
+      "_key": "!tables.results!YTzJPlmXYxuYmhQh.jyAF8HVszcAMbZsv"
+    },
+    {
+      "range": [
+        18,
+        34
+      ],
+      "_id": "XzGpbLH5jyOymaAH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!YTzJPlmXYxuYmhQh.XzGpbLH5jyOymaAH"
+    },
+    {
+      "range": [
+        35,
+        51
+      ],
+      "_id": "UA3spXXs8hlNPLcb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive",
+      "name": "",
+      "_key": "!tables.results!YTzJPlmXYxuYmhQh.UA3spXXs8hlNPLcb"
+    },
+    {
+      "range": [
+        52,
+        68
+      ],
+      "_id": "V3Lc0CcEOlJJKpbX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!YTzJPlmXYxuYmhQh.V3Lc0CcEOlJJKpbX"
+    },
+    {
+      "range": [
+        69,
+        85
+      ],
+      "_id": "HVsAkEL1f0BI5y4f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!YTzJPlmXYxuYmhQh.HVsAkEL1f0BI5y4f"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "UMmDGy5jv6kihcqZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ideal",
+      "name": "",
+      "_key": "!tables.results!YTzJPlmXYxuYmhQh.UMmDGy5jv6kihcqZ"
+    }
+  ],
+  "folder": "GWoYpsHM7VVgDzEm",
+  "sort": 100000,
+  "_id": "YTzJPlmXYxuYmhQh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This planet is in another dimension, or came from another dimension to this one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288341842,
+    "modifiedTime": 1703294016622,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!YTzJPlmXYxuYmhQh"
+}

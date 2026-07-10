@@ -1,0 +1,186 @@
+{
+  "name": "Inhabitants Under Company Control",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "xLS77lSbSaxvO0nR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few (1% - 20%)",
+      "name": "",
+      "_key": "!tables.results!Mwv4GxulyoFYCSBr.xLS77lSbSaxvO0nR"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "zYNgBTorCI4WBugt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Some (21% - 35%)",
+      "name": "",
+      "_key": "!tables.results!Mwv4GxulyoFYCSBr.zYNgBTorCI4WBugt"
+    },
+    {
+      "range": [
+        31,
+        45
+      ],
+      "_id": "vbUPKhvYXFxN2Mj4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many (36% - 55%)",
+      "name": "",
+      "_key": "!tables.results!Mwv4GxulyoFYCSBr.vbUPKhvYXFxN2Mj4"
+    },
+    {
+      "range": [
+        46,
+        60
+      ],
+      "_id": "0otMTGYcCKD6zxOk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Most (56% - 75%)",
+      "name": "",
+      "_key": "!tables.results!Mwv4GxulyoFYCSBr.0otMTGYcCKD6zxOk"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "1mRRjnYlvDAV9q6G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Almost all (76% - 99%)",
+      "name": "",
+      "_key": "!tables.results!Mwv4GxulyoFYCSBr.1mRRjnYlvDAV9q6G"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "ynGjjv8PKY1s5hqC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "All (100%)",
+      "name": "",
+      "_key": "!tables.results!Mwv4GxulyoFYCSBr.ynGjjv8PKY1s5hqC"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 0,
+  "_id": "Mwv4GxulyoFYCSBr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969135,
+    "modifiedTime": 1733895750325,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Mwv4GxulyoFYCSBr"
+}

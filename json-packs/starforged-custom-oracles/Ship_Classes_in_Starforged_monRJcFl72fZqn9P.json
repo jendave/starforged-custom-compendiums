@@ -1,0 +1,396 @@
+{
+  "name": "Ship Classes in Starforged",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "2AyMycklcfGOj0sL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blockade runner - Thunderbolt - Engine Upgrade",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.2AyMycklcfGOj0sL"
+    },
+    {
+      "range": [
+        8,
+        15
+      ],
+      "_id": "5BplEnpjsY6awWOK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cargo hauler - Workhorse - Expanded Hold",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.5BplEnpjsY6awWOK"
+    },
+    {
+      "range": [
+        16,
+        22
+      ],
+      "_id": "oaJeoQQegfiURMK5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command ship - Sentinel - Overseer",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.oaJeoQQegfiURMK5"
+    },
+    {
+      "range": [
+        23,
+        29
+      ],
+      "_id": "8ZqnPqgNkKStJBQu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dropship - Meteor - Reinforced Hull",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.8ZqnPqgNkKStJBQu"
+    },
+    {
+      "range": [
+        30,
+        36
+      ],
+      "_id": "z2tqayCnos56fgPu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escort - Aegis - Shields",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.z2tqayCnos56fgPu"
+    },
+    {
+      "range": [
+        37,
+        43
+      ],
+      "_id": "QcCWCyZLGy5orrRS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gunship - Firestorm - Heavy Cannons",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.QcCWCyZLGy5orrRS"
+    },
+    {
+      "range": [
+        44,
+        50
+      ],
+      "_id": "kro4tqV8ZHNrhiPJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical ship - Mercy - Medbay",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.kro4tqV8ZHNrhiPJ"
+    },
+    {
+      "range": [
+        51,
+        57
+      ],
+      "_id": "nUwmbgyVPCYXLHB3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reclaimer - Buzzard - Grappler",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.nUwmbgyVPCYXLHB3"
+    },
+    {
+      "range": [
+        58,
+        64
+      ],
+      "_id": "maVFGX9gUf64LWup",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repair ship - Foundry - Workshop",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.maVFGX9gUf64LWup"
+    },
+    {
+      "range": [
+        65,
+        71
+      ],
+      "_id": "JyDkLPy9ottpESiP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Science ship - Discovery - Research Lab",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.JyDkLPy9ottpESiP"
+    },
+    {
+      "range": [
+        72,
+        78
+      ],
+      "_id": "beOhmfUx0NYqUNtl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Standoff attack ship - Artemis - Missile Array",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.beOhmfUx0NYqUNtl"
+    },
+    {
+      "range": [
+        79,
+        85
+      ],
+      "_id": "2Zy790bMoQhf5B0K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stealth ship - Eclipse - Stealth Tech",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.2Zy790bMoQhf5B0K"
+    },
+    {
+      "range": [
+        86,
+        93
+      ],
+      "_id": "skUjvmtooBw6M7Sj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surveyor - Vanguard - Sensor Array",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.skUjvmtooBw6M7Sj"
+    },
+    {
+      "range": [
+        94,
+        100
+      ],
+      "_id": "f34XAoLm59fcpGCj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle carrier - Haven - Vehicle Bay",
+      "name": "",
+      "_key": "!tables.results!monRJcFl72fZqn9P.f34XAoLm59fcpGCj"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Each result is (Role) - (Class Name) - (Key Asset)</p><p>In Ironsworn: Starforged, your starship is a home away from home. It is assumed this ship is multipurpose, fitting a number of roles as needed. Its quirks and capabilities are largely narrative, but you can use module assets to give it function and flavor.</p><p>Our iconic vessel, the Ornithor-class multipurpose ship, is an excellent example of this flexibility. It is armed and armored, has a good-sized cargo bay, plenty of space for berthing and custom suites, and can even carry and launch a shuttle or other smaller vehicles.</p><p>But if you are starting a new campaign and are eager to give your starship some flavor, how about assigning it a role? Pick a role from the table below, or let your oracle dice decide.</p><p>Take the key asset for that role at the start of your campaign. If you are rolling on this table, I hereby grant you permission to take that asset as a free bonus. Otherwise, make it one of your three starting assets.</p><p>Each role also includes a suggestion for a class name. This is the manufacturer's designation for that ship design, distinct from the name of your specific ship. Thus, you might fly the Hephaestus, a Foundry-class repair ship.</p><p>If appropriate to your character's nature, you can envision operating your ship in its role. But its role and class might simply be part of its backstory. Perhaps it has since been modified to serve another purpose, although its legacy still remains in the form of a key asset.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "1KR2VxOTlreYlY2D",
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.350",
+    "createdTime": 1710542145653,
+    "modifiedTime": 1758056728142,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "monRJcFl72fZqn9P",
+  "sort": 100000,
+  "_key": "!tables!monRJcFl72fZqn9P"
+}

@@ -1,0 +1,182 @@
+{
+  "folder": "5ugGm7ATxKj3OPeb",
+  "name": "Gameplay Macros",
+  "_id": "PmFKR0Upk4mHJLBH",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Rolling Macros",
+      "type": "text",
+      "_id": "FZGO4KGkBMKW6fB4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.j3VYXiZZw9d6qG5o]{Action Roll}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.Z2YyekIxjOdjPBt8]{d6 Roll}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.JEpwMoNky98IG6N2]{Oracle Roll}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.FfskcWMLSNVScoAw]{Progress Roll}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758055947026,
+        "modifiedTime": 1758055992271,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!PmFKR0Upk4mHJLBH.FZGO4KGkBMKW6fB4"
+    },
+    {
+      "sort": 200000,
+      "name": "Generation Macros",
+      "type": "text",
+      "_id": "UeUWsCvYzRbpstgK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.6wMFhC0fipRqNsaf]{Build Starting Sector}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.VpSy5HANM9ekG0r9]{Generate Creature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.rHWwK4XNK1uFkxo2]{Generate Creature (Starsmith)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.GuGFAYTRMc0eXjmn]{Generate NPC}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.cslFqvcT3oXrdxEt]{Generate NPC (Starsmith)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.jep99Neqt4WvXxBZ]{Sworn Quest Mad Lib}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.gLp4vIXOcVuyi0i5]{Sworn Quest Mad Lib (Starsmith)}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758056005644,
+        "modifiedTime": 1763160251281,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!PmFKR0Upk4mHJLBH.UeUWsCvYzRbpstgK"
+    },
+    {
+      "sort": 300000,
+      "name": "Impact Macros",
+      "type": "text",
+      "_id": "Ja4ulAqrf6tHR05A",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Macros to Apply Impacts</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.NBsGokbB0WHlbD5F]{Apply 'Battered'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.GUmQKItP4yx9UHgg]{Apply 'Corrupted'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.d7PKUh0o1oH7XLav]{Apply 'Cursed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.sH2U8thMVt1bhMnL]{Apply 'Doomed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.EPGsDmcBW66NPKW2]{Apply 'Encumbered'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.4KfK2KXJ4MMUygIT]{Apply 'Indebted'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.EnaIqgdntDlSuBvG]{Apply 'Maimed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.zmOYLYqJiyGkuKXY]{Apply 'Permanently Harmed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.rhKkWnZz3pKjM743]{Apply 'Shaken'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.d8nixu9yIh42APiB]{Apply 'Tormented'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.JHn22gNeP9zNZ5T8]{Apply 'Traumatized'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.TAksneFg7yuEVd7d]{Apply 'Unprepared'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.2GbNeQtkPSToTWh2]{Apply 'Wounded'}</p><h2>Macros to Remove Impacts</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.z6L5RGE6qHMuFFfo]{Remove 'Battered'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.6fqyi5HEUg4wroGd]{Remove 'Corrupted'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.Be4sDG59V6gHwYBo]{Remove 'Cursed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.2q6xLKTrq1pHyhtS]{Remove 'Doomed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.S5F5YPl0i7UDrHiB]{Remove 'Encumbered'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.vkMCrsMeBsCBgdl8]{Remove 'Indebted'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.EwaceN3eSStWBLNW]{Remove 'Maimed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.WOmAkOmqmivPppps]{Remove 'Permanently Harmed'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.UcYHYjEz3pQujnhM]{Remove 'Shaken'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.KqtjTjDudH3g7KfO]{Remove 'Tormented'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.epiKIQCMCGWZaxdm]{Remove 'Traumatized'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.cDnUx6cd0zMqqRVf]{Remove 'Unprepared'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.x5oRi04g6H3uyJnY]{Remove 'Wounded'}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.6",
+        "createdTime": 1765100946099,
+        "modifiedTime": 1765101807713,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!PmFKR0Upk4mHJLBH.Ja4ulAqrf6tHR05A"
+    },
+    {
+      "sort": 400000,
+      "name": "Combat Position Macros",
+      "type": "text",
+      "_id": "IiOXoUKvYCJzz0mX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Macros to Apply Combat Position</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.yIybyXEeqYCwy9xe]{Apply 'In a Bad Spot'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.xVpFit5KhrY0pQm9]{Apply 'In Control'}</p><h2>Macros to Remove Combat Position</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.AhiXtb3dAPTwWFXY]{Remove 'In a Bad Spot'}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.UL8zfzmGXVuQfSpF]{Remove 'In Control'}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.6",
+        "createdTime": 1765101202686,
+        "modifiedTime": 1765101252836,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!PmFKR0Upk4mHJLBH.IiOXoUKvYCJzz0mX"
+    }
+  ],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758055940065,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!PmFKR0Upk4mHJLBH"
+}

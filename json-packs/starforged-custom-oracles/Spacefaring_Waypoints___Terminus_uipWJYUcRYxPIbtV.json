@@ -1,0 +1,342 @@
+{
+  "name": "Spacefaring Waypoints - Terminus",
+  "formula": "1d100",
+  "description": "Use this table to reveal what you encounter or experience as you arrive at a waypoint during an interstellar spacefaring expedition. For details on spacefaring navigation, see pages 68-71 of the Starforged rulebook.",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "RNJ57AtNqPD8RxQu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Stellar Object Reference Guide, pages 34-35",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.RNJ57AtNqPD8RxQu"
+    },
+    {
+      "range": [
+        11,
+        30
+      ],
+      "_id": "FMBOCdV80iTiVkzs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Planet Reference Guide, pages 38-39",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.FMBOCdV80iTiVkzs"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "BiImHBQcLclXCg2K",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Settlement Reference Guide, pages 54-57",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.BiImHBQcLclXCg2K"
+    },
+    {
+      "range": [
+        41,
+        52
+      ],
+      "_id": "0wbMvgzt4LySyb4P",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Starship Reference Guide, pages 58-61",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.0wbMvgzt4LySyb4P"
+    },
+    {
+      "range": [
+        53,
+        58
+      ],
+      "_id": "ywmpPqtEqnwFvOns",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Derelict Reference Guide, pages 80-91",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.ywmpPqtEqnwFvOns"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "Xlt4h33RJtHxvW22",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Precursor Vault (Deep Space) Reference Guide, pages 92-99",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.Xlt4h33RJtHxvW22"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "5B0IzneTz64Krllh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Creature (Space) Reference Guide, pages 68-71",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.5B0IzneTz64Krllh"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "DnDtfROH9NvzLmxG",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Cosmic Matter Oracle",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.DnDtfROH9NvzLmxG"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "QWhTNu2uScb8sQyW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Interlude Scene Oracle",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.QWhTNu2uScb8sQyW"
+    },
+    {
+      "range": [
+        81,
+        95
+      ],
+      "_id": "262x71LIits5N1C9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "&gt;Descriptor + Focus Reference Guide, pages 30-31",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.262x71LIits5N1C9"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "Jl3Vg64OPFWREFfn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.Jl3Vg64OPFWREFfn"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "mOtLGog1sg8TP2P4",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll three times",
+      "name": "",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.mOtLGog1sg8TP2P4"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "t6eBryGidTnGQuii",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1755031869486,
+    "modifiedTime": 1755031881638,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "uipWJYUcRYxPIbtV",
+  "sort": 400000,
+  "_key": "!tables!uipWJYUcRYxPIbtV"
+}

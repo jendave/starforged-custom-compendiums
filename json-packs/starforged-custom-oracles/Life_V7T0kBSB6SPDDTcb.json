@@ -1,0 +1,134 @@
+{
+  "name": "Life",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "akd0c3lo1LO3TS4H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / Extinct",
+      "name": "",
+      "_key": "!tables.results!V7T0kBSB6SPDDTcb.akd0c3lo1LO3TS4H"
+    },
+    {
+      "range": [
+        31,
+        70
+      ],
+      "_id": "Rf1wp2JNDW9aVg4r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sparsely inhabited",
+      "name": "",
+      "_key": "!tables.results!V7T0kBSB6SPDDTcb.Rf1wp2JNDW9aVg4r"
+    },
+    {
+      "range": [
+        71,
+        85
+      ],
+      "_id": "CasdErQQUThS6sKa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many inhabitants",
+      "name": "",
+      "_key": "!tables.results!V7T0kBSB6SPDDTcb.CasdErQQUThS6sKa"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "N0v54Oct9rKW4p1x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crowded",
+      "name": "",
+      "_key": "!tables.results!V7T0kBSB6SPDDTcb.N0v54Oct9rKW4p1x"
+    }
+  ],
+  "folder": "Vz3iEVN73HiiGJfK",
+  "sort": 1,
+  "_id": "V7T0kBSB6SPDDTcb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These satellites are huge, moon-sized space stations. Who built this moon and why? How old is it?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690501059,
+    "modifiedTime": 1698872362753,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!V7T0kBSB6SPDDTcb"
+}

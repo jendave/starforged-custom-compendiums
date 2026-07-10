@@ -1,0 +1,134 @@
+{
+  "name": "New Race Intelligence",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "Uv0GU9Wijay08fwW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primitive or near primitive",
+      "name": "",
+      "_key": "!tables.results!jaLqjDRKjgVDWh0L.Uv0GU9Wijay08fwW"
+    },
+    {
+      "range": [
+        21,
+        90
+      ],
+      "_id": "28wSA0B9i2Ndcck8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Common",
+      "name": "",
+      "_key": "!tables.results!jaLqjDRKjgVDWh0L.28wSA0B9i2Ndcck8"
+    },
+    {
+      "range": [
+        91,
+        99
+      ],
+      "_id": "ugPWVoTNrlVCuzTy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advanced",
+      "name": "",
+      "_key": "!tables.results!jaLqjDRKjgVDWh0L.ugPWVoTNrlVCuzTy"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "oDNnl52eoaAGQnnu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beyond advanced",
+      "name": "",
+      "_key": "!tables.results!jaLqjDRKjgVDWh0L.oDNnl52eoaAGQnnu"
+    }
+  ],
+  "folder": "uGzIUgSkE5sHhZjA",
+  "sort": 2,
+  "_id": "jaLqjDRKjgVDWh0L",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Tables have also been created for when you randomly encounter a never-before-seen race in <em>Star Wars</em> (in other words, a race of beings exclusive to your campaign!). For creating new homeworlds that this new species might be from, I figure you can just use <em>Starforged</em>’s excellent random-world generator for that.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707544543706,
+    "modifiedTime": 1707549433903,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!jaLqjDRKjgVDWh0L"
+}

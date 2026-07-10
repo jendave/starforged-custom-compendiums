@@ -1,0 +1,212 @@
+{
+  "name": "Lightsaber Forms",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "gLFK25SppFjA75hp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form I / Shii-Cho / Way of the Sarlacc / Determination Form (TROUBLESOME) - This form is the very basics of lightsaber combat. However, some practitioners focus only on this form, with the philosophy that high repetition of basic movements creates refined movements. But it is a general combat form, not specializing against any one type of weapon, enemy, or situation. Both Jedi and Sith will usually start with this. Practitioners who used it: Most Sith and Jedi",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.gLFK25SppFjA75hp"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "xH7bfxqLrwyzGrja",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form II / Makashi / Way of the Ysalamiri / Contention Form (DANGEROUS against most, FORMIDABLE against lightsabers) - A true duelist's form. This form was specifically created for lightsaber-on-lightsaber combat. It focuses on footwork, maneuvering, and carefully attacking a lightsaber-wielding enemy in such a way that doesn't leave oneself open to a retaliation. A Sith might use this to toy with their enemy, whereas a Jedi might use it to win against an opponent by wearing them, winning by attrition.\" Practitioners who used it: Count Dooku, Asajj Ventress.",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.xH7bfxqLrwyzGrja"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "RoUCcCOl09gxBgNI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form III / Soresu / Way of the Mynock / Resilience Form (TROUBLESOME against lightsabers, FORMIDABLE against all else) - Specifically created to fight against blasters and other energy weapons, Form III is for any practitioner focusing on fighting in open combat, in war, or in a street fight. A Sith might use this for honor duels, whereas a Jedi might use this form to defend someone else while beating a retreat. Practitioners who used it: Jedi Master Obi-Wan Kenobi, Jedi Kel Dor.",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.RoUCcCOl09gxBgNI"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "yM5nzox5ivGTSgjr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form IV / Ataru / Way of the Hawk-bat / Aggression Form (DANGEROUS against multiple opponents, EXTREME against one opponent) - Fast-paced and effective against a single opponent. Meant to get in fast, perform a quick disarm or kill, and then move on. Surprise, speed, and violence of action are the key here. A Sith might use these for assassination, and a Jedi might use this to quickly disarm an assassin's weapon. Practitioners who used it: Jedi Master Qui-Gon Jinn, Jedi Master Obi-Wan Kenobi, Jedi Grandmaster Yoda",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.yM5nzox5ivGTSgjr"
+    },
+    {
+      "range": [
+        85,
+        90
+      ],
+      "_id": "nNZ0TD61GR4erVKi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form V / Shien / Djem So / Way of the Krayt Dragon / Perseverance Form (EPIC against one opponent, EXTREME against multiple opponents) - This form was a further evolution of Form III. The creators saw that Form III could sometimes take too long, and developed techniques to put emphasis on power attacks and defense, followed immediately by a counterstrike. A Sith trained in this might be a Jedi-hunter, and a Jedi trained in this might be someone who has reason to believe he will be hunted by a Sith. Practitioners who used it: Jedi Master Plo Koon, Luke Skywalker, Anakin Skywalker/Darth Vader, and Darth Bane.",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.nNZ0TD61GR4erVKi"
+    },
+    {
+      "range": [
+        91,
+        98
+      ],
+      "_id": "OY70yMeupJY2HVW0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form VI / Niman / Way of the Rancor / Moderation Form - (EXTREME) A hybrid form, very difficult to master. It was created by blending many of the techniques and philosophies of the preceding five forms. It also does not try to force all practitioners to fight the same way, accounting for differences in height, weight, species, numbers of limbs, etc. Its philosophy: \"We absorb what is useful, discard what is useless, and develop what is essentially our own unique way.\" A Sith might use this to be a jack of all trades for the sake of being deployed on various missions, and a Jedi might use this to be a \"utility man\" on missions (this form is sometimes called the \"Diplomat's Form\"). Practitioners who used it: Sith Lord Exar Kun, Jedi Master Cin Drallig",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.OY70yMeupJY2HVW0"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "R2k1nGyOowLK2lmF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form VII / Juyo / Way of the Vornskr / Ferocity Form - (EPIC) Rarely taught. In all of Star Wars history, only a few have been trained in it. That is because it means using one's own aggression and teetering on the Dark Side. Practitioners who used it: Darth Maul, Jedi Master Kavar, Jedi Master Zez-Kai Ell, Jedi Master Mace Windu, Darth Sidious/Emperor Palpatine.",
+      "name": "",
+      "_key": "!tables.results!CYnhRUCufBYhfT46.R2k1nGyOowLK2lmF"
+    }
+  ],
+  "folder": "CqCUmYaboFyZ2SWr",
+  "sort": 1,
+  "_id": "CYnhRUCufBYhfT46",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The “Lightsaber Forms” table is to give a player some idea about the flavor of lightsaber fighting (in canon terms) and tell you how likely the threat is to be, from TROUBLESOME to EPIC, depending.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707546640513,
+    "modifiedTime": 1707549941201,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!CYnhRUCufBYhfT46"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "5ugGm7ATxKj3OPeb",
+  "name": "Overview",
+  "_id": "mPfD1BcTkkbbQaJG",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "bCpzda1FtmKE1qVj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The following resources by David Hudson (jendave) are licensed under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License (CC-BY)</a></p><ul><li><p><a href=\"https://jendave.itch.io/critical-success-oracles\">Critical Successes</a></p></li><li><p><a href=\"https://jendave.itch.io/i-owe-my-soul-to-the-company-planet\">I Owe My Soul to the Company Planet</a></p></li><li><p><a href=\"https://jendave.itch.io/ill-be-home-for-life-day\">I'll Be Home for Life Day!</a></p></li><li><p><a href=\"https://jendave.itch.io/the-city-on-the-breeze\">The City on the Breeze</a></p></li><li><p><a href=\"https://jendave.itch.io/creature-rank-generator\">Creature Rank Generator</a></p></li><li><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.cs1jaUX6kxbCS0aa]{Build Starting Sector}</p></li></ul><p>The macros by David Hudson (jendave) are licensed under the MIT license.</p><p></p><p>Also check out other resources by David Hudson</p><ul><li><a href=\"https://foundryvtt.com/packages/starsmith-expanded-oracles\">Starsmith Compendiums for Ironsworn: Starforged</a></li><li><a href=\"https://foundryvtt.com/packages/ironsmith-expanded-oracles\">Ironsmith Expanded Oracles for Ironsworn</a></li><li><a href=\"https://foundryvtt.com/packages/augmented-reality-foundry\">Augmented Reality Cyberpunk City Kit</a></li><li><a href=\"https://foundryvtt.com/packages/void-1680-am\">VOID 1680 AM for FoundryVTT</a></li><li><a href=\"https://foundryvtt.com/packages/ancient-wonders\">Ancient Wonders</a></li><li><a href=\"https://foundryvtt.com/packages/rise-and-shining-star\">Rise &amp; Shiningstar - An Adventure for Ironsworn: Starforged</a></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757982800018,
+        "modifiedTime": 1779426492455,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mPfD1BcTkkbbQaJG.bCpzda1FtmKE1qVj"
+    }
+  ],
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757748528241,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!mPfD1BcTkkbbQaJG"
+}

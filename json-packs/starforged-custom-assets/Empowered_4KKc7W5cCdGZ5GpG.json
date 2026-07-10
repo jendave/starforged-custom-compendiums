@@ -1,0 +1,84 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Empowered",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [
+      {
+        "name": "Title/Lineage",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3de42d2d3cb78855]{Sojourn} and score a weak hit or miss, you may claim the rights of hospitality warranted by your title or lineage. If you do, roll all dice again and add +1. On a miss, you are refused, and your presumption causes significant new trouble.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you exert your title or lineage to @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9f538fabf8998c5b]{Compel}, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you forgo your title or lineage and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.05909d6310d209a6]{Make a Connection} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.287bb4c2b53ea847]{Forge a Bond} as an equal, or when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} to serve someone of a lower station, add +1 and take +1 momentum or +1 spirit on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/crenel-crown.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Empowered",
+      "dsid": "asset:classic/path/empowered",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760213992070,
+    "modifiedTime": 1760214046632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_id": "4KKc7W5cCdGZ5GpG",
+  "sort": 2800000,
+  "_key": "!items!4KKc7W5cCdGZ5GpG"
+}

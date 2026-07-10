@@ -1,0 +1,134 @@
+{
+  "name": "Swear An Iron Vow",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "ua0w8zMhAv4MpLvq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +1 additional momentum",
+      "name": "",
+      "_key": "!tables.results!ILmSRAvPnNLK86VU.ua0w8zMhAv4MpLvq"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "3o4rWZQjAxh9Sqhw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional momentum",
+      "name": "",
+      "_key": "!tables.results!ILmSRAvPnNLK86VU.3o4rWZQjAxh9Sqhw"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "fCSXgF5IzZSKEJZ1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional momentum, add +1 on your next move (not a progress move)",
+      "name": "",
+      "_key": "!tables.results!ILmSRAvPnNLK86VU.fCSXgF5IzZSKEJZ1"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "3Zccp7LYs0sh8Qz2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional momentum, add +2 on your next move (not a progress move)",
+      "name": "",
+      "_key": "!tables.results!ILmSRAvPnNLK86VU.3Zccp7LYs0sh8Qz2"
+    }
+  ],
+  "folder": "Amka1B6N2zuWwKyL",
+  "sort": 0,
+  "_id": "ILmSRAvPnNLK86VU",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466459508,
+    "modifiedTime": 1706850798039,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ILmSRAvPnNLK86VU"
+}

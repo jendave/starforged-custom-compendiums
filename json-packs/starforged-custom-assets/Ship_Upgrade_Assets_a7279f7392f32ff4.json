@@ -1,0 +1,27 @@
+{
+  "name": "Ship Upgrade Assets",
+  "color": "#7f5a90",
+  "description": "__Modules__ are linked to your STARSHIP and offer additional options and advantages when aboard that vehicle.\n\nThese assets are earned and managed by a single character. They can be shared with allies, but only if it's practical for them to make use of it (not everyone may know how to use a RESEARCH LAB).\n\nWhen you @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage} and score a miss, you can mark a module as broken to offset further danger for your STARSHIP. Flip the card over to indicate its broken state. A broken module cannot be used until you successfully @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} it.",
+  "type": "Item",
+  "_id": "a7279f7392f32ff4",
+  "sort": -500000,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Module",
+      "dsid": "asset_collection:starforged/module"
+    }
+  },
+  "folder": "eHTQbS3fpIeRZx4B",
+  "sorting": "a",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!a7279f7392f32ff4"
+}

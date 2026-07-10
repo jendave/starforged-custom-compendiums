@@ -1,0 +1,160 @@
+{
+  "name": "Stylizer (3-4)",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "urU9rkQnzZgIdoqN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solutions",
+      "name": "",
+      "_key": "!tables.results!NAgkcDnEG03d5zvb.urU9rkQnzZgIdoqN"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "SrcH9XMvSTHH16B3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Innovations",
+      "name": "",
+      "_key": "!tables.results!NAgkcDnEG03d5zvb.SrcH9XMvSTHH16B3"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "utYGDPXQCVKtuIUY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holdings",
+      "name": "",
+      "_key": "!tables.results!NAgkcDnEG03d5zvb.utYGDPXQCVKtuIUY"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "WzKii7HZncdoPTER",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consortium",
+      "name": "",
+      "_key": "!tables.results!NAgkcDnEG03d5zvb.WzKii7HZncdoPTER"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "5RL0gZV5qSGUioNa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frontiers",
+      "name": "",
+      "_key": "!tables.results!NAgkcDnEG03d5zvb.5RL0gZV5qSGUioNa"
+    }
+  ],
+  "folder": "DAFtg8Tac26WnOw1",
+  "sort": 4,
+  "_id": "NAgkcDnEG03d5zvb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Begin by rolling 1-2 times on the Megacorp prefix table, then roll once on the Megacorp stylizer table. Finally, combine the results into a nefarious and opaque megacorp name and allow it to inspire the faction's descriptions, goals, and motivations.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.9",
+    "coreVersion": "13.350",
+    "createdTime": 1700588876315,
+    "modifiedTime": 1700589234105,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!NAgkcDnEG03d5zvb"
+}

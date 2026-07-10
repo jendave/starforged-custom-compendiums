@@ -1,0 +1,84 @@
+{
+  "name": "Colossal (mountain-sized)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        60
+      ],
+      "_id": "kzI40caZ4JSTX3Rv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extreme",
+      "name": "",
+      "_key": "!tables.results!CMaiD8e3YGqYKd40.kzI40caZ4JSTX3Rv"
+    },
+    {
+      "range": [
+        61,
+        100
+      ],
+      "_id": "GlHayWrBcSaus95g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Epic",
+      "name": "",
+      "_key": "!tables.results!CMaiD8e3YGqYKd40.GlHayWrBcSaus95g"
+    }
+  ],
+  "folder": "li693Hh4zpz1YQov",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to generate a rank for the creature based on its scale. Feel free to adjust the rank as desired.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.350",
+    "createdTime": 1714155602811,
+    "modifiedTime": 1714176911677,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "CMaiD8e3YGqYKd40",
+  "sort": 0,
+  "_key": "!tables!CMaiD8e3YGqYKd40"
+}

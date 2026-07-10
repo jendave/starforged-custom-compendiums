@@ -1,0 +1,104 @@
+{
+  "folder": "Ge4m2qlwe9yV0HPG",
+  "name": "Starforged Gear",
+  "_id": "Ssi2zPbvWOYGH9SK",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "ywGnKmBM4p8qvtFL",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.iSpp3VUWPfd1dRfD]{Starforged Gear}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060530932,
+        "modifiedTime": 1758060536185,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Ssi2zPbvWOYGH9SK.ywGnKmBM4p8qvtFL"
+    },
+    {
+      "sort": 200000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "Y6Z65Us3l424Xzlm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sa1junIzBGFDG59Q]{Attribute}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.P0Jvpir9JOuExcpr]{Background}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KtFtiLa1GlPdf8rB]{History}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.IxjuBrce91PJfAll]{Object}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060545945,
+        "modifiedTime": 1758060556018,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Ssi2zPbvWOYGH9SK.Y6Z65Us3l424Xzlm"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758060522362,
+    "modifiedTime": 1758060522362,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!Ssi2zPbvWOYGH9SK"
+}

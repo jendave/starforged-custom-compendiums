@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "CIMBUlRd6pitnuo0",
+  "name": "Rider",
+  "system": {
+    "requirement": "<p>If you are with your horse companion…</p>",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} your horse, or when you @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @Compendium[foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Attack} to calm or encourage it, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} or @Compendium[foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course}, you may push your horse harder and add +1 (after rolling). If you do, make the @Compendium[foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} move (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} +wits by sizing up a perilous situation from the saddle, you are one with your horse’s instincts. Add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/cavalry.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Rider",
+      "dsid": "asset:classic/path/rider",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758269690343,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Dv5VSxV6z7CFnyC9",
+  "sort": 3800000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_key": "!items!Dv5VSxV6z7CFnyC9"
+}

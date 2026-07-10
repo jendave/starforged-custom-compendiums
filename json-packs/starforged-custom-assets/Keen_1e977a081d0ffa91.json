@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "_id": "1e977a081d0ffa91",
+  "folder": "5c9139c5883395ea",
+  "name": "Keen",
+  "system": {
+    "requirement": "",
+    "category": "Ritual",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you hold a weapon and sing a keen for those it has killed, roll +heart. On a strong hit, the wielder marks progress when they @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash}. If they roll a 1 on their action die when making a move to attack, the magic is spent. On a weak hit, as above, but the voices of those who were slain join in your song; suffer -2 spirit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and the wielder may also (one time only) add +1 and take +2 momentum on a hit when they @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, or @Compendium[foundry-ironsworn.starforgedmoves.Item.a903d120af3b1475]{Battle}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you perform this ritual, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/dripping-blade.svg",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Keen",
+      "dsid": "asset:classic/ritual/keen",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758313529324,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!1e977a081d0ffa91"
+}

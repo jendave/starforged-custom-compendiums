@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Parrot",
+  "system": {
+    "requirement": "<p>Your parrot companion offers random wisdom.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Talkative: When you seek inspiration, context, or direction, use your oracle dice to choose a table (1–25: @Compendium[foundry-ironsworn.sunderedislesoracles.109883b4bcba1339]{Action}, 26–50: @Compendium[foundry-ironsworn.sunderedislesoracles.ce3644703a52b2bd]{Theme}, 51–75: @Compendium[foundry-ironsworn.sunderedislesoracles.0736f5a2702af5df]{Descriptor}, 76–100: @Compendium[foundry-ironsworn.sunderedislesoracles.09f9e38b2637e39d]{Focus}). Then, roll to learn what your parrot says. If you connect this prompt to your current situation for new insight, take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Pesky: Once per fight, when you score a miss, you may envision how the parrot appears on the scene to cause a timely distraction. If you do, make it a strong hit instead.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Alert: The parrot squawks a warning when danger is near. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.e6ed148eff82c171]{Face Danger} to detect a threat, or if you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.2f2ba4090b22a122]{Enter the Fray} against an ambush, add +its health.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 2,
+      "value": 2,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/parrot-head.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/parrot",
+      "dsid": "asset:sundered_isles/companion/parrot",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906539050,
+    "modifiedTime": 1759807244513,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "IpdQbVQMS7YaKDEV",
+  "sort": 1000000,
+  "_key": "!items!IpdQbVQMS7YaKDEV"
+}

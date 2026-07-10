@@ -1,0 +1,65 @@
+{
+  "folder": "Ayzz2JV8B3rXWfFb",
+  "name": "Water",
+  "_id": "SMM9gfaXrnRWHbJ6",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "P0TFuVpE3MssX7IY",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KjawEQXfqBPzh47v]{Features in the Fathoms}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XDGwFAl9R8XcKklC]{Features in the Shallows}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.adarSchsINuPKOfg]{Underwater Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UEQJpG1tK3g4qxJW]{Underwater Peril}</p><h2>Water Depth</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.EYXOdgAQpaeGU55v]{Margins - Outer Seas}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ycGv1F1KFmEUw7FF]{Myriads - Central Seas}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.fl5FyMnUz7rXpDsg]{Reaches - Remote Seas}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758084868160,
+        "modifiedTime": 1758084903874,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!SMM9gfaXrnRWHbJ6.P0TFuVpE3MssX7IY"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758084860407,
+    "modifiedTime": 1758084860407,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!SMM9gfaXrnRWHbJ6"
+}

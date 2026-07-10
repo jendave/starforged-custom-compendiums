@@ -1,0 +1,290 @@
+{
+  "name": "Revealed Droid Trait",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "YXFifFUjqbijd824",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It's got a hidden weapon",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.YXFifFUjqbijd824"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "3bIIUOgPuATGCTs3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It's actually remote-controlled...",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.3bIIUOgPuATGCTs3"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "0dIPuPuz5BYVTPAB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It was recently \"sliced\" (hacked)",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.0dIPuPuz5BYVTPAB"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "MdmBxIR6Zb3jfsfc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It has multiple personalities",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.MdmBxIR6Zb3jfsfc"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "AEewKCVPixio6N5G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It has been rigged to explode",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.AEewKCVPixio6N5G"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "Gmy772x3LyPMJfp1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Greatly gifted at a random skill",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.Gmy772x3LyPMJfp1"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "w7vJTn5vxiOaWKCB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It goes to sleep constantly",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.w7vJTn5vxiOaWKCB"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "ktNtbqZFMWbCul1z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It has a random phobia",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.ktNtbqZFMWbCul1z"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "lFhCjqcRliN39SSy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It knows all local passwords",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.lFhCjqcRliN39SSy"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "qmOdRIe1yjIzsgwE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It has holographic recordings...",
+      "name": "",
+      "_key": "!tables.results!o9QoYnnItcAUYKo4.qmOdRIe1yjIzsgwE"
+    }
+  ],
+  "folder": "wdeWc5OpRxFsdU6Y",
+  "sort": 1,
+  "_id": "o9QoYnnItcAUYKo4",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The “Droid Type” also provides a quick, easy way for players unfamiliar with all the ins and outs of <em>Star Wars</em> canon to know exactly which droids are more common, which ones are more/less sentient than others, and what “class” they belong to.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545810932,
+    "modifiedTime": 1707549037536,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!o9QoYnnItcAUYKo4"
+}

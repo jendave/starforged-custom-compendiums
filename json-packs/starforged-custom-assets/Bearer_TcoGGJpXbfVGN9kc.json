@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Bearer",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [
+      {
+        "name": "Relic",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You carry a relic of eldritch power. Envision its form and nature. When you make a move wielding or aided by this object, use a D8 relic die as your action die. If you roll a 1 on that die, the powers backfire; in addition to the outcome of the move, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-3) or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-3). If you are separated from the relic, this asset counts as an impact.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you roll a 7 or 8 on your relic die, you are one with the eldritch powers of the relic. Take an automatic strong hit and +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you successfully @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} in a quest (extreme or epic) to free yourself of the relic, activate this ability at no cost, make a final roll of the relic die, and discard this asset. On 3–8, you embody lingering powers of the relic; improve a stat by +1. On 1–2, improve a stat by +1, but the relic leaves a mark; reduce your max health or spirit to 4.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Lore_Hunter",
+      "dsid": "asset:starforged/path/lore_hunter",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1770510126225,
+    "modifiedTime": 1779425772858,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "TcoGGJpXbfVGN9kc",
+  "sort": 100000,
+  "_key": "!items!TcoGGJpXbfVGN9kc"
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Flavour",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "89PwGkdzi83cWe5h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Companionship",
+      "name": "",
+      "_key": "!tables.results!Wsg6a5AD8qJZ6txw.89PwGkdzi83cWe5h"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "olmmFiO18CKbu0DH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food &amp; Drink",
+      "name": "",
+      "_key": "!tables.results!Wsg6a5AD8qJZ6txw.olmmFiO18CKbu0DH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "jQCR1hOnDYrIJ9vZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Music",
+      "name": "",
+      "_key": "!tables.results!Wsg6a5AD8qJZ6txw.jQCR1hOnDYrIJ9vZ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "G0i9rNBpXQMNBM4t",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amusement",
+      "name": "",
+      "_key": "!tables.results!Wsg6a5AD8qJZ6txw.G0i9rNBpXQMNBM4t"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "krn4kDgQZxwBXvQB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultural Event",
+      "name": "",
+      "_key": "!tables.results!Wsg6a5AD8qJZ6txw.krn4kDgQZxwBXvQB"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "wDUwsDtzd0VFqwZi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landmark",
+      "name": "",
+      "_key": "!tables.results!Wsg6a5AD8qJZ6txw.wDUwsDtzd0VFqwZi"
+    }
+  ],
+  "folder": "xWl6uUkxGRSzs3e5",
+  "sort": 0,
+  "_id": "Wsg6a5AD8qJZ6txw",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Has your character got some downtime? Struggling for ideas about what they get up to? Look no further than the Sojourn Hot Sauce oracle. If you’d like some extra guidance begin by rolling on the Flavour table.</p><p>Otherwise, roll up a Downtime Adjective and a Downtime Noun and envision what your character gets up to.</p><p><strong>Optional:</strong> Roll the tables the number of times equal to your character's Heart stat and create a small vignette.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.9",
+    "coreVersion": "13.350",
+    "createdTime": 1700807286072,
+    "modifiedTime": 1700808004469,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Wsg6a5AD8qJZ6txw"
+}

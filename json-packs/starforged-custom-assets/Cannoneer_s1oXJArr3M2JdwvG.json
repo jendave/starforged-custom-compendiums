@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "3zrHGetXJsVA5vR2",
+  "name": "Cannoneer",
+  "system": {
+    "requirement": "When you use an asset's heavy armaments...",
+    "category": "Combat Talent",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} and hold your fire for maximum effect, decide the amount of momentum you risk (1, 2, or 3) and add +that amount. On a strong hit, mark progress. On a weak hit or miss, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} equal to 1 + the amount risked (in addition to any other cost).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move by firing or directing the fire of your heavy armaments, and burn momentum to improve your result, roll your action die. On a 5 or 6, do not reset momentum. Otherwise, take +1 momentum after you reset.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3f5a834fa3fea5d1]{Gain Ground} by preparing or loading special ammunition for a volley, roll +supply. On a hit, take +1 momentum. Then, when you first make a move to fire this ammunition, reroll any dice.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/cannon-ball.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/path/cannoneer",
+      "dsid": "asset:sundered_isles/path/cannoneer",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906126619,
+    "modifiedTime": 1759530895109,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "s1oXJArr3M2JdwvG",
+  "sort": 1500000,
+  "_key": "!items!s1oXJArr3M2JdwvG"
+}

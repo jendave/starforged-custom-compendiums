@@ -1,0 +1,2630 @@
+{
+  "name": "Exotic Moons Table 2",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "YlUIPixer5lv6DCI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jungles",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.YlUIPixer5lv6DCI"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "MPWSqQ5o5oywfUFN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.MPWSqQ5o5oywfUFN"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "VtmlG8a1FJcguLDW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruins",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.VtmlG8a1FJcguLDW"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "72IFwB12G5uVIMyn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animal Herds",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.72IFwB12G5uVIMyn"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "NYqfjaHr17OwlyJ4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wastelands",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.NYqfjaHr17OwlyJ4"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "QyHnRT0kdW8v6dRb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craters",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.QyHnRT0kdW8v6dRb"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "gwbMTCeUZhbMk8S0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alien Colonies",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.gwbMTCeUZhbMk8S0"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "o1OeUTheeheY0jgi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intelligent Life",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.o1OeUTheeheY0jgi"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "HY7xtoohDWewLp5H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hives",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.HY7xtoohDWewLp5H"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "FQmbH46at9vpWqI9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bonefields",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.FQmbH46at9vpWqI9"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "pDUQvgzMKe1OITPo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mineral Spires",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.pDUQvgzMKe1OITPo"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "M741UB19nIgn1DxI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship Wreck",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.M741UB19nIgn1DxI"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "1K4WRemLY6NH6kbL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glaciers",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.1K4WRemLY6NH6kbL"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "ETprXHnzHUbAr9e7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivers",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ETprXHnzHUbAr9e7"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "eBLV1NxVPPykAPZr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flowers",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.eBLV1NxVPPykAPZr"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "ERnQaDoGPxZ3LDi9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geysers",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ERnQaDoGPxZ3LDi9"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "EQszVuu6m9IHbfBc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storms",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.EQszVuu6m9IHbfBc"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "t2knvbNcuLqnTPxu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grasslands",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.t2knvbNcuLqnTPxu"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "ckcmdOdzj1jJ1Kgj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pits",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ckcmdOdzj1jJ1Kgj"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "CKDFw7xUYxY0G7jW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orchards",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.CKDFw7xUYxY0G7jW"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "ieYzAXTlMDH3lmmX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towers",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ieYzAXTlMDH3lmmX"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "79E0Ui4crP2wPJL8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Serpents",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.79E0Ui4crP2wPJL8"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "ZulY8BD3P7r02qc2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dinosaurs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ZulY8BD3P7r02qc2"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "5qJk5BK3SyIV5hKV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fissures",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.5qJk5BK3SyIV5hKV"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "WvNasgclEyKoA5Dp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Webs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.WvNasgclEyKoA5Dp"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "n83vzTz98i2SyQlM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exoskeletal Husks",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.n83vzTz98i2SyQlM"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "FiEukkoru3U853Ie",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nanite Swarms",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.FiEukkoru3U853Ie"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "cotXehrGOzGZVYid",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steppes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.cotXehrGOzGZVYid"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "LfWbFR1NlQSo8J3E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mesas",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.LfWbFR1NlQSo8J3E"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "tsiV6bzz185KIBnv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floods",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.tsiV6bzz185KIBnv"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "5x5AjrhxU0FIhAqE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cities",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.5x5AjrhxU0FIhAqE"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "nl8mDryMZMOjiYLR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artifacts",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.nl8mDryMZMOjiYLR"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "DQN6fW4AEOYACBAS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eggs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.DQN6fW4AEOYACBAS"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "5WfVlUrU5B4eFcRO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultist Compound",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.5WfVlUrU5B4eFcRO"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "S3Rgh3PCxeqkP3L3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pyramids",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.S3Rgh3PCxeqkP3L3"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "dJvfHsB5Bgehe4ME",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forests",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.dJvfHsB5Bgehe4ME"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "qntFVLRJASt4UdEv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terraces",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.qntFVLRJASt4UdEv"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "rctM6jyxfD2ubC9e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crags",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.rctM6jyxfD2ubC9e"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "kEI3v3mtAH4I3YsQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valleys",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.kEI3v3mtAH4I3YsQ"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "7KTyLLreJG1rYnrs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Canyons",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.7KTyLLreJG1rYnrs"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "i9BljlD27TuLgh38",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hills",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.i9BljlD27TuLgh38"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "iZhHEoBUti7zkKVn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vents",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.iZhHEoBUti7zkKVn"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "WupObPAIMqZbgo1a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spiders",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.WupObPAIMqZbgo1a"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "9n4RGhXVDAJLAQhy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geodes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.9n4RGhXVDAJLAQhy"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "6ZpvAIze56FMqw9Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ridges",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.6ZpvAIze56FMqw9Z"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "xwWCQweyijJjTxfw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coral Reefs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.xwWCQweyijJjTxfw"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "9zRNCee7wd5o4UJI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dunes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.9zRNCee7wd5o4UJI"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "EeTIFVwxAFZXNusk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Badlands",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.EeTIFVwxAFZXNusk"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "ZJayNEBp8yML6jWg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrubbery",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ZJayNEBp8yML6jWg"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "JHKBYWaSjyN2UceJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Highway Fragments",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.JHKBYWaSjyN2UceJ"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "2l68WuObMPqg65U6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Walls",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.2l68WuObMPqg65U6"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "aRIMCivnWcQaFVgi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ejecta Plains",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.aRIMCivnWcQaFVgi"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "2eaTSPb6JO9pNwJE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sinkholes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.2eaTSPb6JO9pNwJE"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "RXvr1GO8CGUcR8bN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oasis",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.RXvr1GO8CGUcR8bN"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "pGXEBl4vxFXMl8dg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Domes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.pGXEBl4vxFXMl8dg"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "4TljwQgqUS5I034L",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Meadows",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.4TljwQgqUS5I034L"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "zw32r53qrN2FHwAY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lobed Formations",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.zw32r53qrN2FHwAY"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "W9c7irMosc44nVgx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fault Lines",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.W9c7irMosc44nVgx"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "S4hEAxBuzfnVNskP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lava Tubes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.S4hEAxBuzfnVNskP"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "o5bqLFMD9Is5RUOv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arches",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.o5bqLFMD9Is5RUOv"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "_id": "LfP7mwl29w9Bvdvu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dumping Grounds",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.LfP7mwl29w9Bvdvu"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "Gb63FvXPef8KFN9X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cyclones",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.Gb63FvXPef8KFN9X"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "_id": "Cinbrr1NLYLsQ4nC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tornadoes",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.Cinbrr1NLYLsQ4nC"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "_id": "xgHKgAd3pGfuEDWT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insects",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.xgHKgAd3pGfuEDWT"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "Hj3czBZX8tgyB8Dv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space Pirates",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.Hj3czBZX8tgyB8Dv"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "_id": "37M212UiY4yTfSW3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accident Site",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.37M212UiY4yTfSW3"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "_id": "82Kq2PPACQux8I3n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapon-Test Site",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.82Kq2PPACQux8I3n"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "27vjmRk3a3P9rJ8T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tentacle Beasts",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.27vjmRk3a3P9rJ8T"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "_id": "6LVNBoUd0S6osWKA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mineral Pools",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.6LVNBoUd0S6osWKA"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "_id": "QLYQfqDPh0Kvb0jf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labyrinth",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.QLYQfqDPh0Kvb0jf"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "LHtMw17rVIG7SCVk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hexapods",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.LHtMw17rVIG7SCVk"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "_id": "mgwY71R7wiDSkX4H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machinery",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.mgwY71R7wiDSkX4H"
+    },
+    {
+      "range": [
+        73,
+        73
+      ],
+      "_id": "4H68Dwo2T951Yf4g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bogs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.4H68Dwo2T951Yf4g"
+    },
+    {
+      "range": [
+        74,
+        74
+      ],
+      "_id": "AXZFjYOc8Q6nP7D4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gasbag Fliers",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.AXZFjYOc8Q6nP7D4"
+    },
+    {
+      "range": [
+        75,
+        75
+      ],
+      "_id": "u05OYNKbOtW9z5ow",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parasites",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.u05OYNKbOtW9z5ow"
+    },
+    {
+      "range": [
+        76,
+        76
+      ],
+      "_id": "cQRuTvsxNWzashg0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris Field",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.cQRuTvsxNWzashg0"
+    },
+    {
+      "range": [
+        77,
+        77
+      ],
+      "_id": "50aBAS3qxReDRb16",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avalanches",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.50aBAS3qxReDRb16"
+    },
+    {
+      "range": [
+        78,
+        78
+      ],
+      "_id": "ntpjnhtSRv5B1tvj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eruptions",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.ntpjnhtSRv5B1tvj"
+    },
+    {
+      "range": [
+        79,
+        79
+      ],
+      "_id": "g8fyB9GMEIyR2P8p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lowlands",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.g8fyB9GMEIyR2P8p"
+    },
+    {
+      "range": [
+        80,
+        80
+      ],
+      "_id": "Ej3xC8e8ixwJAVj1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prairies",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.Ej3xC8e8ixwJAVj1"
+    },
+    {
+      "range": [
+        81,
+        81
+      ],
+      "_id": "JtlBX6SrorGdfXpv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breeding Grounds",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.JtlBX6SrorGdfXpv"
+    },
+    {
+      "range": [
+        82,
+        82
+      ],
+      "_id": "cDRAUTnw8Fj4wsO3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abysses",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.cDRAUTnw8Fj4wsO3"
+    },
+    {
+      "range": [
+        83,
+        83
+      ],
+      "_id": "mSaa3b2iVcUxkrzF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Air Currents",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.mSaa3b2iVcUxkrzF"
+    },
+    {
+      "range": [
+        84,
+        84
+      ],
+      "_id": "vTUVfEBdUgLrCkaa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gas Pockets",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.vTUVfEBdUgLrCkaa"
+    },
+    {
+      "range": [
+        85,
+        85
+      ],
+      "_id": "JwRc27NKI5chbNvF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tombs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.JwRc27NKI5chbNvF"
+    },
+    {
+      "range": [
+        86,
+        86
+      ],
+      "_id": "A5Go2437VHud7Tls",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reality Ruptures",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.A5Go2437VHud7Tls"
+    },
+    {
+      "range": [
+        87,
+        87
+      ],
+      "_id": "V0fibDMk0qjljKu1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Satellites",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.V0fibDMk0qjljKu1"
+    },
+    {
+      "range": [
+        88,
+        88
+      ],
+      "_id": "7WTP18zsuOzwUDtS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrines",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.7WTP18zsuOzwUDtS"
+    },
+    {
+      "range": [
+        89,
+        89
+      ],
+      "_id": "W2700yO3bis2j5x7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light Wisps",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.W2700yO3bis2j5x7"
+    },
+    {
+      "range": [
+        90,
+        90
+      ],
+      "_id": "du3CJ57lJJ0JV4Ly",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animal Warrens",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.du3CJ57lJJ0JV4Ly"
+    },
+    {
+      "range": [
+        91,
+        91
+      ],
+      "_id": "jRxHQBQ4nMlqbnTl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phantoms",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.jRxHQBQ4nMlqbnTl"
+    },
+    {
+      "range": [
+        92,
+        92
+      ],
+      "_id": "H8MAWPpIezfbdhoa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zombies",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.H8MAWPpIezfbdhoa"
+    },
+    {
+      "range": [
+        93,
+        93
+      ],
+      "_id": "Fcp4hjw33ATxz6lu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vines",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.Fcp4hjw33ATxz6lu"
+    },
+    {
+      "range": [
+        94,
+        94
+      ],
+      "_id": "2qsmgt9OtaF8Q0bX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petroglyphs",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.2qsmgt9OtaF8Q0bX"
+    },
+    {
+      "range": [
+        95,
+        95
+      ],
+      "_id": "EZgOakLOEm6WPJCT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvesters",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.EZgOakLOEm6WPJCT"
+    },
+    {
+      "range": [
+        96,
+        96
+      ],
+      "_id": "EmvJhfa13dPi4K4J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ravines",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.EmvJhfa13dPi4K4J"
+    },
+    {
+      "range": [
+        97,
+        97
+      ],
+      "_id": "HtCbwJb3hI38GeAj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sand Drifts",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.HtCbwJb3hI38GeAj"
+    },
+    {
+      "range": [
+        98,
+        98
+      ],
+      "_id": "9gNPFyo02RcQbXNu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trenches",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.9gNPFyo02RcQbXNu"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "HnLMe3iuyEAqZYt6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whirlpools",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.HnLMe3iuyEAqZYt6"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "wFMtJRI7kh3GEN3W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spores",
+      "name": "",
+      "_key": "!tables.results!tL7jrXCa0Lz2kJW7.wFMtJRI7kh3GEN3W"
+    }
+  ],
+  "folder": "Q42Tlhhx4bhW5lFV",
+  "sort": 1,
+  "_id": "tL7jrXCa0Lz2kJW7",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697690678021,
+    "modifiedTime": 1697848067909,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!tL7jrXCa0Lz2kJW7"
+}

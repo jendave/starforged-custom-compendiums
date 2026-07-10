@@ -1,0 +1,65 @@
+{
+  "folder": "Dg98T4Ne66OtfKgY",
+  "name": "Overview",
+  "_id": "EhBsNNS7sfuoEXWo",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "Vst2BSCrBmzhCB58",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The following resources by lm77 are licensed under the <a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.en_\">CC BY-NC 4.0 DEED</a> for non-commercial use.</p><ul><li><a href=\"https://abalone-cushion-e6c.notion.site/MegaCorp-Hot-Sauce-214602dd86d04a5887f6c28ba879660c\">MegaCorp Hot Sauce</a></li><li><a href=\"https://abalone-cushion-e6c.notion.site/Creature-Tags-Hot-Sauce-eae6966d71524611a17e68a4d425ba9b\">Creature Tags Hot Sauce</a></li><li><a href=\"https://abalone-cushion-e6c.notion.site/Soujourn-Hot-Sauce-Oracle-03997a33bea84fa68fa0c61a919fb875\">Sojourn Hot Sauce</a></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060699440,
+        "modifiedTime": 1758060732619,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!EhBsNNS7sfuoEXWo.Vst2BSCrBmzhCB58"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758060694649,
+    "modifiedTime": 1758060694649,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!EhBsNNS7sfuoEXWo"
+}

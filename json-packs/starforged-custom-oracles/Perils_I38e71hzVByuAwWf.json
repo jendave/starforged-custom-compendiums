@@ -1,0 +1,498 @@
+{
+  "name": "Perils",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "ABX5Oq4tR10W9Mdp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opportunistic raiders",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.ABX5Oq4tR10W9Mdp"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "_id": "CEL3Njf2OIehniu7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maddening whispers",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.CEL3Njf2OIehniu7"
+    },
+    {
+      "range": [
+        13,
+        18
+      ],
+      "_id": "mhNDTP2DWF74SOId",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hungry, corrupting crystals",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.mhNDTP2DWF74SOId"
+    },
+    {
+      "range": [
+        19,
+        23
+      ],
+      "_id": "RynZm1JoS0vwpj7l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stunning lightshow",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.RynZm1JoS0vwpj7l"
+    },
+    {
+      "range": [
+        24,
+        29
+      ],
+      "_id": "Ica2LaVCzxRFuEWu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous mirage illusions",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.Ica2LaVCzxRFuEWu"
+    },
+    {
+      "range": [
+        30,
+        35
+      ],
+      "_id": "YZt8mFwKWVUy2cUq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stealthy power drain",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.YZt8mFwKWVUy2cUq"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "TNxjfnVXIsG4Z73k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival ships arrive",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.TNxjfnVXIsG4Z73k"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "hmxev9uhr3fwk54c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected equipment failure",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.hmxev9uhr3fwk54c"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "xg5oqJF6lGD3M43z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Razor sharp shards",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.xg5oqJF6lGD3M43z"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "0TvcpbOZZKcDFaEJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic resonance",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.0TvcpbOZZKcDFaEJ"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "CANbCcGwtc4AEsXB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hungering presence",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.CANbCcGwtc4AEsXB"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "xVwicLUW67rjKe9w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unsettling visions",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.xVwicLUW67rjKe9w"
+    },
+    {
+      "range": [
+        66,
+        72
+      ],
+      "_id": "kJcsM2cvmrLesaKZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time / dimensional distortions",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.kJcsM2cvmrLesaKZ"
+    },
+    {
+      "range": [
+        73,
+        78
+      ],
+      "_id": "NyZLABLFHskcoGnV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful gravitational pull",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.NyZLABLFHskcoGnV"
+    },
+    {
+      "range": [
+        79,
+        83
+      ],
+      "_id": "qHswi2TRzth4zSmj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden, soaring temperatures",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.qHswi2TRzth4zSmj"
+    },
+    {
+      "range": [
+        84,
+        88
+      ],
+      "_id": "FpjMhwbrZPXSxNg6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravitational Lensing Effect",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.FpjMhwbrZPXSxNg6"
+    },
+    {
+      "range": [
+        89,
+        95
+      ],
+      "_id": "nzoCYlV6Q89rziuo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.nzoCYlV6Q89rziuo"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "sdPSkYW9q57iT9zz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!I38e71hzVByuAwWf.sdPSkYW9q57iT9zz"
+    }
+  ],
+  "folder": "aLzHqMbgB59qvVsq",
+  "sort": 2,
+  "_id": "I38e71hzVByuAwWf",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Strange, colorful moons that change color as the local sun refracts through them. What materials are they made from? Are they artificial? Natural? Cultivated?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690637289,
+    "modifiedTime": 1698872450411,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!I38e71hzVByuAwWf"
+}

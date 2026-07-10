@@ -1,0 +1,134 @@
+{
+  "name": "Cataclysm - It was...",
+  "formula": "1d100",
+  "description": "<p>During an expedition to find new inhabitable worlds in our home galaxy, we brought back something that proved to be our near end.</p><p>The never-ending hunger for new worlds to colonize turned out to be fatal for our home galaxy. After returning from an expedition, an explorer brought something called the World Ender which ended the ancient world.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "3249jB73o1OowB7S",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "an extraterrestrial artifact that turned out to hold a destructive power",
+      "name": "",
+      "_key": "!tables.results!aJTEJ9p7z5HSTGiE.3249jB73o1OowB7S"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "vKQfYjPCbDvMGbZy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a seemingly innocent lifeform that, in reality, predates humans",
+      "name": "",
+      "_key": "!tables.results!aJTEJ9p7z5HSTGiE.vKQfYjPCbDvMGbZy"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "maahANdJVnOqdsss",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a contagious virus or bacteria that causes a deadly disease",
+      "name": "",
+      "_key": "!tables.results!aJTEJ9p7z5HSTGiE.maahANdJVnOqdsss"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "EGVbGTXRXW53X13b",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a beacon that revealed our position to hostile extraterrestrial species",
+      "name": "",
+      "_key": "!tables.results!aJTEJ9p7z5HSTGiE.EGVbGTXRXW53X13b"
+    }
+  ],
+  "_id": "aJTEJ9p7z5HSTGiE",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!aJTEJ9p7z5HSTGiE"
+}

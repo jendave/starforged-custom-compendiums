@@ -1,0 +1,186 @@
+{
+  "folder": "D1u8dTejWa5CGAi7",
+  "name": "Small Population: Enclosed",
+  "_id": "31sqY1xlsyTSvFsN",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 9\"><div class=\"layoutArea\"><div class=\"column\"><div class=\"page\" title=\"Page 9\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For your Planetside Settlement, Roll d20 and pick 1-2 entries from the relevant column in the Oracle. A population of “Few” or “Dozens” is “Small”. The results are suggestions for the </span><span style=\"font-family:'CIDFont+F5'\">primary </span><span style=\"font-family:'CIDFont+F1'\">industries in the Settlement.<br /><br />“Subsistence” means that the Settlement has nothing that even looks like “industry” and is just trying to survive – frequently the situation in very small Settlements.</span></p></div></div></div></div></div></div>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "_id": "TZVHrJxl5lXhqzcv",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food growing",
+      "name": "",
+      "_key": "!tables.results!31sqY1xlsyTSvFsN.TZVHrJxl5lXhqzcv"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "_id": "YJlU8xQkemX3AJGV",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food processing/packing",
+      "name": "",
+      "_key": "!tables.results!31sqY1xlsyTSvFsN.YJlU8xQkemX3AJGV"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_id": "bq3XTFVRyb76aCio",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hand-made goods",
+      "name": "",
+      "_key": "!tables.results!31sqY1xlsyTSvFsN.bq3XTFVRyb76aCio"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "TvWWdGiq7L1tcgsm",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oil &amp; Gas drilling",
+      "name": "",
+      "_key": "!tables.results!31sqY1xlsyTSvFsN.TvWWdGiq7L1tcgsm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "bxEIvaTYewJbkbLE",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ore mining",
+      "name": "",
+      "_key": "!tables.results!31sqY1xlsyTSvFsN.bxEIvaTYewJbkbLE"
+    },
+    {
+      "type": "text",
+      "weight": 10,
+      "range": [
+        11,
+        20
+      ],
+      "drawn": false,
+      "_id": "gd2tzIOWasJ60anv",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsistence",
+      "name": "",
+      "_key": "!tables.results!31sqY1xlsyTSvFsN.gd2tzIOWasJ60anv"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697243752191,
+    "modifiedTime": 1697243956652,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d20",
+  "_key": "!tables!31sqY1xlsyTSvFsN"
+}

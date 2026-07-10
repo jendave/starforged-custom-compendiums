@@ -1,0 +1,134 @@
+{
+  "name": "Storm",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "QtWUXSF1DchUytVp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium rain",
+      "name": "",
+      "_key": "!tables.results!zrJNtzdjSD7j7QsY.QtWUXSF1DchUytVp"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "_id": "0HsDb3oBaGdQlRad",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy rain",
+      "name": "",
+      "_key": "!tables.results!zrJNtzdjSD7j7QsY.0HsDb3oBaGdQlRad"
+    },
+    {
+      "range": [
+        4,
+        7
+      ],
+      "_id": "PYUkhmItJJbovdjl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential",
+      "name": "",
+      "_key": "!tables.results!zrJNtzdjSD7j7QsY.PYUkhmItJJbovdjl"
+    },
+    {
+      "range": [
+        8,
+        10
+      ],
+      "_id": "y2dWVIOtyalbYrc9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Special storm",
+      "name": "",
+      "_key": "!tables.results!zrJNtzdjSD7j7QsY.y2dWVIOtyalbYrc9"
+    }
+  ],
+  "folder": "Q1mplwevCDvVLfd3",
+  "sort": 600000,
+  "_id": "zrJNtzdjSD7j7QsY",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698525012799,
+    "modifiedTime": 1698636042835,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!zrJNtzdjSD7j7QsY"
+}

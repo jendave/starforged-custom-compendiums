@@ -1,0 +1,65 @@
+{
+  "folder": "QzPzJS8zrFqy5Uzg",
+  "name": "Exploration Oracles Arrays - Planets",
+  "_id": "7RhxnrEFzW9H9Ol8",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracle Arrays",
+      "type": "text",
+      "_id": "qd9C1yCmGWVrVaSV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Artificial</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.WYQ8FbxRXh8jumAw]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Ws9WtdRb54ViFUgC]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.OQHKGgezOLIZ8xcF]{Peril}</p><h2>Crystalline</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2I8S7CyQojxMOtB1]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HtLRG2vVd9FldXQF]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UHzI6dhnlDflOERF]{Peril}</p><h2>Desert</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vZHZHEYNKhmCJTIa]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.WuPCEvjWpcwBOPtz]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JvhYu2ZM2kjqnL86]{Peril}</p><h2>Dust Rings</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.GKiGaPyDFsmM8QfT]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UL7xUc44RZCcVwla]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Oz0Tn02XYB0nMtjt]{Peril}</p><h2>Extradimensional</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.MUOpxXjrT6yl3IC3]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.43TA3tdyx2mxp7Dc]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YuX0stHSFape1XBZ]{Peril}</p><h2>Furnace</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.6NfeHgtFqttab5G3]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.0MNu8Vx1ihRMqFQ7]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.18g3svcVWoUnvPRx]{Peril}</p><h2>Grave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KZiSXmL7Mtc8HfcB]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.M735PowFZkFq9V8d]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.OSTqP2kF4k9C5xc2]{Peril}</p><h2>Ice</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.fnm7daxcLaAfLWXK]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.14T07yHjCHQOAxL1]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ju2quTekzU9wsvKP]{Peril}</p><h2>Jovian</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.yxzENBYDkcmWw9GW]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Ws532czghCImzgnR]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.CC5GO0TURJ6ZvfLL]{Peril}</p><h2>Jungle</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.FiaqSkfItlBnrr8M]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vbFfgTZVoIMwctxp]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ERemAQnI5PPm0wVh]{Peril}</p><h2>Living</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.4IerMVbLjDXUe6bO]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.32BXLsk9XGFerFd6]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NF0XHG9FrSX78Wtj]{Peril}</p><h2>Metallic</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.TnfVKqNQ0jwJNMhl]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YjygxaSAGqGLomdx]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.S00xC6qWbzzMh7J1]{Peril}</p><h2>Ocean</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.5VxxtOXOvGBTK6sV]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sXboRgqzDv3eEebe]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Ec7SAUYiuIOJBKye]{Peril}</p><h2>Rocky</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pknmYVr8Xy8cbezb]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.QPKuzBor6R7zhNGw]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.C8ZXD3RHQchwnSaX]{Peril}</p><h2>Rogue</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.arn7f9VLcAHmUJAD]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.FEagSZdq2q9iUWtY]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bCmshWrAJT99NPtB]{Peril}</p><h2>Shattered</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.fUyY8zw4skRgLSMA]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.DZIIwaZvy9nxcGAQ]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.zhmTMOzx4fgwWsgJ]{Peril}</p><h2>Tainted</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.o177eu0l8dddaZOG]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.TkjJTOAenpEpMxp5]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.11LEAidSVCCxg2OE]{Peril}</p><h2>Vital</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KzO1cpirAUZqqj8J]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.WEwPGEnCtJdtOwWh]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bQPflTFp7HfP81IM]{Peril}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758138748237,
+        "modifiedTime": 1758139735250,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7RhxnrEFzW9H9Ol8.qd9C1yCmGWVrVaSV"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758138737612,
+    "modifiedTime": 1758138737612,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!7RhxnrEFzW9H9Ol8"
+}

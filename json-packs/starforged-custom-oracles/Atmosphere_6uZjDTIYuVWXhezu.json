@@ -1,0 +1,134 @@
+{
+  "name": "Atmosphere",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "2Th6jXWngmBOyAR7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None/Thin",
+      "name": "",
+      "_key": "!tables.results!6uZjDTIYuVWXhezu.2Th6jXWngmBOyAR7"
+    },
+    {
+      "range": [
+        21,
+        80
+      ],
+      "_id": "cxKpwHrqKkHZTmKs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic",
+      "name": "",
+      "_key": "!tables.results!6uZjDTIYuVWXhezu.cxKpwHrqKkHZTmKs"
+    },
+    {
+      "range": [
+        81,
+        95
+      ],
+      "_id": "kLHwf0T4ZDQP9ZZv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marginal",
+      "name": "",
+      "_key": "!tables.results!6uZjDTIYuVWXhezu.kLHwf0T4ZDQP9ZZv"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "Pik6XfJTsY0ZOU3d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breathable",
+      "name": "",
+      "_key": "!tables.results!6uZjDTIYuVWXhezu.Pik6XfJTsY0ZOU3d"
+    }
+  ],
+  "folder": "eU4npVOAb4pNqD8R",
+  "sort": 0,
+  "_id": "6uZjDTIYuVWXhezu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of metals and metal alloys.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288269184,
+    "modifiedTime": 1703293846219,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!6uZjDTIYuVWXhezu"
+}

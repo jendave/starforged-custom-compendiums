@@ -1,0 +1,552 @@
+{
+  "name": "Positive Plot Twists Oracle",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "b0bbs9bOMjIXJEJj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A previous failure is revealed to have assisted you.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.b0bbs9bOMjIXJEJj"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "BO14sQGcP0b5lUKz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A hidden location is revealed to you.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.BO14sQGcP0b5lUKz"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "0DFVjoDEdyzKybF0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A helpful item is at hand.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.0DFVjoDEdyzKybF0"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "obawuBli5BuAyokc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Success is closer than it first appeared.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.obawuBli5BuAyokc"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "u84mMfe1Ii332Gyo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your action leaves a powerful and lasting effect on those who witness it.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.u84mMfe1Ii332Gyo"
+    },
+    {
+      "range": [
+        25,
+        30
+      ],
+      "_id": "3wQ4irwZ9lPuIgwf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your next step is made clear in a dramatic fashion.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.3wQ4irwZ9lPuIgwf"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "5nWqUbD1bPV6cXEH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You make a helpful discovery that gives you an advantage.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.5nWqUbD1bPV6cXEH"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Q2Gf3vEODMbYmgQ7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A previous betrayal is revealed to have been a ploy, they are still on your side.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.Q2Gf3vEODMbYmgQ7"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "ICWyQxTCDXCdJ44D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An established danger turns out to be a non-threat.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.ICWyQxTCDXCdJ44D"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "whsJzigtfmo9dyyk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A way to fulfill a previously failed Vow reveals itself.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.whsJzigtfmo9dyyk"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "qMvewmBwSEJxvsKD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An enemy turns against their master.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.qMvewmBwSEJxvsKD"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "oRZzmJ54VvdJ03Ig",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A previous foe returns at a critical moment to assist you.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.oRZzmJ54VvdJ03Ig"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "lTns7PHyVKv86uWG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An established character returns with information related  to your background vow.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.lTns7PHyVKv86uWG"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "4oN7MRsDiZmX4NUU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your action puts an adversary's plans in jeopardy.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.4oN7MRsDiZmX4NUU"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "FyZfTN6ZTlLSTJ3X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A mysterious character arrives to assist you.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.FyZfTN6ZTlLSTJ3X"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "KjB1PfxIcRIrMgbK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The truth behind a lie is revealed to you.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.KjB1PfxIcRIrMgbK"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "VRLpkHgsOrr0XikD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected sanctuary is at hand.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.VRLpkHgsOrr0XikD"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "GWd1aFUQNXrqspFJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A vision reveals a surprising development.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.GWd1aFUQNXrqspFJ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "HYiZKUl9L4YB9q6Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Those who previously lost faith in you give you a second chance.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.HYiZKUl9L4YB9q6Z"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "CviMJoji1prtyXZX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An ally previously thought lost returns.",
+      "name": "",
+      "_key": "!tables.results!AkOMJ7cxYMLljcIB.CviMJoji1prtyXZX"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>By <span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif\">dukethesquirrelking</span></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "0abq5yvcsgqetOPq",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697526398192,
+    "modifiedTime": 1697526527069,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "AkOMJ7cxYMLljcIB",
+  "sort": 100000,
+  "_key": "!tables!AkOMJ7cxYMLljcIB"
+}

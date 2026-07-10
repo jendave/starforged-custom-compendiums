@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "_id": "eec452a2b44b2ee6",
+  "folder": "a7279f7392f32ff4",
+  "name": "Grappling Hooks",
+  "system": {
+    "requirement": "",
+    "category": "Ship Upgrade",
+    "color": "#7f5a90",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Your grappler can on to nearby ships. When you take a minute or so to ready the grappler, roll +integrity or +wits. On a strong hit, the grappler can be thrown or fired. On a weak hit, preparations require extra time or focus; @Compendium[foundry-ironsworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-1). On a miss, ropse tangle and you must @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage} (-1). If you make a move to attack a foe or overcome an obstacle by firing the grappler, take an automatic strong hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>If you score a strong hit when readying the grappling hooks, you may @Compendium[foundry-ironsworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources} (-1) to prepare extra hooks. When you fire with extra hooks, take +2 momentum; if in a fight, also mark progress.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.3129f4caa4754caf]{Take Decisive Action} by firing the grappler, you may reroll one challenge die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/grapple.svg",
+  "effects": [],
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Module/Grappler",
+      "dsid": "asset:starforged/module/grappler",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758314041948,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!eec452a2b44b2ee6"
+}

@@ -1,0 +1,94 @@
+{
+  "type": "sfmove",
+  "name": "Learn From Your Failures",
+  "img": "icons/dice/d10black.svg",
+  "folder": "bRd2odcAtA0i0dhN",
+  "system": {
+    "dfid": "Ironsworn/Moves/Failure/Learn_From_Your_Failures",
+    "Category": "Ironsworn/Moves/Failure",
+    "Progress Move": true,
+    "Variant of": "",
+    "Text": "When __you spend time reflecting on your hardships and missteps__, and your failure track is +6 or greater, roll your challenge dice and compare to your progress.\n\nOn a __strong hit__, you commit to making a dramatic change. Mark one box on your quests legacy track, clear all progress on the failure track, and choose one.\n\n  * Change course: Discard a single asset, take 2 experience for each marked ability, and @Compendium[foundry-ironsworn.starforgedmoves.Item.d602da2ce0c05f2c]{Advance} to spend this experience on new assets or upgrades. Unused experience is discarded.\n  * Make it right: @Compendium[foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} and reroll any dice.\n  * Ready your next steps: Take +3 momentum.\n\nOn a __weak hit__, you learn from your mistakes. Mark two ticks on your quests legacy track and clear all progress on the failure track.\n\nOn a __miss__, you’ve learned the wrong lessons. Mark 1 tick on your quests legacy track and clear all progress on the failure track. Then, envision how you set off on an ill-fated path.",
+    "Trigger": {
+      "Text": "When you spend time reflecting on your hardships and missteps...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Progress roll",
+          "Method": "Any",
+          "Using": [
+            "Failure Track"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you commit to making a dramatic change. Mark one box on your quests legacy track, clear all progress on the failure track, and choose one.\n\n  * Change course: Discard a single asset, take 2 experience for each marked ability, and @Compendium[foundry-ironsworn.starforgedmoves.Item.d602da2ce0c05f2c]{Advance} to spend this experience on new assets or upgrades. Unused experience is discarded.\n  * Make it right: @Compendium[foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} and reroll any dice.\n  * Ready your next steps: Take +3 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you learn from your mistakes. Mark two ticks on your quests legacy track and clear all progress on the failure track.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you’ve learned the wrong lessons. Mark 1 tick on your quests legacy track and clear all progress on the failure track. Then, envision how you set off on an ill-fated path.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Delve",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2020-02-13",
+      "Page": 59
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Failure/Learn_From_Your_Failures",
+      "dsid": "move:delve/failure/learn_from_your_failures"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.2",
+    "createdTime": 1746603846625,
+    "modifiedTime": 1758058923118,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "CAWu372GIolJC9Iw",
+  "sort": 100000,
+  "_key": "!items!CAWu372GIolJC9Iw"
+}

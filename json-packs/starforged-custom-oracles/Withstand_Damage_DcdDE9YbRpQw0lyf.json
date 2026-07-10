@@ -1,0 +1,244 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Moves/Withstand_Damage",
+      "category": "Starforged/Moves/Suffer",
+      "dsid": "move.oracle_rollable:starforged/suffer/withstand_damage.withstand_damage"
+    }
+  },
+  "name": "Withstand Damage",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "e8526fa6704ed736",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immediate catastrophic destruction. All aboard must @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}, as appropriate.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.e8526fa6704ed736"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "a9bab5ba2abd3a6a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destruction is imminent and unavoidable. If you do not have the means or intention to get clear, @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death} as appropriate.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.a9bab5ba2abd3a6a"
+    },
+    {
+      "range": [
+        26,
+        40
+      ],
+      "_id": "12da9f4fae5f9683",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destruction is imminent, but can be averted if you @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} your vehicle and raise its integrity above 0. If you fail, see 11-25.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.12da9f4fae5f9683"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "c6cc0bfdf2a25eed",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You cannot @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} this vehicle until you @Compendium[foundry-ironsworn.starforgedmoves.703964b8d02355b8]{Resupply} and obtain a crucial replacement part. If you roll this result again prior to that, see 11-25.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.c6cc0bfdf2a25eed"
+    },
+    {
+      "range": [
+        56,
+        70
+      ],
+      "_id": "dd88789b0d63b319",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The vehicle is crippled or out of your control. To get it back in action, you must @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} and raise its integrity above 0.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.dd88789b0d63b319"
+    },
+    {
+      "range": [
+        71,
+        85
+      ],
+      "_id": "2725e69987489d9a",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It's a rough ride. All aboard must make the @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm}, @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, or @Compendium[foundry-ironsworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move, suffering a serious (-2) cost.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.2725e69987489d9a"
+    },
+    {
+      "range": [
+        86,
+        95
+      ],
+      "_id": "fc4557056f1adaa8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You’ve lost fuel, energy, or cargo. @Compendium[foundry-ironsworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources} (-2).",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.fc4557056f1adaa8"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "e9d0b297299653d3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Against all odds, the vehicle holds together.",
+      "name": "",
+      "_key": "!tables.results!DcdDE9YbRpQw0lyf.e9d0b297299653d3"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758483736970,
+    "modifiedTime": 1758484142562,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "DcdDE9YbRpQw0lyf",
+  "sort": 100000,
+  "_key": "!tables!DcdDE9YbRpQw0lyf"
+}

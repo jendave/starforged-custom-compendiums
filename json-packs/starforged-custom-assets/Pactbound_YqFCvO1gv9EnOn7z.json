@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Pactbound",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [
+      {
+        "name": "Entity",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection} by sealing a pact with an otherworldly entity (extreme or epic), take an automatic weak hit and spend 1 experience to gain this asset. The entity has no physical presence, but you may use the connection bonus when you make a move that serves its will and channels its powers. If the connection is lost, discard this asset.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.0cfcd6fbaf6135d0]{Face Death} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff17e67a59539df4]{Face Desolation}, envision an encounter with the entity in its otherworldly domain and reroll any dice. On a strong hit, take +2 momentum and set your health and spirit to their max value.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.8704c945023355fb]{Test Your Relationship} after resisting or betraying the entity, choose one.\n<ul>\n<li>Recommit to its purpose: reroll any dice.\n<li>Hide your intentions: roll +shadow (instead of heart); on a strong hit, mark two ticks on your quests legacy track.\n</li>\n</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/suspicious.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Lore_Hunter",
+      "dsid": "asset:starforged/path/lore_hunter",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1773719884976,
+    "modifiedTime": 1779424972961,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "YqFCvO1gv9EnOn7z",
+  "sort": 200000,
+  "_key": "!items!YqFCvO1gv9EnOn7z"
+}

@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Hound",
+  "system": {
+    "requirement": "<p>Your hound is your steadfast companion.</p>",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>Sharp: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.13b2d777c6fb719d]{Gather Information} using your hound’s keen senses to track your quarry or investigate a scene, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Ferocious: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash} alongside your hound and score a hit, mark progress or take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Loyal: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff32c523829d6481]{Endure Stress} in the company of your hound, add +1. On a strong hit with a match, also mark 1 tick on your bonds track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/sniffing-dog.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Companion/Hound",
+      "dsid": "asset:classic/companion/hound",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906525399,
+    "modifiedTime": 1759653139114,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "Tcr0Or2A5byE89Ce",
+  "sort": 1200000,
+  "_key": "!items!Tcr0Or2A5byE89Ce"
+}

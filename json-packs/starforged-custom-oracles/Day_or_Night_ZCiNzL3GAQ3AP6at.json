@@ -1,0 +1,82 @@
+{
+  "name": "Day or Night",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        50
+      ],
+      "_id": "8cPA1xyBqKVTGVap",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Day",
+      "name": "",
+      "_key": "!tables.results!ZCiNzL3GAQ3AP6at.8cPA1xyBqKVTGVap"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "2U28KxGiqb8V40tN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Night",
+      "name": "",
+      "_key": "!tables.results!ZCiNzL3GAQ3AP6at.2U28KxGiqb8V40tN"
+    }
+  ],
+  "folder": "s6ePZrRlXQyGLeWh",
+  "sort": 3,
+  "_id": "ZCiNzL3GAQ3AP6at",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>I’ve set this to 50/50, but think about your planet and how many hours it has in a day.</p><p>Your residents might have determined a day = 24 hours regardless of how many times the sun rises or sets in that timeframe.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829747525,
+    "modifiedTime": 1698831623104,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ZCiNzL3GAQ3AP6at"
+}

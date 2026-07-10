@@ -1,0 +1,290 @@
+{
+  "name": "Condition Terminus",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "jcAOHrpjVsenLyn9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.jcAOHrpjVsenLyn9"
+    },
+    {
+      "range": [
+        6,
+        16
+      ],
+      "_id": "MHUdBIRzRXYZ4xt5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barely developed (is this a newly developed district? or maybe it's an aesthetic choice)",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.MHUdBIRzRXYZ4xt5"
+    },
+    {
+      "range": [
+        17,
+        29
+      ],
+      "_id": "YJnD1eVpeB2J5FfB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbled-together",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.YJnD1eVpeB2J5FfB"
+    },
+    {
+      "range": [
+        70,
+        83
+      ],
+      "_id": "7GbKUd1kWk6VWjsh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crowded (it doesn't have to be crowded with people, maybe it's crowded with boxes or cybernetic parts)",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.7GbKUd1kWk6VWjsh"
+    },
+    {
+      "range": [
+        55,
+        69
+      ],
+      "_id": "V78dummXsdvXFSgE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous/Troubled",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.V78dummXsdvXFSgE"
+    },
+    {
+      "range": [
+        30,
+        41
+      ],
+      "_id": "7NFyc6EJjnt1ytBw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Functional",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.7NFyc6EJjnt1ytBw"
+    },
+    {
+      "range": [
+        84,
+        96
+      ],
+      "_id": "brpbCywxfu04fapo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overgrown (a city built on a jungle planet, or a sector overtaken by snaking machinery or maybe  someone went overboard with the indoor plants)",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.brpbCywxfu04fapo"
+    },
+    {
+      "range": [
+        42,
+        54
+      ],
+      "_id": "l3off3GQoZzU5K4e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thriving",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.l3off3GQoZzU5K4e"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "HlM09RzUXWEQAUXe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Location_Themes\"><i class=\"fa fa-caret-right\"></i> Location Themes</a>",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.HlM09RzUXWEQAUXe"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "nySTpn5dt3LqWh5f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!5qPQmGjL5TnV0VV9.nySTpn5dt3LqWh5f"
+    }
+  ],
+  "folder": "kzf9nNLoTYGos8P8",
+  "sort": 200000,
+  "_id": "5qPQmGjL5TnV0VV9",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The conditions on this table are used to add flavour to the district that you’ve rolled. A crowded market street is going to be very different from an abandoned one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829691580,
+    "modifiedTime": 1698831123021,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!5qPQmGjL5TnV0VV9"
+}

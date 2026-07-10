@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "Undead",
+  "system": {
+    "requirement": "<p>Once you die or are cursed with undeath…</p>",
+    "category": "Deed",
+    "color": "#40834f",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>This is not your end. Envision your undead form and nature. This asset counts as a permanent impact, but you are now resistant to mortal harm. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.905205c073b09eac]{Endure Harm}, you may first @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1, -2, or -3) to offset an equal amount of harm. If potential harm remains, and you choose to resist the harm, roll +spirit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move using your undead aspect to intimidate, scare, or confound, reroll any dice; on a hit, take +2 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may move at will between the mortal world and the realm of the dead, can take others with you, and may navigate those paths to bypass or hasten a mortal journey. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3ff03b51f620ab26]{Undertake an Expedition} within the realms of the dead, roll +spirit. On a strong hit, mark progress.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/raise-zombie.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/deed/undead",
+      "dsid": "asset:sundered_isles/deed/undead",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906595534,
+    "modifiedTime": 1759907271118,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "KLsDPA3Ys37UsMZu",
+  "sort": 0,
+  "_key": "!items!KLsDPA3Ys37UsMZu"
+}

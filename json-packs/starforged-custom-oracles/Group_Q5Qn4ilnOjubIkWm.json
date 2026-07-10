@@ -1,0 +1,812 @@
+{
+  "name": "Group",
+  "formula": "1d30",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "m6OZjJf47wqc6MnH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a charity",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.m6OZjJf47wqc6MnH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "qYK7CkW4j0QfUKNt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "my allies",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.qYK7CkW4j0QfUKNt"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "JjiHyg94K0zuJKXk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "my enemies",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.JjiHyg94K0zuJKXk"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "aTJc3qA2sOJf337D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "my family",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.aTJc3qA2sOJf337D"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "1ywihrvUcJAk0tYH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "my friends",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.1ywihrvUcJAk0tYH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "eckK2bBxH1waylof",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "my rival",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.eckK2bBxH1waylof"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "wiAeum09Ii3CpOJJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "rebel allies",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.wiAeum09Ii3CpOJJ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "y740tNKdEAgkseq9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "some academics",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.y740tNKdEAgkseq9"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Q2ONIze38xCwpn2E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "some criminals",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.Q2ONIze38xCwpn2E"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "y9fnqMywyoWTafai",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "some scientists",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.y9fnqMywyoWTafai"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "PnBSmGpkYHX64oX7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the alliance",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.PnBSmGpkYHX64oX7"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "MOi93CHoQqbgjse9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the church",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.MOi93CHoQqbgjse9"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "WEd6HoTsJIeH0Ttg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the elite",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.WEd6HoTsJIeH0Ttg"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "Pb9lTBdnG53YtcMd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the forsaken",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.Pb9lTBdnG53YtcMd"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "bZB3F7gkUmcLC2w4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the government",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.bZB3F7gkUmcLC2w4"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "w4KklfNMEdFR5Chu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the law",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.w4KklfNMEdFR5Chu"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "v6ZmREyWIFcabHnj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the military",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.v6ZmREyWIFcabHnj"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "FZB8DRnyso4kuQVb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the new order",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.FZB8DRnyso4kuQVb"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "8bFdDed4WNQdWxLp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the new religions",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.8bFdDed4WNQdWxLp"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "bESopuU7E8OB13o1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the old religions",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.bESopuU7E8OB13o1"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "idu8q2aMWz2SPAnK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the oppressed",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.idu8q2aMWz2SPAnK"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "7tSDTCMNFRpbaLSL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the poor",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.7tSDTCMNFRpbaLSL"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "Zzmgh8vR4Hper2Fn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the public",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.Zzmgh8vR4Hper2Fn"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "RqXyQiVTFBa2g1Ox",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the racists",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.RqXyQiVTFBa2g1Ox"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "woSA6E2yglvzPgn1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the rebels",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.woSA6E2yglvzPgn1"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "ZSqFgBMNTc320UIP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the secret society",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.ZSqFgBMNTc320UIP"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "OaoYg9FQdHf8Kb1p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the slavers",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.OaoYg9FQdHf8Kb1p"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "yLUBThTP6kGOBtKA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the technologists",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.yLUBThTP6kGOBtKA"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "cxt4uPtYjtYJJws7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the wealthy",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.cxt4uPtYjtYJJws7"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "kO6RtPwe87vhnpdF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "the world",
+      "name": "",
+      "_key": "!tables.results!Q5Qn4ilnOjubIkWm.kO6RtPwe87vhnpdF"
+    }
+  ],
+  "_id": "Q5Qn4ilnOjubIkWm",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Simply roll up an NPC, then 1d6 on \"Driver\", 1d100 on \"Verb\" and 1d30 on \"Group\"</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "8gons4PDmkW83NI2",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696144724592,
+    "modifiedTime": 1696145275183,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.Q5Qn4ilnOjubIkWm",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Q5Qn4ilnOjubIkWm"
+}

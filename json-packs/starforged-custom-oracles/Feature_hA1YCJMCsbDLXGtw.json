@@ -1,0 +1,420 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "O1Hq2NIfp1BZyWvq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrically charged crystal fragments",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.O1Hq2NIfp1BZyWvq"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "TlwTl2yYfNxTt5iI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fine crystal dust",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.TlwTl2yYfNxTt5iI"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "YwWTsZcil2E8gV34",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multicoloured crystal layers",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.YwWTsZcil2E8gV34"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "BHHeWMM3OhMPi1mF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Objects captured in crystal",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.BHHeWMM3OhMPi1mF"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "SfTDElZ91VBHqyfD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Piles of precious gems",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.SfTDElZ91VBHqyfD"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "DslIAivWHiuBHtIS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plains covered in sharp crystals",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.DslIAivWHiuBHtIS"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "NKT6FHbsSp3WuxBe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polycrystalline boulders",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.NKT6FHbsSp3WuxBe"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "WGqJbz5nhp803PCv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repeating geometric patterns",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.WGqJbz5nhp803PCv"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "My6qwBXmBjmWPzGf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slippery smooth surfaces",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.My6qwBXmBjmWPzGf"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "sSQimFVhWSMq0dMB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starlight focused into natural lasers",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.sSQimFVhWSMq0dMB"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "zEmIZVV1aSqn5prV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symmetrical landscape",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.zEmIZVV1aSqn5prV"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "zTq48gCBLvQLGEMI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering prisms of coloured crystal",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.zTq48gCBLvQLGEMI"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "WetnC3EVugOD8hc3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transparent mountains",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.WetnC3EVugOD8hc3"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "EmWdQKwebxIHdD31",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.EmWdQKwebxIHdD31"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Yr3xbuT2dZaXZBTB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (planetside)",
+      "name": "",
+      "_key": "!tables.results!hA1YCJMCsbDLXGtw.Yr3xbuT2dZaXZBTB"
+    }
+  ],
+  "folder": "ATKdefOqKWIwmRbd",
+  "sort": 2,
+  "_id": "hA1YCJMCsbDLXGtw",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of crystalline matter, shining brightly in the starlight.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703287706691,
+    "modifiedTime": 1703293569885,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!hA1YCJMCsbDLXGtw"
+}

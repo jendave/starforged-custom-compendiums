@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Dolphin",
+  "system": {
+    "requirement": "<p>Your helpful dolphin is often absent.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Errant: When you call the dolphin, roll +heart. On a hit, it appears and will remain in the area for an hour or two. You may (one time only) reroll any dice on a move to overcome an obstacle or hazard with its help. On a strong hit, also take +2 momentum. On a miss, it fails to respond; @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Warding: When you make a move to detect or evade a threat while accompanied by your dolphin, roll +its health and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Guiding: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3ff03b51f620ab26]{Undertake an Expedition} and score a miss with a match, you may envision the dolphin appearing unbidden to guide you out of trouble. If you do, reroll both challenge dice.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/dolphin.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/dolphin",
+      "dsid": "asset:sundered_isles/companion/dolphin",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906517920,
+    "modifiedTime": 1759636256868,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "a3KhAwQFs7AF5g3k",
+  "sort": 1600000,
+  "_key": "!items!a3KhAwQFs7AF5g3k"
+}

@@ -1,0 +1,371 @@
+{
+  "name": "New Starship Affiliation",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "fFpyZpQx2d0Dt5tK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imperial",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.fFpyZpQx2d0Dt5tK"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "tY4VqDQZ53CSfogj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebel Alliance",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.tY4VqDQZ53CSfogj"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "PPaQjYtGqmgszkkJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Syndicate (Hutts, Black Sun, a guild of some kind, etc.)",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.PPaQjYtGqmgszkkJ"
+    },
+    {
+      "range": [
+        36,
+        50
+      ],
+      "_id": "hWmHLv4D5M2iRDGo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smuggler",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.hWmHLv4D5M2iRDGo"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "L3lQPf9O4MHVMWVC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A planet's own planetary defense force",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.L3lQPf9O4MHVMWVC"
+    },
+    {
+      "range": [
+        56,
+        65
+      ],
+      "_id": "xTWWsNobTh3q0ebA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Belongs to a corporation",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.xTWWsNobTh3q0ebA"
+    },
+    {
+      "range": [
+        66,
+        88
+      ],
+      "_id": "fffl4qtHBlWWazDC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Civilians just traveling (not applicable if Corvette or larger, roll again)",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.fffl4qtHBlWWazDC"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "o59mNMjzqIMZT8qv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.o59mNMjzqIMZT8qv"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "48KtI4LeIE4PaUuV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chiss",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.48KtI4LeIE4PaUuV"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "IEP96dSlbnpzIQvz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yuuzhan Vong",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.IEP96dSlbnpzIQvz"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "VyaKENF23QtHCYnx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jedi",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.VyaKENF23QtHCYnx"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "NDkehUSMMVGWp0Bl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sith",
+      "name": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.NDkehUSMMVGWp0Bl"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "iQagys3tzd5b8BIi",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "New Race Type",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LMqK3qs3lWDmKfxW",
+      "description": "",
+      "_key": "!tables.results!eMvM6oMRFoK4qRZu.iQagys3tzd5b8BIi"
+    }
+  ],
+  "_id": "eMvM6oMRFoK4qRZu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Need a starship? Roll on a table. It will tell you if it is typically affiliated with Empire, Rebel, Smuggler, Hutt, Bounty Hunter, Syndicate, Civilian, or Any characters. These are called <em>tags</em>. The tags are listed from left to right, in order of the likelihood that the ship is affiliated with any of them. (<em>Example: a listing that has the tags Rebel / Empire / Smuggler, is most likely to be Rebel, but can sometimes be affiliated with Smuggler, though that’s less likely since it is farthest to the right.</em>)</p><p></p><p>You may also roll on either the “Large-Scale Ship Table” or the “Small-Scale Ship Table” to simply see what sort of group a new main character is affiliated with. (<em>Example: if you roll up ARC-170 Starfighter / Empire / Rebel, you can ignore the starfighter part of the entry, and determine that the new NPC you just met could either be Imperial or Rebel, but is more likely with the Empire, since that tag is listed first. But it could be neutral, because of course there is always the chance it was simply stolen.</em>) If you just <em>need</em> to know how big a dreadnought is, or the difference in size between, say, a frigate and a cruiser, the “New Starship Type” has all that quick-reference information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "CcVD0BrXB5cCacTG",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545923155,
+    "modifiedTime": 1707593546219,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": "RollTable.eMvM6oMRFoK4qRZu",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!eMvM6oMRFoK4qRZu"
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Titanic (hill-sized)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "tINTHJbvOrq6nXIC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Formidable",
+      "name": "",
+      "_key": "!tables.results!dBJnzg3oNOLGixbD.tINTHJbvOrq6nXIC"
+    },
+    {
+      "range": [
+        16,
+        75
+      ],
+      "_id": "1fgMqAtzuOGPcgaI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extreme",
+      "name": "",
+      "_key": "!tables.results!dBJnzg3oNOLGixbD.1fgMqAtzuOGPcgaI"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "iuzcHkSxW9oS1iTD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Epic",
+      "name": "",
+      "_key": "!tables.results!dBJnzg3oNOLGixbD.iuzcHkSxW9oS1iTD"
+    }
+  ],
+  "folder": "li693Hh4zpz1YQov",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to generate a rank for the creature based on its scale. Feel free to adjust the rank as desired.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.350",
+    "createdTime": 1714155602809,
+    "modifiedTime": 1714176905640,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dBJnzg3oNOLGixbD",
+  "sort": 0,
+  "_key": "!tables!dBJnzg3oNOLGixbD"
+}

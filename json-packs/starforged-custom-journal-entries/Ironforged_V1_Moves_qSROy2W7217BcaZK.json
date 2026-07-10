@@ -1,0 +1,65 @@
+{
+  "folder": "TfUTRsVyBhdfmCrQ",
+  "name": "Ironforged V1 Moves",
+  "_id": "qSROy2W7217BcaZK",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Moves",
+      "type": "text",
+      "_id": "JkThFvLG2LKPLyPe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Adventure Moves</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.LzbHBsqjqOWtSmnX]{Make Camp}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757984638815,
+        "modifiedTime": 1757998233955,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!qSROy2W7217BcaZK.JkThFvLG2LKPLyPe"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757984624805,
+    "modifiedTime": 1757984635064,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!qSROy2W7217BcaZK"
+}

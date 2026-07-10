@@ -1,0 +1,550 @@
+{
+  "name": "Features (1-2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "NhCaRr8JRxNmljJ8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial canyons",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.NhCaRr8JRxNmljJ8"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "iMeU60jHobffIDgv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shining shields",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.iMeU60jHobffIDgv"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "bsudJBnyTEZ5LvWu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Docking / repair bays",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.bsudJBnyTEZ5LvWu"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "UKbZjzdpOl2sgrp8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Programmable matter",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.UKbZjzdpOl2sgrp8"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "Iy22rAXsUIFGvLDn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ominous spires",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.Iy22rAXsUIFGvLDn"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "WHZmRLMLPQ74AivD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security drones",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.WHZmRLMLPQ74AivD"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "jOmFiBXIYJ0wtlok",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive living areas",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.jOmFiBXIYJ0wtlok"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "cIuwKDTtS7Y3xMIX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of battle",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.cIuwKDTtS7Y3xMIX"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "3vDDmW9tc2ylX2K4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragmenting structure",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.3vDDmW9tc2ylX2K4"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "k041CoZ5ekUTHy8X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overgrown / Corrupted",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.k041CoZ5ekUTHy8X"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "qCrzDT72hT15ARS9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rusty ruins",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.qCrzDT72hT15ARS9"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "7eFHuWtptpOt3VIp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command center",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.7eFHuWtptpOt3VIp"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "Fi8R4nX7PxsfEOIV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glass domes",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.Fi8R4nX7PxsfEOIV"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "EDcgZPJhg4vQtYhS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transmission towers",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.EDcgZPJhg4vQtYhS"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "UPYx1PggLWV41XPq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter escort",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.UPYx1PggLWV41XPq"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "Ry8R8wTrjLhmlBVo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated mines",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.Ry8R8wTrjLhmlBVo"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "j0vlwMFrfDdOTnkw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-maintaining",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.j0vlwMFrfDdOTnkw"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "gJHBG5KaIhGScw75",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built for giants or wee folk",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.gJHBG5KaIhGScw75"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "WPx519O1FehLuEeA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troubling transmissions",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.WPx519O1FehLuEeA"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "sti9jYo0L6TuSPxD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!bjTD1YHmQeQyJ8lh.sti9jYo0L6TuSPxD"
+    }
+  ],
+  "folder": "Vz3iEVN73HiiGJfK",
+  "sort": 3,
+  "_id": "bjTD1YHmQeQyJ8lh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These satellites are huge, moon-sized space stations. Who built this moon and why? How old is it?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690501069,
+    "modifiedTime": 1698872372219,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!bjTD1YHmQeQyJ8lh"
+}

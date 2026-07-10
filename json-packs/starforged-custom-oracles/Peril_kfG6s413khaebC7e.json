@@ -1,0 +1,186 @@
+{
+  "name": "Peril",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "WyBze3J54opvEwF1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.3e2b6f482533ee52]{Access} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.dca107d423be386a]{Community} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.a356d5b6ee30dc2a]{Engineering} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.aaaa354071686ca8]{Living} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.c2bb6dd4858a95e6]{Medical} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.bc9629fcef972cbe]{Operations} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.dc5d9617bec6283a]{Production} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.b643fbd885826f05]{Research}",
+      "name": "",
+      "_key": "!tables.results!kfG6s413khaebC7e.WyBze3J54opvEwF1"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "y0CFXkf6bJ9DFqET",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.3e2b6f482533ee52]{Access} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.dca107d423be386a]{Community} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.a356d5b6ee30dc2a]{Engineering} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.aaaa354071686ca8]{Living} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.c2bb6dd4858a95e6]{Medical} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.bc9629fcef972cbe]{Operations} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.dc5d9617bec6283a]{Production} @UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.b643fbd885826f05]{Research}",
+      "name": "",
+      "_key": "!tables.results!kfG6s413khaebC7e.y0CFXkf6bJ9DFqET"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "nZqHEARfx6556gY0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.faf11f1da483dd37]{Ruined Theme Peril}",
+      "name": "",
+      "_key": "!tables.results!kfG6s413khaebC7e.nZqHEARfx6556gY0"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "07D9dhMozMzEipXT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.95e3b5f38b793f5b]{Haunted Theme Peril} or other Theme Peril",
+      "name": "",
+      "_key": "!tables.results!kfG6s413khaebC7e.07D9dhMozMzEipXT"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "tg83SdUMjpNKZb3w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!kfG6s413khaebC7e.tg83SdUMjpNKZb3w"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WQDEkp8AIDIWxKn5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Story Complication @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK]{ 3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!kfG6s413khaebC7e.WQDEkp8AIDIWxKn5"
+    }
+  ],
+  "folder": "Vn8g2zG1iaRU2M8d",
+  "sort": 1,
+  "_id": "kfG6s413khaebC7e",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703902147496,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!kfG6s413khaebC7e"
+}

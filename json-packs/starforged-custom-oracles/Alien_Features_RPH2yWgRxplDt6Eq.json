@@ -1,0 +1,550 @@
+{
+  "name": "Alien Features",
+  "formula": "1d100",
+  "description": "<p>roll twice or thrice</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "a3JMO4BtoMX3t9jw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distorted humanoid figure",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.a3JMO4BtoMX3t9jw"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "OEz7nPwzPyPCj5cG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Limbless",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.OEz7nPwzPyPCj5cG"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "pknRukoYVw56FbVo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slimy skin",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.pknRukoYVw56FbVo"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "CwJAJyoWQg8CyGmg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asymmetrical horns",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.CwJAJyoWQg8CyGmg"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "SXSOofCXTBivSuHa",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pus-filled sacs",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.SXSOofCXTBivSuHa"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "g7r9XPMCndw6BBV6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Many mouths",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.g7r9XPMCndw6BBV6"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "Ci0wcEuMOJ5EGmmD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulging eyes",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.Ci0wcEuMOJ5EGmmD"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "ZNnce4rB8vhMeIQ0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rotting flesh",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.ZNnce4rB8vhMeIQ0"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "bbkwK1tHF9R7RCsG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fanged tentacles",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.bbkwK1tHF9R7RCsG"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "jP6XyuBfmm3edDIx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neckless maw",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.jP6XyuBfmm3edDIx"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "tyyUE6waQDly6J78",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decaying scales",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.tyyUE6waQDly6J78"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "Mfl7s4Uk5yAeBN88",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic stinger",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.Mfl7s4Uk5yAeBN88"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "jNd76Wx5ZLW7wPIl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Purulent liquid dripping from mouth or maw",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.jNd76Wx5ZLW7wPIl"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "x21LkmyKFMn7PEpx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed skull",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.x21LkmyKFMn7PEpx"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "dkOC1LWiPFFWJG9M",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Translucid wings",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.dkOC1LWiPFFWJG9M"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "6dr4OMNGtwElXGuy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple range of sharp teeth",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.6dr4OMNGtwElXGuy"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "GmAzkShyeukdCzaQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple pairs of legs",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.GmAzkShyeukdCzaQ"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "Zil7Fgfm7jQGJrwt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungus on whole body",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.Zil7Fgfm7jQGJrwt"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "61qWbSHWwLNKMcyz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Molten shell",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.61qWbSHWwLNKMcyz"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "5Qu4dZewxuURkE2u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sticky tongue",
+      "name": "",
+      "_key": "!tables.results!RPH2yWgRxplDt6Eq.5Qu4dZewxuURkE2u"
+    }
+  ],
+  "_id": "RPH2yWgRxplDt6Eq",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 253125,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!RPH2yWgRxplDt6Eq"
+}

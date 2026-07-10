@@ -1,0 +1,533 @@
+{
+  "folder": "ZAHuN8i8Pz5HW2nj",
+  "name": "Ironsworn 1.5-ish E Moves",
+  "_id": "mFVF030jOLp7IvwG",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Adventure Moves",
+      "type": "text",
+      "_id": "OeAtUTiGBFLP4Vvb",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.f4dec946415d8e57]{Aid Your Ally}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.8d9830fb825057b0]{Check Your Gear}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.9f538fabf8998c5b]{Compel}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.e6ed148eff82c171]{Face Danger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.13b2d777c6fb719d]{Gather Information}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.VIHnILz9rKlGyRZ1]{Make Camp}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054934759,
+        "modifiedTime": 1758055060827,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.OeAtUTiGBFLP4Vvb"
+    },
+    {
+      "sort": 200000,
+      "name": "Combat Moves",
+      "type": "text",
+      "_id": "FWy8rROSIp5bfHwk",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.a903d120af3b1475]{Battle}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.2f2ba4090b22a122]{Enter the Fray}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.23ebe48d2b1a1d58]{Face Defeat}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.3f5a834fa3fea5d1]{Gain Ground}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.d9208f9b7d827aec]{React Under Fire}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.3129f4caa4754caf]{Take Decisive Action}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054941979,
+        "modifiedTime": 1758055082032,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.FWy8rROSIp5bfHwk"
+    },
+    {
+      "sort": 300000,
+      "name": "Connection Moves",
+      "type": "text",
+      "_id": "pOSK4URrYNOxlTZU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.141aec8b92efd14b]{Develop Your Relationship}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.287bb4c2b53ea847]{Forge a Bond}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.05909d6310d209a6]{Make a Connection}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.8704c945023355fb]{Test Your Relationship}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054947933,
+        "modifiedTime": 1758055104267,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.pOSK4URrYNOxlTZU"
+    },
+    {
+      "sort": 400000,
+      "name": "Delve Moves",
+      "type": "text",
+      "_id": "UyC6RJ4mpKI1ga8x",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.36c6cbe556fbb639]{Delve the Depths}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.e7ad42a1678725b9]{Discover a Site}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.313c82cede0ce9a7]{Escape the Depths}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.4da87fd54eaa1b89]{Find an Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.2cd0d8934c6659fc]{Locate Your Objective}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.06f78b87b9532437]{Reveal a Danger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.c937a79dfda8095d]{Reveal a Danger (alternate version)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.sZk5AYdsZIM9Lz25]{Wield a Rarity}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054956235,
+        "modifiedTime": 1758055131070,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.UyC6RJ4mpKI1ga8x"
+    },
+    {
+      "sort": 500000,
+      "name": "Exploration Moves",
+      "type": "text",
+      "_id": "YIoeCyVvijuP7rCy",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.6848983199a497df]{Confront Chaos}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.367804b98f30d5f4]{Explore a Waypoint}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.edac426b7c23f060]{Finish an Expedition}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.75d5b0762ebab856]{Make a Discovery}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.ed490d43a2533506]{Set a Course}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.3ff03b51f620ab26]{Undertake an Expedition}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054965063,
+        "modifiedTime": 1758055152490,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.YIoeCyVvijuP7rCy"
+    },
+    {
+      "sort": 600000,
+      "name": "Fate Moves",
+      "type": "text",
+      "_id": "JDce7OwMqgaAQgpI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.bd6278f18bbd6739]{Ask the Oracle}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054970679,
+        "modifiedTime": 1758055166411,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.JDce7OwMqgaAQgpI"
+    },
+    {
+      "sort": 700000,
+      "name": "Legacy Moves",
+      "type": "text",
+      "_id": "sZyveWp9CQE2sruN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.d602da2ce0c05f2c]{Advance}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.603ca607fe8386f8]{Continue a Legacy}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.9f95c215a394ebd4]{Earn Experience}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054980943,
+        "modifiedTime": 1758055181616,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.sZyveWp9CQE2sruN"
+    },
+    {
+      "sort": 800000,
+      "name": "Quest Moves",
+      "type": "text",
+      "_id": "VRk1XWDU6X8l4woQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.449c1e260c941a40]{Forsake Your Vow}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.985a5415860a99e9]{Fulfill Your Vow}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.0d7f13818c1c19ed]{Reach a Milestone}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054988261,
+        "modifiedTime": 1758055197617,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.VRk1XWDU6X8l4woQ"
+    },
+    {
+      "sort": 900000,
+      "name": "Recover Moves",
+      "type": "text",
+      "_id": "xyRpJ0nxRLBYlAZa",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.2051538f0c9d5d27]{Heal}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.c2c2f31f564caa06]{Hearten}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.eece9a67d1961f70]{Repair}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.703964b8d02355b8]{Resupply}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.3de42d2d3cb78855]{Sojourn}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758054997510,
+        "modifiedTime": 1758055214479,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.xyRpJ0nxRLBYlAZa"
+    },
+    {
+      "sort": 1000000,
+      "name": "Scene Challenge Moves",
+      "type": "text",
+      "_id": "NUbyNg635snFp9iC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.90c1db535c31ad7e]{Begin the Scene}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.7bbacec9ac8d8d09]{Face Danger (Scene Challenge)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.0daf0460e4faa6fa]{Finish the Scene}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.03595d7546a1353f]{Secure an Advantage (Scene Challenge)}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758055006369,
+        "modifiedTime": 1758055241340,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.NUbyNg635snFp9iC"
+    },
+    {
+      "sort": 1100000,
+      "name": "Session Moves",
+      "type": "text",
+      "_id": "oQqcg7wnjvzDVnaF",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.bb0a732e3b1c7ea1]{Begin a Session}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.aa6aea2e2f5ce064]{Change Your Fate}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.005fa1851e72ab46]{End a Session}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.6f3333f430a21db6]{Set a Flag}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.fd87ca25f4f9beb2]{Take a Break}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758055012535,
+        "modifiedTime": 1758055260995,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.oQqcg7wnjvzDVnaF"
+    },
+    {
+      "sort": 1200000,
+      "name": "Suffer Moves",
+      "type": "text",
+      "_id": "ApxNa74r2gJxGZR1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.905205c073b09eac]{Endure Harm}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.ff32c523829d6481]{Endure Stress}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.3782f1b3c8ca8b88]{Withstand Damage}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758055020641,
+        "modifiedTime": 1758055282093,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.ApxNa74r2gJxGZR1"
+    },
+    {
+      "sort": 1300000,
+      "name": "Threshold Moves",
+      "type": "text",
+      "_id": "xXBKMfvw7Za5A5lt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.0cfcd6fbaf6135d0]{Face Death}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.ff17e67a59539df4]{Face Desolation}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.a44ecb0d77487549]{Overcome Destruction}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758055027252,
+        "modifiedTime": 1758055298986,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mFVF030jOLp7IvwG.xXBKMfvw7Za5A5lt"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757996397428,
+    "modifiedTime": 1757996397428,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!mFVF030jOLp7IvwG"
+}

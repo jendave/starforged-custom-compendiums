@@ -1,0 +1,30 @@
+{
+  "name": "d6 Roll",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by David Hudson under the MIT License.\n\nnew Roll('1d6').toMessage();",
+  "folder": "v2lpqRxuwikh78cL",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750843327,
+    "modifiedTime": 1774512917469,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Z2YyekIxjOdjPBt8",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!macros!Z2YyekIxjOdjPBt8"
+}

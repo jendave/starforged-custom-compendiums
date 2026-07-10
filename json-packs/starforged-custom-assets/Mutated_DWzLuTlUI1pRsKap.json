@@ -1,0 +1,70 @@
+{
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Mutated",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/psychic-waves.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You are afflicted with a mutation. When you make a move bolstered by\nthe change, add +2 and fill one segment of an 8-segment clock. When the clock is filled, choose one and clear the clock.\n<ul>\n<li>Raise one stat by 1 (max 5), and reduce another by 1 (min 0). Mark both stats as corrupted.</li>\n<li>Discard one path asset for another with 2 marked abilities. This asset is corrupted.</li>\n</ul>\n</p>",
+        "enabled": true,
+        "hasClock": true,
+        "clockMax": 8,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Once a stat is corrupted twice, or all path assets are corrupted, activate this ability at no cost. The mutation takes hold, prevailing against an otherwise-unbeatable threat. Envision your new form and discard this asset.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you successfully @Compendium[foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} (extreme or greater) to halt the mutation, activate this ability at no cost. Increase your momentum reset by 1, and discard this asset.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1779425871139,
+    "modifiedTime": 1782513772761,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "DWzLuTlUI1pRsKap",
+  "sort": 400000,
+  "_key": "!items!DWzLuTlUI1pRsKap"
+}

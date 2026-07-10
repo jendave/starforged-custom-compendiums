@@ -1,0 +1,221 @@
+{
+  "folder": "ZAHuN8i8Pz5HW2nj",
+  "name": "Ironsworn 1.5-ish E Assets",
+  "_id": "dSaX3MDE8wSwlHI3",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Combat Talent Assets",
+      "type": "text",
+      "_id": "aAeXgN2ZXOP7ggvh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.LijHgejEJjBsvMAT]{Archer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.zuKJ6xVkRsuTkooz]{Berserker}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.JrXzpOYRZVRyHNw1]{Blademaster}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.nj4rA3iQM6txHULo]{Brawler}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.s1oXJArr3M2JdwvG]{Cannoneer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.wNrIZyyR9NZ7SCOv]{Cutthroat}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.qN7CgOb7A8JM7feD]{Deadshot}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.FvmNc7uif0oDvtVf]{Dual Wielder}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.vibBPjL3WL3lN5sV]{Fletcher}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.7M1QWsdCAlgytIBp]{Full Plate}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.7iHhvKB3oAAjeyvG]{Harpooner}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.3FiaczUcZsyfJXUe]{Ironclad}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.AIfKimmpRHtPr5SW]{Long-Arm}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.nWPFdcLlzgXyyebD]{Marksman}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.dKgruJ7QciFSmSHK]{Musketeer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.wT83UvFRifbjtzO2]{Pistoleer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.aU5Wb1ZmNrl7e6ux]{Scattershot}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.SX1PNQsSjicSrwK8]{Shield-Bearer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.kHm3prWtoMK48ab7]{Slinger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.LocrtM0VlM6S4wc7]{Sunderer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.PGdrMWcYIUaTy0Wy]{Swordmaster}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.3er6VHn51t7Xyu5J]{Thunder-Bringer}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757996420534,
+        "modifiedTime": 1757996634340,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!dSaX3MDE8wSwlHI3.aAeXgN2ZXOP7ggvh"
+    },
+    {
+      "sort": 200000,
+      "name": "Companion Assets",
+      "type": "text",
+      "_id": "arU8Og4uZwuyPgUU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.9cCE6knBB70wmQV8]{Albatross}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.kKbwJsVeROwnspTQ]{Banshee}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.SPEUro3f5HX4JsTw]{Cave Lion}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.cc8q2bEkoQSdIMTl]{Chattering Skull}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.a3KhAwQFs7AF5g3k]{Dolphin}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.wOFfZ2yeCm1ju5cw]{Dragon}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.TIwfysGRZaK1bIny]{Giant Spider}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.7X1vajXfYLwM9fxg]{Glowcat}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.KQzZFS39b7q1mevW]{Hawk}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.d9eghgMpfIfQIUHR]{Horse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.Tcr0Or2A5byE89Ce]{Hound}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.xuRhp5ThZ8wNqt8h]{Jungle Cat}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.qe8m7W1ioeTHFPFR]{Kindred}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.qPjGC4wV2XRAKWDI]{Kraken}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.bayjt0C8aug9G9Zk]{Mammoth}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.JkCWc61P6a7HdWK2]{Monkey}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.TGI1byqBFxDTSNqc]{Owl}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.IpdQbVQMS7YaKDEV]{Parrot}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.yYNtb2yAnyG6klAV]{Rat}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.tNjdBl4K2ScKJG41]{Raven}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.rQzyIYlzurP73sqy]{Rockhorn}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.k8TFLOqTXIoDuHTv]{Sidekick}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.03oIRr8BB9uqaQMd]{Sprite}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.QFercAR01Sfisle2]{Symbiote}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.yjhM1plV8DjsRrjP]{Young Wyvern}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757996518665,
+        "modifiedTime": 1757996819996,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!dSaX3MDE8wSwlHI3.arU8Og4uZwuyPgUU"
+    },
+    {
+      "sort": 300000,
+      "name": "Deed Assets",
+      "type": "text",
+      "_id": "ENWagNjxJXGKjzxT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.gzcOLTd4CDyBIgB6]{Battle-Scarred}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.WZNsvvzdvq04nJAi]{Blade-Bound}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.GKuttq0lgzuMf7FQ]{Bonded}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.hCekhNV0Z7J8BHmq]{Champion}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.1p6yGFVbuOKGOAD5]{Cohort}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.oZ4U1bcG0i75DLCe]{Combatist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.nxuNQUBZz2BDazct]{Damned}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.CxavXNNr1Qw1Z6TV]{Fleet Commander}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.REIBuwOYWbrULWlS]{Homesteader}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.zjQ89yw33uDGSPzf]{Marked}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.2njjWiFoGJKu9twK]{Masked}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.NEtOSDKQZPLMt3oB]{Oathbreaker}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.qcJgRKtxoMXqo3yX]{Old Salt}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.GqDCx1u6z1WwINPq]{Revenant}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.HA4F51D6izfMirN0]{Ritualist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.IuAD2pcefHTzPvL6]{Shadow-Kin}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.NbbbSRzVW2nfq30T]{Survivor}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.UYKOZuj3iWlo3hPF]{True Friends}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.KLsDPA3Ys37UsMZu]{Undead}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.K58B5XA0ema76QqR]{Vanguard}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757996525236,
+        "modifiedTime": 1757996905668,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!dSaX3MDE8wSwlHI3.ENWagNjxJXGKjzxT"
+    },
+    {
+      "sort": 400000,
+      "name": "Path Assets",
+      "type": "text",
+      "_id": "kU7dhiW31xKyqOTm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.s5srNzjzzvxYgyTQ]{Alchemist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.yfFJs17O6eQgRTKR]{Animal Kin}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.9vLDmX5g4nG6enuW]{Artisan}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.3qA3ryidQWZiuz5W]{Artist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.TJO3RTQOG9vLkyLv]{Bannersworn}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.KSioH8vip8gUnYJe]{Blade-Bound}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.IyQ1D1llqeUWcKBA]{Bounty Hunter}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.bAtDfiwUj1Okn702]{Connected}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.l0EIYajpIlzfjmUe]{Construct}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.cPyycl43296XZEhq]{Courier}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.fgMx2DDo6vPGHu8T]{Crew Commander}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.h3Db3wY7UbjxrZVj]{Dancer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.Cey1eMNkyFALBio8]{Devotant}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.Ao29CTQlogCruaUH]{Diplomat}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.St44QRtjXmdrXnsw]{Duelist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.EL3iMomEZQorzh3v]{Empath}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.BfGGHJkVNKlNHt8j]{Empowered}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.rJ87kDHoFVvJUZgO]{Explorer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.Vbjxp4X7I7AOiLde]{Fated}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.v2DnyMkB66gYspbf]{Firebrand}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5zTmDkjAjQCvR4YK]{Fortune Hunter}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5JhswC3UMkF5dYPH]{Fugitive}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.38WlOUo69f8UmATJ]{Gearhead}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.9T9c2RrPU0EssY5m]{Haunted}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.6ERuW3ZQLZCAcXI2]{Healer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ZOPxHJZ62j0aJLuh]{Herbalist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.2zwPeWw9qXVVwksO]{Honorbound}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.jOw2iVBkdYTC5gQD]{Improviser}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.s67u6uKUa2a5m9lv]{Infiltrator}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ag0h6RXSfdMAeoBB]{Jinx}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.FBos2hYwLcqHlNcH]{Kinetic}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.E7PBsut4489IxWXY]{Leader}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.G0tA5h7M9GeCemEb]{Looper}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.EOmoNyAPkrQMn1Oc]{Lore Hunter}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ZqA33cb4Fkf6AHu4]{Loyalist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.xoSFiyByvrPS0L0P]{Mariner}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.tjpBbwBSDuMTbDqv]{Masked}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.SB7jNRAy2qNdWYuw]{Mercenary}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.UYQ3aacF7Tx8ycqm]{Musician}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.tbrYOqSL1dqXsyzG]{Natural Leader}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.tbrYOqSL1dqXsyzG]{Natural Leader}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.9paFAl5hDEkBqqcp]{Navigator}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.JijQ3QsHrBKi4cFq]{Outcast}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.XYNl6rF19vbT3gv8]{Peddler}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.vJUwqZInHueq94Y1]{Pilot}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.M3SIdh9KbxwGu8Ys]{Pirate Captain}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.gPpnFYzc5BQ3FrkK]{Pretender}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.jCuunZuAn022ESi1]{Rider}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.UmM2U5XRUA69tWOm]{Ritualist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.LCzzILbw9znsQhq9]{Scavenger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.7IXnEdLgOotgv92S]{Scholar}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5jiNQ346QJem54aI]{Scoundrel}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.11X9RNJOzRT34XH8]{Seer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.3bbXTEw8lOZda1wc]{Shade}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.gOgvNwoAegd462Mr]{Shapechanger</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ClLFuA4s7inG9vG4]{Shipwright}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.lQd9bIur3mmAelBP]{Sighted}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.Rpp2W0x9VdOyg9Uv]{Slayer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.JWf7Pio9hPjXq7n1]{Sleuth}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.CjSTfuCmsKOaMJ5k]{Socialite}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.iIKAGil4Krctfp7R]{Spy}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.aY6FqZoIY1f35Y5j]{Storyweaver}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.15EFfdRaUxoxw6Aj]{Swashbuckler}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.mlYFMYBFLSeVFybU]{Tactician}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.vhysYgVgQ3xvpnn2]{Trader}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.VYnKOufdX08XNH8Y]{Trickster}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ZeyUYkDig1APwfoP]{Urchin}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ksuyBDgAaogbfS9w]{Vestige}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.xvaIqtfejY9Upfxc]{Veteran}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.UHVK4mv8QjTVGOeJ]{Warband Commander}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.1woBhSHZbac1holo]{Waterborn}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5EhsspQ4GuIsOpcL]{Wayfinder}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.IZJ2V6kVs37E5JeG]{Weapon Master}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.QfOMwEo2a5zZMI7c]{Wildblood}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.0P6IeLqBgAgblzi2]{Wright}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757996531253,
+        "modifiedTime": 1757997872897,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!dSaX3MDE8wSwlHI3.kU7dhiW31xKyqOTm"
+    },
+    {
+      "sort": 500000,
+      "name": "Ritual Assets",
+      "type": "text",
+      "_id": "NWfwFD1Vkn0dJRu9",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.L9aa5GY08XIfA3Oi]{Augur}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.NDWAzdcnkND5H1Wu]{Awakening}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.vvOfxPmTZ5IuLRNJ]{Bind}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.sifcPyR2HXSHmYGP]{Communion}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.akJWLYOm8cRB7i3V]{Divination}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.GTEa0nBe3Kt0zyAi]{Empath}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.2t7BUXd09AwaOqpC]{Firebrand}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.lIAR6CvxmB0DMlBc]{Invoke}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.BEfL01SmxDDP29nb]{Keen}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5k0VXH6VAc5Z0bmt]{Kinetic}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.BalMJAPApnH2lfEx]{Leech}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.xfPDniYYVVP6AhPO]{Lightbearer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.liLAyLi6cBtZeCBz]{Scry}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.3omIcqPojnuYPrjU]{Shadow-walk}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.cxRp5bLDTUOJA68M]{Sway}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ExkSYsFv8Kcic2rD]{Talisman}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.6YC6bhM89BSbYBYJ]{Tether}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ISva7LKAZDOQedEq]{Totem}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.6p0YAqTI9OXo7vkO]{Visage}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.TMbxEbdeUGzjBqOp]{Ward}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.p3IlJkXTTcvF6B6e]{Windbinder}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757996538243,
+        "modifiedTime": 1757996995312,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!dSaX3MDE8wSwlHI3.NWfwFD1Vkn0dJRu9"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757996370514,
+    "modifiedTime": 1757996370514,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!dSaX3MDE8wSwlHI3"
+}

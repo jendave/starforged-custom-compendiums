@@ -1,0 +1,264 @@
+{
+  "name": "New Race Affiliation",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "JuY2Uw3Z9WB9yCdL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Empire (loyalist)",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.JuY2Uw3Z9WB9yCdL"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "9o1f9GgQdLq1DpxJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Empire (secretly defiant)",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.9o1f9GgQdLq1DpxJ"
+    },
+    {
+      "range": [
+        51,
+        80
+      ],
+      "_id": "0uo1gFTmRXtTirs6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebel (loyalist)",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.0uo1gFTmRXtTirs6"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "ShMTQQgiTDfISOtH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebel (in it for the money)",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.ShMTQQgiTDfISOtH"
+    },
+    {
+      "range": [
+        86,
+        87
+      ],
+      "_id": "gM1mjgIRYOiXztmV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.gM1mjgIRYOiXztmV"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "n1gcBMxoDEtJKwY1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smuggler",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.n1gcBMxoDEtJKwY1"
+    },
+    {
+      "range": [
+        91,
+        96
+      ],
+      "_id": "4rH6mUbWrAe1GngA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anarchist / No loyalties",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.4rH6mUbWrAe1GngA"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "tF2Wei3Ao3BjsDhw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sith",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.tF2Wei3Ao3BjsDhw"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "206vopBUCZNgEdNJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jedi",
+      "name": "",
+      "_key": "!tables.results!zPMv4SlYYVfHvcSU.206vopBUCZNgEdNJ"
+    }
+  ],
+  "folder": "uGzIUgSkE5sHhZjA",
+  "sort": 5,
+  "_id": "zPMv4SlYYVfHvcSU",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Tables have also been created for when you randomly encounter a never-before-seen race in <em>Star Wars</em> (in other words, a race of beings exclusive to your campaign!). For creating new homeworlds that this new species might be from, I figure you can just use <em>Starforged</em>’s excellent random-world generator for that.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707544543721,
+    "modifiedTime": 1707549309400,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!zPMv4SlYYVfHvcSU"
+}

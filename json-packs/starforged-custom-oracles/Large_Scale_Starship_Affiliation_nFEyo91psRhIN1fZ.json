@@ -1,0 +1,1331 @@
+{
+  "name": "Large-Scale Starship/Affiliation",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "C6QOzLna5x8Cf4MG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Victory-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.C6QOzLna5x8Cf4MG"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "LhDvtu6ED5p7pMbN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Death Star / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.LhDvtu6ED5p7pMbN"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "QrWktTTyREmZyvH5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interdictor-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.QrWktTTyREmZyvH5"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "QUECcQKyaVqAQKPl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imperial I-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.QUECcQKyaVqAQKPl"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "ICKBOKbGnBgbYWWY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imperial II-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.ICKBOKbGnBgbYWWY"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "YBC0G6kK1v39isdu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Venator-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.YBC0G6kK1v39isdu"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "wvabwKyOEIaRKRFv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resurgent-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.wvabwKyOEIaRKRFv"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "OOWDTRxdrn6Be8Xz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Onager-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.OOWDTRxdrn6Be8Xz"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "Ru6EfrjwxBJAgp62",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cantwell-class Arrestor Cruiser /Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.Ru6EfrjwxBJAgp62"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "75ujFam883WaSZrj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gladiator-class Star Destroyer / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.75ujFam883WaSZrj"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "xTik83y82IVOE091",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quasar Fire-class cruiser-carrier / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.xTik83y82IVOE091"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "AG90TE0NX8CjCnxQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nebulon-B escort frigate / Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.AG90TE0NX8CjCnxQ"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "TK0tGG1sUzekB2KW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "CR90 corvette / Rebel / Jedi",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.TK0tGG1sUzekB2KW"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "wsFhumlDZZWAraaO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kandosii-type dreadnought / Mandalorian / Smuggler",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.wsFhumlDZZWAraaO"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "2Pjt1iR0rjULHbqs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vigil-class corvette / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.2Pjt1iR0rjULHbqs"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "rM4087S5cVnLInxG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eclipse-class dreadnought / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.rM4087S5cVnLInxG"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "asg0ZlLLMNsaTX0S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Executor-class Super Star Destroyer/ Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.asg0ZlLLMNsaTX0S"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "RJmffXnVLFVcjcNq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadnought-class heavy cruiser / Chiss",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.RJmffXnVLFVcjcNq"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "6OVIwPJ6FeombxVS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadnought-class heavy cruiser / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.6OVIwPJ6FeombxVS"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "xr95uejnn9sPFs9R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dreadnought-class heavy cruiser / Utapau",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.xr95uejnn9sPFs9R"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "SNrIaYqG8tqOOAg7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "MC30c Mon Calamari Star Frigate / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.SNrIaYqG8tqOOAg7"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "ShQC3zra5CIdTEIK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "MC90 Mon Calamari Star Cruiser / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.ShQC3zra5CIdTEIK"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "XXLWXPFcpbJTk2u1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "MC80 Mon Calamari Star Cruiser / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.XXLWXPFcpbJTk2u1"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "UdzMfGoYmVzVVDAJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "MC40a Mon Calamari Light Cruiser / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.UdzMfGoYmVzVVDAJ"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "g7eGtsFcpGrV9oxf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bothan Assault Cruiser / Bothan Navy / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.g7eGtsFcpGrV9oxf"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "njTJFo3KHcS5H9Ba",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bothan frigate / Bothan Navy / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.njTJFo3KHcS5H9Ba"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "ms1EC15Yew0kERHp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "GR-75 medium transport / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.ms1EC15Yew0kERHp"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "KgWO9RvVhkQIHc0e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acclamator-class assault ship / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.KgWO9RvVhkQIHc0e"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "3wzCoNO3ZrwRzpab",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Praetor II-class battlecruiser / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.3wzCoNO3ZrwRzpab"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "fCMxqAEMRiai5Fqk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lucrehulk-class Droid Control Ship / Trade Federation",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.fCMxqAEMRiai5Fqk"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "HhrOtdc5eIL9g6Ll",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Muunificent-class star frigate / Muuns / InterGalactic Banking Clan",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.HhrOtdc5eIL9g6Ll"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "GnTZqh20xakimoJK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sith Meditation Sphere / Mystic / Sith",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.GnTZqh20xakimoJK"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "ISGPYZ70ZmbaIjds",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sith dreadnought / Mystic / Sith",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.ISGPYZ70ZmbaIjds"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "h0Or9nhd6UA4BjHa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assault Frigate Mark II / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.h0Or9nhd6UA4BjHa"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "iq25MHejcMfwwcs8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raider-class corvette / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.iq25MHejcMfwwcs8"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "XijtbCkA2901SIOa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gozanti-class cruiser / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.XijtbCkA2901SIOa"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "9432lanr0pMG1pSV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pelta-class frigate / Rebel / Smuggler / Syndicate",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.9432lanr0pMG1pSV"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "7VqVpWkCnaYuum6z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hammerhead corvette / Rebel / Syndicate",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.7VqVpWkCnaYuum6z"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "kxl1FNVENykA68Bb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starhawk-class battleship / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.kxl1FNVENykA68Bb"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "ueclMmj3GOyvlIEN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lancer-class frigate / Empire / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.ueclMmj3GOyvlIEN"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "C5yztPES2LvGFg7m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulwark Mk. III battlecruiser / Rebel",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.C5yztPES2LvGFg7m"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "exB3pvzfNf4nlcrP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "C-9979 landing craft / Trade Federation / Syndicate",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.exB3pvzfNf4nlcrP"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "WyKd6aWZQHqVwn2y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifalan patrol ship / Neutral / Pirate / Smuggler",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.WyKd6aWZQHqVwn2y"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "VsMHbm37cf4hwcUQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mandalorian warship (Venator style) / Pirate / Smuggler / Syndicate",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.VsMHbm37cf4hwcUQ"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "S6Daak7oDhsBhOj6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Killik Nest Ship / The Killik Hive",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.S6Daak7oDhsBhOj6"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "RlXQbPqoICSl5ByA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marauder-class corvette / Empire / Hutt / Corporate",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.RlXQbPqoICSl5ByA"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "3GEOrqrTiY2S4vbz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Azalus-class Hutt dreadnought / Hutt",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.3GEOrqrTiY2S4vbz"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "ADo6JjTEf921uAYt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "CR70 corvette Rebel / Smuggler",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.ADo6JjTEf921uAYt"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "QzlIxcUEwWxFcJ1m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bellator-class dreadnought / Empire",
+      "name": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.QzlIxcUEwWxFcJ1m"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "uvytCEhlutRhRj7h",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "New Starship Type",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tFdvC1E2Z2kRpDRd",
+      "description": "",
+      "_key": "!tables.results!nFEyo91psRhIN1fZ.uvytCEhlutRhRj7h"
+    }
+  ],
+  "folder": "CcVD0BrXB5cCacTG",
+  "sort": 400000,
+  "_id": "nFEyo91psRhIN1fZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Need a starship? Roll on a table. It will tell you if it is typically affiliated with Empire, Rebel, Smuggler, Hutt, Bounty Hunter, Syndicate, Civilian, or Any characters. These are called <em>tags</em>. The tags are listed from left to right, in order of the likelihood that the ship is affiliated with any of them. (<em>Example: a listing that has the tags Rebel / Empire / Smuggler, is most likely to be Rebel, but can sometimes be affiliated with Smuggler, though that’s less likely since it is farthest to the right.</em>)</p><p></p><p>You may also roll on either the “Large-Scale Ship Table” or the “Small-Scale Ship Table” to simply see what sort of group a new main character is affiliated with. (<em>Example: if you roll up ARC-170 Starfighter / Empire / Rebel, you can ignore the starfighter part of the entry, and determine that the new NPC you just met could either be Imperial or Rebel, but is more likely with the Empire, since that tag is listed first. But it could be neutral, because of course there is always the chance it was simply stolen.</em>) If you just <em>need</em> to know how big a dreadnought is, or the difference in size between, say, a frigate and a cruiser, the “New Starship Type” has all that quick-reference information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545845712,
+    "modifiedTime": 1707593477991,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!nFEyo91psRhIN1fZ"
+}

@@ -1,0 +1,422 @@
+{
+  "name": "Expanded World Table",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "nGDqWKTHPdnQ8eeH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desert World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.nGDqWKTHPdnQ8eeH"
+    },
+    {
+      "range": [
+        9,
+        17
+      ],
+      "_id": "7dsP6HxF03zl9Xdh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Furnace World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.7dsP6HxF03zl9Xdh"
+    },
+    {
+      "range": [
+        18,
+        20
+      ],
+      "_id": "BGCa5lyCdqpjHmdd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dust Ring World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.BGCa5lyCdqpjHmdd"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "FGLplKxstAPDIe1r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.FGLplKxstAPDIe1r"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "zsUEY0noePRtRxTL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grave World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.zsUEY0noePRtRxTL"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "LZNZakb1UkEWHcjq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ice World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.LZNZakb1UkEWHcjq"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "RgaLgk6GeLcNfW9R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jovian World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.RgaLgk6GeLcNfW9R"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "szLmhVtLQ6zKUVXt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.szLmhVtLQ6zKUVXt"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "JbvHVPv4dw8JlPyT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jungle World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.JbvHVPv4dw8JlPyT"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "30lPNEUokFGECa5n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocean World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.30lPNEUokFGECa5n"
+    },
+    {
+      "range": [
+        76,
+        81
+      ],
+      "_id": "xU9FpRvXLYFpNvRz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificial World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.xU9FpRvXLYFpNvRz"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "2IiHcUMpcPeCZEF2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.2IiHcUMpcPeCZEF2"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "mYq4lD6Hx9c2qROT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.mYq4lD6Hx9c2qROT"
+    },
+    {
+      "range": [
+        93,
+        98
+      ],
+      "_id": "tJ6VFhFhHH1zQf0t",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.tJ6VFhFhHH1zQf0t"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Br9EFYZZkfpRt4TI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vital World",
+      "name": "",
+      "_key": "!tables.results!nljiwrUTDvbCErMh.Br9EFYZZkfpRt4TI"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "P5VuCgnP3GkBqfh6",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697690745186,
+    "modifiedTime": 1697838223806,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "nljiwrUTDvbCErMh",
+  "sort": 100000,
+  "_key": "!tables!nljiwrUTDvbCErMh"
+}

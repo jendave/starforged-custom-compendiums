@@ -1,0 +1,186 @@
+{
+  "name": "Feature",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "BX4BaDZzcEEMqzaK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.peTA7v2lPFk9ymYz]{Rogue Planet Feature}",
+      "name": "",
+      "_key": "!tables.results!arn7f9VLcAHmUJAD.BX4BaDZzcEEMqzaK"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "RCuVrz7PEns8ANcL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.peTA7v2lPFk9ymYz]{Rogue Planet Feature}",
+      "name": "",
+      "_key": "!tables.results!arn7f9VLcAHmUJAD.RCuVrz7PEns8ANcL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "fSiNW5FBdPlIxAYY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2GAnQD2WPXn1HJVx]{Rogue Planet Observed From Space}",
+      "name": "",
+      "_key": "!tables.results!arn7f9VLcAHmUJAD.fSiNW5FBdPlIxAYY"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "xYa8S5MFEwvS9xPI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZqubM8Y5GsmhsaKj]{Frozen Theme Feature}",
+      "name": "",
+      "_key": "!tables.results!arn7f9VLcAHmUJAD.xYa8S5MFEwvS9xPI"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Q4C6TZbvsXn1Oi6V",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Theme @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.qMr7FxU081RdTFAO]{Frozen} + Domain @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.2c2t4chqfpZ9ydid]{Frozen Cavern} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.hziNL2ikUkcPkd6A]{Icereach}",
+      "name": "",
+      "_key": "!tables.results!arn7f9VLcAHmUJAD.Q4C6TZbvsXn1Oi6V"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "QVGj4fiXqmV8oOPm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!arn7f9VLcAHmUJAD.QVGj4fiXqmV8oOPm"
+    }
+  ],
+  "folder": "BbhpWEQ0kNdxTBRM",
+  "sort": 0,
+  "_id": "arn7f9VLcAHmUJAD",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703901839047,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!arn7f9VLcAHmUJAD"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Connection Moves",
+  "color": "#4a5791",
+  "description": "__Connections__ are NPCs (non-player characters) who represent a deep, vital, or interesting relationship in your story. They are your tethers to the people and places of the Forge.\n\nMake these __connection moves__ when you introduce connections and as you build influence or understanding with them.",
+  "type": "Item",
+  "_id": "4f3a8bdfb4421e2b",
+  "sort": 200000,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Connection",
+      "dsid": "move_category:starforged/connection"
+    }
+  },
+  "folder": "abckGy042rxAsOiZ",
+  "sorting": "a",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819485,
+    "modifiedTime": 1757745819485,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!4f3a8bdfb4421e2b"
+}

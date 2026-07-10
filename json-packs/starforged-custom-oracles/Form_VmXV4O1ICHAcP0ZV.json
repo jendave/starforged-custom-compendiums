@@ -1,0 +1,550 @@
+{
+  "name": "Form",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "v5YUMqV5r5BGSfqY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hollow sphere",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.v5YUMqV5r5BGSfqY"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "T9PeWNodByRuJBcw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken sphere",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.T9PeWNodByRuJBcw"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "WbKQHP9gNwaNMz34",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense sphere",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.WbKQHP9gNwaNMz34"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "nQq3Z3XVMRLAEFdl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cylinder",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.nQq3Z3XVMRLAEFdl"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "U6QxJMIl12ZfDrMR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Polyhedral",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.U6QxJMIl12ZfDrMR"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "mnvQGPdt6yuVKskv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sheet",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.mnvQGPdt6yuVKskv"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "hlnCq6mOnjya2ymf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cone",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.hlnCq6mOnjya2ymf"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "bV6sxtgUDjKhT7y7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biomechanical",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.bV6sxtgUDjKhT7y7"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "ZKnHBOFdmhPO2mW7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skeletal",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.ZKnHBOFdmhPO2mW7"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "uvmKMAxXkIU2WgGc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conglomerate / Patchwork",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.uvmKMAxXkIU2WgGc"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "3hVjqA1vOLjOPV5c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortress / Castle",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.3hVjqA1vOLjOPV5c"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "HTtHhk9XLSG8YMt0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Web / Lattice",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.HTtHhk9XLSG8YMt0"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "fG4vks5UDB722jkq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tethered ring",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.fG4vks5UDB722jkq"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "WTVetUPgyM1huXCC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transforming",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.WTVetUPgyM1huXCC"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "FXtjjgJzJgwZZtBq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organic / Unsettling",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.FXtjjgJzJgwZZtBq"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "gf9TA7lsDXaddRMW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vaporous",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.gf9TA7lsDXaddRMW"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "m65D0nF25ZyA93Qk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unlikely material",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.m65D0nF25ZyA93Qk"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "1I1JE7R4RnrUfC1j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Derelicts\"><i class=\"fa fa-caret-right\"></i> Derelicts</a>",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.1I1JE7R4RnrUfC1j"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "ypxwzCDJO7SiNzld",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.ypxwzCDJO7SiNzld"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ShwdlBnYExcaQjHW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
+      "name": "",
+      "_key": "!tables.results!VmXV4O1ICHAcP0ZV.ShwdlBnYExcaQjHW"
+    }
+  ],
+  "folder": "Vz3iEVN73HiiGJfK",
+  "sort": 2,
+  "_id": "VmXV4O1ICHAcP0ZV",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These satellites are huge, moon-sized space stations. Who built this moon and why? How old is it?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690501063,
+    "modifiedTime": 1698872367720,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!VmXV4O1ICHAcP0ZV"
+}

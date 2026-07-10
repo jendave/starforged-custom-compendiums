@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Owl",
+  "system": {
+    "requirement": "<p>Your owl soars through the darkness.</p>",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>Nocturnal: If you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.703964b8d02355b8]{Resupply} at night by sending your owl to hunt, take +2 momentum on a hit. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.2f2ba4090b22a122]{Enter the Fray} +wits against an ambush in darkness, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Sage: When you leverage your owl’s secret knowledge to perform a ritual, add +1 or take +1 momentum on a hit (decide before rolling).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Embodying: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0cfcd6fbaf6135d0]{Face Death}, take your owl’s health as +momentum before you roll. On a hit, mark 1 tick on your bonds legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/barn-owl.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Companion/Owl",
+      "dsid": "asset:classic/companion/owl",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906537760,
+    "modifiedTime": 1759807098926,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "TGI1byqBFxDTSNqc",
+  "sort": 800000,
+  "_key": "!items!TGI1byqBFxDTSNqc"
+}

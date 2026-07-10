@@ -1,0 +1,65 @@
+{
+  "folder": "QzPzJS8zrFqy5Uzg",
+  "name": "Exploration Oracles Arrays - Precursor Vaults",
+  "_id": "XrRRij2zCNKTIqH4",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles Arrays",
+      "type": "text",
+      "_id": "NDr4FVIRCRMoflje",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Vault Interior</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.M0FkBvxU3UugXdlE]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VbPIBBmvihjhduGw]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.q443b2OrsxnAGaBQ]{Peril}</p><h2>Vault Sanctum</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.kDLhUzcMPKuTvRXO]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VMHp5kh0yD0Sp0X7]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Tza9NBFoQmmSL5GW]{Peril}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758140143165,
+        "modifiedTime": 1758140226724,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!XrRRij2zCNKTIqH4.NDr4FVIRCRMoflje"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758140115110,
+    "modifiedTime": 1758140115110,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!XrRRij2zCNKTIqH4"
+}

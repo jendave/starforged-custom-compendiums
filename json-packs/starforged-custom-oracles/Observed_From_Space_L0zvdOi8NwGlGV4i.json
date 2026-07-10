@@ -1,0 +1,290 @@
+{
+  "name": "Observed From Space",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "qCIQXxH11k1XYySN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned cities",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.qCIQXxH11k1XYySN"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "YXQrB5fIoHalwO2p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient stabilising machines",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.YXQrB5fIoHalwO2p"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "dxblOvSV1SK8Bu9k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Continents resembling writing",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.dxblOvSV1SK8Bu9k"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "MFRSIUI2cQmBKUcc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inactive weather machines",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.MFRSIUI2cQmBKUcc"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "23V5WzLKfM1yh94V",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incomplete sections",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.23V5WzLKfM1yh94V"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "ENDasmfWsqHyZRxO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Islands placed as alien art",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.ENDasmfWsqHyZRxO"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "9lMUeuRAEQ4s3bxK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of instability",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.9lMUeuRAEQ4s3bxK"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "1zv4UlHzn7TqQaDV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uneven gravity",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.1zv4UlHzn7TqQaDV"
+    },
+    {
+      "range": [
+        89,
+        98
+      ],
+      "_id": "zmtXphjXY77uhZ8n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.zmtXphjXY77uhZ8n"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "pGflrm8Vjn4cEnmb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (orbital)",
+      "name": "",
+      "_key": "!tables.results!L0zvdOi8NwGlGV4i.pGflrm8Vjn4cEnmb"
+    }
+  ],
+  "folder": "jgPn3CXCDYaHWGSS",
+  "sort": 1,
+  "_id": "L0zvdOi8NwGlGV4i",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet constructed by a Precursor civilization, often with a strange shape like a torus or a disc</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288301181,
+    "modifiedTime": 1703293917541,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!L0zvdOi8NwGlGV4i"
+}

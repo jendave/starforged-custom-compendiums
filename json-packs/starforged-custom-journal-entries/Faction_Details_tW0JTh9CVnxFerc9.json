@@ -1,0 +1,64 @@
+{
+  "name": "Faction Details",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "<Faction Name>",
+      "type": "text",
+      "_id": "5aGv1HuhGIHoyfZC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table><tbody><tr><td><h3>&lt;Faction Type&gt;</h3></td></tr><tr><td><ul><li>&lt;Duplicate this Journal entry template&gt;</li><li>&lt;Add faction notes&gt;</li><li>&lt;Add faction notes&gt;</li><li>&lt;Add faction notes&gt;</li></ul></td></tr><tr><td><p>&lt;Faction Connection&gt;</p></td></tr></tbody></table><p>&lt;Write more notes and/or use @UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.TPuvmRqN54hxYdw2]{Generate Faction},  @UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.ShVu779cxRGpuEMD]{Generate Faction (Starsmith)} or @UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.8126qiBilFLuuGDt]{Generate Faction (Sundered Isles)}  macros for inspiration. </p><p>When copying from Chat, use the \"Paste and Match Style\" to retain formatting&gt;</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602163424
+      },
+      "_key": "!journal.pages!tW0JTh9CVnxFerc9.5aGv1HuhGIHoyfZC"
+    }
+  ],
+  "folder": "5ugGm7ATxKj3OPeb",
+  "categories": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.26.0",
+    "createdTime": 1774597270629,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "tW0JTh9CVnxFerc9",
+  "sort": 200000,
+  "_key": "!journal!tW0JTh9CVnxFerc9"
+}

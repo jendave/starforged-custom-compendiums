@@ -1,0 +1,498 @@
+{
+  "name": "Perils",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "2FlVMEnWg6FwoaJp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undetectable objects",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.2FlVMEnWg6FwoaJp"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "LskCuVq5Ye5NdMIL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Speeding micrometeors",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.LskCuVq5Ye5NdMIL"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "gugIMOngdY9W83mj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feelings of desolation",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.gugIMOngdY9W83mj"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "4YxzFABhQg5pFpnv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated defense turrets",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.4YxzFABhQg5pFpnv"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "qPYAlHRyk1ob0XyT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parasitic lifeforms",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.qPYAlHRyk1ob0XyT"
+    },
+    {
+      "range": [
+        26,
+        34
+      ],
+      "_id": "eVkm4Eu6K7sFrIQG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Belt pirates",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.eVkm4Eu6K7sFrIQG"
+    },
+    {
+      "range": [
+        35,
+        43
+      ],
+      "_id": "H789HRHlwSXSdNVZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haunting radio signals",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.H789HRHlwSXSdNVZ"
+    },
+    {
+      "range": [
+        44,
+        48
+      ],
+      "_id": "sNgjAFWIKSNHRqbG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warning beacons",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.sNgjAFWIKSNHRqbG"
+    },
+    {
+      "range": [
+        49,
+        53
+      ],
+      "_id": "aIkzau8UMd6txSbo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clouds of caustic dust",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.aIkzau8UMd6txSbo"
+    },
+    {
+      "range": [
+        54,
+        56
+      ],
+      "_id": "NZq3wmLFY5fxN1bH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suspicious convoy",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.NZq3wmLFY5fxN1bH"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "y06NRV46IFIlhOZu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sensor ghosts",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.y06NRV46IFIlhOZu"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "pGe5aGy7leM044Vv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountain-sized rock",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.pGe5aGy7leM044Vv"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "FqicP0KTYDDcQXjn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable elements in rings",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.FqicP0KTYDDcQXjn"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "x7wSv6xAGVEFvCGa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dumped dangerous contraband",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.x7wSv6xAGVEFvCGa"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "6tNEft2jqKaXN5tG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Critical system malfunctions",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.6tNEft2jqKaXN5tG"
+    },
+    {
+      "range": [
+        81,
+        87
+      ],
+      "_id": "d8GQgzVt5SCsKVvL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous static discharges",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.d8GQgzVt5SCsKVvL"
+    },
+    {
+      "range": [
+        88,
+        94
+      ],
+      "_id": "VCOkzbxZvVc25j0h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.VCOkzbxZvVc25j0h"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "m57HgsHZ1yEdCLsY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!LkVyAWVWxHaVfOpX.m57HgsHZ1yEdCLsY"
+    }
+  ],
+  "folder": "y506waZHOkP9qT60",
+  "sort": 2,
+  "_id": "LkVyAWVWxHaVfOpX",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Dust, debris and ice that encircles a planet in a shimmering ring, but what are the rings made of? How were they formed?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690598139,
+    "modifiedTime": 1698872413563,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!LkVyAWVWxHaVfOpX"
+}

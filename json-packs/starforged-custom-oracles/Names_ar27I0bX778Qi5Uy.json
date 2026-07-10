@@ -1,0 +1,316 @@
+{
+  "name": "Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        9
+      ],
+      "_id": "eCeuczG9FojkyLSa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bishop",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.eCeuczG9FojkyLSa"
+    },
+    {
+      "range": [
+        10,
+        18
+      ],
+      "_id": "zOb3gTuHXsU3uajL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cassus",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.zOb3gTuHXsU3uajL"
+    },
+    {
+      "range": [
+        19,
+        27
+      ],
+      "_id": "2QR0Wh8GY1v902VW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clarke",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.2QR0Wh8GY1v902VW"
+    },
+    {
+      "range": [
+        28,
+        36
+      ],
+      "_id": "dVntmlwFkNq48IXt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enigma",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.dVntmlwFkNq48IXt"
+    },
+    {
+      "range": [
+        37,
+        45
+      ],
+      "_id": "w1mVPhe7AzfZaAF7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Halo",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.w1mVPhe7AzfZaAF7"
+    },
+    {
+      "range": [
+        46,
+        54
+      ],
+      "_id": "UzmWrlTsIDU1MVl1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Niven",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.UzmWrlTsIDU1MVl1"
+    },
+    {
+      "range": [
+        55,
+        63
+      ],
+      "_id": "Rn9GCYR4CQaPW3VL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oddball",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.Rn9GCYR4CQaPW3VL"
+    },
+    {
+      "range": [
+        64,
+        72
+      ],
+      "_id": "IBap4UlDCV1R1dji",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perplex",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.IBap4UlDCV1R1dji"
+    },
+    {
+      "range": [
+        73,
+        81
+      ],
+      "_id": "iBYSldHgncCoW0WJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Puzzle",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.iBYSldHgncCoW0WJ"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "PjPdv3MoCustFcPU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simulacrum",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.PjPdv3MoCustFcPU"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "y5EkqY5tnPjUlkY4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrarium",
+      "name": "",
+      "_key": "!tables.results!ar27I0bX778Qi5Uy.y5EkqY5tnPjUlkY4"
+    }
+  ],
+  "folder": "jgPn3CXCDYaHWGSS",
+  "sort": 4,
+  "_id": "ar27I0bX778Qi5Uy",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet constructed by a Precursor civilization, often with a strange shape like a torus or a disc</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288301198,
+    "modifiedTime": 1703293913351,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ar27I0bX778Qi5Uy"
+}

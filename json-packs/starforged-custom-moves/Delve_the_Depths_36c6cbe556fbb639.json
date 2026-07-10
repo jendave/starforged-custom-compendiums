@@ -1,0 +1,118 @@
+{
+  "_id": "36c6cbe556fbb639",
+  "type": "sfmove",
+  "name": "Delve the Depths",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e9e254f7a3fc7100",
+  "system": {
+    "dfid": "Ironsworn/Moves/Delve/Delve_the_Depths",
+    "Category": "Ironsworn/Moves/Delve",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When you __traverse an area within a perilous site__, envision your surroundings. Then, consider your approach. If you navigate this area...\n\n  * With reckless haste or rapid manuevering: Roll +edge.\n  * With canny stealth or disguised deception: Roll +shadow.\n  * With cautious observation or detailed navigation: Roll +wits.\n\nOn a __strong hit__, you reach the next area. Mark progress and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.4da87fd54eaa1b89]{Find an Opportunity}.\n\nOn a __weak hit__, roll on the following table according to your stat.\n\nOn a __miss__, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.06f78b87b9532437]{Reveal a Danger}.\n\n{{table_columns>move:delve/delve/delve_the_depths}}",
+    "Trigger": {
+      "Text": "When you traverse an area within a perilous site...",
+      "Options": [
+        {
+          "Text": "With reckless haste or rapid manuevering",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Edge"
+          ]
+        },
+        {
+          "Text": "With canny stealth or disguised deception",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Shadow"
+          ]
+        },
+        {
+          "Text": "With cautious observation or detailed navigation",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you reach the next area. Mark progress and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.4da87fd54eaa1b89]{Find an Opportunity}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, roll on the following table according to your stat.\n\n{{table_columns>move:delve/delve/delve_the_depths}}",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.06f78b87b9532437]{Reveal a Danger}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [
+      "Ironsworn/Oracles/Moves/Delve_the_Depths/Edge",
+      "Ironsworn/Oracles/Moves/Delve_the_Depths/Shadow",
+      "Ironsworn/Oracles/Moves/Delve_the_Depths/Wits"
+    ],
+    "Source": {
+      "Title": "Ironsworn: Delve",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2020-02-13",
+      "Page": 21
+    },
+    "Suggestions": {},
+    "dsOracleIds": [
+      "move.oracle_rollable:delve/delve/delve_the_depths.edge",
+      "move.oracle_rollable:delve/delve/delve_the_depths.shadow",
+      "move.oracle_rollable:delve/delve/delve_the_depths.wits"
+    ]
+  },
+  "sort": 21,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Delve/Delve_the_Depths",
+      "dsid": "move:delve/delve/delve_the_depths"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759037870085,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!36c6cbe556fbb639"
+}

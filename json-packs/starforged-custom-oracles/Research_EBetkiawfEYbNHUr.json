@@ -1,0 +1,212 @@
+{
+  "name": "Research",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        14
+      ],
+      "_id": "Zdi2fuVqeqwjFrjo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research facility (bioweapon, medical, educational, precursor artefact, exobiology)",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.Zdi2fuVqeqwjFrjo"
+    },
+    {
+      "range": [
+        15,
+        29
+      ],
+      "_id": "YPjRHnXtbZvfTdH3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lab",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.YPjRHnXtbZvfTdH3"
+    },
+    {
+      "range": [
+        30,
+        43
+      ],
+      "_id": "FEDeLTA1M9cArYF8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Library/records",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.FEDeLTA1M9cArYF8"
+    },
+    {
+      "range": [
+        44,
+        57
+      ],
+      "_id": "b4vz6ak8yMpGQhZl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure vault",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.b4vz6ak8yMpGQhZl"
+    },
+    {
+      "range": [
+        58,
+        71
+      ],
+      "_id": "3bzYf9qjiVkMgfg6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decontamination facility",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.3bzYf9qjiVkMgfg6"
+    },
+    {
+      "range": [
+        72,
+        86
+      ],
+      "_id": "icgYWOzw2t9mG2Fz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous material storage",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.icgYWOzw2t9mG2Fz"
+    },
+    {
+      "range": [
+        87,
+        100
+      ],
+      "_id": "3Xgx4mzvtQg1ACKJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creature or animal pens",
+      "name": "",
+      "_key": "!tables.results!EBetkiawfEYbNHUr.3Xgx4mzvtQg1ACKJ"
+    }
+  ],
+  "folder": "6HWOhc1aNrOMGOiH",
+  "sort": 7,
+  "_id": "EBetkiawfEYbNHUr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Area types can range from the general (religious establishments) to the specific (diner), but I’ve included examples and alternatives to help inspire ideas that would fit your world truths.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829721279,
+    "modifiedTime": 1698831407457,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!EBetkiawfEYbNHUr"
+}

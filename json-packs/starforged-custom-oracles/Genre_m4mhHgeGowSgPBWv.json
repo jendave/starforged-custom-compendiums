@@ -1,0 +1,290 @@
+{
+  "name": "Genre",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "o06TGr8QBw61WtX2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blues",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.o06TGr8QBw61WtX2"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "4vq73xUeTSYiHkr3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Classical",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.4vq73xUeTSYiHkr3"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "6qzdObNiQDNgZGf4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dance",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.6qzdObNiQDNgZGf4"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "FNAv8xaLU7Edab0F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electronica",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.FNAv8xaLU7Edab0F"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "v4hJR2dEfgF8MghO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Folk",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.v4hJR2dEfgF8MghO"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "kKjpFHF8TSFHAFOX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jazz",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.kKjpFHF8TSFHAFOX"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "riDtfx1MjIG3ZSzT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metal",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.riDtfx1MjIG3ZSzT"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "LLFqLWuAv6rjQFY8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rock",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.LLFqLWuAv6rjQFY8"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "gWWNlW6gpbIkxVXf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shanty",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.gWWNlW6gpbIkxVXf"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "xlf7uICbvzeZ17kq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Soul",
+      "name": "",
+      "_key": "!tables.results!m4mhHgeGowSgPBWv.xlf7uICbvzeZ17kq"
+    }
+  ],
+  "folder": "zbwbhd6jAdRpHAZ8",
+  "sort": 1,
+  "_id": "m4mhHgeGowSgPBWv",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you encounter music, roll once on column A and once on column B. Use the Core Oracles to determine the song’s meaning, intent, or subtext. Notably, the unusual combination of Descriptor (p298) + Theme (p297) will generate good song material.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293191861,
+    "modifiedTime": 1699294887625,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!m4mhHgeGowSgPBWv"
+}

@@ -1,0 +1,316 @@
+{
+  "name": "Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        9
+      ],
+      "_id": "ZxNpCCMGpKi5aNjw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Freedom",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.ZxNpCCMGpKi5aNjw"
+    },
+    {
+      "range": [
+        10,
+        18
+      ],
+      "_id": "E58pxvo2Dv1cEbbf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hide",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.E58pxvo2Dv1cEbbf"
+    },
+    {
+      "range": [
+        19,
+        27
+      ],
+      "_id": "O3PsUIKfgZGleYSC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kelvin",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.O3PsUIKfgZGleYSC"
+    },
+    {
+      "range": [
+        28,
+        36
+      ],
+      "_id": "c3TGGKwTfj7si8XZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nomad",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.c3TGGKwTfj7si8XZ"
+    },
+    {
+      "range": [
+        37,
+        45
+      ],
+      "_id": "A3I9H7kvKHIFMoqv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nyx",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.A3I9H7kvKHIFMoqv"
+    },
+    {
+      "range": [
+        46,
+        54
+      ],
+      "_id": "uEC0rO7J9XjV7Ozy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orphan",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.uEC0rO7J9XjV7Ozy"
+    },
+    {
+      "range": [
+        55,
+        63
+      ],
+      "_id": "NNixGG7UabGXB8mS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outcast",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.NNixGG7UabGXB8mS"
+    },
+    {
+      "range": [
+        64,
+        72
+      ],
+      "_id": "u2F1g6JEQvRoAGIr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pitch",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.u2F1g6JEQvRoAGIr"
+    },
+    {
+      "range": [
+        73,
+        81
+      ],
+      "_id": "zifycRBJBxilmFwQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planemo",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.zifycRBJBxilmFwQ"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "S66wyyz288NpiyMe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wanderer",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.S66wyyz288NpiyMe"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "Ugmw9xIQzcMb28qr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenos",
+      "name": "",
+      "_key": "!tables.results!dROGDPuBcWKyIsca.Ugmw9xIQzcMb28qr"
+    }
+  ],
+  "folder": "mY1nGFZyyxbn689S",
+  "sort": 4,
+  "_id": "dROGDPuBcWKyIsca",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet ripped away from the star system where it was born, now roaming the cold depths of space.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288161311,
+    "modifiedTime": 1703293658027,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!dROGDPuBcWKyIsca"
+}

@@ -1,0 +1,290 @@
+{
+  "name": "Observed From Space",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "2t3XBaWuOTt1LdeZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Canyon-sized fractures",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.2t3XBaWuOTt1LdeZ"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "M6s5bgNLp9IbScYG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex grain boundaries",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.M6s5bgNLp9IbScYG"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "J6y9tRDNyumcBZR6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dent-like craters",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.J6y9tRDNyumcBZR6"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "3Pv5gQFAQ1G20hxc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extensive magnetic field",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.3Pv5gQFAQ1G20hxc"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "crWKPWn66MQR81Af",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flows of liquid metal",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.crWKPWn66MQR81Af"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "S8b1VS1sCms9IUEE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense gravity",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.S8b1VS1sCms9IUEE"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "gHZgTXdqJyePNedh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mirror-like surfaces",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.gHZgTXdqJyePNedh"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "Qdqhyo78StTKKRZb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patches of oxidation",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.Qdqhyo78StTKKRZb"
+    },
+    {
+      "range": [
+        89,
+        98
+      ],
+      "_id": "pgI77wazUlAEKup3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.pgI77wazUlAEKup3"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Y86xHfJkwlbn35lK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (orbital)",
+      "name": "",
+      "_key": "!tables.results!xTq1jF3mcP0F6ixH.Y86xHfJkwlbn35lK"
+    }
+  ],
+  "folder": "eU4npVOAb4pNqD8R",
+  "sort": 1,
+  "_id": "xTq1jF3mcP0F6ixH",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of metals and metal alloys.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288269187,
+    "modifiedTime": 1703293861977,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!xTq1jF3mcP0F6ixH"
+}

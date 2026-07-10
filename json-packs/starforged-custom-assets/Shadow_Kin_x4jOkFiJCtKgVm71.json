@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "Shadow-Kin",
+  "system": {
+    "requirement": "<p>Once you mark traumatized…</p>",
+    "category": "Deed",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You harden your heart: Reduce your heart stat by 1 and add up to +2 to shadow (to a maximum of +4).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You are attuned to the realms of shadow: When you perform a ritual, add +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You know the sly ways of death: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0cfcd6fbaf6135d0]{Face Death}, you may roll +shadow (instead of +heart). On a weak hit, if you choose to undertake a death-bound quest, you may roll +shadow (instead of +heart) and reroll any dice as you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow}. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.985a5415860a99e9]{Fulfill Your Vow} on that quest fill 1 box on your quests legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/moon.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Shadow-Kin",
+      "dsid": "asset:classic/path/shadow_kin",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759821780699,
+    "modifiedTime": 1759885547326,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "x4jOkFiJCtKgVm71",
+  "sort": 0,
+  "_key": "!items!x4jOkFiJCtKgVm71"
+}

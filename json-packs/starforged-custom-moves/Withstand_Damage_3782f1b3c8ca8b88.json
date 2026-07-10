@@ -1,0 +1,98 @@
+{
+  "_id": "3782f1b3c8ca8b88",
+  "type": "sfmove",
+  "name": "Withstand Damage",
+  "img": "icons/dice/d10black.svg",
+  "folder": "aa394f7b4fefb91e",
+  "system": {
+    "dfid": "Starforged/Moves/Suffer/Withstand_Damage",
+    "Category": "Starforged/Moves/Suffer",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When your command, support, or incidental asset faces a damaging situation or environment__, suffer -1 integrity for minor damage, -2 for serious damage, or -3 for major damage. If your integrity is 0, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} equal to any remaining damage.\n\nThen, if your integrity is 0 or you choose to resist the damage, roll +integrity.\n\nOn a __strong hit__, choose one.\n\n  * Damage Control: If your asset is not battered, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} in exchange for +1 integrity.\n  * Hold Fast: Take +1 momentum.\n\nOn a __weak hit__, you carry on.\n\nOn a __miss__, it’s worse than you thought. Suffer an additional -1 integrity or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-2). If your integrity is 0, also suffer a cost according to the type below.\n\n  * __Command asset:__ Mark the asset as __battered__ or __cursed__, mark a linked asset as __broken__, destroy a broken linked asset by discarding it, or roll on the table below. If the command asset is destroyed, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a44ecb0d77487549]{Overcome Destruction}.\n  * __Support asset:__ Mark the asset as __battered__ or roll on the table below. If the asset is destroyed, discard the asset.\n  * __Incidental asset:__ Roll on the table below.",
+    "Trigger": {
+      "Text": "When your vehicle faces a damaging situation or environment...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Vehicle Integrity"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, choose one.\n\n  * Damage Control: If your asset is not battered, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} in exchange for +1 integrity.\n  * Hold Fast: Take +1 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you carry on.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, it’s worse than you thought. Suffer an additional -1 integrity or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-2). If your integrity is 0, also suffer a cost according to the type below.\n\n  * __Command asset:__ Mark the asset as __battered__ or __cursed__, mark a linked asset as __broken__, destroy a broken linked asset by discarding it, or roll on the table below. If the command asset is destroyed, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a44ecb0d77487549]{Overcome Destruction}.\n  * __Support asset:__ Mark the asset as __battered__ or roll on the table below. If the asset is destroyed, discard the asset.\n  * __Incidental asset:__ Roll on the table below.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [
+      "Starforged/Oracles/Moves/Withstand_Damage"
+    ],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 206
+    },
+    "Suggestions": {},
+    "dsOracleIds": [
+      "move.oracle_rollable:starforged/suffer/withstand_damage.withstand_damage"
+    ]
+  },
+  "sort": 206,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Suffer/Withstand_Damage",
+      "dsid": "move:starforged/suffer/withstand_damage"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759391602585,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!3782f1b3c8ca8b88"
+}

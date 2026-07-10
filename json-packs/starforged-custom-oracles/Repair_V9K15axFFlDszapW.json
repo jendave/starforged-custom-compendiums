@@ -1,0 +1,134 @@
+{
+  "name": "Repair",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "VQbvqRlApH1SKTco",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You gain 1 additional repair point",
+      "name": "",
+      "_key": "!tables.results!V9K15axFFlDszapW.VQbvqRlApH1SKTco"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "5ijgAXaJQpCBNdDf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You gain 1 additional repair point",
+      "name": "",
+      "_key": "!tables.results!V9K15axFFlDszapW.5ijgAXaJQpCBNdDf"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "kZtnvq6Pgzc6eNMc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You gain 2 additional repair points",
+      "name": "",
+      "_key": "!tables.results!V9K15axFFlDszapW.kZtnvq6Pgzc6eNMc"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "t01rpTwqK5oF7Fiq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You gain 2 additional repair points",
+      "name": "",
+      "_key": "!tables.results!V9K15axFFlDszapW.t01rpTwqK5oF7Fiq"
+    }
+  ],
+  "folder": "LwKVjlyCZpJ2AL5U",
+  "sort": 4,
+  "_id": "V9K15axFFlDszapW",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466585457,
+    "modifiedTime": 1728515641259,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!V9K15axFFlDszapW"
+}

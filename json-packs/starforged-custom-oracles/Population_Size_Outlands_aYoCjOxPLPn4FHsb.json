@@ -1,0 +1,134 @@
+{
+  "name": "Population Size Outlands",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "BU9tLiQyCSOldI6Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Few",
+      "name": "",
+      "_key": "!tables.results!aYoCjOxPLPn4FHsb.BU9tLiQyCSOldI6Q"
+    },
+    {
+      "range": [
+        21,
+        59
+      ],
+      "_id": "HZ2VPXMKOfV0LwCe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dozens",
+      "name": "",
+      "_key": "!tables.results!aYoCjOxPLPn4FHsb.HZ2VPXMKOfV0LwCe"
+    },
+    {
+      "range": [
+        60,
+        98
+      ],
+      "_id": "mT0uNE4DNVNhAc2n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hundreds",
+      "name": "",
+      "_key": "!tables.results!aYoCjOxPLPn4FHsb.mT0uNE4DNVNhAc2n"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ECBUzUnaHVxLiltg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thousands",
+      "name": "",
+      "_key": "!tables.results!aYoCjOxPLPn4FHsb.ECBUzUnaHVxLiltg"
+    }
+  ],
+  "folder": "QRR5x4jfLZ6zpF1w",
+  "sort": 100000,
+  "_id": "aYoCjOxPLPn4FHsb",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This is used to determine the number of people in a district, but you may already have an idea of this from the settlement population. </p><p>This is also affected by the size of a district, a physically larger district can fit more people without feeling crowded.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829691567,
+    "modifiedTime": 1698830322235,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!aYoCjOxPLPn4FHsb"
+}

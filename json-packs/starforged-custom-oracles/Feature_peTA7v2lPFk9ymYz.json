@@ -1,0 +1,420 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "L7Zula3ihTxXcoUq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blizzards of carbon monoxide snow",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.L7Zula3ihTxXcoUq"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "oZ1Prpmh8MZhyEBO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bodies of water frozen solid",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.oZ1Prpmh8MZhyEBO"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "YBjPN7waIqmIkYGk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boulders of frozen nitrogen",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.YBjPN7waIqmIkYGk"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "lg728XX92fNAAlfK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bright starry skies",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.lg728XX92fNAAlfK"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "joQ37Tf7hWvKNTBC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confusing local magnetic fields",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.joQ37Tf7hWvKNTBC"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "h3I7gL5O3jgfmmAf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydrothermal vents",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.h3I7gL5O3jgfmmAf"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "tcG2TBwnXfggooDN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inactive cryovolcanoes",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.tcG2TBwnXfggooDN"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "HD5ggI4fUlFqLssO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liquid helium rain",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.HD5ggI4fUlFqLssO"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "8AtlBd3xJj7kpub8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Puddles of superfluids",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.8AtlBd3xJj7kpub8"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "7vQDpERnCIbt3v3X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regions heated by radioactive decay",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.7vQDpERnCIbt3v3X"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "i9NUgdARENN7CDvu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sublimating crystals",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.i9NUgdARENN7CDvu"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "G8yW6VA1wPWofyOu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsurface water kept liquid",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.G8yW6VA1wPWofyOu"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "BPyYrSGqDU6qIJJf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick mists running along the ground",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.BPyYrSGqDU6qIJJf"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "SzO3TwkfgTbz04qH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.SzO3TwkfgTbz04qH"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "VkUnzutK6avbfr4u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (planetside)",
+      "name": "",
+      "_key": "!tables.results!peTA7v2lPFk9ymYz.VkUnzutK6avbfr4u"
+    }
+  ],
+  "folder": "mY1nGFZyyxbn689S",
+  "sort": 2,
+  "_id": "peTA7v2lPFk9ymYz",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet ripped away from the star system where it was born, now roaming the cold depths of space.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288161295,
+    "modifiedTime": 1703293651077,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!peTA7v2lPFk9ymYz"
+}

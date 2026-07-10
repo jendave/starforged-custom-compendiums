@@ -1,0 +1,212 @@
+{
+  "name": "Living",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        14
+      ],
+      "_id": "Mg9V90ZG43RwT2tr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communal baths",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.Mg9V90ZG43RwT2tr"
+    },
+    {
+      "range": [
+        15,
+        29
+      ],
+      "_id": "sdRfDqBOzZBZUn5s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food storage",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.sdRfDqBOzZBZUn5s"
+    },
+    {
+      "range": [
+        30,
+        43
+      ],
+      "_id": "KkNaokMCFUFzvGyG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hotels (capsule hotel, hourly motels, shore leave dorms, leisure apartments)",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.KkNaokMCFUFzvGyG"
+    },
+    {
+      "range": [
+        44,
+        57
+      ],
+      "_id": "KouGhe2Q7NsEONqh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Training grounds",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.KouGhe2Q7NsEONqh"
+    },
+    {
+      "range": [
+        58,
+        71
+      ],
+      "_id": "dJwFVhOFIDo3EZpQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laundry",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.dJwFVhOFIDo3EZpQ"
+    },
+    {
+      "range": [
+        72,
+        86
+      ],
+      "_id": "doz6hPnXspEogaeT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living quarters (apartments, houses on stilts, boathouses)",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.doz6hPnXspEogaeT"
+    },
+    {
+      "range": [
+        87,
+        100
+      ],
+      "_id": "j4APZiIJZzPssTz4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mess/dining hall",
+      "name": "",
+      "_key": "!tables.results!6ztqHE1rm55LesPs.j4APZiIJZzPssTz4"
+    }
+  ],
+  "folder": "6HWOhc1aNrOMGOiH",
+  "sort": 3,
+  "_id": "6ztqHE1rm55LesPs",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Area types can range from the general (religious establishments) to the specific (diner), but I’ve included examples and alternatives to help inspire ideas that would fit your world truths.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829721226,
+    "modifiedTime": 1698831318365,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!6ztqHE1rm55LesPs"
+}

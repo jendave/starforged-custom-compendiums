@@ -1,0 +1,602 @@
+{
+  "name": "Community/Social",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "MPNvgcwf7xzn2V8x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Club (night club, body-mod cult, hunter's bar with the heads of local fauna displayed on the walls)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.MPNvgcwf7xzn2V8x"
+    },
+    {
+      "range": [
+        6,
+        9
+      ],
+      "_id": "SuYGdK9FjT9MiXDa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Botanical garden (small neighbourhood park, empty plot of land)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.SuYGdK9FjT9MiXDa"
+    },
+    {
+      "range": [
+        10,
+        14
+      ],
+      "_id": "CztYctwgojm8sQaC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Casino (high speed race course, arena fighting, back-room poker game, pachinko parlour, pokies machine)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.CztYctwgojm8sQaC"
+    },
+    {
+      "range": [
+        15,
+        18
+      ],
+      "_id": "3RWOBhsYLCgqNkru",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diner",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.3RWOBhsYLCgqNkru"
+    },
+    {
+      "range": [
+        19,
+        23
+      ],
+      "_id": "47wc5qoPdevKL6Up",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restaurant",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.47wc5qoPdevKL6Up"
+    },
+    {
+      "range": [
+        24,
+        27
+      ],
+      "_id": "t57JXyt8HGKopVwL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Café",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.t57JXyt8HGKopVwL"
+    },
+    {
+      "range": [
+        28,
+        32
+      ],
+      "_id": "Uobo2MdkXYSAczDf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Street hawkers (night food market, local food market)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.Uobo2MdkXYSAczDf"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "qwnw6JCNXaeb2Xz2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dive bar",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.qwnw6JCNXaeb2Xz2"
+    },
+    {
+      "range": [
+        37,
+        41
+      ],
+      "_id": "eMXaRXctFCsEJqfu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Education (primary school, secondary college, university, trade school, military training, library, research facilities, dorm rooms)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.eMXaRXctFCsEJqfu"
+    },
+    {
+      "range": [
+        42,
+        45
+      ],
+      "_id": "Re9rcqoccw2wtWfS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment (VR feeds, illegal ghting ring (watching or participating), racing (on land or in space, watching or participating)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.Re9rcqoccw2wtWfS"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "9lwuagz29nUwhuiX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Promenade or overlook (over hanging balcony)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.9lwuagz29nUwhuiX"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "62BaR2Mh1Gt3b5zI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Red light district (seedyback alleys with shi ing shadows, strip clubs, high end entertainment establishments, full-immersion VR experiences, dodgy hourly motels)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.62BaR2Mh1Gt3b5zI"
+    },
+    {
+      "range": [
+        56,
+        59
+      ],
+      "_id": "Vs7WzvXY2sI5NPU6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Relaxation (massage parlour, spa, drug den, beauty parlour, see red light district)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.Vs7WzvXY2sI5NPU6"
+    },
+    {
+      "range": [
+        60,
+        64
+      ],
+      "_id": "wY48cVwuTTMga97J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious establishments (temple, church, mosque, glade in the light of the planet's two moons, a dark cavern in the depths of an precursor vault, embalmer)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.wY48cVwuTTMga97J"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "z2chx9mm3ziyJL5E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, black iron trader, street vendors, gadgets/trinket stalls, information brokers)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.z2chx9mm3ziyJL5E"
+    },
+    {
+      "range": [
+        69,
+        73
+      ],
+      "_id": "pAucJ4dd3BAsZitr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sporting facility (arena to ght the local wildlife, rock climbing on planets filled with canyons, anti-gravity basketball)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.pAucJ4dd3BAsZitr"
+    },
+    {
+      "range": [
+        74,
+        77
+      ],
+      "_id": "IXQvDFT5V7olPnhP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communication hub (weave/lan cafe, interface forlocal news feeds, official government-run communication array, satellite control centre owned by the rich and powerful, hidden/cobbled-together computer parts linked to a rebel network, gossipmongers hanging around the water recyclers)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.IXQvDFT5V7olPnhP"
+    },
+    {
+      "range": [
+        78,
+        82
+      ],
+      "_id": "JBCoBbG1VTgJ6zzm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faction house (guild house, faction's satellite office)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.JBCoBbG1VTgJ6zzm"
+    },
+    {
+      "range": [
+        83,
+        86
+      ],
+      "_id": "boJFbFq9nlUR8p3p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gang territory (drug dealer's corner, organised crime lord's headquarters, local mercenary's hangout)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.boJFbFq9nlUR8p3p"
+    },
+    {
+      "range": [
+        87,
+        91
+      ],
+      "_id": "oUFk0QdGurpZsdyZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High society (expensive parties, elegant soirees, rich merchant's mansion)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.oUFk0QdGurpZsdyZ"
+    },
+    {
+      "range": [
+        92,
+        95
+      ],
+      "_id": "6zHbpIN6DR5FzYG2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seer (mystic, shaman, healer)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.6zHbpIN6DR5FzYG2"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ArzKUkJIrWXo1jid",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Showroom (land/sea support vehicle, latest precursor artefact inspired technology)",
+      "name": "",
+      "_key": "!tables.results!q63p0dUJ9wBQ9BYn.ArzKUkJIrWXo1jid"
+    }
+  ],
+  "folder": "6HWOhc1aNrOMGOiH",
+  "sort": 1,
+  "_id": "q63p0dUJ9wBQ9BYn",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Area types can range from the general (religious establishments) to the specific (diner), but I’ve included examples and alternatives to help inspire ideas that would fit your world truths.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829721181,
+    "modifiedTime": 1698831268318,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!q63p0dUJ9wBQ9BYn"
+}

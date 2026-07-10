@@ -1,0 +1,290 @@
+{
+  "name": "Prefixes (3-4)",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "8dpITb0HnATqytiZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Synth",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.8dpITb0HnATqytiZ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "41ILfZq5jxxVuVyA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neon",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.41ILfZq5jxxVuVyA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "MPhpczKlp8E9GGGh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infiniti",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.MPhpczKlp8E9GGGh"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "sKQa7tBGOgLVoph4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bio",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.sKQa7tBGOgLVoph4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "UFLz3SNg9iTuvVg8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nexus",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.UFLz3SNg9iTuvVg8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "N2DLlHQFE5RgGraw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulse",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.N2DLlHQFE5RgGraw"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "xdB1XtvYeRr3KxtG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aether",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.xdB1XtvYeRr3KxtG"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "qdLzBkPGDgugXeqs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Omega",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.qdLzBkPGDgugXeqs"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "PXZJ0Hr2CTdY4uKr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wave",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.PXZJ0Hr2CTdY4uKr"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "CUyCKPKik2q11n4b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hyper",
+      "name": "",
+      "_key": "!tables.results!FNdAYylXJaIzHJPl.CUyCKPKik2q11n4b"
+    }
+  ],
+  "folder": "DAFtg8Tac26WnOw1",
+  "sort": 1,
+  "_id": "FNdAYylXJaIzHJPl",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Begin by rolling 1-2 times on the Megacorp prefix table, then roll once on the Megacorp stylizer table. Finally, combine the results into a nefarious and opaque megacorp name and allow it to inspire the faction's descriptions, goals, and motivations.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.9",
+    "coreVersion": "13.350",
+    "createdTime": 1700588876306,
+    "modifiedTime": 1700589234105,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!FNdAYylXJaIzHJPl"
+}

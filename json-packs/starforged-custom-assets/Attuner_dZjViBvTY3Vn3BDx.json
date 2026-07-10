@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Attuner",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you focus your mind and attune a weapon to latent energy fields, roll +heart. On a strong hit, the wielder is empowered; when the wielder makes a move to inflict harm with it and score a hit, mark progress. If they roll a 1 on their action die, the effect is lost. On a weak hit, as above, but the attunement drains you; make a suffer move (-2).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Once per fight, the wielder may trigger a surge from the weapon to take an automatic strong hit when they @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash}. If they do, the energy is destabilizing; they @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Once per attunement, the wielder may discharge the weapon's energy to take an automatic strong hit when making the @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} move. If they do, take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/thor-fist.svg",
+  "effects": [],
+  "sort": 187500,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Keen",
+      "dsid": "asset:classic/ritual/keen",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.1e977a081d0ffa91",
+    "duplicateSource": "Item.mBKXfrqHgeop1Pvv",
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "dZjViBvTY3Vn3BDx",
+  "_key": "!items!dZjViBvTY3Vn3BDx"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Additional Backgrounds",
+  "formula": "1d100",
+  "description": "<p>Need some inspiration to choose your first two paths? Here’s a set of 5 new backgrounds to help you.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        19
+      ],
+      "_id": "832S5bKftCQMg8FG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Android - Augmented; Tech",
+      "name": "",
+      "_key": "!tables.results!eULwmhJYO9uQbHQM.832S5bKftCQMg8FG"
+    },
+    {
+      "range": [
+        20,
+        39
+      ],
+      "_id": "YdQJt14Ctd5rvomc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marine - Weaponmaster; Veteran",
+      "name": "",
+      "_key": "!tables.results!eULwmhJYO9uQbHQM.YdQJt14Ctd5rvomc"
+    },
+    {
+      "range": [
+        40,
+        59
+      ],
+      "_id": "vABHwvs0ArWO6qnb",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miner - Demolitionist; Naturalist",
+      "name": "",
+      "_key": "!tables.results!eULwmhJYO9uQbHQM.vABHwvs0ArWO6qnb"
+    },
+    {
+      "range": [
+        60,
+        79
+      ],
+      "_id": "RVO9MK7TJy2MmhaY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officer - Gunslinger; Armored",
+      "name": "",
+      "_key": "!tables.results!eULwmhJYO9uQbHQM.RVO9MK7TJy2MmhaY"
+    },
+    {
+      "range": [
+        80,
+        100
+      ],
+      "_id": "mBfw0MtW4lHP3iji",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spy - Infiltrator; Scoundrel",
+      "name": "",
+      "_key": "!tables.results!eULwmhJYO9uQbHQM.mBfw0MtW4lHP3iji"
+    }
+  ],
+  "_id": "eULwmhJYO9uQbHQM",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!eULwmhJYO9uQbHQM"
+}

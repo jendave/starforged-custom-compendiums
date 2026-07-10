@@ -1,0 +1,143 @@
+{
+  "folder": "8jBpt7vuLit8cDuy",
+  "name": "Legacy Iron Assets",
+  "_id": "Ajevjx4opRkGteGI",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Companion Assets",
+      "type": "text",
+      "_id": "WCnLhuSZElcxxAgd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.n8wKtHFfJrNCzq1w]{Giant Spider}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.rnsHKi3EgNO6lTnK]{Hawk}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.OTKf0V9xaOQeLUSi]{Horse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.rTRpjSlAvEklrieL]{Hound}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.xpOxPPIzaiEqnNOS]{Kin Blade}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.efDhO98nrvB0Ffkw]{Lion}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.SoM7HscNoNJqdqDq]{Mammoth}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.S92mLB0cBGBl3bX9]{Owl}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.2SqXv1O7iRDqQfHU]{Raven}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5MDIBPmPACXXSsYu]{Wyvern}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1760852466338,
+        "modifiedTime": 1760852554535,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Ajevjx4opRkGteGI.WCnLhuSZElcxxAgd"
+    },
+    {
+      "sort": 200000,
+      "name": "Deed Assets",
+      "type": "text",
+      "_id": "mXj4U6SxTpbKe1cd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.HfWrY1GdnXTIkRga]{Masked}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1760852478116,
+        "modifiedTime": 1760852603005,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Ajevjx4opRkGteGI.mXj4U6SxTpbKe1cd"
+    },
+    {
+      "sort": 300000,
+      "name": "Path Assets",
+      "type": "text",
+      "_id": "utUFwjjvabZaJtaP",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.eED3kOAd0Dywoq8x]{Aegismith}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.vTj4u4gejnvHYAkG]{Alchemist}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.dZjViBvTY3Vn3BDx]{Attuner}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.K7nhour0IpRVqOZV]{Berserker}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.343boHhlpGUggqxt]{Binder}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.N3QOrTGMiTSOR0n2]{Enhanced}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.wwrLrUfpN00wzBja]{Geneweaver}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.zDnnQDlMSWq5GZjB]{Honorbound}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.8arqdEipZkzdM61e]{Invoker}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.9zvyC3swFp5bHt9d]{Keen Singer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.E91lh3AcUKu2Gayn]{Leech}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.pU0XdV1mTk4CyCba]{Lightbearer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.De1VJOxs5Azv8JpE]{Long-Arm}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.zzfivA2MEGAYdCMV]{Nanophage}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.wG7dKl16vVULmMA1]{Rider}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.eTRgGWOPWeQUYZDy]{Shield-Bearer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.uMaMqpEzZIGyUDaO]{Sighted}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.CMrywxUgv8kJTOPE]{Skirmisher}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.XfOav2q9LWEC7EwO]{Slinger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.TJ33aFISC0bmVzDR]{Sunderer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.nKp993ormZrCTewu]{Talisman Maker}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.crbgplVBb1qTjYh2]{Tetherer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.lfGCKMfh2vSISkfD]{Thunder-Bringer}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.zn6cnJ5z0lxFddmW]{Totem Master}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.ftCxTzV7hoG3OeCf]{Visager}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomassets.Item.xOX2uoafbY2G5rrB]{Warder}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1760852492877,
+        "modifiedTime": 1760852760772,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Ajevjx4opRkGteGI.utUFwjjvabZaJtaP"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760852436695,
+    "modifiedTime": 1760852436695,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!Ajevjx4opRkGteGI"
+}

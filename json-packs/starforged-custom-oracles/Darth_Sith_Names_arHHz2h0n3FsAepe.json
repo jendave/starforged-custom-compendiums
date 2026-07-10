@@ -1,0 +1,2630 @@
+{
+  "name": "Darth/Sith Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "L6XAnt22OrTTCKmK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kalasik",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.L6XAnt22OrTTCKmK"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "2jTxZRxpwBTb7jLQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volk'in",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.2jTxZRxpwBTb7jLQ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "S4qLAoFG1NALnvjb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boruuk",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.S4qLAoFG1NALnvjb"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "ulQFpWsJ5wbGQNBh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unta'mok",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.ulQFpWsJ5wbGQNBh"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "A3WJs0Cb3kjRZou6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kataliis",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.A3WJs0Cb3kjRZou6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "O44oQtaoBIpZ3Mdk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imperatus",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.O44oQtaoBIpZ3Mdk"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "dv6xBbRi33orSzkE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gavidian",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.dv6xBbRi33orSzkE"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "TofX1DiEvdIBD5mb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xarallus",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.TofX1DiEvdIBD5mb"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "t0E4NSd22prC3hvS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruuv",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.t0E4NSd22prC3hvS"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "zd0RDhYpS0JfltkD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mai'ot'arru'Aud (She-Who-Greets-With-Fire)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.zd0RDhYpS0JfltkD"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "YZZlHsULFyUh58iG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nullum",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.YZZlHsULFyUh58iG"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "tWWIQ1qvOVMqUyqn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sezic",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.tWWIQ1qvOVMqUyqn"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "YboiqPY9xyj9HCEa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fatallis",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.YboiqPY9xyj9HCEa"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "RyBm5dkX9Qai3kzm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imladdi",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.RyBm5dkX9Qai3kzm"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "uhS8320bFii7aD4q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruul",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.uhS8320bFii7aD4q"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "EbPNLLczRPmukwHb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vor (The Prophet of Alderaan)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.EbPNLLczRPmukwHb"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "zcKQKhaC1XuxobAn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pau'rudar",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.zcKQKhaC1XuxobAn"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "HfwDAkKYEdHPLiZm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naatam",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.HfwDAkKYEdHPLiZm"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "nHNfufzVFzftMt3V",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ordana",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.nHNfufzVFzftMt3V"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "hDpgt6IBhoouGzCe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bo",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.hDpgt6IBhoouGzCe"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "rmCpGZfXG38gnRuj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eradic",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.rmCpGZfXG38gnRuj"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "Z1rTzEO0otq5qJ26",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Domin'gard",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.Z1rTzEO0otq5qJ26"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "lbxkPwNeUjmshVEO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Redeemless",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.lbxkPwNeUjmshVEO"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "oLD1Y8OOKtSJXaPQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rijiyk",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.oLD1Y8OOKtSJXaPQ"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "lpeu2bE00VOXNzdN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orispar (The Oracle)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.lpeu2bE00VOXNzdN"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "Ot4YgMS2QsPFbaWw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lorh",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.Ot4YgMS2QsPFbaWw"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "zT0HXPWomLRbbOB4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferrik (The Jade-Eyed)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.zT0HXPWomLRbbOB4"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "yF3gT2upQ41ySHAC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zrii'zriit",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.yF3gT2upQ41ySHAC"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "M46nF4XPZtaYtjoB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Qaesitor",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.M46nF4XPZtaYtjoB"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "u9u4uSIqi4FBdBVI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trah (The Quested)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.u9u4uSIqi4FBdBVI"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "lhnOIfrVRcRTLYnS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chi'ranoth",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.lhnOIfrVRcRTLYnS"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "4zxor1KZD5EWPP84",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Galrith",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.4zxor1KZD5EWPP84"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "RruT3XfRm6vupwZi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nava",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.RruT3XfRm6vupwZi"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "MRQyLtisoNKFOUv3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lyyyrrd",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.MRQyLtisoNKFOUv3"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "UBHTPlgnJ8ecnLzM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "C'v'okk",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.UBHTPlgnJ8ecnLzM"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "X2mtG8ggm5fBXjRV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Milvinji",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.X2mtG8ggm5fBXjRV"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "nn6VQ1pAL2sa3NST",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tar-kar",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.nn6VQ1pAL2sa3NST"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "iku0pQzyfMGD1ydy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vindik",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.iku0pQzyfMGD1ydy"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "eQXZk6y1Rujhrv1R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gripp",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.eQXZk6y1Rujhrv1R"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "o4DJ1iGfHCeCM6m2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ilgosuu",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.o4DJ1iGfHCeCM6m2"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "LyTUG6spo3Jg9m2D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fadrenorr",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.LyTUG6spo3Jg9m2D"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "QzqAfrn0Y9LyeHN5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xor Minh Lah (The Ageless Void)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.QzqAfrn0Y9LyeHN5"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "4r6Ynll2vGXrdN3e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sarren",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.4r6Ynll2vGXrdN3e"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "F4qvIEvNdzdwnJGR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mordenta",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.F4qvIEvNdzdwnJGR"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "K78I0tWRJGtr9YFn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vagrasahl",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.K78I0tWRJGtr9YFn"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "XxlKtRRQrCpNNYFM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disint",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.XxlKtRRQrCpNNYFM"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "1UQAZmkZ6Sd4zX4M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diskorrd",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.1UQAZmkZ6Sd4zX4M"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "SPCWLJH59S7NYl0n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mal",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.SPCWLJH59S7NYl0n"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "VjI78ctumVLgavuv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agitayt",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.VjI78ctumVLgavuv"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "N6r7rsGjNepMBq4C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mischief",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.N6r7rsGjNepMBq4C"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "ZQCojiewVccznAro",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zumminer",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.ZQCojiewVccznAro"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "jSnvBqyvNa7ZHaBm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apex",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.jSnvBqyvNa7ZHaBm"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "ZmpoCUNSiIuRctNw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Totalitus",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.ZmpoCUNSiIuRctNw"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "GR6TFWqbDeXWgrzg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reh-mors",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.GR6TFWqbDeXWgrzg"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "LPqNViy8q0NB6Nsn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pitiless",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.LPqNViy8q0NB6Nsn"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "NfWuru0h0RpHoG6W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Revulshuun",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.NfWuru0h0RpHoG6W"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "yhdF1IV8jb3ebPdP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ur'lok (The Defiler)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.yhdF1IV8jb3ebPdP"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "P3Vg1geyDdKKj7Sj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chayyn",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.P3Vg1geyDdKKj7Sj"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "c8RUnGVwS6tFTHe3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wo'o",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.c8RUnGVwS6tFTHe3"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "cqd7DjwcCoiNqMbQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bezma'gite",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.cqd7DjwcCoiNqMbQ"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "_id": "2oJpaPWYOmOF8JOB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tauren",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.2oJpaPWYOmOF8JOB"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "dMDF9ZlpbK5KfCBk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Redolenn",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.dMDF9ZlpbK5KfCBk"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "_id": "nBAPEnSJvkJnC3H1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Koriinth",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.nBAPEnSJvkJnC3H1"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "_id": "i9CpUQkHAev2SSdE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nazr'idul",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.i9CpUQkHAev2SSdE"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "DFsmkcmF34Fp8Ugf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Buudu",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.DFsmkcmF34Fp8Ugf"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "_id": "YHUsyOERvLtNXzuL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydricorr",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.YHUsyOERvLtNXzuL"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "_id": "0XkJQuyIpXM7NWvq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ode",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.0XkJQuyIpXM7NWvq"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "v0IrrDJjfMR1olgE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Herillis (The Traveler)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.v0IrrDJjfMR1olgE"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "_id": "zF8i3GYF4shUeKaL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.zF8i3GYF4shUeKaL"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "_id": "bxbv9ozBbmsQz6C0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yan'ri",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.bxbv9ozBbmsQz6C0"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "kKJl2rgDnleGaz3s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Voiryz",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.kKJl2rgDnleGaz3s"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "_id": "YelqOWBKy8MUNDIG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Centigarri",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.YelqOWBKy8MUNDIG"
+    },
+    {
+      "range": [
+        73,
+        73
+      ],
+      "_id": "cEG9s394LqNLXlEr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undegru (The Defeated)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.cEG9s394LqNLXlEr"
+    },
+    {
+      "range": [
+        74,
+        74
+      ],
+      "_id": "qp0KF4SJO8JxUZ1Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repress",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.qp0KF4SJO8JxUZ1Y"
+    },
+    {
+      "range": [
+        75,
+        75
+      ],
+      "_id": "sO2eaPT6Jp4k0pBw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortune",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.sO2eaPT6Jp4k0pBw"
+    },
+    {
+      "range": [
+        76,
+        76
+      ],
+      "_id": "qHsS8NVDnm35Kyrx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Modomas",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.qHsS8NVDnm35Kyrx"
+    },
+    {
+      "range": [
+        77,
+        77
+      ],
+      "_id": "vM9Pzw7WZi53bwXW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Retaliate",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.vM9Pzw7WZi53bwXW"
+    },
+    {
+      "range": [
+        78,
+        78
+      ],
+      "_id": "OQN45r6fWBibP7uK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vobyyn (The Condemned)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.OQN45r6fWBibP7uK"
+    },
+    {
+      "range": [
+        79,
+        79
+      ],
+      "_id": "kZrCOD9xrbabxAkG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thorr'n",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.kZrCOD9xrbabxAkG"
+    },
+    {
+      "range": [
+        80,
+        80
+      ],
+      "_id": "0ODzDYpbfIXU9iyG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vitalyis (The One Who Wept)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.0ODzDYpbfIXU9iyG"
+    },
+    {
+      "range": [
+        81,
+        81
+      ],
+      "_id": "sLHCIqVCFlBcXQ20",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Authorr (Author of His Own Destiny)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.sLHCIqVCFlBcXQ20"
+    },
+    {
+      "range": [
+        82,
+        82
+      ],
+      "_id": "Swy4GkJK1fOICjG1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tegriit",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.Swy4GkJK1fOICjG1"
+    },
+    {
+      "range": [
+        83,
+        83
+      ],
+      "_id": "OXHy2HeIHpHJT1jW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hizra",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.OXHy2HeIHpHJT1jW"
+    },
+    {
+      "range": [
+        84,
+        84
+      ],
+      "_id": "Dpcmgih70gHTDXkD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restrikkt",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.Dpcmgih70gHTDXkD"
+    },
+    {
+      "range": [
+        85,
+        85
+      ],
+      "_id": "kYAPGQG2CUFoJupg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gor",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.kYAPGQG2CUFoJupg"
+    },
+    {
+      "range": [
+        86,
+        86
+      ],
+      "_id": "A4IiTkLGq8cUNJ6a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jirr &amp; Onirr (The Two Who Are One)",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.A4IiTkLGq8cUNJ6a"
+    },
+    {
+      "range": [
+        87,
+        87
+      ],
+      "_id": "kmUfWEvP9jEtwMCj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kalash",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.kmUfWEvP9jEtwMCj"
+    },
+    {
+      "range": [
+        88,
+        88
+      ],
+      "_id": "1oEc3H6YyI8Q1kU5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seventh",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.1oEc3H6YyI8Q1kU5"
+    },
+    {
+      "range": [
+        89,
+        89
+      ],
+      "_id": "qouwzmSJ6ZQM3iIu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aa'ru",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.qouwzmSJ6ZQM3iIu"
+    },
+    {
+      "range": [
+        90,
+        90
+      ],
+      "_id": "cMo3ugccUpZGW03l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vapydd",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.cMo3ugccUpZGW03l"
+    },
+    {
+      "range": [
+        91,
+        91
+      ],
+      "_id": "m4isqnW2B8D7A7vF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trondu",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.m4isqnW2B8D7A7vF"
+    },
+    {
+      "range": [
+        92,
+        92
+      ],
+      "_id": "S75mav4Bij2c6s4T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forbayyd",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.S75mav4Bij2c6s4T"
+    },
+    {
+      "range": [
+        93,
+        93
+      ],
+      "_id": "tlGkjMFXRX15FJ0b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feer",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.tlGkjMFXRX15FJ0b"
+    },
+    {
+      "range": [
+        94,
+        94
+      ],
+      "_id": "GbJv26lHR4HcvJcd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bas'uul",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.GbJv26lHR4HcvJcd"
+    },
+    {
+      "range": [
+        95,
+        95
+      ],
+      "_id": "FCu3tQwDXpKEPsHb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Errant",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.FCu3tQwDXpKEPsHb"
+    },
+    {
+      "range": [
+        96,
+        96
+      ],
+      "_id": "JfprN1vJU0ORdxD6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zenith",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.JfprN1vJU0ORdxD6"
+    },
+    {
+      "range": [
+        97,
+        97
+      ],
+      "_id": "QY8zavXMmzeDTNlf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nadir",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.QY8zavXMmzeDTNlf"
+    },
+    {
+      "range": [
+        98,
+        98
+      ],
+      "_id": "DOXzc3LjBZsfrMbe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Egresha",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.DOXzc3LjBZsfrMbe"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "kginNQSX5lYEVUMX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Círidül",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.kginNQSX5lYEVUMX"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "Hkn6JNCOKFyP9gXX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malgav",
+      "name": "",
+      "_key": "!tables.results!arHHz2h0n3FsAepe.Hkn6JNCOKFyP9gXX"
+    }
+  ],
+  "folder": "CqCUmYaboFyZ2SWr",
+  "sort": 0,
+  "_id": "arHHz2h0n3FsAepe",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>There are 100 Darth/Sith names to use, on the off chance you do roll up one of those encounters.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707546640478,
+    "modifiedTime": 1707549924964,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!arHHz2h0n3FsAepe"
+}

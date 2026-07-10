@@ -1,0 +1,85 @@
+{
+  "_id": "fd87ca25f4f9beb2",
+  "type": "sfmove",
+  "name": "Take a Break",
+  "img": "icons/dice/d10black.svg",
+  "folder": "cb00661cf10b4177",
+  "system": {
+    "dfid": "Starforged/Moves/Session/Take_a_Break",
+    "Category": "Starforged/Moves/Session",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you resolve a progress move or complete an intense scenario__, take a few deep breaths and take some time to attend to the needs of your body. Reflect on what just happened and how it made you feel. Then, choose one.\n\n  * Move on: Continue the session. You or an ally may add +1 on the next move (not a progress move), bolstered by your reflection and past experiences.\n  * Stop for now: @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.005fa1851e72ab46]{End a Session}.",
+    "Trigger": {
+      "Text": "When you resolve a progress move or complete an intense scenario...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 144
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 144,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Session/Take_a_Break",
+      "dsid": "move:starforged/session/take_a_break"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759365745145,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!fd87ca25f4f9beb2"
+}

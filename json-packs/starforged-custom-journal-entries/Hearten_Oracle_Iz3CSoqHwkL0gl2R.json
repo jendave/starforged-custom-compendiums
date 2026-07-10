@@ -1,0 +1,65 @@
+{
+  "folder": "hFniKyHXGRFKMxw2",
+  "name": "Hearten Oracle",
+  "_id": "Iz3CSoqHwkL0gl2R",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracle",
+      "type": "text",
+      "_id": "IZ7pmUz2ZRv6D08I",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nxXnd6VdHgmulcf2]{Hearten}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758082571858,
+        "modifiedTime": 1758082579810,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Iz3CSoqHwkL0gl2R.IZ7pmUz2ZRv6D08I"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758082566819,
+    "modifiedTime": 1758082566819,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!Iz3CSoqHwkL0gl2R"
+}

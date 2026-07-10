@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "g7wd0xYnugn46YWb",
+  "name": "Old Salt",
+  "system": {
+    "requirement": "<p>Once you fill 4 boxes each on your discovery and bonds legacy tracks…</p>",
+    "category": "Deed",
+    "color": "#40834f",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You are accustomed to a life at sea. When you set sail after a landlocked layover, take +2 momentum or +2 spirit, or +1 of each. When you make landfall, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage} to plot a course through careful study of currents and weather, or if you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.e6ed148eff82c171]{Face Danger} aboard ship to overcome or avoid an environmental hazard such as a storm or rogue wave, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a move to hunt, oppose, study, pacify, or gain the favor of a sea creature, add +1. On a strong hit with a match, envision the surprising insight or affinity you gain; mark 1 tick on your discoveries or bonds legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/at-sea.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/deed/old_salt",
+      "dsid": "asset:sundered_isles/deed/old_salt",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906580697,
+    "modifiedTime": 1759884026928,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "qcJgRKtxoMXqo3yX",
+  "sort": 500000,
+  "_key": "!items!qcJgRKtxoMXqo3yX"
+}

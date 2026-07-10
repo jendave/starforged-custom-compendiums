@@ -1,0 +1,500 @@
+{
+  "name": "Indeterminate Expression",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "2f75sa14h9k1j35h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "They/Them/Their",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.2f75sa14h9k1j35h"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "eCVckqeXt3psDjOO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "They/He",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.eCVckqeXt3psDjOO"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "1BcnOmsEqoTYN2Ql",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "They/She",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.1BcnOmsEqoTYN2Ql"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "FqL0jj0J7cpSblgU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It/It/Its",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.FqL0jj0J7cpSblgU"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "aWJrXOn8eiRqdPkV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ae/Aer/Aer",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.aWJrXOn8eiRqdPkV"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "LLzYoVU8Chnu1AWE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "E/Em/Es",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.LLzYoVU8Chnu1AWE"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "MYetCQXz00YpxOL8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ey/Em/Eir",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.MYetCQXz00YpxOL8"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "FauiHyX6N0pQ9suu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fae/Faer/Faer",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.FauiHyX6N0pQ9suu"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "3Y4NxCTJjlYpJIo9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Per/Per/Per",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.3Y4NxCTJjlYpJIo9"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "3v99gNnMqeGVRha2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tey/Tem/Ter",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.3v99gNnMqeGVRha2"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "TyFaKVnQIax33FE8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thon/Thon/Thons",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.TyFaKVnQIax33FE8"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "ZzwLeSvb9P5KB4u1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ve/Ver/Vis",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.ZzwLeSvb9P5KB4u1"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "ZdNLfKBiLcuItOvE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xe/Xem/Xis",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.ZdNLfKBiLcuItOvE"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "u1oPwGmMRXrc5bue",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll on Masculine Table, or add He/Him/His and roll again!",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.u1oPwGmMRXrc5bue"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "GOhWgMHB1eSSYpT7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll on Feminine Table, or add She/Her/Her and roll again!",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.GOhWgMHB1eSSYpT7"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "R1luQg4AVwd0pl5W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice more on this table, Reroll duplicate pronouns!",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.R1luQg4AVwd0pl5W"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "MvRaVQxUpbVKeeZg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Any",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.MvRaVQxUpbVKeeZg"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "UjfCCA9Jog6mlUTO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None (Name only)",
+      "name": "",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.UjfCCA9Jog6mlUTO"
+    }
+  ],
+  "_id": "D9sUWjV1LkL2IF2O",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>By <span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif\">kindfulkirby</span></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "Q9caS0REseItFckx",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697528074940,
+    "modifiedTime": 1697528567238,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.D9sUWjV1LkL2IF2O",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!D9sUWjV1LkL2IF2O"
+}

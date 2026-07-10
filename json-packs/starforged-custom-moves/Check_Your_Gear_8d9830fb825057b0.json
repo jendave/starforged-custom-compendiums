@@ -1,0 +1,95 @@
+{
+  "_id": "8d9830fb825057b0",
+  "type": "sfmove",
+  "name": "Check Your Gear",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e5b957751be9d2e6",
+  "system": {
+    "dfid": "Starforged/Moves/Adventure/Check_Your_Gear",
+    "Category": "Starforged/Moves/Adventure",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you check to see if you have a specific helpful item or resource__, and you have at least +1 supply, roll +supply.\n\nOn a __strong hit__, you have it, and are ready to act. Take +1 momentum.\n\nOn a __weak hit__, you have it, but your resources are diminished. Take +1 momentum and @Compendium[foundry-ironsworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources} (-1).\n\nOn a __miss__, you don't have it and the situation grows more perilous. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you check to see if you have a specific helpful item or resource...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Supply"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you have it, and are ready to act. Take +1 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you have it, but your resources are diminished. Take +1 momentum and @Compendium[foundry-ironsworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources} (-1).",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you don't have it and the situation grows more perilous. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 153
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 153,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Adventure/Check_Your_Gear",
+      "dsid": "move:starforged/adventure/check_your_gear",
+      "edit-mode": true
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1758854894405,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!8d9830fb825057b0"
+}

@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Peddler",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Once per visit, when you offload valuable goods in a community, roll +wits. On a strong hit, choose two. On a weak hit, choose one. On a miss, you make a bad deal; @Compendium[starforged-custom-oracles.starforgedcustommoves.78baa51694fe37c5]{Pay the Price}.</p>\n<ul>\n<li>Trade for services: Make one recovery move (not Sojourn) with an automatic strong hit</li>\n<li>Trade for clout or solidarity: Mark 1 tick on your bonds legacy track</li>\n<li>Trade for goods or coin: Mark 1 tick on your quests legacy track</li>\n</ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and on a match, you uncover a chance to obtain a unique (if a strong hit) or problematic (if a miss) resource or item. Envision the opportunity. If you secure it, mark 2 ticks on your quests legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.141aec8b92efd14b]{Develop Your Relationship} with a connection through a mutually beneficial trade, mark progress and take +2 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/buy-card.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/path/peddler",
+      "dsid": "asset:sundered_isles/path/peddler"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760214025517,
+    "modifiedTime": 1760214046632,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "nS4T1JNkuVoCoMlu",
+  "sort": 1900000,
+  "_key": "!items!nS4T1JNkuVoCoMlu"
+}

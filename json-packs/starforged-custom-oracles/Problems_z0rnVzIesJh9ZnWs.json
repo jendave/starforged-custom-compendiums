@@ -1,0 +1,550 @@
+{
+  "name": "Problems",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "otK7HTX6tCs65mHz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken medical machinery",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.otK7HTX6tCs65mHz"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "PNQcUivcISmZtZYP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Budget cuts",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.PNQcUivcISmZtZYP"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "oHtVP4B3eOI8T6c6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Critically low on supplies",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.oHtVP4B3eOI8T6c6"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "hMf0vUdxb7pcVOnX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disease outbreak",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.hMf0vUdxb7pcVOnX"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "d9I4J0GhM1YyCahg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Facility under attack",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.d9I4J0GhM1YyCahg"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "57pkgxAps1EJ9Fv3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gang violence",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.57pkgxAps1EJ9Fv3"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "LaHIFSnGpEQmayZj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labor strike",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.LaHIFSnGpEQmayZj"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "bDYYF4pJCOfaAnqx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Land dispute",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.bDYYF4pJCOfaAnqx"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "wW2ZJQ1IZpuiq1sx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Love triangle amongst staff",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.wW2ZJQ1IZpuiq1sx"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "ZNiZ8R7WeTd1Ilfq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Not enough beds",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.ZNiZ8R7WeTd1Ilfq"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "JNDpVALpF2d1gXNm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun by medical students",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.JNDpVALpF2d1gXNm"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "NbS0OohfrxwwUL0N",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plumbing misfortune",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.NbS0OohfrxwwUL0N"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "JTX8I6XLknR7eHEL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power grid fault",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.JTX8I6XLknR7eHEL"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "zlHZ8GyiaEaAI6gV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recently understaffed",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.zlHZ8GyiaEaAI6gV"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "pDMFACT5fmkzNlHh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Staff missing",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.pDMFACT5fmkzNlHh"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "t22BY6UWvc4e3vzK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structural building problems",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.t22BY6UWvc4e3vzK"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "FgxfcGTYE4ewxWIf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted supplies",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.FgxfcGTYE4ewxWIf"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "VvEYAaWGLBAId9Cf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Target of a con or heist",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.VvEYAaWGLBAId9Cf"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "1xgc3RMErKdq2tHl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underqualified staff",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.1xgc3RMErKdq2tHl"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "w6VP4m9iEKRzjkw5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle crash",
+      "name": "",
+      "_key": "!tables.results!z0rnVzIesJh9ZnWs.w6VP4m9iEKRzjkw5"
+    }
+  ],
+  "folder": "OF49XtJ7mT2Z7Pbs",
+  "sort": 1,
+  "_id": "z0rnVzIesJh9ZnWs",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The healers have troubles of their own that need mending. Perhaps they are in need of an outside consultant?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293216795,
+    "modifiedTime": 1699294847494,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!z0rnVzIesJh9ZnWs"
+}

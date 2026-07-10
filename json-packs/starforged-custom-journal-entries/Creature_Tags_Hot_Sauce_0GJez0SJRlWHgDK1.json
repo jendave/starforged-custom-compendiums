@@ -1,0 +1,65 @@
+{
+  "folder": "Dg98T4Ne66OtfKgY",
+  "name": "Creature Tags Hot Sauce",
+  "_id": "0GJez0SJRlWHgDK1",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "Zx0s7e1j5dUJcOu8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xiYXB6fynONsvdpc]{Creature Tags}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.65td17oTsrtqYTRv]{Creature Tags First Words}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.4flLziv6fLL1i6Hn]{Creature Tags Second Words}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ESglxz463G2xEIrz]{All-In-One Lucky Dip}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060799719,
+        "modifiedTime": 1758060814953,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!0GJez0SJRlWHgDK1.Zx0s7e1j5dUJcOu8"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758060795113,
+    "modifiedTime": 1758060795113,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!0GJez0SJRlWHgDK1"
+}

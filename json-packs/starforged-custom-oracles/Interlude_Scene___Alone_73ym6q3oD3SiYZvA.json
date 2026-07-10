@@ -1,0 +1,420 @@
+{
+  "name": "Interlude Scene - Alone",
+  "formula": "1d100",
+  "description": "If you want to explore a interlude scene, or are prompted by the Spacefaring Waypoints table to trigger an interlude, check below for inspiration. For more detail on a scene's focus--such as the nature of a dream or the cause of a dispute--roll on any combination of the Core Oracles and interpret the response. To learn more about interlude scenes, see the Sundered Isles guidebook.",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "ba5EEWjkhZT4VuQ9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chronicle your adventures - What do you describe within logs, journals, or maps? What adventure still calls to you?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.ba5EEWjkhZT4VuQ9"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "1ckQmvZ68InqZHhT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Commune with the universe - What natural phenomenon do you encounter? What inspiration do you draw from the experience?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.1ckQmvZ68InqZHhT"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "bZADr6iOIG9VLpR5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concoct a plan - What new strategy do you devise? How will you put this plan in motion?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.bZADr6iOIG9VLpR5"
+    },
+    {
+      "range": [
+        22,
+        27
+      ],
+      "_id": "oqf6jSr412TcxrCP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conduct research - What is the nature of the research? What information or insight do you gain?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.oqf6jSr412TcxrCP"
+    },
+    {
+      "range": [
+        28,
+        34
+      ],
+      "_id": "3fpfofiCfMfiUex5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conjure up the past - What is the subject of this reminiscence? Why is it meaningful in this moment?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.3fpfofiCfMfiUex5"
+    },
+    {
+      "range": [
+        35,
+        40
+      ],
+      "_id": "3J2oiJ6KJx4M6pdJ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Create an object or artwork  What do you create? What is it intended for?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.3J2oiJ6KJx4M6pdJ"
+    },
+    {
+      "range": [
+        41,
+        47
+      ],
+      "_id": "SbrBlr0EqKdRWlp8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Experience a dream or vision -  What is the nature of the dream or vision? What meaning do you draw from it?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.SbrBlr0EqKdRWlp8"
+    },
+    {
+      "range": [
+        48,
+        54
+      ],
+      "_id": "1hKqGUj3VtWVoUv3",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Find peace - How do you reflect, meditate, or pray? What enlightenment do you gain?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.1hKqGUj3VtWVoUv3"
+    },
+    {
+      "range": [
+        55,
+        60
+      ],
+      "_id": "RwbLP7h0HRTW9fn1",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Indulge a vice - What weakness or need do you indulge? What worry or memory are you distracting yourself from?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.RwbLP7h0HRTW9fn1"
+    },
+    {
+      "range": [
+        61,
+        67
+      ],
+      "_id": "baRiOfltqAhFinCb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Practice a skill - What talent do you hone? What do you learn from the exercise?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.baRiOfltqAhFinCb"
+    },
+    {
+      "range": [
+        68,
+        74
+      ],
+      "_id": "JBw3Kpsn9fUHYILs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ready your gear - How do you maintain your equipment or gear up? What are you preparing for?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.JBw3Kpsn9fUHYILs"
+    },
+    {
+      "range": [
+        75,
+        81
+      ],
+      "_id": "oCu0efxqcqM5GCss",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Record a message - Who is the message meant for? What news or feelings do you share?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.oCu0efxqcqM5GCss"
+    },
+    {
+      "range": [
+        82,
+        87
+      ],
+      "_id": "Aahz0q8Mgae181n9",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reinvent your look - What inspires you to remake yourself? How will you debut your new look?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.Aahz0q8Mgae181n9"
+    },
+    {
+      "range": [
+        88,
+        93
+      ],
+      "_id": "KSCWExj81gHfHCoU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stay vigilant - What are you on the lookout for? What do you spot or overhear?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.KSCWExj81gHfHCoU"
+    },
+    {
+      "range": [
+        94,
+        100
+      ],
+      "_id": "ElAxpj6JbsGZv9xT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take in the view - What sublime or dramatic scenery do you witness? What emotion or memory does it inspire?",
+      "name": "",
+      "_key": "!tables.results!73ym6q3oD3SiYZvA.ElAxpj6JbsGZv9xT"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "t6eBryGidTnGQuii",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1755031879530,
+    "modifiedTime": 1755031881638,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "73ym6q3oD3SiYZvA",
+  "sort": 300000,
+  "_key": "!tables!73ym6q3oD3SiYZvA"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Source",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "LxMhOiKZ9N0w6pwy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recorded, contemporary",
+      "name": "",
+      "_key": "!tables.results!NhlQu1n2f4l0aB9E.LxMhOiKZ9N0w6pwy"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "4Fi5Q97eKciArAn9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recorded, vintage",
+      "name": "",
+      "_key": "!tables.results!NhlQu1n2f4l0aB9E.4Fi5Q97eKciArAn9"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "RrycAfrb7zR3Vpvn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Live",
+      "name": "",
+      "_key": "!tables.results!NhlQu1n2f4l0aB9E.RrycAfrb7zR3Vpvn"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "GEV1FwNgHLjZLqm2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machine-generated",
+      "name": "",
+      "_key": "!tables.results!NhlQu1n2f4l0aB9E.GEV1FwNgHLjZLqm2"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "iZynuCbzHg58S4DH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naturally produced",
+      "name": "",
+      "_key": "!tables.results!NhlQu1n2f4l0aB9E.iZynuCbzHg58S4DH"
+    }
+  ],
+  "folder": "zbwbhd6jAdRpHAZ8",
+  "sort": 0,
+  "_id": "NhlQu1n2f4l0aB9E",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you encounter music, roll once on column A and once on column B. Use the Core Oracles to determine the song’s meaning, intent, or subtext. Notably, the unusual combination of Descriptor (p298) + Theme (p297) will generate good song material.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293191858,
+    "modifiedTime": 1699294892313,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!NhlQu1n2f4l0aB9E"
+}

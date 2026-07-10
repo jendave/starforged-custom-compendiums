@@ -1,0 +1,319 @@
+{
+  "name": "Planetside",
+  "formula": "1d100",
+  "results": [
+    {
+      "_id": "y44QhY6lIVSMlOwi",
+      "type": "text",
+      "weight": 10,
+      "range": [
+        11,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-08 Pre-Exodus: Travel within a system is possible, including basic colonisation and the construction of the first space habitats. Fusion power starts to become commercially viable.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.y44QhY6lIVSMlOwi"
+    },
+    {
+      "_id": "YN5FLS2qfzoQQv0x",
+      "type": "text",
+      "weight": 15,
+      "range": [
+        21,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-09 Exodus: The height of human endeavor pre-Forge. Construction of the giant Exodus ships, capable of accelerating to near-light speeds, along with large space habitats is possible.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.YN5FLS2qfzoQQv0x"
+    },
+    {
+      "_id": "zg8GXyggXlsPuVSU",
+      "type": "text",
+      "weight": 25,
+      "range": [
+        36,
+        60
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-10 Post-Exodus: As the e-drive is discovered and becomes more commonplace and understood, full interstellar travel becomes freely available.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.zg8GXyggXlsPuVSU"
+    },
+    {
+      "_id": "5f22BDLDWVIcw5uJ",
+      "type": "text",
+      "weight": 25,
+      "range": [
+        61,
+        85
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-11 Early Forge: First true AI functioning, \"low autonomous\" - i.e. not creative in it's own right, but capable of managing spaceships and settlements.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.5f22BDLDWVIcw5uJ"
+    },
+    {
+      "_id": "8BiEd90JvhUnDrIu",
+      "type": "text",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-12 Mid Forge: Basic weather control becomes possible; man- portable Plasma weaponry and vehicle-mounted Fusion guns start to appear.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.8BiEd90JvhUnDrIu"
+    },
+    {
+      "_id": "XK3mLMI3ju6YngVI",
+      "type": "text",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-13 High Forge: Self-powered Battle Armor; Computers that are both self-teaching and self-actuating.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.XK3mLMI3ju6YngVI"
+    },
+    {
+      "_id": "O9ehftJHOwUxi7oT",
+      "type": "text",
+      "weight": 3,
+      "range": [
+        96,
+        98
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-14 Peak Forge: The highest level any humans in the Forge have attained on their own. Man-portable Fusion Weaponry.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.O9ehftJHOwUxi7oT"
+    },
+    {
+      "_id": "hZvqc7qSeIlFcld7",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-15 Precursor: Using human advances and discovered Precursor- level tech, it becomes possible for humanity to approaching Precursor level technology themselves.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.hZvqc7qSeIlFcld7"
+    },
+    {
+      "_id": "8C6e1T6LRZ6usWbi",
+      "type": "text",
+      "weight": 3,
+      "range": [
+        2,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-06 Fission/Space:The development of safe fission power and advances in computing allow for the first steps into space.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.8C6e1T6LRZ6usWbi"
+    },
+    {
+      "_id": "7bsTPcjNhOwYrFX0",
+      "type": "text",
+      "weight": 6,
+      "range": [
+        5,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-07 Pre-Stellar: High-powered computers and the ability to reach planetary orbit reliably, allows for a boom in telecommunications.",
+      "name": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.7bsTPcjNhOwYrFX0"
+    },
+    {
+      "_id": "g8RgSDtskpgp861X",
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Catastrophic Collapse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.A0sBrtrxr24oD8SC",
+      "description": "",
+      "_key": "!tables.results!KAKjV6GL1lfsn97b.g8RgSDtskpgp861X"
+    }
+  ],
+  "_id": "KAKjV6GL1lfsn97b",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 4\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">The concept of Technology Levels has been used many times. Adapted for use in Starforged, they provide a range of tech levels centered around the level of technology that humanity achieved after reaching the Forge, as the e-drive become commonplace. It allows for some Settlements to have advanced far further – and for some to have collapsed catastrophically.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "hDSbfBqOIZnfu5bl",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697099434047,
+    "modifiedTime": 1697241617498,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.KAKjV6GL1lfsn97b",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!KAKjV6GL1lfsn97b"
+}

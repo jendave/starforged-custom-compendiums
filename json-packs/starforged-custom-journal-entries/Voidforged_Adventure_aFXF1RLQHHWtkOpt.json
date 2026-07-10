@@ -1,0 +1,65 @@
+{
+  "folder": "8sbPMQDmNrLFJO9H",
+  "name": "Voidforged Adventure",
+  "_id": "aFXF1RLQHHWtkOpt",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "ALL QUIET, NO PEACE",
+      "type": "text",
+      "_id": "bWPR9mtwhVxIxyLh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<blockquote><p class=\"p2\">You are alone on the spaceship. The rest of the people aboard is all dead. Something killed them, but you don’t know what... Help is on the way, but will you survive until the arrival of reinforcements?</p></blockquote><p class=\"p3\">A SOLO SPACE ISOLATION HORROR ONE-SHOT SCENARIO</p><p class=\"p2\">To play this one-shot, generate a character as per the rules in Ironsworn: Starforged. You are stranded on a spaceship, everybody’s dead and it seems like a hostile lifeform is looking for you. Your goal is to survive until your eventual evacuation.</p><p class=\"p2\">Set up a scene challenge. The clock represents how close the alien is from you. When the clock is filled, you have to fight it. Set the rank of the encounter to troublesome. If you succeed, the alien retreats. There is a twist: it will come back, only stronger. Create another clock and raise the rank of the alien the next time you encounter it. Do so after each time it gets to you.</p><p class=\"p2\">The one-shot has only two possible ends: you get devoured by the extraterrestrial predator or you survive long enough for help to arrive.</p><p class=\"p2\">Consider doing the following during the one-shot.</p><p class=\"p2\">● Answer the following questions to develop the story further: how did you get on the spaceship? Who was the crew?</p><p class=\"p2\">● Generate an alien using the Alien oracle.</p><p class=\"p2\">● Use the Derelict oracles to describe the different parts of the spaceship.</p><p class=\"p2\">● For a hard mode, consider not using any recover move.</p><p class=\"p2\">Good luck!</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1759476663279,
+        "modifiedTime": 1759476783060,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!aFXF1RLQHHWtkOpt.bWPR9mtwhVxIxyLh"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759476652315,
+    "modifiedTime": 1759476853468,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!aFXF1RLQHHWtkOpt"
+}

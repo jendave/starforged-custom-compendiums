@@ -1,0 +1,94 @@
+{
+  "type": "sfmove",
+  "name": "Make Camp",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e5b957751be9d2e6",
+  "system": {
+    "dfid": "Ironsworn/Moves/Adventure/Make_Camp",
+    "Category": "Ironsworn/Moves/Adventure",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When __you rest and recover for several hours in the wild__, roll +supply.\n\nOn a __strong hit__, you and your allies may each choose two. On a __weak hit__, choose one.\n\n  * Recuperate: Take +1 health for you and any companions.\n  * Partake: Suffer -1 supply and take +1 health for you and any companions.\n  * Relax: Take +1 spirit.\n  * Focus: Take +1 momentum.\n  * Prepare: When you break camp, add +1 if you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}.\n\nOn a __miss__, you take no comfort. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you rest and recover for several hours in the wild...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Supply"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you and your allies may each choose two.\n\n  * Recuperate: Take +1 health for you and any companions.\n  * Partake: Suffer -1 supply and take +1 health for you and any companions.\n  * Relax: Take +1 spirit.\n  * Focus: Take +1 momentum.\n  * Prepare: When you break camp, add +1 if you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you and your allies may each choose one.\n\n  * Recuperate: Take +1 health for you and any companions.\n  * Partake: Suffer -1 supply and take +1 health for you and any companions.\n  * Relax: Take +1 spirit.\n  * Focus: Take +1 momentum.\n  * Prepare: When you break camp, add +1 if you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you take no comfort. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2019-06-05",
+      "Page": 64
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Adventure/Make_Camp",
+      "dsid": "move:classic/adventure/make_camp"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757747068617,
+    "modifiedTime": 1758857387194,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "VIHnILz9rKlGyRZ1",
+  "sort": 0,
+  "_key": "!items!VIHnILz9rKlGyRZ1"
+}

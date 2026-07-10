@@ -1,0 +1,290 @@
+{
+  "name": "Observed From Space",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "Ziy4TYDXD0a2rlh6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Captured interstellar comets",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.Ziy4TYDXD0a2rlh6"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "knzfP5MrEHgliOCI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Completely frozen seas",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.knzfP5MrEHgliOCI"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "joP9wDpwqHBjIhYX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic gases condensed into liquids",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.joP9wDpwqHBjIhYX"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "1p0Q389REpI3Ateq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gigantic impact crater",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.1p0Q389REpI3Ateq"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "uQjpqf1FQOhhthd5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glowing volcanoes",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.uQjpqf1FQOhhthd5"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "LSTwwlxCQq0XmU5B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large moon causing tidal heating",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.LSTwwlxCQq0XmU5B"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "Hb1fanQoskq3HgdS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Soft infrared glow",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.Hb1fanQoskq3HgdS"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "oDpUz64RkbQDtOMc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strangely bright auroras",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.oDpUz64RkbQDtOMc"
+    },
+    {
+      "range": [
+        89,
+        98
+      ],
+      "_id": "56aWqt9S4HbtDE99",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.56aWqt9S4HbtDE99"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "3UTLgXEP7gnAL7BT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (orbital)",
+      "name": "",
+      "_key": "!tables.results!2GAnQD2WPXn1HJVx.3UTLgXEP7gnAL7BT"
+    }
+  ],
+  "folder": "mY1nGFZyyxbn689S",
+  "sort": 1,
+  "_id": "2GAnQD2WPXn1HJVx",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet ripped away from the star system where it was born, now roaming the cold depths of space.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288161289,
+    "modifiedTime": 1703293661630,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!2GAnQD2WPXn1HJVx"
+}

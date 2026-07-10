@@ -1,0 +1,260 @@
+{
+  "folder": "oRGxl5tx5BgYXI2h",
+  "name": "Settlement Detailing",
+  "_id": "jGSGxnNUb2WeCtAR",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Settlement Type",
+      "type": "text",
+      "_id": "AvEUrciuctxlJLvv",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.c0slR6yjO5Rxu0dU]{Type for Tech Level 00}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Nzxizsv4o6ZJUdMw]{Type for Tech Level 01}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.s7GYK5vRxfxNRuiW]{Type for Tech Level 02}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.kwLRiezzUtWzLiy0]{Type for Tech Level 03}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.slR9tqFo3KUCVjGW]{Type for Tech Level 04}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.yQ1rFNKYZSNdcLcK]{Type for Tech Level 05}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.R1xuzviNGsGbMk3V]{Type for Tech Level 06}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.QcrLyWyz9W8Cskwc]{Type for Tech Level 07}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.IRXq7c5PfasD5gMm]{Type for Tech Level 08}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.4HgY94M69M9CXUKQ]{Type for Tech Level 09}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.f1W2ylOipCWZsEoF]{Type for Tech Level 10}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AgVxb7qSGzmufI7r]{Type for Tech Level 11}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ZMi9qTBo2eej1d1C]{Type for Tech Level 12}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Lx9G612WHR1XsM2G]{Type for Tech Level 13}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rdCW7I7q6zAKxfGW]{Type for Tech Level 14}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.O4erMSrXlugSoqwF]{Type for Tech Level 15}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758061358374,
+        "modifiedTime": 1758061401494,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jGSGxnNUb2WeCtAR.AvEUrciuctxlJLvv"
+    },
+    {
+      "sort": 200000,
+      "name": "Settlement - Planetside",
+      "type": "text",
+      "_id": "Igob67JPVk070s7S",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Impressions</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NMaziZXqbNowZs9y]{Backwater}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.mpejcMKxbwRni2cY]{Defended}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9l0kDTbvWFAl98OS]{Dilapidated}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.epDVJJKp1dshO1bl]{High-Tech}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.IOBc9bdPSlcAkxoz]{Military-Industrial}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LTUw2a86WaNma3Ht]{Over-Crowded}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RqA5VShgKPPMQQ32]{Primitive}</p><h2>Industries</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LYt7lPPmiX53oPA4]{Medium-Large Population: Enclosed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.N9Hxj2NlQoHpOLQt]{Medium-Large Population: Open Air}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.31sqY1xlsyTSvFsN]{Small Population: Enclosed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.iEwtkIEVKHp3B7HQ]{Small Population: Open Air}</p><h2>Senses</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LMEsQ5yvslFt9WDp]{Medium-Large Population: Enclosed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ddSz1h5ADOlCJiq2]{Medium-Large Population: Open Air}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.EBp0P0bDBlT4Kx9i]{Small Population: Enclosed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.4PKg9e1VUJbAoAAo]{Small Population: Open Air}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758061443015,
+        "modifiedTime": 1758064929583,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jGSGxnNUb2WeCtAR.Igob67JPVk070s7S"
+    },
+    {
+      "sort": 300000,
+      "name": "Settlements - Space",
+      "type": "text",
+      "_id": "bkRvIANyIxSvRfgS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Impressions</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1ElFO8DbJTVr80ET]{Backwater}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.CH3gI5UCmUmgn0gn]{Defended}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xVszBEeNlYHAwMQa]{Dilapidated}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.X7clGO97D2tIbbRs]{High-Tech}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pfMzUkWD1upsh5c4]{Military-Industrial}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3dHFAj8mndVM7Jlk]{Over-Crowded}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VEWXDUr4ojrqZUqn]{Primitive}</p><h2>Industries</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pea6CvympFx9ZNln]{Medium-Large Population: Enclosed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UwISOKINJSUqUs4C]{Small Population: Enclosed}</p><h2>Senses</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sddUehP0SDWmfW86]{Medium-Large: Enclosed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rl81naNPAw2aUP4Q]{Small Population: Enclosed}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758064688601,
+        "modifiedTime": 1758064765773,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jGSGxnNUb2WeCtAR.bkRvIANyIxSvRfgS"
+    },
+    {
+      "sort": 400000,
+      "name": "Technology Level",
+      "type": "text",
+      "_id": "fCZ13oTB24BjjcVe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.A0sBrtrxr24oD8SC]{Catastrophic Collapse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.61rPT9QvLVn1O4lj]{Deep Space}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.E5ntOEIiT4PZSiiA]{Orbital}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KAKjV6GL1lfsn97b]{Planetside}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758064812667,
+        "modifiedTime": 1758064824386,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jGSGxnNUb2WeCtAR.fCZ13oTB24BjjcVe"
+    },
+    {
+      "sort": 500000,
+      "name": "Additional Detail",
+      "type": "text",
+      "_id": "MjtxZSOz4tPN8A8x",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Dramatic Senses</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2yvsndpHjJRnBq2M]{Dramatic Smells}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.lSW01cqUCoPH5PnC]{Dramatic Sounds}</p><h2>Manufacturing</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.oNxWUQmD3D62WsaR]{Backwater}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HneyWj8ktd4CSJPY]{Defended}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.I64UBZ1ZEYPgBOnk]{Dilapidated}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.23Nx5FqKVT9gBpBP]{High-Tech}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.k09e0Xb4TWswO3CG]{Military-Industrial}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RYfN4KpB5CvjCs52]{Over-Crowded}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nvatB0Sg1yeQyQ7s]{Primitive}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758064836096,
+        "modifiedTime": 1758064908911,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jGSGxnNUb2WeCtAR.MjtxZSOz4tPN8A8x"
+    },
+    {
+      "sort": 600000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "HhPoYcvsof1hFkwu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.7nVGoxHsb0Q64vqA]{Settlement Details}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758065067240,
+        "modifiedTime": 1758065075455,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!jGSGxnNUb2WeCtAR.HhPoYcvsof1hFkwu"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758061346034,
+    "modifiedTime": 1758061346034,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!jGSGxnNUb2WeCtAR"
+}

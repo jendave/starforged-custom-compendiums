@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Shipwright",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you personally @Compendium[starforged-custom-oracles.starforgedcustommoves.eece9a67d1961f70]{Repair} a ship, or direct those repairs, take 1 extra repair point or +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may @Compendium[starforged-custom-oracles.starforgedcustommoves.2f2ba4090b22a122]{Enter the Fray} (+wits) by studying the construction or configuration of an enemy vessel. On a strong hit, you spot a vulnerability or a means of overcoming its advantages; envision what you learn, and take +2 momentum. Then, one time only, you or an ally may reroll any dice when using this insight to make a move.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.703964b8d02355b8]{Resupply} by repurposing parts or materials from a ship or wreck, reroll any challenge dice. On a strong hit with a match, you may reclaim a capability of that ship. If you do, take a free module or support vehicle asset, or gain one free upgrade to an existing module or vehicle.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/anchor.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/path/shipwright",
+      "dsid": "asset:sundered_isles/path/shipwright"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760214052972,
+    "modifiedTime": 1760214052972,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "UMKLPDhQF51AOdQJ",
+  "sort": 0,
+  "_key": "!items!UMKLPDhQF51AOdQJ"
+}

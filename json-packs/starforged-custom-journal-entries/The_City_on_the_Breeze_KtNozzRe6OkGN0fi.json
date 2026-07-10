@@ -1,0 +1,143 @@
+{
+  "folder": "5ugGm7ATxKj3OPeb",
+  "name": "The City on the Breeze",
+  "_id": "KtNozzRe6OkGN0fi",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Corporate Dealings",
+      "type": "text",
+      "_id": "fcVJP0r50Fp7Ypnw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.zAcUSMmWYCI1MlUo]{Corporate Operations}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3RQEvJ5ZCLELKKRS]{Corporate Tools and Methods}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750228012,
+        "modifiedTime": 1757750247298,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!KtNozzRe6OkGN0fi.fcVJP0r50Fp7Ypnw"
+    },
+    {
+      "sort": 200000,
+      "name": "District Purpose by Area Type",
+      "type": "text",
+      "_id": "x9BiuuZRXaemXgiu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.PqqvuX6NNePXjP68]{Access}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.dUEnPby5d4slHb8e]{Community}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RQ1eXrv5eGVWwcct]{Engineering}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KPyhFqIouuuGOMdW]{Living}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.BEv5WeyOd27ebooR]{Medical}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.imcjdsL9VwTA5PB9]{Operations}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1VNOj4zENrpRbxdv]{Production}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.v7mwwkv2XrNQufh7]{Research}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750263759,
+        "modifiedTime": 1757750302992,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!KtNozzRe6OkGN0fi.x9BiuuZRXaemXgiu"
+    },
+    {
+      "sort": 300000,
+      "name": "State of the District",
+      "type": "text",
+      "_id": "KDJEWh0MBxfBSNTm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.U7agJty3gaERF2n8]{Area Type}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xIMVRJwSNPkQ9Ieu]{Building Features and Condition}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Jul0AGkeay1VDJ7a]{Building Type}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.S48FFqJy6VOa3X05]{Businesses}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.G6iS6SbHbTLLJ7kj]{Opportunity in the District}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rkpfsWSSTWS32a9v]{Peril in the District}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.jubf8BxlwHPaDI5U]{Senses &amp; the City}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750320476,
+        "modifiedTime": 1757750353649,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!KtNozzRe6OkGN0fi.KDJEWh0MBxfBSNTm"
+    }
+  ],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750210489,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!KtNozzRe6OkGN0fi"
+}

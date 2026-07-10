@@ -1,0 +1,368 @@
+{
+  "name": "Company Planet Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "pLmR74oiF5VscPUC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company controls all entrances and exits of the settlement",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.pLmR74oiF5VscPUC"
+    },
+    {
+      "range": [
+        9,
+        16
+      ],
+      "_id": "LkI6NI3IBBMPmy19",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "All employees are in debt to the Company",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.LkI6NI3IBBMPmy19"
+    },
+    {
+      "range": [
+        17,
+        24
+      ],
+      "_id": "HnwRPhDJtzd84RBu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company controls all energy, housing and basic needs",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.HnwRPhDJtzd84RBu"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "ImJDtgXIkOjcOtoW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company controls all medicine and healthcare",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.ImJDtgXIkOjcOtoW"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "2anhxf2q8H1Z92ki",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company controls all communication.",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.2anhxf2q8H1Z92ki"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "XL3VgmdeLOf8FfHI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company is a cult.",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.XL3VgmdeLOf8FfHI"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "qvfSPTN4LtSyRfDN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company has poisoned the planet’s natural resources and ecology",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.qvfSPTN4LtSyRfDN"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "7to8c3qi8PtOs0nb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company has created an idyllic settlement and the employees will defend it.",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.7to8c3qi8PtOs0nb"
+    },
+    {
+      "range": [
+        65,
+        72
+      ],
+      "_id": "Gpxuq3fO4lNplo3m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company’s surveillance system watches everything.",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.Gpxuq3fO4lNplo3m"
+    },
+    {
+      "range": [
+        73,
+        80
+      ],
+      "_id": "YXsft3DHxjZXGMLx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Company internal spies try to root out any dissension.",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.YXsft3DHxjZXGMLx"
+    },
+    {
+      "range": [
+        81,
+        88
+      ],
+      "_id": "70VDAycwk9pVmgZf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company has used up all of the resources on the planet",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.70VDAycwk9pVmgZf"
+    },
+    {
+      "range": [
+        89,
+        96
+      ],
+      "_id": "xLRIhc3moOLf0L7U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company is secretly doing horrible things to people on the planet..",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.xLRIhc3moOLf0L7U"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "loD6G0LsmJJtGwDi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.loD6G0LsmJJtGwDi"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 5,
+  "_id": "u6KuWElAsHUu3cBL",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969153,
+    "modifiedTime": 1733895730823,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!u6KuWElAsHUu3cBL"
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Storm",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "BIRPiH0E7WGZ0Drw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!cGSlMhHJN7dLLrv2.BIRPiH0E7WGZ0Drw"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "uI6qPQ9idQgM7460",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light showers",
+      "name": "",
+      "_key": "!tables.results!cGSlMhHJN7dLLrv2.uI6qPQ9idQgM7460"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "U3qDMO6RMy70ID2w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium rain",
+      "name": "",
+      "_key": "!tables.results!cGSlMhHJN7dLLrv2.U3qDMO6RMy70ID2w"
+    },
+    {
+      "range": [
+        4,
+        5
+      ],
+      "_id": "Y0KFGXVQk74BWtm3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy rain",
+      "name": "",
+      "_key": "!tables.results!cGSlMhHJN7dLLrv2.Y0KFGXVQk74BWtm3"
+    },
+    {
+      "range": [
+        6,
+        8
+      ],
+      "_id": "3idP1E0TSY3N2uuQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential",
+      "name": "",
+      "_key": "!tables.results!cGSlMhHJN7dLLrv2.3idP1E0TSY3N2uuQ"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "NyDGtunw5Xhn4yE8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Special Storm",
+      "name": "",
+      "_key": "!tables.results!cGSlMhHJN7dLLrv2.NyDGtunw5Xhn4yE8"
+    }
+  ],
+  "folder": "vieY1S9gCOmgqo09",
+  "sort": 600000,
+  "_id": "cGSlMhHJN7dLLrv2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698524994536,
+    "modifiedTime": 1698525021966,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!cGSlMhHJN7dLLrv2"
+}

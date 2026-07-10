@@ -1,0 +1,134 @@
+{
+  "name": "Resupply",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "xHdmywVwadBVUXq0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both.",
+      "name": "",
+      "_key": "!tables.results!sZSgdthhtXltk765.xHdmywVwadBVUXq0"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "UzFy3k8GjOuSZKRP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. If your vehicle is not battered, take +1 integrity.",
+      "name": "",
+      "_key": "!tables.results!sZSgdthhtXltk765.UzFy3k8GjOuSZKRP"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "E6oR0LpDGCjKgTd1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. If your vehicle is not battered, take +1 integrity. Take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!sZSgdthhtXltk765.E6oR0LpDGCjKgTd1"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "hxNhTN1ajTtxvnDd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. If your vehicle is not battered, take +2 integrity. Take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!sZSgdthhtXltk765.hxNhTN1ajTtxvnDd"
+    }
+  ],
+  "folder": "LwKVjlyCZpJ2AL5U",
+  "sort": 3,
+  "_id": "sZSgdthhtXltk765",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466585454,
+    "modifiedTime": 1706856820483,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!sZSgdthhtXltk765"
+}

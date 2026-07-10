@@ -1,0 +1,292 @@
+{
+  "name": "Medium-Large Population: Enclosed",
+  "formula": "1d20",
+  "results": [
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lp4guwqucm7aay45",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificial food growing",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.lp4guwqucm7aay45"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "347mz1mlf8xc43sr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brewing and distilling",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.347mz1mlf8xc43sr"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        4,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xvnhc6riatotexod",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemical plant",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.xvnhc6riatotexod"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kc8oh55ylehtf5mr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food processing and packing",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.kc8oh55ylehtf5mr"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "34g5ka51lwxdxp0y",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information hub",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.34g5ka51lwxdxp0y"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3ky6z2n8to3bd7yv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large ship repair and construction",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.3ky6z2n8to3bd7yv"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        12,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k7b918jgbjkt48ni",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.k7b918jgbjkt48ni"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "j6xhb4f0pvgeisjt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metal processing from ore",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.j6xhb4f0pvgeisjt"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qlzy74ewjgh2yedw",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oil and gas refining",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.qlzy74ewjgh2yedw"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0vntm7vol8talndv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport hub",
+      "name": "",
+      "_key": "!tables.results!pea6CvympFx9ZNln.0vntm7vol8talndv"
+    }
+  ],
+  "_id": "pea6CvympFx9ZNln",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 8\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For your Orbital/Deep Space Settlement, Roll d50 and pick 1-2 entries from the relevant column in the Oracle. A population of “Hundreds and above” are “Medium-Large”. The results are what you first hear or smell.<br /><br />When you roll a result of “Manufacturing” on one of the Industries Oracles, roll 1d20 on the Manufacturing Oracle, referencing the relevant column for the Settlement Type.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "skeBp2utVcNRVqUZ",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697085416564,
+    "modifiedTime": 1697503564323,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.pea6CvympFx9ZNln",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!pea6CvympFx9ZNln"
+}

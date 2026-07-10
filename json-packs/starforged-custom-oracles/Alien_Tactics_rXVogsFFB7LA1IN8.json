@@ -1,0 +1,550 @@
+{
+  "name": "Alien Tactics",
+  "formula": "1d100",
+  "description": "Roll twice or thrice",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "JKkg2ZLjWPmZDRPX",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spit acid",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.JKkg2ZLjWPmZDRPX"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "wt31NHaDrBA0eGID",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warp light around it to become invisible",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.wt31NHaDrBA0eGID"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "341YBcVzsrxQZPUE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destabilize victim by screeching at a painful frequency",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.341YBcVzsrxQZPUE"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "1uzFphUjLCgZ0Imv",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take the shape of its victim before approaching it",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.1uzFphUjLCgZ0Imv"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "zsn1IY5O9va3qr36",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Burrow itself",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.zsn1IY5O9va3qr36"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "FAJdGgewIplvPLkE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ambush its enemy",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.FAJdGgewIplvPLkE"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "QmXKGWi7ba4SuOkZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charge with strength",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.QmXKGWi7ba4SuOkZ"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "EUsfxbW4gh8ThmOo",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Track its enemy through scent",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.EUsfxbW4gh8ThmOo"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "QzdkJ9iIl0y0xkxB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vomit a noxious substance",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.QzdkJ9iIl0y0xkxB"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "H60BFOAdSv6Fu4Sn",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Call on an inferior lifeform it uses as servitor",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.H60BFOAdSv6Fu4Sn"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "LhVos0FfMAHaYjze",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shroud itself in darkness",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.LhVos0FfMAHaYjze"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "DsEzRyA9iGG2xcJ0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Target isolated victims",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.DsEzRyA9iGG2xcJ0"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "bMnQeecobMO6XIha",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fight until death",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.bMnQeecobMO6XIha"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "2wJoVHGY45aIvn51",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slowly mutilates its victim",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.2wJoVHGY45aIvn51"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "JNjW8TJjJCnKyJI0",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lure by replicating its victim mode of communication",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.JNjW8TJjJCnKyJI0"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "GBwMrkShTA6dGtD8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secrete a soporific vapor",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.GBwMrkShTA6dGtD8"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "YaN04M0R2H19glXs",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hook itself to its victim and suck it dry",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.YaN04M0R2H19glXs"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "T35tNWm1F4CgBJyL",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surround its victim to prevent its escape",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.T35tNWm1F4CgBJyL"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "7ZgfXJ5b3SMoYzB8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stalk",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.7ZgfXJ5b3SMoYzB8"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "L2RRtxoVeUtvoJvg",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chase until exhaustion",
+      "name": "",
+      "_key": "!tables.results!rXVogsFFB7LA1IN8.L2RRtxoVeUtvoJvg"
+    }
+  ],
+  "_id": "rXVogsFFB7LA1IN8",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 237500,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!rXVogsFFB7LA1IN8"
+}

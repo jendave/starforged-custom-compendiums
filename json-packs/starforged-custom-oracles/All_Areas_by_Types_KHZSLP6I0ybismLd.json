@@ -1,0 +1,2632 @@
+{
+  "name": "All Areas by Types",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "sLlMqUHTeAmFPJea",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "3D printing/fabrication facility",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.sLlMqUHTeAmFPJea"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "3QoAtt2o22El1Hpl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Airlock or external door (Not just applicable to space stations but also to settlements where the external environment is hostile)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.3QoAtt2o22El1Hpl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "31CK9DQ90TgO3iGQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biohacker lab",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.31CK9DQ90TgO3iGQ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "TSQzbKhVcI2DEFVr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Botanical garden (small neighbourhood park, empty plot of land)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.TSQzbKhVcI2DEFVr"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "uLofmUzSQHBeNCSv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bots factory",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.uLofmUzSQHBeNCSv"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "QqGrG62PwHVhQjPK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brig/cell/jail",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.QqGrG62PwHVhQjPK"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "X4YcDmcMGLinEiVA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Café",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.X4YcDmcMGLinEiVA"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "dtTYaqzMUEu3kqGd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Casino (high speed race course, arena fighting, back-room poker game, pachinko parlour, pokies machine)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.dtTYaqzMUEu3kqGd"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "y3vDd9qhp7t7teVH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catwalk or bridge",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.y3vDd9qhp7t7teVH"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "guEa1EW4GESw2H0E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleaners",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.guEa1EW4GESw2H0E"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "ehVjKoqmfo1C2eKA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clinic",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.ehVjKoqmfo1C2eKA"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "W1W7kJ4DeQ9QXQak",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Club (night club, body-mod cult, hunter's bar with the heads of local fauna displayed on the walls)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.W1W7kJ4DeQ9QXQak"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "G44xoq1Xc16dZOZ2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command center/Bridge",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.G44xoq1Xc16dZOZ2"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "DnGGWXO6TPMYTKoo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communal baths",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.DnGGWXO6TPMYTKoo"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "qsF1TDUqqA2gWHgs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communication hub (weave/lan cafe, interface forlocal news feeds, official government-run communication array, satellite control centre owned by the rich and powerful, hidden/cobbled-together computer parts linked to a rebel network, gossipmongers hanging around the water recyclers)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qsF1TDUqqA2gWHgs"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "rktMonnt88BOCFtt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control room",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.rktMonnt88BOCFtt"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "puUPOwXkjOvRC8VJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corridor",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.puUPOwXkjOvRC8VJ"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "JmbRc9Y5oWPXmm3Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Courier offices (local oro -planet couriers, dri s/passage maps trader)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.JmbRc9Y5oWPXmm3Y"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "aLthg3ni5lCZDdJz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crawl space or duct",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.aLthg3ni5lCZDdJz"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "WlgGdCFBRVgbUTis",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creature or animal pens",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.WlgGdCFBRVgbUTis"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "JXtAjqIWDofxfohk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crematorium",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.JXtAjqIWDofxfohk"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "7R21tFi92xK60LY1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Data Centre",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.7R21tFi92xK60LY1"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "0V5kUpyWSCCMOI4B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decontamination facility",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.0V5kUpyWSCCMOI4B"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "XvuVAh5jAjPzKSs4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diner",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.XvuVAh5jAjPzKSs4"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "4tUhrDW0pc3ZQAmM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dive bar",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.4tUhrDW0pc3ZQAmM"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "VtUCMVuI6gWUMwvL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Document forger",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.VtUCMVuI6gWUMwvL"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "qPtaKM3HWnCBimfi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Education (primary school, secondary college, university, trade school, military training, library, research facilities, dorm rooms)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qPtaKM3HWnCBimfi"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "7RhbPVzumru4P7XZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engine room or power core",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.7RhbPVzumru4P7XZ"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "apXOcveZlk5HGdGE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering offices",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.apXOcveZlk5HGdGE"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "gvEtF3xvJsrBQQUN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment - VR feeds, illegal fighting ring (watching or participating),   racing  (on  land   or  in space, watching or participating)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.gvEtF3xvJsrBQQUN"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "StAnuxcMb6EBv3RR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exosuit bay",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.StAnuxcMb6EBv3RR"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "AaMhhDDPS35Bom7n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faction house (guild house, faction's satellite office)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.AaMhhDDPS35Bom7n"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "g90SFfmCzfgnurbJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fence (for illegal goods or contraband eg. precursor artefact)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.g90SFfmCzfgnurbJ"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "qQUhJj78gDrphP0b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food/Air/Water recyclers",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qQUhJj78gDrphP0b"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "UMylac9TuGCW9nKj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food court (night food market)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.UMylac9TuGCW9nKj"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "oMQNiM4275TgaMmV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food storage",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.oMQNiM4275TgaMmV"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "Yf7ur7lWsQCTElI1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gang territory (drug dealer's corner, organised crime lord's headquarters, local mercenary's hangout)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.Yf7ur7lWsQCTElI1"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "OeeaK6bno8SCkEAh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hacker",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.OeeaK6bno8SCkEAh"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "K8OvJ8I3u080pMz1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous material storage",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.K8OvJ8I3u080pMz1"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "HlPni2ZgWWNrKtGj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High society (expensive parties, elegant soirees, rich merchant's mansion)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.HlPni2ZgWWNrKtGj"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "yPbED2cxxpxZTtL7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Highway",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.yPbED2cxxpxZTtL7"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "8Qq0O07U68NZuaBc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hospital",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.8Qq0O07U68NZuaBc"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "Ajg51uTY76ZnbVVV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hotels (capsule hotel, hourly motels, shore leave dorms, leisure apartments)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.Ajg51uTY76ZnbVVV"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "qJHkQaVhTL1KmOFw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hub or intersection",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qJHkQaVhTL1KmOFw"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "2m6WEeDKQUzZHYby",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydroponics",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.2m6WEeDKQUzZHYby"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "jxTJhVYa7eKc7oSH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information broker (bountyhunter's office)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.jxTJhVYa7eKc7oSH"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "vRV6bSJNvgReDFII",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lab",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.vRV6bSJNvgReDFII"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "jRTnPUraYAWEXoPk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landing strip/hangar",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.jRTnPUraYAWEXoPk"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "0WJPyklGmfNgLWnZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laundry",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.0WJPyklGmfNgLWnZ"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "PAcHs711QatvNA0w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Library/records",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.PAcHs711QatvNA0w"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "1MkoyRix09nc5Wfw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Life support",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.1MkoyRix09nc5Wfw"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "QMspnVHqVN8n18BJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lift or elevator",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.QMspnVHqVN8n18BJ"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "QxOv0xRiDUnOTG3a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living quarters (apartments, houses on stilts, boathouses)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.QxOv0xRiDUnOTG3a"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "5FBL5VrhQsmocwIt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanics",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.5FBL5VrhQsmocwIt"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "IWhPnlNpBF2Ddj55",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical lab",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.IWhPnlNpBF2Ddj55"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "oCJXFXRqSziO4Rwh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mess/dining hall",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.oCJXFXRqSziO4Rwh"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "WslmkWP6Zks0LKxZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military (training grounds, weapons depot, shipyard, research   facility,  command  centre, armoury)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.WslmkWP6Zks0LKxZ"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "fqpDdyelvaDj0rZl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining (planet-side mining facilities, asteroid mining)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.fqpDdyelvaDj0rZl"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "Kqe4L0Kb7g7Orl49",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monitoring room",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.Kqe4L0Kb7g7Orl49"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "3ery18YwmSHWRUQ8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monorail station (subway station, intra-city public transport station)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.3ery18YwmSHWRUQ8"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "_id": "tFV3YbCfaNoavfr4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Morgue",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.tFV3YbCfaNoavfr4"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "iOskIbuyTecg47hq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-human specialist (for all your companion asset needs)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.iOskIbuyTecg47hq"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "_id": "KuXpMCjlqbXKMjzl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offices (government offices, licensing offices, dock master's office, local governor's office, sector's political hub, skyrises",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.KuXpMCjlqbXKMjzl"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "_id": "nfATYPIm2nkfn7Eo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ore refinery",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.nfATYPIm2nkfn7Eo"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "1P1JA0bBP9Gu5xwN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pawnshop",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.1P1JA0bBP9Gu5xwN"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "_id": "pbqhqKBWveXF2rJC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pharmacy",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.pbqhqKBWveXF2rJC"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "_id": "OmXewBr9JixNUQNw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power generators",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.OmXewBr9JixNUQNw"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "a8MTQX98fbBodNJH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Promenade or overlook (over hanging balcony)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.a8MTQX98fbBodNJH"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "_id": "AkAOGqSW6WuP10xb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prosthetics workshop",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.AkAOGqSW6WuP10xb"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "_id": "9hrKxd4FiWQaWX0T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Red light district (seedyback alleys with shi ing shadows, strip clubs, high end entertainment establishments, full-emersion VR experiences, dodgy hourly motels)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.9hrKxd4FiWQaWX0T"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "7UCqxi7ElrEJdfTn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Relaxation (massage parlour, spa, drug den, beauty parlour, see red light district)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.7UCqxi7ElrEJdfTn"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "_id": "aGYBqXfpUNtSFbth",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious establishments (temple, church, mosque, glade in the light of the planet's two moons, a dark cavern in the depths of an precursor vault, embalmer)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.aGYBqXfpUNtSFbth"
+    },
+    {
+      "range": [
+        73,
+        73
+      ],
+      "_id": "5bOzhPz6EXrT6je6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research facility (bioweapon, medical, educational, precursor artefact, exobiology)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.5bOzhPz6EXrT6je6"
+    },
+    {
+      "range": [
+        74,
+        74
+      ],
+      "_id": "I49l2OjhlNk4fzLg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restaurant",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.I49l2OjhlNk4fzLg"
+    },
+    {
+      "range": [
+        75,
+        75
+      ],
+      "_id": "4yd7Z7lKHFt7s7TD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Retail/market (shopping mall, computer parts market, clothing boutique, second-hand bio hack, fake precursor tech, local food market, black iron trader, street vendors, gadgets/trinket stalls, information brokers)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.4yd7Z7lKHFt7s7TD"
+    },
+    {
+      "range": [
+        76,
+        76
+      ],
+      "_id": "Pwma51bQ4JqUoSNi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scrapyard",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.Pwma51bQ4JqUoSNi"
+    },
+    {
+      "range": [
+        77,
+        77
+      ],
+      "_id": "DCq57Zt5eoQMU3lF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure vault",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.DCq57Zt5eoQMU3lF"
+    },
+    {
+      "range": [
+        78,
+        78
+      ],
+      "_id": "B9Lz3N0PjSA4xF3d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security firm",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.B9Lz3N0PjSA4xF3d"
+    },
+    {
+      "range": [
+        79,
+        79
+      ],
+      "_id": "Ws4A2Rqmj6vjHplB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security office",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.Ws4A2Rqmj6vjHplB"
+    },
+    {
+      "range": [
+        80,
+        80
+      ],
+      "_id": "g7bylX2inHBjd5Hn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seer (mystic, shaman, healer)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.g7bylX2inHBjd5Hn"
+    },
+    {
+      "range": [
+        81,
+        81
+      ],
+      "_id": "oqkyMONA6iFADEej",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sewage management",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.oqkyMONA6iFADEej"
+    },
+    {
+      "range": [
+        82,
+        82
+      ],
+      "_id": "8a6e4R8jkolFLskx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sewers (underground passages, conduit in  a  space  station  filled with cables and wiring, smuggling routes)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.8a6e4R8jkolFLskx"
+    },
+    {
+      "range": [
+        83,
+        83
+      ],
+      "_id": "h5ixLp2E2oMGi1Qe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship parts manufacturer",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.h5ixLp2E2oMGi1Qe"
+    },
+    {
+      "range": [
+        84,
+        84
+      ],
+      "_id": "BD1Kf4W5EsjiVMZO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship repair and outfitting",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.BD1Kf4W5EsjiVMZO"
+    },
+    {
+      "range": [
+        85,
+        85
+      ],
+      "_id": "uatOmMEi6guE1D6e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Showroom (land/sea support vehicle, latest precursor artefact inspired technology)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.uatOmMEi6guE1D6e"
+    },
+    {
+      "range": [
+        86,
+        86
+      ],
+      "_id": "FJZkaixjgymzWAIB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spaceport",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.FJZkaixjgymzWAIB"
+    },
+    {
+      "range": [
+        87,
+        87
+      ],
+      "_id": "oZGgBWvJLEppz7bz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sporting facility (arena to fight the local wildlife, rock climbing on planets filled with canyons, anti-gravity basketball)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.oZGgBWvJLEppz7bz"
+    },
+    {
+      "range": [
+        88,
+        88
+      ],
+      "_id": "H38XRFA4K1hIZEG5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stairs",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.H38XRFA4K1hIZEG5"
+    },
+    {
+      "range": [
+        89,
+        89
+      ],
+      "_id": "cP5AcjncdjUzgFkg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Street (waterway, side street)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.cP5AcjncdjUzgFkg"
+    },
+    {
+      "range": [
+        90,
+        90
+      ],
+      "_id": "DAJ9HUniMTgmKgSI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Street hawkers",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.DAJ9HUniMTgmKgSI"
+    },
+    {
+      "range": [
+        91,
+        91
+      ],
+      "_id": "qUyktBfIRh63NV34",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Traffic control centre (command centre on a space station, tra c control towerlocated on the outskirts of the city, frantic logistics hub in a merchant city)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qUyktBfIRh63NV34"
+    },
+    {
+      "range": [
+        92,
+        92
+      ],
+      "_id": "FlwlMmocSenxrtVw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Train station (inter-city public transport station)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.FlwlMmocSenxrtVw"
+    },
+    {
+      "range": [
+        93,
+        93
+      ],
+      "_id": "NEFBjDDvqS0WaHoE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Training grounds",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.NEFBjDDvqS0WaHoE"
+    },
+    {
+      "range": [
+        94,
+        94
+      ],
+      "_id": "79fcghaPOJjO6EEG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle bay or garage",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.79fcghaPOJjO6EEG"
+    },
+    {
+      "range": [
+        95,
+        95
+      ],
+      "_id": "JvZEoAuUfourT2Dy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vertical Shaft or Ladder",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.JvZEoAuUfourT2Dy"
+    },
+    {
+      "range": [
+        96,
+        96
+      ],
+      "_id": "qTDcTKJVViWfzocb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warehouse/storage facilities",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qTDcTKJVViWfzocb"
+    },
+    {
+      "range": [
+        97,
+        97
+      ],
+      "_id": "FkALvOKkbQymfqJx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waterfront",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.FkALvOKkbQymfqJx"
+    },
+    {
+      "range": [
+        98,
+        98
+      ],
+      "_id": "TLg8J1vK2mlVL0oa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapons manufacturer",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.TLg8J1vK2mlVL0oa"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "xFeMZx7Gx7RIfC0u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapons shop (weapon forger)",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.xFeMZx7Gx7RIfC0u"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "qLpbYhuuhKNux8FL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wind farms",
+      "name": "",
+      "_key": "!tables.results!KHZSLP6I0ybismLd.qLpbYhuuhKNux8FL"
+    }
+  ],
+  "_id": "KHZSLP6I0ybismLd",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "NO7JjDm3OcpAylNw",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829770180,
+    "modifiedTime": 1698829870814,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.KHZSLP6I0ybismLd",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!KHZSLP6I0ybismLd"
+}

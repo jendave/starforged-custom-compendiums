@@ -1,0 +1,342 @@
+{
+  "name": "Opportunities",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "pyyV5RJv2ebWIc6S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enigmatic relic",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.pyyV5RJv2ebWIc6S"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "_id": "LNehxs8xYm2YYz5p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful denizen",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.LNehxs8xYm2YYz5p"
+    },
+    {
+      "range": [
+        13,
+        18
+      ],
+      "_id": "hsrCZKb0Gm9LlbPS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultural relics",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.hsrCZKb0Gm9LlbPS"
+    },
+    {
+      "range": [
+        19,
+        24
+      ],
+      "_id": "jyeStrmFtay8uEoJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned vehicle",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.jyeStrmFtay8uEoJ"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "t13ZaN089MhzmxAr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miraculous technology",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.t13ZaN089MhzmxAr"
+    },
+    {
+      "range": [
+        33,
+        39
+      ],
+      "_id": "Dyvv2ufZpdi11ERi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Functional repair drone",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.Dyvv2ufZpdi11ERi"
+    },
+    {
+      "range": [
+        40,
+        48
+      ],
+      "_id": "ltwA9apwZeuR8BEU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly AI",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.ltwA9apwZeuR8BEU"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "mPzIuflzfSWxm8h0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Historical records",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.mPzIuflzfSWxm8h0"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "6jMo8nj0MEUpjzLM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to a sealed area",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.6jMo8nj0MEUpjzLM"
+    },
+    {
+      "range": [
+        65,
+        73
+      ],
+      "_id": "VPIR8CQg6FVzXplM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Useful equipment",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.VPIR8CQg6FVzXplM"
+    },
+    {
+      "range": [
+        74,
+        82
+      ],
+      "_id": "wC70RNGbKvhGBG7Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valuable artifact",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.wC70RNGbKvhGBG7Q"
+    },
+    {
+      "range": [
+        83,
+        100
+      ],
+      "_id": "2CwkmkymqRhasKLQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure, peaceful area",
+      "name": "",
+      "_key": "!tables.results!7NoCmNWYPO6yEgP9.2CwkmkymqRhasKLQ"
+    }
+  ],
+  "folder": "Vz3iEVN73HiiGJfK",
+  "sort": 5,
+  "_id": "7NoCmNWYPO6yEgP9",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>These satellites are huge, moon-sized space stations. Who built this moon and why? How old is it?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690501081,
+    "modifiedTime": 1698872380900,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!7NoCmNWYPO6yEgP9"
+}

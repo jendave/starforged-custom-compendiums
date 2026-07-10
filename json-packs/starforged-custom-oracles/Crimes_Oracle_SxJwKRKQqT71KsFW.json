@@ -1,0 +1,920 @@
+{
+  "folder": "EahreekPEEE29RXp",
+  "name": "Crimes Oracle",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Credit: https://nqjasmine.itch.io/crimes-oracle</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "w2gF7Ms0frlNn7a1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arms smuggling",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.w2gF7Ms0frlNn7a1"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "zmBsgVg2L2CZIzHo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Art theft",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.zmBsgVg2L2CZIzHo"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "ICnS9uog3OntGI7U",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assassination or hit job",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.ICnS9uog3OntGI7U"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "CpaIwnMfNG5Khcra",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assault",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.CpaIwnMfNG5Khcra"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "jYLfszwruKw86KQ0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bank robbery",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.jYLfszwruKw86KQ0"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "cedANlj7H8EEIbye",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blackmail",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.cedANlj7H8EEIbye"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "imfzzUBX5rJgvu0q",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bribery",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.imfzzUBX5rJgvu0q"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "nUcwA8V4YSdef0vh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Burglary",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.nUcwA8V4YSdef0vh"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "Rvt6Y4spOUfAl7nH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Con job",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.Rvt6Y4spOUfAl7nH"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "EOOgU2RkY8q534XP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Data theft",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.EOOgU2RkY8q534XP"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "L7fRKHuKezPUcfH6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drug production",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.L7fRKHuKezPUcfH6"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "DcCAxlambiiDgz1K",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drug smuggling illegal experimentation",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.DcCAxlambiiDgz1K"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "mvdKVY2fPmWqyv8O",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drunk driving",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.mvdKVY2fPmWqyv8O"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "qQuHht7maXPDENYO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Embezzlement",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.qQuHht7maXPDENYO"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "mmveqCg6SaGumn1V",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extortion",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.mmveqCg6SaGumn1V"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "Wwq2EOJ77h0W2t4W",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fencing stolen goods",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.Wwq2EOJ77h0W2t4W"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "IAcMxZe0OsIYuACW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forgery (art)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.IAcMxZe0OsIYuACW"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "UlijfUiyChEe9e9Y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forgery (money)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.UlijfUiyChEe9e9Y"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "UVmax7jfOEwYAQ3B",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frame job (roll again for the crime someone is being  framed  for)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.UVmax7jfOEwYAQ3B"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "nzJI8WfnJ5WvAczU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Human trafficking",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.nzJI8WfnJ5WvAczU"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "upyr62FClZqEWR2n",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Illegal gambling",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.upyr62FClZqEWR2n"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "2J1gi0ndPEA9G0GY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jury tampering (roll again for the crime on trial)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.2J1gi0ndPEA9G0GY"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "Kr27HwPlu7Kkl8Ha",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kidnap and ransom",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.Kr27HwPlu7Kkl8Ha"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "tGaVhCSlDVbiMjA9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Money laundering",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.tGaVhCSlDVbiMjA9"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "IkQ5pxKsqwks1JJk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mugging",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.IkQ5pxKsqwks1JJk"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "7vXkzf49cZBICmSD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Murder",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.7vXkzf49cZBICmSD"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "UkBLvloc3iUyZiEN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ponzi scheme",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.UkBLvloc3iUyZiEN"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "cRhF9WBgmVosPGiv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protection racket",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.cRhF9WBgmVosPGiv"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "XWQ85p28rVhC4ggm",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ransomware",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.XWQ85p28rVhC4ggm"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "XtQpkfb1nU0QPKFk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tax fraud or evasion",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.XtQpkfb1nU0QPKFk"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "sxQ7OwpATMBOnzjQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrorism (environmental)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.sxQ7OwpATMBOnzjQ"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "YZxXnpJXN0eX1MVk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrorism (political)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.YZxXnpJXN0eX1MVk"
+    },
+    {
+      "range": [
+        97,
+        99
+      ],
+      "_id": "2uawIZ6G0ifdQnys",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrorism (religious)",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.2uawIZ6G0ifdQnys"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "y0AngNZa2G7gLkof",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.y0AngNZa2G7gLkof"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721074874,
+    "modifiedTime": 1727740252006,
+    "lastModifiedBy": "wGj59hhDk96w0vMO",
+    "exportSource": {
+      "worldId": "test2",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.24.3"
+    }
+  },
+  "formula": "1d100",
+  "_id": "SxJwKRKQqT71KsFW",
+  "sort": 0,
+  "_key": "!tables!SxJwKRKQqT71KsFW"
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "aa6aea2e2f5ce064",
+  "type": "sfmove",
+  "name": "Change Your Fate",
+  "img": "icons/dice/d10black.svg",
+  "folder": "cb00661cf10b4177",
+  "system": {
+    "dfid": "Starforged/Moves/Session/Change_Your_Fate",
+    "Category": "Starforged/Moves/Session",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you encounter flagged content, reject an oracle, resist a consequence, or otherwise need to shift your circumstances within the game for your comfort or enjoyment__, pause and identify what needs to be changed. Choose as many options as appropriate.\n\n  * __Reframe:__ This didn’t happen the way you first thought. Envision the moment from another perspective in a way that diminishes or changes the content.\n  * __Refocus:__ This is not the most important thing happening right now. Envision how the spotlight shifts to change the focus.\n  * __Replace:__ This happens but with a small adjustment. Switch out an element and envision how this new detail changes the scenario.\n  * __Redirect:__ Adjust the trajectory to involve a helping hand. Envision how another person or party becomes involved.\n  * __Reshape:__ The situation changes completely. Envision what happened instead.",
+    "Trigger": {
+      "Text": "When you encounter flagged content, reject an oracle, resist a consequence, or otherwise need to shift your circumstances within the game for your comfort or enjoyment...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 143
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 143,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Session/Change_Your_Fate",
+      "dsid": "move:starforged/session/change_your_fate"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1757745819570,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!aa6aea2e2f5ce064"
+}

@@ -1,0 +1,28 @@
+{
+  "folder": "doiG6KtJAB3QULJl",
+  "name": "NPC Generator",
+  "type": "script",
+  "_id": "zylbYalGTpbUYKnO",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by wilsonam used with permission by the author\n// Modifications by David Hudson\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nlet message = \"\";\nlet firstName = \"\";\nlet lastName = \"\";\nlet descriptor = \"\";\nlet noun = \"\";\n\nlet table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8flYod7IdN0C5Pw5\");\nlet Roll = await table.roll();\nfirstName = Roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hZHeP0Aq9FYWQ0BL\");\nRoll = await table.roll();\nlastName = Roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ML5bfefHPVrXaPMq\");\nRoll = await table.roll();\ndescriptor = Roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.r9I5WbSGo4BW6hWN\");\nRoll = await table.roll();\nnoun = Roll.results[0].text;\n\n// Print the message\n\nmessage = \"<h3>NPC Generator</h3>\" + firstName + \" \" + lastName + \" is  a \" + descriptor + \" \" + noun + \".\"\n\nprintMessage(message);",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758065236522,
+    "modifiedTime": 1758066655248,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!macros!zylbYalGTpbUYKnO"
+}

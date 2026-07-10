@@ -1,0 +1,420 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "4zVsFIwt9NWqGpK9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biotope adapts constantly",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.4zVsFIwt9NWqGpK9"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "XMXDEdf84zKJ3HsA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulbous growths",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.XMXDEdf84zKJ3HsA"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "T9qowZCgetEP0XMp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caves contracting and relaxing",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.T9qowZCgetEP0XMp"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "6onhT6V8VfKPUHLF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creatures acting as immune system",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.6onhT6V8VfKPUHLF"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "um22hN9J1NszTZia",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forests of towering hairs",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.um22hN9J1NszTZia"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "ZywIc35w9WU7X48h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landscape shifts and moves",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.ZywIc35w9WU7X48h"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "B2POOvsmG8DEhZhb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lakes of digestive acids",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.B2POOvsmG8DEhZhb"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "wWrmtIa99TuwNT8Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neuron-like trees",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.wWrmtIa99TuwNT8Q"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "U0efbuznTVXCU52j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially digested objects",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.U0efbuznTVXCU52j"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "y2KUBVfDurvqeDD5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulsating veins",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.y2KUBVfDurvqeDD5"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "S2hzTBrMpj2zKNaO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of complex thought",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.S2hzTBrMpj2zKNaO"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "E7C6FaDoLbqceFJ2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slowly-moving tentacles",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.E7C6FaDoLbqceFJ2"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "MNlXOaPzqp49ApQi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vents expelling waste gases",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.MNlXOaPzqp49ApQi"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "HdbjTe2d1iZkCJvY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.HdbjTe2d1iZkCJvY"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "8a0D4NPqQ8Z6h3YF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (planetside)",
+      "name": "",
+      "_key": "!tables.results!Qliw1klOgHw8h5Bo.8a0D4NPqQ8Z6h3YF"
+    }
+  ],
+  "folder": "e9Mn1qrjtY5qOguu",
+  "sort": 2,
+  "_id": "Qliw1klOgHw8h5Bo",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet entirely composed of a single creature or a colony of creatures.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288206591,
+    "modifiedTime": 1703293796856,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Qliw1klOgHw8h5Bo"
+}

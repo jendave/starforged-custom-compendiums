@@ -1,0 +1,2632 @@
+{
+  "name": "Back",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "SyDBV8H0VKcTR537",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advanced",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.SyDBV8H0VKcTR537"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "9WdaCEbNQsDFaClX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aerospace",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.9WdaCEbNQsDFaClX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "c10ROtAIhtx1PS4W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aggregates",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.c10ROtAIhtx1PS4W"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "pTQdibTRfeIpkoRi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.pTQdibTRfeIpkoRi"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "GNPaPxU9ya6AoZip",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.GNPaPxU9ya6AoZip"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "YRYBqDgHisjEazuF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amalgamated",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.YRYBqDgHisjEazuF"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "gQTlQkuuTQet8dW2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Application",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.gQTlQkuuTQet8dW2"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "kI37JJwXFLm74jTD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armament",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.kI37JJwXFLm74jTD"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "r2sWqsGxesEuqF6K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Astrophysics",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.r2sWqsGxesEuqF6K"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "UCxL328oEYzFQQGS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Augmented",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.UCxL328oEYzFQQGS"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "xPnP4kdkXZv8wV6w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automotive",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.xPnP4kdkXZv8wV6w"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "TSMAawSLi8kKTXRc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.TSMAawSLi8kKTXRc"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "y4Gx8r7oDduvgoz3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Business",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.y4Gx8r7oDduvgoz3"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "hQWhkG4yuCian9hu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Calibrated",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.hQWhkG4yuCian9hu"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "5libdNh1BVyUeuIV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Century",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.5libdNh1BVyUeuIV"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "pWBGEXeQlPz4LLNF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communications",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.pWBGEXeQlPz4LLNF"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "cvqRsKeDqxb6pa3G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Computing",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.cvqRsKeDqxb6pa3G"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "kJw2OSr0b86bl8TE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consolidated",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.kJw2OSr0b86bl8TE"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "33hvYh76HROsjo3O",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumables",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.33hvYh76HROsjo3O"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "4kGq14pWZyqpG5JQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containers",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.4kGq14pWZyqpG5JQ"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "plxcVtmcT8nGMXmH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.plxcVtmcT8nGMXmH"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "fr3i6AWbjaWBhboO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corporation",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.fr3i6AWbjaWBhboO"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "iywYoMSKMaBQ3i3P",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Data",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.iywYoMSKMaBQ3i3P"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "tc8ROIQUIoRxzcgn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defense",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.tc8ROIQUIoRxzcgn"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "FvAx7XlJ0gQJRAMY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Development",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.FvAx7XlJ0gQJRAMY"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "ug3EV9zr6NJrXLlB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diversified",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.ug3EV9zr6NJrXLlB"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "uZRXMkCn8yCv5HAK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dynamics",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.uZRXMkCn8yCv5HAK"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "7Dvj0ZW9ECp0ntXy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Education",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.7Dvj0ZW9ECp0ntXy"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "2DRzjUV5uGRA1rt8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electric",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.2DRzjUV5uGRA1rt8"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "IQyiffZrjLJXY8U9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrochemical",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.IQyiffZrjLJXY8U9"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "GxdLtlMAIlzClWCW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineered",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.GxdLtlMAIlzClWCW"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "pntYEGPujqGApXsb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.pntYEGPujqGApXsb"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "RvAdeG6CIOu9U67U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.RvAdeG6CIOu9U67U"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "xpnrhcv9mGEem9KI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equity",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.xpnrhcv9mGEem9KI"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "2CRNTULREWKFoCcG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Express",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.2CRNTULREWKFoCcG"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "LTZinbCqIx0stxiv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fabrication",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.LTZinbCqIx0stxiv"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "VwPBpcTQhEoG0zun",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Financial",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.VwPBpcTQhEoG0zun"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "5kRp4xYTMViRgV9M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fission",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.5kRp4xYTMViRgV9M"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "7FUSaPuaqTwbooH8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Futures",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.7FUSaPuaqTwbooH8"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "cyn26yYHvuTfMuWc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gas",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.cyn26yYHvuTfMuWc"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "2vmgOJ7OlhYrA6C9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "General",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.2vmgOJ7OlhYrA6C9"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "1awuZIFkVO97P0zw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Genetic",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.1awuZIFkVO97P0zw"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "Yke1XGuOr0NFSAxM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Genomics",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.Yke1XGuOr0NFSAxM"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "JHiPq22Uvb1gmlYl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gold",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.JHiPq22Uvb1gmlYl"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "qeyiC1Zj4uLGwcM5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Group",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.qeyiC1Zj4uLGwcM5"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "mlPdzwQEbuSu4pCp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Healthcare",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.mlPdzwQEbuSu4pCp"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "lhXdAB191FzNUFE4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holdings",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.lhXdAB191FzNUFE4"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "r2vz6KP6SXLE67j8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "House",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.r2vz6KP6SXLE67j8"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "eU9drNH3xZ95wpX5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Housing",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.eU9drNH3xZ95wpX5"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "oF07Q79RLuPFKSCG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.oF07Q79RLuPFKSCG"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "PPXj2MU7qosePv38",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Informational",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.PPXj2MU7qosePv38"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "KKLcn9TavPKpMQkO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Innovative",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.KKLcn9TavPKpMQkO"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "jSw3bdMkux0CI2Iv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Instruments",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.jSw3bdMkux0CI2Iv"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "KDHb8YPWiQjAWdxc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insurance",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.KDHb8YPWiQjAWdxc"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "N6660lWnTMHqtPP3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Integrated",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.N6660lWnTMHqtPP3"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "aM15wIz9n7AoaSdQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Integration",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.aM15wIz9n7AoaSdQ"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "QZTsL83Le4BZ9zut",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leasing",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.QZTsL83Le4BZ9zut"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "cRC4H4FnZE9fhRbg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Logistics",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.cRC4H4FnZE9fhRbg"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "I8ha7wJVJ7vX9pwR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Management",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.I8ha7wJVJ7vX9pwR"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "WblIqfqp8nhyMojz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.WblIqfqp8nhyMojz"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "_id": "m7a1qHbpoYr8Cuul",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanical",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.m7a1qHbpoYr8Cuul"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "9vdbjw9oQRfLGJmi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.9vdbjw9oQRfLGJmi"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "_id": "T9aJQiZQKo9tGmaT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metals",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.T9aJQiZQKo9tGmaT"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "_id": "AcRkkgNiBbbFRCRZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metaphasic",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.AcRkkgNiBbbFRCRZ"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "Mgu2Kbos0JhRFR1U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Motor",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.Mgu2Kbos0JhRFR1U"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "_id": "fHHuBn77vpcc8HYb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutual",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.fHHuBn77vpcc8HYb"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "_id": "l2BkXWrEzyyZW67b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nanotech",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.l2BkXWrEzyyZW67b"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "hoTFKNf6vI1jBSIM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Networked",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.hoTFKNf6vI1jBSIM"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "_id": "MfLE8mKH07HMTLm6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Networks",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.MfLE8mKH07HMTLm6"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "_id": "N8o8xavQxCKXTCbg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nuclear",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.N8o8xavQxCKXTCbg"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "y6Ja5hp7P7lXu8He",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oil",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.y6Ja5hp7P7lXu8He"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "_id": "WVsoUauFZKwz5UWG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.WVsoUauFZKwz5UWG"
+    },
+    {
+      "range": [
+        73,
+        73
+      ],
+      "_id": "4IV2Riuusb1070ur",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peripherals",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.4IV2Riuusb1070ur"
+    },
+    {
+      "range": [
+        74,
+        74
+      ],
+      "_id": "STg2GfJUEzlr7E16",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pharmecutical",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.STg2GfJUEzlr7E16"
+    },
+    {
+      "range": [
+        75,
+        75
+      ],
+      "_id": "w3ycmW7trFp9tE4v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pico Solutions",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.w3ycmW7trFp9tE4v"
+    },
+    {
+      "range": [
+        76,
+        76
+      ],
+      "_id": "LQJjGIAHR98FnOFc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.LQJjGIAHR98FnOFc"
+    },
+    {
+      "range": [
+        77,
+        77
+      ],
+      "_id": "QbULUAcjaczuG07p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pollution",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.QbULUAcjaczuG07p"
+    },
+    {
+      "range": [
+        78,
+        78
+      ],
+      "_id": "yA6iW7ixcG6OjlQr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Productions",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.yA6iW7ixcG6OjlQr"
+    },
+    {
+      "range": [
+        79,
+        79
+      ],
+      "_id": "xwFa1ylu1077brEd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Propulsion",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.xwFa1ylu1077brEd"
+    },
+    {
+      "range": [
+        80,
+        80
+      ],
+      "_id": "2kHn0tyrJPdLTYsN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recreational",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.2kHn0tyrJPdLTYsN"
+    },
+    {
+      "range": [
+        81,
+        81
+      ],
+      "_id": "FZFci4Y0pauXUsFC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.FZFci4Y0pauXUsFC"
+    },
+    {
+      "range": [
+        82,
+        82
+      ],
+      "_id": "ds0JSKXTs0NC5Al5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sciences",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.ds0JSKXTs0NC5Al5"
+    },
+    {
+      "range": [
+        83,
+        83
+      ],
+      "_id": "slegHS1VBXXVu62q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scientific",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.slegHS1VBXXVu62q"
+    },
+    {
+      "range": [
+        84,
+        84
+      ],
+      "_id": "8GZOC6tuMEZaVsmM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Semiconductor",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.8GZOC6tuMEZaVsmM"
+    },
+    {
+      "range": [
+        85,
+        85
+      ],
+      "_id": "Tx6S8RUs0WUXLj22",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Services",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.Tx6S8RUs0WUXLj22"
+    },
+    {
+      "range": [
+        86,
+        86
+      ],
+      "_id": "uA7i7Qj8SFxhR4mH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settlements",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.uA7i7Qj8SFxhR4mH"
+    },
+    {
+      "range": [
+        87,
+        87
+      ],
+      "_id": "X4JD1rrWc6AABMJ0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solar",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.X4JD1rrWc6AABMJ0"
+    },
+    {
+      "range": [
+        88,
+        88
+      ],
+      "_id": "0tX3tg1JbsGQtDT0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solutions",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.0tX3tg1JbsGQtDT0"
+    },
+    {
+      "range": [
+        89,
+        89
+      ],
+      "_id": "AHBcdYlZ1qJrSO5b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.AHBcdYlZ1qJrSO5b"
+    },
+    {
+      "range": [
+        90,
+        90
+      ],
+      "_id": "LMgJmpFBvx8jPQc2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spacefaring",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.LMgJmpFBvx8jPQc2"
+    },
+    {
+      "range": [
+        91,
+        91
+      ],
+      "_id": "G42lNHkXz8qXoO1M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Speciality",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.G42lNHkXz8qXoO1M"
+    },
+    {
+      "range": [
+        92,
+        92
+      ],
+      "_id": "ljDaGnFUFom00sQ8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Specialized",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.ljDaGnFUFom00sQ8"
+    },
+    {
+      "range": [
+        93,
+        93
+      ],
+      "_id": "vkqE74ZD2zCqK2yQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strategic",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.vkqE74ZD2zCqK2yQ"
+    },
+    {
+      "range": [
+        94,
+        94
+      ],
+      "_id": "GnhTA1rkHE5FXjpn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Systems",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.GnhTA1rkHE5FXjpn"
+    },
+    {
+      "range": [
+        95,
+        95
+      ],
+      "_id": "5gNZIjjR11OQswMo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.5gNZIjjR11OQswMo"
+    },
+    {
+      "range": [
+        96,
+        96
+      ],
+      "_id": "8AfmHu4m32hEVQKz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Telecommunications",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.8AfmHu4m32hEVQKz"
+    },
+    {
+      "range": [
+        97,
+        97
+      ],
+      "_id": "vKcCC0yvcRovZymB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trading",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.vKcCC0yvcRovZymB"
+    },
+    {
+      "range": [
+        98,
+        98
+      ],
+      "_id": "l4OjgoeOgSNxIsme",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.l4OjgoeOgSNxIsme"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "fZ44T8fmWH6GTbsb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unlimited",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.fZ44T8fmWH6GTbsb"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "VpvJoGYlRGikFz8y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wholesale",
+      "name": "",
+      "_key": "!tables.results!0GtuQnwiClCBnknY.VpvJoGYlRGikFz8y"
+    }
+  ],
+  "_id": "0GtuQnwiClCBnknY",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Generate the \"Front\" and \"Back\" halves of the Corporation name.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "89jajheicniBQXvB",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696145143206,
+    "modifiedTime": 1696145275183,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.0GtuQnwiClCBnknY",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!0GtuQnwiClCBnknY"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Hearten",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "f1y1L9SOfePrZfKH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +1 additional spirit",
+      "name": "",
+      "_key": "!tables.results!qZC9yWej5TWMBQdZ.f1y1L9SOfePrZfKH"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "FMTHvLskCl0MFqyG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +1 additional spirit and take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!qZC9yWej5TWMBQdZ.FMTHvLskCl0MFqyG"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "DLQ8qikRHbDB4c7l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +1 additional spirit and take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!qZC9yWej5TWMBQdZ.DLQ8qikRHbDB4c7l"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "dAND6b8enA0AsHoG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional spirit and take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!qZC9yWej5TWMBQdZ.dAND6b8enA0AsHoG"
+    }
+  ],
+  "folder": "LwKVjlyCZpJ2AL5U",
+  "sort": 2,
+  "_id": "qZC9yWej5TWMBQdZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466585451,
+    "modifiedTime": 1706856366586,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!qZC9yWej5TWMBQdZ"
+}

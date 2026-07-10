@@ -1,0 +1,290 @@
+{
+  "name": "Celebration",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "FieFKWLalsIas781",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anniversary of a military victory",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.FieFKWLalsIas781"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "vCKYZZykkz52o5Xy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvest, hunt, or food gathering festival",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.vCKYZZykkz52o5Xy"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "1zn2mqvh5AT69e0Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Honoring a leader",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.1zn2mqvh5AT69e0Z"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "hNl4gedbURPR3iAB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Observance or memorial of a lost battle",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.hNl4gedbURPR3iAB"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "48tsK82Tmktj1Si5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Old Earth Holiday",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.48tsK82Tmktj1Si5"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "xFWJzUmlEEQjljSF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political ceremony",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.xFWJzUmlEEQjljSF"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "mv0uXTYfS0BhYJWk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reason unknown, lost to oral tradition",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.mv0uXTYfS0BhYJWk"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "WTI9jXt3WEPQMVEw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regular technology maintenance",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.WTI9jXt3WEPQMVEw"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "IualG53zTNe8kErQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spiritual holiday",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.IualG53zTNe8kErQ"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "ETHz7GXJjm9fPR8B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weather-related or seasonal celebration",
+      "name": "",
+      "_key": "!tables.results!HgaIzQYR3M7ooyFa.ETHz7GXJjm9fPR8B"
+    }
+  ],
+  "folder": "yu8JPkbHDETxzu4h",
+  "sort": 1,
+  "_id": "HgaIzQYR3M7ooyFa",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Why are the people gathering together? You may also ask the oracle if it is a joyful time or one of sorrow.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293154103,
+    "modifiedTime": 1699294898901,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!HgaIzQYR3M7ooyFa"
+}

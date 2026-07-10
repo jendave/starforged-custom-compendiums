@@ -1,0 +1,188 @@
+{
+  "name": "Cloud Cover",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Iqp8fE13mQBiHXeV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clear",
+      "name": "",
+      "_key": "!tables.results!xb42QIQbA6Th4hwk.Iqp8fE13mQBiHXeV"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "p3ZXe7IcQOu1aaSr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clear",
+      "name": "",
+      "_key": "!tables.results!xb42QIQbA6Th4hwk.p3ZXe7IcQOu1aaSr"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "gtR6S2BzQ5olZfBc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light",
+      "name": "",
+      "_key": "!tables.results!xb42QIQbA6Th4hwk.gtR6S2BzQ5olZfBc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "0GMjcJaszV9Tpukj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium",
+      "name": "",
+      "_key": "!tables.results!xb42QIQbA6Th4hwk.0GMjcJaszV9Tpukj"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "XQMfGhpAXNBOR0rH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy",
+      "name": "",
+      "_key": "!tables.results!xb42QIQbA6Th4hwk.XQMfGhpAXNBOR0rH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "afawhymTXxJe6uRa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storm",
+      "name": "",
+      "_key": "!tables.results!xb42QIQbA6Th4hwk.afawhymTXxJe6uRa"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "vieY1S9gCOmgqo09",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698523642293,
+    "modifiedTime": 1698526351144,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xb42QIQbA6Th4hwk",
+  "sort": 100000,
+  "_key": "!tables!xb42QIQbA6Th4hwk"
+}

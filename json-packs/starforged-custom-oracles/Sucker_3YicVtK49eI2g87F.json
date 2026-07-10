@@ -1,0 +1,1592 @@
+{
+  "name": "Sucker",
+  "formula": "1d60",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "3ORsTSBTzdHi8gow",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "adulterated chipware",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.3ORsTSBTzdHi8gow"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "rc88Um4B0gfXX4dy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AI system designer",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.rc88Um4B0gfXX4dy"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "knrWT4MP2IuPxVbg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "arms dealers",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.knrWT4MP2IuPxVbg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "UudMzStSNskwNTAU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "autonomous software",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.UudMzStSNskwNTAU"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "tUKQomcgemESO2bL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bioweapons division",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.tUKQomcgemESO2bL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "0FHARonbXEdGHfve",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "blackmailed hackers",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.0FHARonbXEdGHfve"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "FEcDKLyTwZQE5ukl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bought city officials",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.FEcDKLyTwZQE5ukl"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "o7Pt5lwbV0kk6ZHT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "cheap gunmen",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.o7Pt5lwbV0kk6ZHT"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "J0Ii5nAWmZb40Mpg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "child assassin",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.J0Ii5nAWmZb40Mpg"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ntGfTrHMc9yOMuxp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "clueless scientists",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.ntGfTrHMc9yOMuxp"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "SksWFHVhvwcEpGz5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "company's black ops",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.SksWFHVhvwcEpGz5"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "z1F03g2uzYKyOO69",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "compromised AI",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.z1F03g2uzYKyOO69"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "lCZWE1KGypVmHTEy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "conned legislators",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.lCZWE1KGypVmHTEy"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "ryhx5htSDY0QqYza",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "corporate ninjas",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.ryhx5htSDY0QqYza"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Ybvcy4h5nAtxEsRN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "creative techies",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.Ybvcy4h5nAtxEsRN"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "9fP6uVcNsWGlVL4K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "criminal syndicate",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.9fP6uVcNsWGlVL4K"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "tXRnYGYmuazpnfGX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "deceived rival",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.tXRnYGYmuazpnfGX"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "m4tmCJq1X04J6MU6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "designer toxins",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.m4tmCJq1X04J6MU6"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "lHQTCKq8iGf4CA7e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "dubious security team",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.lHQTCKq8iGf4CA7e"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "6WbpRqqmsUhWxcIl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "duped actors",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.6WbpRqqmsUhWxcIl"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "K5jKEGDhr9uZ3mdb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "elite agents",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.K5jKEGDhr9uZ3mdb"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "dLHy5XcEsZkjDoBX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "elite programmers",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.dLHy5XcEsZkjDoBX"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "cuvA8PF3mTl3Y5F0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fixer network",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.cuvA8PF3mTl3Y5F0"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "BjX0DRF7SUURqpQB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "foreign head-of-state",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.BjX0DRF7SUURqpQB"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "rz5XqT8sqG9tL61l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "foreign strike team",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.rz5XqT8sqG9tL61l"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "Evh85OkF8mwwBYsa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fringe political group",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.Evh85OkF8mwwBYsa"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "ySvglym7FrByz1F0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "hacking collective",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.ySvglym7FrByz1F0"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "PEISg44VfFVyZCdj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "hunter-killer drones",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.PEISg44VfFVyZCdj"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "mPnJYGljQH0e9C2d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "independent hit team",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.mPnJYGljQH0e9C2d"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "cE7wK8by2R3Gy5Nf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "intelligence agency",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.cE7wK8by2R3Gy5Nf"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "99iVLAHogKrYvQBx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "intimate personal data",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.99iVLAHogKrYvQBx"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "bMuoamBpLYk2OnsN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "junkie relative",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.bMuoamBpLYk2OnsN"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "RvBKHWSz1Pug2x5d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "mercenary contractors",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.RvBKHWSz1Pug2x5d"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "xdxmwKZ7KqhMAGOV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "monitors computers",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.xdxmwKZ7KqhMAGOV"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "3FRhwjt2hTyaCvIX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "naive underlings",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.3FRhwjt2hTyaCvIX"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "m7avW7Gkv7QicM2X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "net smear campaign",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.m7avW7Gkv7QicM2X"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "FNqR4QSheFoIV1nR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "offworld accounts",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.FNqR4QSheFoIV1nR"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "jDcTJCVYTDhziB6z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "own family fortune",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.jDcTJCVYTDhziB6z"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "TvPDxd5kgCUzkbOc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "people traffickers",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.TvPDxd5kgCUzkbOc"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "Grfq7SD2qBd4yN4X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "pharmaceutical company",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.Grfq7SD2qBd4yN4X"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "Mx2LL4Ri9Mug8h70",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "private bodyguards",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.Mx2LL4Ri9Mug8h70"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "1kCWDFmH0XLp2s6x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "private investigators",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.1kCWDFmH0XLp2s6x"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "oM69JrJvNArmyihd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "private laboratory",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.oM69JrJvNArmyihd"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "GHgu78HgRjDhTZxO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "propagandists",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.GHgu78HgRjDhTZxO"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "Tv8nn5aXCrhoD6qo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "R&amp;D nanoweapons",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.Tv8nn5aXCrhoD6qo"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "ByZo0KkA8notWkUS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "reassigned agents",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.ByZo0KkA8notWkUS"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "j4WmelouUVNHh5Xm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "religious group",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.j4WmelouUVNHh5Xm"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "RHTxq19N5QCiPiJQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "renowned assassin",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.RHTxq19N5QCiPiJQ"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "YxQcrSPqZqvCQqJh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "ripperdoc network",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.YxQcrSPqZqvCQqJh"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "guwTOnrxdXkj5a6w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "rival corporation",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.guwTOnrxdXkj5a6w"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "TJjpStj05ny3fPCT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "seconded security team",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.TJjpStj05ny3fPCT"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "ga2KHvkSPLkYtKXQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "seductive concubine",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.ga2KHvkSPLkYtKXQ"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "ZgcDlzzCEU7trGYC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "sex synthetics",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.ZgcDlzzCEU7trGYC"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "6xJ3PQsPzL8ZsaTJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "street gang alliance",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.6xJ3PQsPzL8ZsaTJ"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "UJhk9k7KCkWOucpx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "their own lover(s)",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.UJhk9k7KCkWOucpx"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "sdBBpDjzFdJuH3p9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "tracking nanites",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.sdBBpDjzFdJuH3p9"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "zjPli9JAkFeytwmO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "unethical medtechs",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.zjPli9JAkFeytwmO"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "DUiCN3GlVj4cWE9r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "unstable remotes",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.DUiCN3GlVj4cWE9r"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "R57RPuWh4Vv1M6y0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "unwitting employees",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.R57RPuWh4Vv1M6y0"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "7oCCDhkfL7nBbxeP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "weaponised homeless",
+      "name": "",
+      "_key": "!tables.results!3YicVtK49eI2g87F.7oCCDhkfL7nBbxeP"
+    }
+  ],
+  "_id": "3YicVtK49eI2g87F",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll 1d60 on the \"Evil Deed\" table, to find out what the corporation is up to and, optionally, another 1d60 on the \"Sucker\" table, to find out who (or what) the corporation is using to advance its plot. Obviously, you can replace a roll on the \"Sucker\" table by rolling up a new NPC from the earlier tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "icPAHxKyFqt4PZ2U",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696145212629,
+    "modifiedTime": 1696189580881,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.3YicVtK49eI2g87F",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!3YicVtK49eI2g87F"
+}

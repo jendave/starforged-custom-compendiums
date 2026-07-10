@@ -1,0 +1,472 @@
+{
+  "name": "Operations",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "VVA9wqSNdGRkbFrh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brig/cell/jail",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.VVA9wqSNdGRkbFrh"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "_id": "FLgHQ1MMcumWzvDl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleaners",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.FLgHQ1MMcumWzvDl"
+    },
+    {
+      "range": [
+        13,
+        18
+      ],
+      "_id": "o6eO0iNY1PvAsVe6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command center/Bridge",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.o6eO0iNY1PvAsVe6"
+    },
+    {
+      "range": [
+        19,
+        24
+      ],
+      "_id": "YnprCYIGjNjtm7rl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food/Air/Water recyclers",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.YnprCYIGjNjtm7rl"
+    },
+    {
+      "range": [
+        25,
+        29
+      ],
+      "_id": "9e9ttGFwa789OvVX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydroponics",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.9e9ttGFwa789OvVX"
+    },
+    {
+      "range": [
+        30,
+        35
+      ],
+      "_id": "aC81yJRWgiB1gP8L",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landing strip/hangar",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.aC81yJRWgiB1gP8L"
+    },
+    {
+      "range": [
+        36,
+        41
+      ],
+      "_id": "Bqb4HFnyAlsAdwOs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security o ce",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.Bqb4HFnyAlsAdwOs"
+    },
+    {
+      "range": [
+        42,
+        47
+      ],
+      "_id": "eupny82DAifpW6Rk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monitoring room",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.eupny82DAifpW6Rk"
+    },
+    {
+      "range": [
+        48,
+        53
+      ],
+      "_id": "gWu4flgd1qZAfWjp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power generators",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.gWu4flgd1qZAfWjp"
+    },
+    {
+      "range": [
+        54,
+        59
+      ],
+      "_id": "0ZtJ5TLGY8z510SE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sewage management",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.0ZtJ5TLGY8z510SE"
+    },
+    {
+      "range": [
+        60,
+        65
+      ],
+      "_id": "gzEncOmHbBhE15qM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spaceport",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.gzEncOmHbBhE15qM"
+    },
+    {
+      "range": [
+        66,
+        71
+      ],
+      "_id": "kcgGmMRDUvYcFjlr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wind farms",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.kcgGmMRDUvYcFjlr"
+    },
+    {
+      "range": [
+        72,
+        76
+      ],
+      "_id": "RAM8VAJKv86Fnq2C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military (training grounds, weapons depot, shipyard, research facility, command centre, armoury)",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.RAM8VAJKv86Fnq2C"
+    },
+    {
+      "range": [
+        77,
+        82
+      ],
+      "_id": "fOC86qi3PGzftrgl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offices (government offices, licensing offices, dock master's office, local governor's office, sector's political hub, sky rises)",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.fOC86qi3PGzftrgl"
+    },
+    {
+      "range": [
+        83,
+        88
+      ],
+      "_id": "bXnAnPrBI1JIFWYC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Traffic control centre (command centre on a space station, traffic control tower located on the outskirts of the city, frantic logistics hub in a merchant city)",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.bXnAnPrBI1JIFWYC"
+    },
+    {
+      "range": [
+        89,
+        94
+      ],
+      "_id": "YOQU8S4drdxzHakO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monorail station (subway station, intra-city public transport station)",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.YOQU8S4drdxzHakO"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "ajgmRWompo6RSI8f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Train station (inter-city public transport station)",
+      "name": "",
+      "_key": "!tables.results!bCOKPsCrOE4rxUdf.ajgmRWompo6RSI8f"
+    }
+  ],
+  "folder": "6HWOhc1aNrOMGOiH",
+  "sort": 5,
+  "_id": "bCOKPsCrOE4rxUdf",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Area types can range from the general (religious establishments) to the specific (diner), but I’ve included examples and alternatives to help inspire ideas that would fit your world truths.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829721267,
+    "modifiedTime": 1698831717904,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!bCOKPsCrOE4rxUdf"
+}

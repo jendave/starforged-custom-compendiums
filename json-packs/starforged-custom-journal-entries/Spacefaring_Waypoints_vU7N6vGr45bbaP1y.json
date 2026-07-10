@@ -1,0 +1,65 @@
+{
+  "folder": "NnKmQ9y96WrkHhpc",
+  "name": "Spacefaring Waypoints",
+  "_id": "vU7N6vGr45bbaP1y",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "UY2CUFXJlIx4txrV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.lCTFWTborkYWZsga]{Known Space - Terminus}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.kFKf4LQdhKj6BlbF]{Known Space - Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tifo1olxHyVpK64M]{Known Space - Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Xa0btfUxH2tei0XL]{Unknown Space - Terminus}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vrWX9mg4zrkPEZDt]{Unknown Space - Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tdx9V03fYOqxci83]{Unknown Space - Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3E3uioDcT2fAIQbK]{Stellar Phenomena - Terminus}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nK69joo1g04MCGRh]{Stellar Phenomena - Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vxdhTR03ORIkyOVK]{Stellar Phenomena - Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.0eDgFzU7QH2d9W9t]{Specific Phenomena - Notable}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.36rmF52c0xJhkeAU]{Specific Phenomena - Dangerous}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.n3qoo5aZgPiKZlBa]{Interesting Details}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758143383317,
+        "modifiedTime": 1758143523714,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!vU7N6vGr45bbaP1y.UY2CUFXJlIx4txrV"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758143378270,
+    "modifiedTime": 1758143378270,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!vU7N6vGr45bbaP1y"
+}

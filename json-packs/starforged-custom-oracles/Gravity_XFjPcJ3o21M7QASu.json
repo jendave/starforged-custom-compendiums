@@ -1,0 +1,108 @@
+{
+  "name": "Gravity",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "ymg9u1TSDKS9MlRt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Less",
+      "name": "",
+      "_key": "!tables.results!XFjPcJ3o21M7QASu.ymg9u1TSDKS9MlRt"
+    },
+    {
+      "range": [
+        34,
+        67
+      ],
+      "_id": "7DglxLtYeAz99mG0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1G",
+      "name": "",
+      "_key": "!tables.results!XFjPcJ3o21M7QASu.7DglxLtYeAz99mG0"
+    },
+    {
+      "range": [
+        68,
+        100
+      ],
+      "_id": "I2qPr3vyjlWdcQI1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "More",
+      "name": "",
+      "_key": "!tables.results!XFjPcJ3o21M7QASu.I2qPr3vyjlWdcQI1"
+    }
+  ],
+  "folder": "s6ePZrRlXQyGLeWh",
+  "sort": 4,
+  "_id": "XFjPcJ3o21M7QASu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>I’m making the assumption that 1G is the norm by which all Forge residents measures their environments by.</p><p>You don’t have to roll this table, but it’s just an interesting factor to take into consideration. Is your character entering a space station with a higher spin gravity? What does that do to their aim (if they were to fire a gun)?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829747528,
+    "modifiedTime": 1698831663025,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!XFjPcJ3o21M7QASu"
+}

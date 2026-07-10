@@ -1,0 +1,1122 @@
+{
+  "name": "Features in the Fathoms",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "J1FMI5TZoAz2auD5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animals grown to enormous size",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.J1FMI5TZoAz2auD5"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "JVua478Glz9ojSEq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent lifeforms",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.JVua478Glz9ojSEq"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "djlf0bEvVztPKclQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent plankton",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.djlf0bEvVztPKclQ"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "Otodzdc1OUxRchSd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blue emptiness",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.Otodzdc1OUxRchSd"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "GoyMnroAtN5DCVl6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brine pool",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.GoyMnroAtN5DCVl6"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "ixA8deEYllHYZZJo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creature outside of its usual habitat",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.ixA8deEYllHYZZJo"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "cvcuM1aJ8ppuoKlY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creatures diving or surfacing",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.cvcuM1aJ8ppuoKlY"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "I0gU6xmJ5WFv2mjU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Curious animals",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.I0gU6xmJ5WFv2mjU"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "opexBiYLYGwlz4VV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distant ominous sounds",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.opexBiYLYGwlz4VV"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "aW5MTQUxKq98iuuE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Featureless sandy landscape",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.aW5MTQUxKq98iuuE"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "Nmq3C0R7b1ZXFPKJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Field littered with cannon balls",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.Nmq3C0R7b1ZXFPKJ"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "eXLhRARIzY5XR0lG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giant animals fighting",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.eXLhRARIzY5XR0lG"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "9xirGvxYi5NyiD5W",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydrothermal vents",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.9xirGvxYi5NyiD5W"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "IFHOYoSZFw8cgG39",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large bubbles rising from below",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.IFHOYoSZFw8cgG39"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "IoqJhxjdeyho0Fri",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large eyes in the dark",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.IoqJhxjdeyho0Fri"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "6UKzCcw9XEskH0mY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large filter feeder with its mouth wide open",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.6UKzCcw9XEskH0mY"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "u15Gp5SVXA0jX9NK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lights in the distance",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.u15Gp5SVXA0jX9NK"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "cy1STXoaqqFLNQ7y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loose anchor",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.cy1STXoaqqFLNQ7y"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ylLNRpXACxAuVUxH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marine snow falls from above",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.ylLNRpXACxAuVUxH"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "Rzvz6ShWzFbaD1ap",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pale sponges",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.Rzvz6ShWzFbaD1ap"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "bC6ab5NWTOYopCw9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patterns in the ocean floor",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.bC6ab5NWTOYopCw9"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "wndwctYqO2ChCcFq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pod of whales passing by",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.wndwctYqO2ChCcFq"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "s7GG3Yww7mBhUTcw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preserved air pockets",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.s7GG3Yww7mBhUTcw"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "x9sdEWIlW9hazyhC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sand kicked up by fleeing animals",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.x9sdEWIlW9hazyhC"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "fFRKUVyndhKG0F33",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scattered cargo crates",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.fFRKUVyndhKG0F33"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "75ZJeOXpesqBPWpS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scavengers feasting on a dead animal",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.75ZJeOXpesqBPWpS"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "qaD7fVELJvShu3FL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sessile animals nestled in the sand",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.qaD7fVELJvShu3FL"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "qHvwx5939WlHOCwd",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skeletal animal remains",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.qHvwx5939WlHOCwd"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "s0uyNhnq7p23cNSN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skeleton clutching a &gt;Token",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.s0uyNhnq7p23cNSN"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "ktgC0IDEVFr6TVqB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sperm whales sleeping upright",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.ktgC0IDEVFr6TVqB"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "ngIYqNNAa6T1zB4u",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steep ravine leading even deeper",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.ngIYqNNAa6T1zB4u"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "mU7i8loHq76EfNfw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange lifeforms",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.mU7i8loHq76EfNfw"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "mamZQASujWQvjbV7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strong currents",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.mamZQASujWQvjbV7"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "KJXMj2n4Qne0pclO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sunken chest",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.KJXMj2n4Qne0pclO"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "fCK5eOm4Tpj8mEBo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sunken coffin",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.fCK5eOm4Tpj8mEBo"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "PmJccqPc7z6uAIQi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underwater mount",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.PmJccqPc7z6uAIQi"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "F3UIBO8eMHlYTpm8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underwater volcano",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.F3UIBO8eMHlYTpm8"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "ksOuUgaB5dW5YFIs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slope to @Compendium[starforged-custom-oracles.starforgedcustomoracles.RollTable.XDGwFAl9R8XcKklC]{The Shallows}",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.ksOuUgaB5dW5YFIs"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "VurmTcKXZdxQbAxo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.sunderedislesoracles.RollTable.082fdf434af8131f]{Cave}",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.VurmTcKXZdxQbAxo"
+    },
+    {
+      "range": [
+        81,
+        86
+      ],
+      "_id": "InP8lNlMQBAmW8zW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.sunderedislesoracles.RollTable.7a7b8d82302bcd36]{Shipwreck}",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.InP8lNlMQBAmW8zW"
+    },
+    {
+      "range": [
+        87,
+        90
+      ],
+      "_id": "5wRdXGLg7VAmv4YE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.sunderedislesoracles.RollTable.5d105379b22e0dd0]{Ruin}",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.5wRdXGLg7VAmv4YE"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "OhqxaCWHWlFRhu9R",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.starforgedoracles.e2bae1632870e2d2]{Descriptor} +  @Compendium[foundry-ironsworn.starforgedoracles.9d920a9da68abf62]{Focus}",
+      "name": "",
+      "_key": "!tables.results!KjawEQXfqBPzh47v.OhqxaCWHWlFRhu9R"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Roll when diving in the Fathoms or when you encounter a waypoint during underwater travel through the Fathoms.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "yf5ut5u758hVDi77",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.9",
+    "createdTime": 1737193937391,
+    "modifiedTime": 1737194615776,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "KjawEQXfqBPzh47v",
+  "sort": 400000,
+  "_key": "!tables!KjawEQXfqBPzh47v"
+}

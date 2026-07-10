@@ -1,0 +1,65 @@
+{
+  "folder": "GdnDb9hcYHtmiFKX",
+  "name": "Iron City - District Generator",
+  "_id": "4NauVKlntpylwd6O",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "ImPfgM5mLKrT7Pak",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KHZSLP6I0ybismLd]{All Areas by Types}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.DODrGOfiDoq9UeSg]{Location in the Forge}</p><h2>Area Type by Purpose</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.llNLmHBX07lmURqZ]{Businesses}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.q63p0dUJ9wBQ9BYn]{Community/Social}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ER2Dds1pUDm66Qri]{Engineering}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.6ztqHE1rm55LesPs]{Living}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tTrgnaaNWCMfrj6R]{Medical}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bCOKPsCrOE4rxUdf]{Operations}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.5XyvWWrSgYEem5PC]{Production/Manufacturing}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.EBetkiawfEYbNHUr]{Research}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9nl0OyE04v3a30Rd]{Transport/Connection/Access}</p><h2>District</h2><h3>Expanse</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nlPobTCXv1TG1Dce]{Condition Expanse}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RPzFxFAp9ZFa9ceU]{Population Size Expanse}</p><h3>Outlands</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.AZdcJ1BSxhYRnOOv]{Condition Outlands}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.aYoCjOxPLPn4FHsb]{Population Size Outlands}</p><h3>Terminus</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.5qPQmGjL5TnV0VV9]{Condition Terminus}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9iUUQRruh2lxuJ4i]{Population Size Terminus}</p><h2>Scene Generator</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ZCiNzL3GAQ3AP6at]{Day or Night}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XFjPcJ3o21M7QASu]{Gravity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.KnE8hzbifqgxIY6z]{Scene Location Orbital/Deep Space}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Vc2CAJSF6YHk0kaO]{Scene Location Planetside}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bpfhIYsIDZM2SxvF]{Weather}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758140958933,
+        "modifiedTime": 1758141500706,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4NauVKlntpylwd6O.ImPfgM5mLKrT7Pak"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758140953122,
+    "modifiedTime": 1758140953122,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!4NauVKlntpylwd6O"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "8sbPMQDmNrLFJO9H",
+  "name": "Voidforged Resources",
+  "_id": "EjC4IPiVZecizyq1",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Voidforged Oracles",
+      "type": "text",
+      "_id": "vUbDcE7iPuiBO87c",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.eULwmhJYO9uQbHQM]{Additional Backgrounds}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.B7mD4dIeGqoarSo1]{Alien Drives}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RPH2yWgRxplDt6Eq]{Alien Features}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rXVogsFFB7LA1IN8]{Alien Tactics}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.zuGdZmitdg8HlJtl]{Business/Industry}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.aJTEJ9p7z5HSTGiE]{Cataclysm - It was...}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.z3D98uvA0ASrbgEC]{Financial State}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Z6bUXqpgAdvnh6nS]{Magic - You Can Gain Access to Magic by...}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.t7pSHPhBdyuymESb]{New Faction Type Oracle}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.gunDua2TAYRdjHG6]{The Panic Table - Panic Effect}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.u9WKIlt0YMBWUWC2]{The Wound Table - Wound Severity}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757747330847,
+        "modifiedTime": 1757747750339,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!EjC4IPiVZecizyq1.vUbDcE7iPuiBO87c"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757747274757,
+    "modifiedTime": 1757747899890,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!EjC4IPiVZecizyq1"
+}

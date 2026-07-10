@@ -1,0 +1,550 @@
+{
+  "name": "Underwater Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "pLu93v3W4qsZR8RB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cold or pressure weakens you",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.pLu93v3W4qsZR8RB"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "xJwcJRjJF8mKlC3c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Currents pull you towards danger",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.xJwcJRjJF8mKlC3c"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "4sLHKryQ9ZBmJlJA",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Difficult path",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.4sLHKryQ9ZBmJlJA"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "Xbc5N7NxP9oX5gEF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disturbing remains",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.Xbc5N7NxP9oX5gEF"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "mTFLtmFUJUG180CS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entangling debris",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.mTFLtmFUJUG180CS"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "iMroHixtak8jJLNX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entangling plants or creatures",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.iMroHixtak8jJLNX"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "F6QpZOaOxic8q3PJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment begins to fail",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.F6QpZOaOxic8q3PJ"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "dgFPql9YEJoxPb94",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Huge animals fail to notice you",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.dgFPql9YEJoxPb94"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "GyZoYDJRdOXVPzXi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Predator approaches",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.GyZoYDJRdOXVPzXi"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "XhfoLmaH2vzbEQik",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sense of being watched",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.XhfoLmaH2vzbEQik"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "nk3UjtGSEQv6fw76",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sinking debris",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.nk3UjtGSEQv6fw76"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "NsnUHmqRdv8zuDfl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swarm of aggressive creatures",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.NsnUHmqRdv8zuDfl"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "BNGMqeGeD1EhXJkN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Territorial creatures",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.BNGMqeGeD1EhXJkN"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "PxRD9IDUYvAzaGLX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The deep calls to you",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.PxRD9IDUYvAzaGLX"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "AZL0B6hsc6v1Hrgz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Up and down become indistinguishable",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.AZL0B6hsc6v1Hrgz"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "WvAVcyegyxj6NOE9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Venomous animals",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.WvAVcyegyxj6NOE9"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "VHFFoO9yYZ0b3N9S",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visibility is hindered",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.VHFFoO9yYZ0b3N9S"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "kMwkrZSdozcjl6Ri",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Volcanic vents expel hot, toxic water",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.kMwkrZSdozcjl6Ri"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "K1ajqrDyXZrwdnKz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your air grows thin",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.K1ajqrDyXZrwdnKz"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "za5LeWg3X6Ekckn1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.za5LeWg3X6Ekckn1"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this table when encountering a peril while diving underwater.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "yf5ut5u758hVDi77",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.9",
+    "createdTime": 1737193954223,
+    "modifiedTime": 1737193954223,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "UEQJpG1tK3g4qxJW",
+  "sort": 0,
+  "_key": "!tables!UEQJpG1tK3g4qxJW"
+}

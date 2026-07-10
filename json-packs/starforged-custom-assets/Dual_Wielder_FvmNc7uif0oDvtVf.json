@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "3zrHGetXJsVA5vR2",
+  "name": "Dual Wielder",
+  "system": {
+    "requirement": "<p>If you wield a bladed weapon in each hand…</p>",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash}, you may add +2. If you do (decide before rolling), mark progress on a strong hit and but count a weak hit as a miss.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Once per fight, when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3f5a834fa3fea5d1]{Gain Ground} +edge by making a bold display of your combat prowess, you may reroll any dice.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you are outnumbered in a fight or in a bad spot, you may opt to fight defensively with a flurry of parrying thrusts and warding blows. If you do (chose before rolling), mark one less progress on a hit when you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash}, but on a weak hit, you are in control.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/crossed-swords.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Combat_Talent/Duelist",
+      "dsid": "asset:classic/combat_talent/duelist",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906131786,
+    "modifiedTime": 1759471072916,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "FvmNc7uif0oDvtVf",
+  "sort": 1900000,
+  "_key": "!items!FvmNc7uif0oDvtVf"
+}

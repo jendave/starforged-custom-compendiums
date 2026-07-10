@@ -1,0 +1,342 @@
+{
+  "name": "Opportunities",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        6
+      ],
+      "_id": "9ZDxwUNY0mNeUPGP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pocket atmospheres",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.9ZDxwUNY0mNeUPGP"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "_id": "zlii1ea93S33rKqt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned mining station",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.zlii1ea93S33rKqt"
+    },
+    {
+      "range": [
+        13,
+        18
+      ],
+      "_id": "5ur1bZwcMmCLDlDg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Depleted fuel cells",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.5ur1bZwcMmCLDlDg"
+    },
+    {
+      "range": [
+        19,
+        24
+      ],
+      "_id": "zGZISsEFA14gHB1S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare minerals",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.zGZISsEFA14gHB1S"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "vnqTobL4jYJSizpJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pieces of a long lost starship",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.vnqTobL4jYJSizpJ"
+    },
+    {
+      "range": [
+        33,
+        39
+      ],
+      "_id": "yuYRq2sBYeGrukiF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient survey probe",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.yuYRq2sBYeGrukiF"
+    },
+    {
+      "range": [
+        40,
+        48
+      ],
+      "_id": "orBz0U683reuZ6bf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distress call",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.orBz0U683reuZ6bf"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "Ig9ecfKvPvZEW2L2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discover secrets from your past",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.Ig9ecfKvPvZEW2L2"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "g5LXn2kRwWqYBKlL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Useful junk",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.g5LXn2kRwWqYBKlL"
+    },
+    {
+      "range": [
+        65,
+        73
+      ],
+      "_id": "m0HRNz5w9n5S7j59",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Old friend arrives",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.m0HRNz5w9n5S7j59"
+    },
+    {
+      "range": [
+        74,
+        82
+      ],
+      "_id": "rO4IBsceznycfdJI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Derelicts\"><i class=\"fa fa-caret-right\"></i> Derelicts</a>",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.rO4IBsceznycfdJI"
+    },
+    {
+      "range": [
+        83,
+        100
+      ],
+      "_id": "1RWVconc4P0bNa9o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quiet, serene moment",
+      "name": "",
+      "_key": "!tables.results!3u05KTcbYUPA8HPc.1RWVconc4P0bNa9o"
+    }
+  ],
+  "folder": "y506waZHOkP9qT60",
+  "sort": 3,
+  "_id": "3u05KTcbYUPA8HPc",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Dust, debris and ice that encircles a planet in a shimmering ring, but what are the rings made of? How were they formed?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690598144,
+    "modifiedTime": 1698872418231,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!3u05KTcbYUPA8HPc"
+}

@@ -1,0 +1,78 @@
+{
+  "type": "asset",
+  "folder": "KzLbpE8WHRQG5e5e",
+  "name": "Weapon Master",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You are a walking armory, with a weapon for every occasion. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.2f2ba4090b22a122]{Enter the Fray} in personal combat, add +1 and take +1 momentum on a hit. Once per fight, when you @Compendium[starforged-custom-oracles.starforgedcustommoves.3f5a834fa3fea5d1]{Gain Ground} by switching weapons or changing tactics, take an automatic strong hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.ae5994ceb3cba098]{Strike} using a weapon which has limited projectiles or uses, add +1 and mark progress on a hit. Then, @Compendium[starforged-custom-oracles.starforgedcustommoves.0fcfea7696d1de15]{Sacrifice Resources} (-1). If you score a strong hit on this attack and immediately @Compendium[starforged-custom-oracles.starforgedcustommoves.3129f4caa4754caf]{Take Decisive Action}, you may retain the value of one challenge die from your @Compendium[starforged-custom-oracles.starforgedcustommoves.ae5994ceb3cba098]{Strike} action instead of rolling that die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[starforged-custom-oracles.starforgedcustommoves.a2d7793b23c17489]{Secure an Advantage} by arming up and gathering your gear for a perilous encounter or mission, you may roll +supply. If you do, take +2 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/switch-weapon.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Path/Weapon_Master",
+      "dsid": "asset:starforged/path/weapon_master"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760214072242,
+    "modifiedTime": 1760214072242,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_id": "GijMCXCSrGgi8wdf",
+  "sort": 0,
+  "_key": "!items!GijMCXCSrGgi8wdf"
+}

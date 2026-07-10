@@ -1,0 +1,160 @@
+{
+  "name": "Life",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        50
+      ],
+      "_id": "oARPUSDsp6yWlCPZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!XANdiJKv6DQkAdzn.oARPUSDsp6yWlCPZ"
+    },
+    {
+      "range": [
+        51,
+        90
+      ],
+      "_id": "PVv0m5ozqt27XLjp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extinct",
+      "name": "",
+      "_key": "!tables.results!XANdiJKv6DQkAdzn.PVv0m5ozqt27XLjp"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "VNmo7yPR1iTpbEuj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce",
+      "name": "",
+      "_key": "!tables.results!XANdiJKv6DQkAdzn.VNmo7yPR1iTpbEuj"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "h99W6Xup7VqckZhb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diverse",
+      "name": "",
+      "_key": "!tables.results!XANdiJKv6DQkAdzn.h99W6Xup7VqckZhb"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "TEBrJUg6AVdihFiU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bountiful",
+      "name": "",
+      "_key": "!tables.results!XANdiJKv6DQkAdzn.TEBrJUg6AVdihFiU"
+    }
+  ],
+  "folder": "mY1nGFZyyxbn689S",
+  "sort": 3,
+  "_id": "XANdiJKv6DQkAdzn",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet ripped away from the star system where it was born, now roaming the cold depths of space.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288161305,
+    "modifiedTime": 1703293654523,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!XANdiJKv6DQkAdzn"
+}

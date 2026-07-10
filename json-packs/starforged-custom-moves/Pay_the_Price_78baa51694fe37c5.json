@@ -1,0 +1,89 @@
+{
+  "_id": "78baa51694fe37c5",
+  "type": "sfmove",
+  "name": "Pay the Price",
+  "img": "icons/dice/d10black.svg",
+  "folder": "1c6d36dde131ebef",
+  "system": {
+    "dfid": "Starforged/Moves/Fate/Pay_the_Price",
+    "Category": "Starforged/Moves/Fate",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you suffer the outcome of an action__, choose one.\n\n  * Make the most obvious negative outcome happen.\n  * @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.bd6278f18bbd6739]{Ask the Oracle} for inspiration. Interpret the answer as a hardship or complication appropriate to the situation.\n  * Roll on the table below. If the result doesn’t fit the situation, roll again.",
+    "Trigger": {
+      "Text": "When you suffer the outcome of an action...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [
+      "Starforged/Oracles/Moves/Pay_the_Price"
+    ],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 232
+    },
+    "Suggestions": {},
+    "dsOracleIds": [
+      "move.oracle_rollable:starforged/fate/pay_the_price.pay_the_price"
+    ]
+  },
+  "sort": 232,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Fate/Pay_the_Price",
+      "dsid": "move:starforged/fate/pay_the_price"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759100956601,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!78baa51694fe37c5"
+}

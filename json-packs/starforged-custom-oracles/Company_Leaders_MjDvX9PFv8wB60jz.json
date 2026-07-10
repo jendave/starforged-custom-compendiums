@@ -1,0 +1,290 @@
+{
+  "name": "Company Leaders",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "9RftIeuzmr9RV2Uo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The employees take turns running the Company.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.9RftIeuzmr9RV2Uo"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "ftEJk5sSXklwTmt7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaders are openly elected on a regular basis.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.ftEJk5sSXklwTmt7"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "vIpZG2Th9kKsMKfL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Founder and their family have complete control.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.vIpZG2Th9kKsMKfL"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "qllpYmAGxnbXOZYW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AI runs everything.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.qllpYmAGxnbXOZYW"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "VPBK8FFbl8eUvRiA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious figures run the Company.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.VPBK8FFbl8eUvRiA"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "I2JeFHZ6m6UCpMEJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A small group of people determine the leaders.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.I2JeFHZ6m6UCpMEJ"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "9p0xG4PbvAo21EM2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company is run by off-world entities.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.9p0xG4PbvAo21EM2"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "0wTEfmwqfMWiwM7o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The leaders are unknown. Orders are received from an outside source and must be followed.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.0wTEfmwqfMWiwM7o"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "QxwkhyRj3iqEhZ5J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The planet and its settlements are controlled by several corporations working together.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.QxwkhyRj3iqEhZ5J"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "AjMg8hT3e4i1xQHy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The current leadership is a front. Roll again on this table for the actual leadership.",
+      "name": "",
+      "_key": "!tables.results!MjDvX9PFv8wB60jz.AjMg8hT3e4i1xQHy"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 4,
+  "_id": "MjDvX9PFv8wB60jz",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969150,
+    "modifiedTime": 1733895652102,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!MjDvX9PFv8wB60jz"
+}

@@ -1,0 +1,1278 @@
+{
+  "name": "Background",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "uQD5jOzIHUcU5Ifw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ace",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.uQD5jOzIHUcU5Ifw"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "u2RKvYCRitoxWSDI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archer",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.u2RKvYCRitoxWSDI"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "Pk4S3EvXOAuLV7zv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armored",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.Pk4S3EvXOAuLV7zv"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "toImJozLRkfO5y4W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artist",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.toImJozLRkfO5y4W"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "bKKvKicSOdCkCeL1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Augmented",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.bKKvKicSOdCkCeL1"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "ty1JrsmqPyu2DDY6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bannersworn",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.ty1JrsmqPyu2DDY6"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "5OFyFbga6G9VAl79",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blademaster",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.5OFyFbga6G9VAl79"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "DSDpvrVQUuncll2F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bounty Hunter",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.DSDpvrVQUuncll2F"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "zL6rGNRskd2DpuId",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brawler",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.zL6rGNRskd2DpuId"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "VdmAbmCOE64KxHek",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Courier",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.VdmAbmCOE64KxHek"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "nPk8PpxYF4BO071g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demolitionist",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.nPk8PpxYF4BO071g"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "q4fpRwXkaN7wV5MQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devotant",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.q4fpRwXkaN7wV5MQ"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "acAGj4H3KDGtHPn1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diplomat",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.acAGj4H3KDGtHPn1"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "cz7Tw23SCmhr6syT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Empath",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.cz7Tw23SCmhr6syT"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "brVeP9KiJYhPxwCB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explorer",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.brVeP9KiJYhPxwCB"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "nxmqEMsleuVLri4A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fated",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.nxmqEMsleuVLri4A"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "RFYJ9on2HQWgifuC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Firebrand",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.RFYJ9on2HQWgifuC"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "SrPYt2YKHvPAJi5Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fugitive",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.SrPYt2YKHvPAJi5Q"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ZibxzhTzryG74csU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gearhead",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.ZibxzhTzryG74csU"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "6nt84Ndp2ZBetpLB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gunslinger",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.6nt84Ndp2ZBetpLB"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "WLBqU4QChUndeilO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gunner",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.WLBqU4QChUndeilO"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "YLe6am3N9qZWMfTc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haunted",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.YLe6am3N9qZWMfTc"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "4QkWhxfMH4idsyRn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Healer",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.4QkWhxfMH4idsyRn"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "96dsQ4pyGT8DJPsi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infiltrator",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.96dsQ4pyGT8DJPsi"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "o9hU1qZawG6zbsP0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kinetic",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.o9hU1qZawG6zbsP0"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "qytx7CsYyV1jH2w2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leader",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.qytx7CsYyV1jH2w2"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "srii6O6Wfz6dVuwu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Looper",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.srii6O6Wfz6dVuwu"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "ljn4OywirDkpzy1J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lore Hunter",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.ljn4OywirDkpzy1J"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "dnLIdD6xoYytXQSe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loyalist",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.dnLIdD6xoYytXQSe"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "ZVgiVaAYAS3UNPs7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercenary",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.ZVgiVaAYAS3UNPs7"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "eEnDJmZZ8MlzsA0P",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naturalist",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.eEnDJmZZ8MlzsA0P"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "aALDNoS1omMUOWA7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Navigator",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.aALDNoS1omMUOWA7"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "0qUsEqwE0Q9yYKdA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outcast",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.0qUsEqwE0Q9yYKdA"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "q1BDehEmHjnNxo9r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scavenger",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.q1BDehEmHjnNxo9r"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "mwVfLfLJynnbFzo4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scoundrel",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.mwVfLfLJynnbFzo4"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "6Ue8Tp8lb6AyT6aV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seer",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.6Ue8Tp8lb6AyT6aV"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "p1tBEQSUTz15LEAb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shade",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.p1tBEQSUTz15LEAb"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "pkDKU0srNIk6HyMg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slayer",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.pkDKU0srNIk6HyMg"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "l4XTFcShr2tMwlim",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sleuth",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.l4XTFcShr2tMwlim"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "gQ9PFULjQ6vPoRaO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sniper",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.gQ9PFULjQ6vPoRaO"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "oSkOR45l17yxRAHe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tech",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.oSkOR45l17yxRAHe"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "f1Tp3OCnHxFGm1CH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trader",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.f1Tp3OCnHxFGm1CH"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "Rc7jPXz9mon0NdNO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vestige",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.Rc7jPXz9mon0NdNO"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "SepdHL0c5HLnpwDa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Veteran",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.SepdHL0c5HLnpwDa"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "ucwhRCkDcS5vbJYJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Voidborn",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.ucwhRCkDcS5vbJYJ"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "fWHzAFKhnsMG0gTj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapon Master",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.fWHzAFKhnsMG0gTj"
+    },
+    {
+      "range": [
+        93,
+        98
+      ],
+      "_id": "WoXFq3wyVrlxtAEQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Characters/Role\"><i class=\"fa fa-caret-right\"></i> Character Role</a>",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.WoXFq3wyVrlxtAEQ"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "x3wIGyNe5Sc8lkGt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll Twice",
+      "name": "",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.x3wIGyNe5Sc8lkGt"
+    }
+  ],
+  "folder": "4WGYlS4dHIeCWcKy",
+  "sort": 300000,
+  "_id": "P0Jvpir9JOuExcpr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Background oracle can be rolled to relate an object to a specific Path Asset. This will help contextualize it as a tool for that path. If generating gear/objects during character creation, you can simply choose your Path Assets. This oracle can be substituted with the Character Role oracle (pg. 331), which doesn’t cover every Path Asset but does include other appropriate backgrounds.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697529407888,
+    "modifiedTime": 1698872579104,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!P0Jvpir9JOuExcpr"
+}

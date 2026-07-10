@@ -1,0 +1,2632 @@
+{
+  "name": "Object",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "mcBxXYK20E4WM9uk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "antidote/medicine",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.mcBxXYK20E4WM9uk"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "3n4g2O08LUrmkfUg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "antique knife",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.3n4g2O08LUrmkfUg"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "M5VE9yVwh4svZQwz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "armor stealth camo",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.M5VE9yVwh4svZQwz"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "gOxDzGOChArK15U6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "artificial intelligence",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.gOxDzGOChArK15U6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "YFbMYN9sQ9SkSqeX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "attache case",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.YFbMYN9sQ9SkSqeX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "wm4NGbJwRdGJJLc2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "battle armor",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.wm4NGbJwRdGJJLc2"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "X0tQ1ekRYeJU9BdZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "battle armor weapon - anti-armor gun",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.X0tQ1ekRYeJU9BdZ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "2yPpdS2dsz8PP8x5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "battle armor weapon - cannon",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.2yPpdS2dsz8PP8x5"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "96W7WVl6cjN2WXeS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "battle radar",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.96W7WVl6cjN2WXeS"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "7VXp3blPeQLn4a7K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bible",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.7VXp3blPeQLn4a7K"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "aXmFFjGooapQcCDI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "biological specimens",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.aXmFFjGooapQcCDI"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "FoxFLZISI3KtzomW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bioweapons",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.FoxFLZISI3KtzomW"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "R3B311uIN3XMk4lx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bugging device",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.R3B311uIN3XMk4lx"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "7IBElZvWOVvhqbgj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "cell phone",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.7IBElZvWOVvhqbgj"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "RGjl2ty6jyM6VYIe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "chemical",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.RGjl2ty6jyM6VYIe"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "nj7OJH0Mu4n5PqGl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "chemical analyzer",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.nj7OJH0Mu4n5PqGl"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "oR1m3Om3XJaRMcaW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "combat armor",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.oR1m3Om3XJaRMcaW"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "ZSU2UlUgV9gHahSc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "combat drone",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.ZSU2UlUgV9gHahSc"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "EdyhCPSyY7G7zSvT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "combat rifle (advanced)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.EdyhCPSyY7G7zSvT"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "oM0TOLnyBDVK9kr9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "combat stims",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.oM0TOLnyBDVK9kr9"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "ByOnTNaVidw3QF92",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "comms scrambler",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.ByOnTNaVidw3QF92"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "yBgpKgLcfjBn3MSa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "computer virus",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.yBgpKgLcfjBn3MSa"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "4PXy198FpMOoUdk9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "computers",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.4PXy198FpMOoUdk9"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "jCHWRcdfq9abCuj9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "data/vid chip",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.jCHWRcdfq9abCuj9"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "36xxsPNEFgSdI1DC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "derelict location",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.36xxsPNEFgSdI1DC"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "h7SZvvCnEFu97Tfe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "designer virus",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.h7SZvvCnEFu97Tfe"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "Tied3Z4dQzJitoOC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "drone/remote",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.Tied3Z4dQzJitoOC"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "K5kbVNhdgtow0teX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "electromagnetic probe",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.K5kbVNhdgtow0teX"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "Ui67Xu8HJOlEdaKZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "exotic animals",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.Ui67Xu8HJOlEdaKZ"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "TkseizaJbtEyUK5O",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "explosives",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.TkseizaJbtEyUK5O"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "KRRwlL1O1rmSCRJK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fine art",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.KRRwlL1O1rmSCRJK"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "TxF3EVYG8Srtgxi1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fine perfume",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.TxF3EVYG8Srtgxi1"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "k9PA97bjAdj1LH69",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fine wine",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.k9PA97bjAdj1LH69"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "6dxUYIG56hKYg2mS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fission material",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.6dxUYIG56hKYg2mS"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "vYCyMbmtvprm8F2U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "forensic sensor",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.vYCyMbmtvprm8F2U"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "eGDEHfIjgGLahZW8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fusion gun - man-portable (FGMP)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.eGDEHfIjgGLahZW8"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "TSBhYMUiFIy3bPhV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fusion material",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.TSBhYMUiFIy3bPhV"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "AtmX38nmpGMU3cyY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "gauss pistol",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.AtmX38nmpGMU3cyY"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "Z2z0XhUeVWwr8uew",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "gauss rifle",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.Z2z0XhUeVWwr8uew"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "groVrBkEWuaB0N3j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "gourmet foods",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.groVrBkEWuaB0N3j"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "zBx2s3X0QMwAnigP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "handbooks",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.zBx2s3X0QMwAnigP"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "EZYykGp1hGyBmsFU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "hard drive",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.EZYykGp1hGyBmsFU"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "FRyPHBIOo4C2QtMt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "hardcopy schematic",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.FRyPHBIOo4C2QtMt"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "T6ACy4D3U8gYQEFe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "holdall of cash",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.T6ACy4D3U8gYQEFe"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "xNoKTVX1uzIJotqE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "holdall of drugs",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.xNoKTVX1uzIJotqE"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "jR8h1vD1XnevpV0y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "holographic movies",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.jR8h1vD1XnevpV0y"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "7ybgrttwJXLq749f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "holographic pornography",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.7ybgrttwJXLq749f"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "NiQ7Jw7OaYQjF73f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "hostile environment vacc suit",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.NiQ7Jw7OaYQjF73f"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "uFmCeoGdfJOPZyI9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "human eye/thumb",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.uFmCeoGdfJOPZyI9"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "6S6MYf9W2P95sTV6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "antidote/medicine",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.6S6MYf9W2P95sTV6"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "D6Bunn56MYKzVwe4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "human organ(s)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.D6Bunn56MYKzVwe4"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "xhunihM2HeFH2TRM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "human skull",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.xhunihM2HeFH2TRM"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "DnG6YoY5l0LxwLOj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "id card",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.DnG6YoY5l0LxwLOj"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "4dfNFUM9RJ25L50d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "iff tags",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.4dfNFUM9RJ25L50d"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "QFcHCJdZZrHagdFR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "jewellery",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.QFcHCJdZZrHagdFR"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "zrJW4t2p0RuHbR5E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "keys/key card",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.zrJW4t2p0RuHbR5E"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "BrrVd6kBW1LayvCx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "luxury goods",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.BrrVd6kBW1LayvCx"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "4mgfkg7kKgMtXJCo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "man-portable nuke",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.4mgfkg7kKgMtXJCo"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "APqWRGpaZOVJpV2l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "meat",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.APqWRGpaZOVJpV2l"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "tS7SdhWpgOtdV7jZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "medical equipment",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.tS7SdhWpgOtdV7jZ"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "_id": "g71ktoySi74RBFmR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "medicinal drugs",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.g71ktoySi74RBFmR"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "_id": "wuwZSd53Xnlq3JLR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "memory chip",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.wuwZSd53Xnlq3JLR"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "_id": "sDWiT875AFvrKlZ3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "military flying vehicles",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.sDWiT875AFvrKlZ3"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "_id": "KdzgScUCFjuQpH0z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "military ground vehicles",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.KdzgScUCFjuQpH0z"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "_id": "0p1V5PjG5PCzhtBw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "minerals",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.0p1V5PjG5PCzhtBw"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "_id": "GksVcq5wbOE0BnWb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "motion sensor",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.GksVcq5wbOE0BnWb"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "_id": "zFTdct3NTQATWC2c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "narcotic",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.zFTdct3NTQATWC2c"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "_id": "k91p59TQyP8JuhaM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "neural processor",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.k91p59TQyP8JuhaM"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "_id": "S4WWrRE2hBUVuzzf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "nuclear (fission) weapons",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.S4WWrRE2hBUVuzzf"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "_id": "bEUAZ9y9QWGhiAg6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "nuclear waste",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.bEUAZ9y9QWGhiAg6"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "_id": "tN654380GEPNWrTa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "offline digital files",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.tN654380GEPNWrTa"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "_id": "dqRDpkZqTgo0CA0x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "operating system",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.dqRDpkZqTgo0CA0x"
+    },
+    {
+      "range": [
+        73,
+        73
+      ],
+      "_id": "s36spivANafT2tFp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "personal computer",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.s36spivANafT2tFp"
+    },
+    {
+      "range": [
+        74,
+        74
+      ],
+      "_id": "IZQi4knvZMwuMQFN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "personal recoilless rifle",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.IZQi4knvZMwuMQFN"
+    },
+    {
+      "range": [
+        75,
+        75
+      ],
+      "_id": "ii3gHU2ljiALZweO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "pharmaceutical samples",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.ii3gHU2ljiALZweO"
+    },
+    {
+      "range": [
+        76,
+        76
+      ],
+      "_id": "Hv6COy4NupUxTJnl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "pharmaceuticals (non- medicinal)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.Hv6COy4NupUxTJnl"
+    },
+    {
+      "range": [
+        77,
+        77
+      ],
+      "_id": "Hs6osdRGPXZo7WBr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "photograph(s)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.Hs6osdRGPXZo7WBr"
+    },
+    {
+      "range": [
+        78,
+        78
+      ],
+      "_id": "BWFeItHBjBneiULZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "plasma gun - man-portable (PGMP)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.BWFeItHBjBneiULZ"
+    },
+    {
+      "range": [
+        79,
+        79
+      ],
+      "_id": "qtNM2gmlrzbtHyoX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "plasma rifle",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.qtNM2gmlrzbtHyoX"
+    },
+    {
+      "range": [
+        80,
+        80
+      ],
+      "_id": "OcFkQJuX9kK9psMW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "poison",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.OcFkQJuX9kK9psMW"
+    },
+    {
+      "range": [
+        81,
+        81
+      ],
+      "_id": "qMQ4B0J3ZBtIgc86",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "powered battle armor (heavy)",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.qMQ4B0J3ZBtIgc86"
+    },
+    {
+      "range": [
+        82,
+        82
+      ],
+      "_id": "SQNBiKLnO39gZION",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "powered battle armor",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.SQNBiKLnO39gZION"
+    },
+    {
+      "range": [
+        83,
+        83
+      ],
+      "_id": "iveorENxIYi9O5tA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "precious necklace",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.iveorENxIYi9O5tA"
+    },
+    {
+      "range": [
+        84,
+        84
+      ],
+      "_id": "erQhAMumqSZEjoie",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "precursor artefacts",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.erQhAMumqSZEjoie"
+    },
+    {
+      "range": [
+        85,
+        85
+      ],
+      "_id": "7XHuLRPSkODPOV0A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "precursor vault content",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.7XHuLRPSkODPOV0A"
+    },
+    {
+      "range": [
+        86,
+        86
+      ],
+      "_id": "kgpkrUERfgcxDw4n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "pressurized habitat module",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.kgpkrUERfgcxDw4n"
+    },
+    {
+      "range": [
+        87,
+        87
+      ],
+      "_id": "ZROsxdTXokcvkGAW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "prolonged endurance thruster pack",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.ZROsxdTXokcvkGAW"
+    },
+    {
+      "range": [
+        88,
+        88
+      ],
+      "_id": "fwqqjCrcLKn3x00d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "rare commodities",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.fwqqjCrcLKn3x00d"
+    },
+    {
+      "range": [
+        89,
+        89
+      ],
+      "_id": "jJQ6q9TsxaFejU8r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "robots",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.jJQ6q9TsxaFejU8r"
+    },
+    {
+      "range": [
+        90,
+        90
+      ],
+      "_id": "ii3CLTrpGyxaPJkC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "sarcophagus",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.ii3CLTrpGyxaPJkC"
+    },
+    {
+      "range": [
+        91,
+        91
+      ],
+      "_id": "uJvm8xM6KsDJBVik",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "security passcard",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.uJvm8xM6KsDJBVik"
+    },
+    {
+      "range": [
+        92,
+        92
+      ],
+      "_id": "I09DASSYfOIfoCCP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "server",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.I09DASSYfOIfoCCP"
+    },
+    {
+      "range": [
+        93,
+        93
+      ],
+      "_id": "oVpTyntttiVNfgH2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "software",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.oVpTyntttiVNfgH2"
+    },
+    {
+      "range": [
+        94,
+        94
+      ],
+      "_id": "HmUUIyfVd2bSEzJN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "spices",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.HmUUIyfVd2bSEzJN"
+    },
+    {
+      "range": [
+        95,
+        95
+      ],
+      "_id": "UjzXLW1hblXMQNbK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "statuette",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.UjzXLW1hblXMQNbK"
+    },
+    {
+      "range": [
+        96,
+        96
+      ],
+      "_id": "vfYcnqAHcNUiNkg1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "tablet device",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.vfYcnqAHcNUiNkg1"
+    },
+    {
+      "range": [
+        97,
+        97
+      ],
+      "_id": "NIzzOnbwRD47YQgb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "target's dna",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.NIzzOnbwRD47YQgb"
+    },
+    {
+      "range": [
+        98,
+        98
+      ],
+      "_id": "6EMhdQzk7CZeRGVp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "vacc suit",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.6EMhdQzk7CZeRGVp"
+    },
+    {
+      "range": [
+        99,
+        99
+      ],
+      "_id": "hESSchSZkkZWDc2A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "vehicle",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.hESSchSZkkZWDc2A"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "SJmXjyY2PEbmBQmI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "vintage wine",
+      "name": "",
+      "_key": "!tables.results!QIL1ivkyvFfy6GLu.SJmXjyY2PEbmBQmI"
+    }
+  ],
+  "_id": "QIL1ivkyvFfy6GLu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Simply roll up an NPC, then 1d6 on \"Driver\", 1d40 on \"Verb\" and 1d100 on \"Object\"</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5pWzyY7ra4u2MzVe",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696144889833,
+    "modifiedTime": 1696145275183,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.QIL1ivkyvFfy6GLu",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!QIL1ivkyvFfy6GLu"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Continue A Legacy",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "Nq7IyTPr9yvRXRxV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Choose one more option",
+      "name": "",
+      "_key": "!tables.results!jhRRgrVk3iFmXoGm.Nq7IyTPr9yvRXRxV"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "RsvwlebAboEog6bw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Choose one more option",
+      "name": "",
+      "_key": "!tables.results!jhRRgrVk3iFmXoGm.RsvwlebAboEog6bw"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "4xJ3fh9qSbJG4mb5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Choose two more options",
+      "name": "",
+      "_key": "!tables.results!jhRRgrVk3iFmXoGm.4xJ3fh9qSbJG4mb5"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "bObCKJ3NkUvJbArz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Choose two more options",
+      "name": "",
+      "_key": "!tables.results!jhRRgrVk3iFmXoGm.bObCKJ3NkUvJbArz"
+    }
+  ],
+  "folder": "1uV9Y7SplPHyDkuG",
+  "sort": 0,
+  "_id": "jhRRgrVk3iFmXoGm",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.9",
+    "coreVersion": "13.350",
+    "createdTime": 1700466750734,
+    "modifiedTime": 1700469416145,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!jhRRgrVk3iFmXoGm"
+}

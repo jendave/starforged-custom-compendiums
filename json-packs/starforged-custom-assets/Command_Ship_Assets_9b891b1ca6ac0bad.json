@@ -1,0 +1,27 @@
+{
+  "name": "Command Ship Assets",
+  "color": "#9aa3ad",
+  "description": "The __command vehicle__ is your interstellar STARSHIP. It is a default asset for your character, taken when you begin your campaign. If you are playing with others, this is a shared asset; each of you may use the STARSHIP's abilities while aboard the craft.\n\nThe command vehicle has an integrity meter and starts at 5 integrity. When your STARSHIP takes a hit, make the @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage} move to see what happens.",
+  "type": "Item",
+  "_id": "9b891b1ca6ac0bad",
+  "sort": 0,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Assets/Command_Vehicle",
+      "dsid": "asset_collection:starforged/command_vehicle"
+    }
+  },
+  "folder": "eHTQbS3fpIeRZx4B",
+  "sorting": "a",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!9b891b1ca6ac0bad"
+}

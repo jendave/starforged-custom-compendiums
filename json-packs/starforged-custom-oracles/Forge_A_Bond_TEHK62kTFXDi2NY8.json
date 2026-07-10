@@ -1,0 +1,134 @@
+{
+  "name": "Forge A Bond",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "JAv71ah9P2lyTlrI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 1 additional tick",
+      "name": "",
+      "_key": "!tables.results!TEHK62kTFXDi2NY8.JAv71ah9P2lyTlrI"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "evK7bn5GZVl83sSp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 1 additional tick",
+      "name": "",
+      "_key": "!tables.results!TEHK62kTFXDi2NY8.evK7bn5GZVl83sSp"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "HTsfJ9w3QF1OgHrT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 2 additional ticks",
+      "name": "",
+      "_key": "!tables.results!TEHK62kTFXDi2NY8.HTsfJ9w3QF1OgHrT"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "6sdqjGYDuwix5GYe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 2 additional ticks",
+      "name": "",
+      "_key": "!tables.results!TEHK62kTFXDi2NY8.6sdqjGYDuwix5GYe"
+    }
+  ],
+  "folder": "StU8THiop736QYvl",
+  "sort": 2,
+  "_id": "TEHK62kTFXDi2NY8",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466471896,
+    "modifiedTime": 1728515175976,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!TEHK62kTFXDi2NY8"
+}

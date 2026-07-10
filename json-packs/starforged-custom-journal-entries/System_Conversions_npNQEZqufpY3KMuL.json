@@ -1,0 +1,104 @@
+{
+  "name": "System Conversions",
+  "_id": "npNQEZqufpY3KMuL",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Ironsworn",
+      "type": "text",
+      "_id": "Vk6Y90i3xlNAo6hB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by nqjasmine</h2><h3>Ironforged V1</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.b0pGePq3Ziosm78i]{Ironsforged V1 Assets}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.qSROy2W7217BcaZK]{Ironforged V1 Moves}</p><h2>Resources by Iceyman</h2><h3>Ironsworn 1.5-ish E</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.dSaX3MDE8wSwlHI3]{Ironsworn 1.5-ish E Assets}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.mFVF030jOLp7IvwG]{Ironsworn 1.5-ish E Moves}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Lv7SPnU8PeLvDrUJ]{Ironsworn 1.5-ish E Oracles}</p><h2>Resources by Ludic Pen</h2><h3>Legacy Iron (Starforged Asset Pack)</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Ajevjx4opRkGteGI]{Legacy Iron Assets}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757747872775,
+        "modifiedTime": 1760853223868,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!npNQEZqufpY3KMuL.Vk6Y90i3xlNAo6hB"
+    },
+    {
+      "sort": 200000,
+      "name": "Mothership",
+      "type": "text",
+      "_id": "taORgMCuofqyYipd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span style=\"font-family:Signika, sans-serif\">The Mothership Sci-Fi Horror RPG (found at <a class=\"hyperlink\" href=\"https://www.mothershiprpg.com/home\" target=\"_blank\" rel=\"nofollow noopener\" style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--ironsworn-scrollbar-thumb-bg-color) var(--ironsworn-scrollbar-track-color);cursor:pointer;--ironsworn-scrollbar-thumb-bg-color:var(--ironsworn-color-fg-50);--ironsworn-scrollbar-thumb-border-color:var(--ironsworn-color-warm-50);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(var(--ironsworn-scrollbar-width)/2);--ironsworn-scrollbar-track-color:var(--ironsworn-color-fg-50);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:var(--color-text-hyperlink);transition:var(--ironsworn-transition)\">https://www.mothershiprpg.com/home</a>) was created by Tuesday Knight Games.</span></p><h2>Resources by Kerys</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.sB12PdXq5Kk9541z]{Mothership Conversion}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757748366905,
+        "modifiedTime": 1757984143115,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!npNQEZqufpY3KMuL.taORgMCuofqyYipd"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757747863419,
+    "modifiedTime": 1757747863419,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!npNQEZqufpY3KMuL"
+}

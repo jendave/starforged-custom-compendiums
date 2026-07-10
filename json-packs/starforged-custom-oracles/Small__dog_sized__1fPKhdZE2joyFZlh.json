@@ -1,0 +1,110 @@
+{
+  "name": "Small (dog-sized)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        30
+      ],
+      "_id": "pvrq0aSiH5d2B0Vs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troublesome",
+      "name": "",
+      "_key": "!tables.results!1fPKhdZE2joyFZlh.pvrq0aSiH5d2B0Vs"
+    },
+    {
+      "range": [
+        31,
+        80
+      ],
+      "_id": "rd01ae5McMWaVI20",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous",
+      "name": "",
+      "_key": "!tables.results!1fPKhdZE2joyFZlh.rd01ae5McMWaVI20"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "KiV36SwhPzGxjVQo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Formidable",
+      "name": "",
+      "_key": "!tables.results!1fPKhdZE2joyFZlh.KiV36SwhPzGxjVQo"
+    }
+  ],
+  "folder": "li693Hh4zpz1YQov",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to generate a rank for the creature based on its scale. Feel free to adjust the rank as desired.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.350",
+    "createdTime": 1714155602797,
+    "modifiedTime": 1714194298326,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "1fPKhdZE2joyFZlh",
+  "sort": 0,
+  "_key": "!tables!1fPKhdZE2joyFZlh"
+}

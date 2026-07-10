@@ -1,0 +1,89 @@
+{
+  "_id": "6848983199a497df",
+  "type": "sfmove",
+  "name": "Confront Chaos",
+  "img": "icons/dice/d10black.svg",
+  "folder": "f57c06b3db7f1676",
+  "system": {
+    "dfid": "Starforged/Moves/Exploration/Confront_Chaos",
+    "Category": "Starforged/Moves/Exploration",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When your exploration of a waypoint uncovers something dreadful__, decide the number of aspects: one, two, or three. Roll that number of times or choose that number of aspects on the table below. Then, envision how the encounter begins.\n\nFor each result, when you first confront that aspect within the scope of the encounter, you and your allies may mark one tick on your discoveries legacy track.",
+    "Trigger": {
+      "Text": "When your exploration of a waypoint uncovers something dreadful...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [
+      "Starforged/Oracles/Moves/Confront_Chaos"
+    ],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 177
+    },
+    "Suggestions": {},
+    "dsOracleIds": [
+      "move.oracle_rollable:starforged/exploration/confront_chaos.confront_chaos"
+    ]
+  },
+  "sort": 177,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Exploration/Confront_Chaos",
+      "dsid": "move:starforged/exploration/confront_chaos"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1757745819570,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!6848983199a497df"
+}

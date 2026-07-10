@@ -1,0 +1,186 @@
+{
+  "name": "Opportunity",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "SeNhV4oL6ZggJ24v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc]{Dust Rings Opportunity}",
+      "name": "",
+      "_key": "!tables.results!UL7xUc44RZCcVwla.SeNhV4oL6ZggJ24v"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "otAbyR7wfSvvUc3R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc]{Dust Rings Opportunity}",
+      "name": "",
+      "_key": "!tables.results!UL7xUc44RZCcVwla.otAbyR7wfSvvUc3R"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "rNrZsoWN0iFpi9HQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc]{Dust Rings Opportunity}",
+      "name": "",
+      "_key": "!tables.results!UL7xUc44RZCcVwla.rNrZsoWN0iFpi9HQ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "t4s1qFYOYN3tEhlE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtqoQOiHw2S4sbUd]{Floating Theme Opportunity} or other Theme Opportunity",
+      "name": "",
+      "_key": "!tables.results!UL7xUc44RZCcVwla.t4s1qFYOYN3tEhlE"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "8SsJPupT6YwDSIdh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtqoQOiHw2S4sbUd]{Floating Theme Opportunity} or other Theme Opportunity",
+      "name": "",
+      "_key": "!tables.results!UL7xUc44RZCcVwla.8SsJPupT6YwDSIdh"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "AuqXRmsTSd9ocpfK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Story Clue @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!UL7xUc44RZCcVwla.AuqXRmsTSd9ocpfK"
+    }
+  ],
+  "folder": "MU3Gk1y4Pc77Rakb",
+  "sort": 2,
+  "_id": "UL7xUc44RZCcVwla",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703901918423,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!UL7xUc44RZCcVwla"
+}

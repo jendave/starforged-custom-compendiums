@@ -1,0 +1,89 @@
+{
+  "_id": "bb0a732e3b1c7ea1",
+  "type": "sfmove",
+  "name": "Begin a Session",
+  "img": "icons/dice/d10black.svg",
+  "folder": "cb00661cf10b4177",
+  "system": {
+    "dfid": "Starforged/Moves/Session/Begin_a_Session",
+    "Category": "Starforged/Moves/Session",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you begin a significant session or chapter of play__, do all of the following.\n\n  * Identify or adjust flagged content and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.6f3333f430a21db6]{Set a Flag}.\n  * Review or recap what happened last session.\n  * Set the scene by envisioning your character’s current situation and intent.\n\nIn addition, you may spotlight a new danger, opportunity, or insight. This can include a scene hidden from your character’s perspective. If you do, envision a brief vignette (you may roll or choose on the table below for inspiration). Then, all players take +1 momentum as you return to play from the viewpoint of your characters.",
+    "Trigger": {
+      "Text": "When you begin a significant session or chapter of play...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [
+      "Starforged/Oracles/Moves/Begin_a_Session"
+    ],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 141
+    },
+    "Suggestions": {},
+    "dsOracleIds": [
+      "move.oracle_rollable:starforged/session/begin_a_session.begin_a_session"
+    ]
+  },
+  "sort": 141,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Session/Begin_a_Session",
+      "dsid": "move:starforged/session/begin_a_session"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759364963124,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!bb0a732e3b1c7ea1"
+}

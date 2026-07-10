@@ -1,0 +1,94 @@
+{
+  "_id": "ed490d43a2533506",
+  "type": "sfmove",
+  "name": "Journey",
+  "img": "icons/dice/d10black.svg",
+  "folder": "f57c06b3db7f1676",
+  "system": {
+    "dfid": "Starforged/Moves/Exploration/Set_a_Course",
+    "Category": "Starforged/Moves/Exploration",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you travel a known route across hazardous terrain, or or through perilous seas__, roll +supply.\n\nOn a __strong hit__, you reach your destination and the situation there favors you. Take +1 momentum.\n\nOn a __weak hit__, you arrive, but face a cost or complication. Choose one.\n\n  * Suffer costs en route: Make a suffer move (-2), or two suffer moves (-1).\n  * Face a complication at the destination: Envision what you encounter.\n\nOn a __miss__, you are waylaid by a significant threat, and must @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}. If you overcome this obstacle, you may push on safely to your destination.",
+    "Trigger": {
+      "Text": "When you travel a known route across hazardous terrain, or or through perilous seas...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Supply"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you reach your destination and the situation there favors you. Take +1 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you arrive, but face a cost or complication. Choose one.\n\n  * Suffer costs en route: Make a suffer move (-2), or two suffer moves (-1).\n  * Face a complication at the destination: Envision what you encounter.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you are waylaid by a significant threat, and must @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}. If you overcome this obstacle, you may push on safely to your destination.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 180
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 180,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Exploration/Set_a_Course",
+      "dsid": "move:starforged/exploration/set_a_course"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759093196795,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!ed490d43a2533506"
+}

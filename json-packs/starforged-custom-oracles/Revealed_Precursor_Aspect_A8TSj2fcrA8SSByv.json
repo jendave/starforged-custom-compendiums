@@ -1,0 +1,602 @@
+{
+  "name": "Revealed Precursor Aspect",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "Pgz9QBZlAQeBMbVp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Become completely invisible when gathered in large groups",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.Pgz9QBZlAQeBMbVp"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "J8YVxukZfHmldDts",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Do not register on sensors",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.J8YVxukZfHmldDts"
+    },
+    {
+      "range": [
+        9,
+        13
+      ],
+      "_id": "SYvPtkJkD4sioR9b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Can alter their bodies to become two dimensional",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.SYvPtkJkD4sioR9b"
+    },
+    {
+      "range": [
+        14,
+        18
+      ],
+      "_id": "pVIBiR0ZlNLmXL2g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Telekinetic ability to instantly stop the motion of objects and creatures",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.pVIBiR0ZlNLmXL2g"
+    },
+    {
+      "range": [
+        19,
+        23
+      ],
+      "_id": "n20Jvle7kTEnQAK6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Can hack into computer systems using only their minds",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.n20Jvle7kTEnQAK6"
+    },
+    {
+      "range": [
+        24,
+        28
+      ],
+      "_id": "6I09gvoELRgihfYC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extremely territorial",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.6I09gvoELRgihfYC"
+    },
+    {
+      "range": [
+        29,
+        33
+      ],
+      "_id": "pyGDtpE3NhMO1tfl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obsessed with the acquisition of rare and strange objects",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.pyGDtpE3NhMO1tfl"
+    },
+    {
+      "range": [
+        34,
+        37
+      ],
+      "_id": "fUqm3R3gvGbEfk3N",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially decomposed and possibly undead",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.fUqm3R3gvGbEfk3N"
+    },
+    {
+      "range": [
+        38,
+        41
+      ],
+      "_id": "nl1lyptmPiIlbznb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Composed entirely out of gold, iron, or other precious metals",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.nl1lyptmPiIlbznb"
+    },
+    {
+      "range": [
+        42,
+        45
+      ],
+      "_id": "4wujthXb4Ja7r0ox",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brains are cybernetically enhanced",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.4wujthXb4Ja7r0ox"
+    },
+    {
+      "range": [
+        46,
+        49
+      ],
+      "_id": "8iO61yRn95BFcbPp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Born from the chaotic energies of the Forge",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.8iO61yRn95BFcbPp"
+    },
+    {
+      "range": [
+        50,
+        54
+      ],
+      "_id": "hta5IbBhRVQKCV6k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mouths or similar orifices are artificially sealed shut",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.hta5IbBhRVQKCV6k"
+    },
+    {
+      "range": [
+        55,
+        59
+      ],
+      "_id": "99yy6690man0XxEg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wear remnants of their ancestors on their bodies",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.99yy6690man0XxEg"
+    },
+    {
+      "range": [
+        60,
+        63
+      ],
+      "_id": "zQ8tF1hawNmavphE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several minds inhabit the same body",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.zQ8tF1hawNmavphE"
+    },
+    {
+      "range": [
+        64,
+        67
+      ],
+      "_id": "ADMIldSKXdsSeZeg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Covered in strange, glowing symbols",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.ADMIldSKXdsSeZeg"
+    },
+    {
+      "range": [
+        68,
+        71
+      ],
+      "_id": "BimehKRvD6gYiNT4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Excrete precious gemstones",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.BimehKRvD6gYiNT4"
+    },
+    {
+      "range": [
+        72,
+        75
+      ],
+      "_id": "ELJrw1FHwHDrjpMf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Typically reside in the coronas of stars or the molten cores of planets",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.ELJrw1FHwHDrjpMf"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "jWTzd89fk8dN7pTX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lure unwary creatures by telepathically showing them what they most desire",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.jWTzd89fk8dN7pTX"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "FRQ0rN3rwZpJHQkw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wield defensive weapons designed to eliminate aggressive emotions",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.FRQ0rN3rwZpJHQkw"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "XYnjQ2UOO35xL0mV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "House their dead in great monumental structures",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.XYnjQ2UOO35xL0mV"
+    },
+    {
+      "range": [
+        91,
+        94
+      ],
+      "_id": "j3IgG5MgNq6GY62v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strip planets of resources",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.j3IgG5MgNq6GY62v"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "tve3H9N9F7epdyhh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "▶Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!A8TSj2fcrA8SSByv.tve3H9N9F7epdyhh"
+    }
+  ],
+  "folder": "PcJyZSD7q8Wxq6N4",
+  "sort": 1,
+  "_id": "A8TSj2fcrA8SSByv",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "F1bbAr0GqBQd66Yt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.350",
+    "createdTime": 1713662132667,
+    "modifiedTime": 1713692703676,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!A8TSj2fcrA8SSByv"
+}

@@ -1,0 +1,191 @@
+{
+  "name": "Exotic Planet",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "F1DaOAlyhM6tvCuu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystal planet",
+      "name": "",
+      "_key": "!tables.results!3ygSvVTTKqLXOZA6.F1DaOAlyhM6tvCuu"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "f91bt5oGOfb3MBYF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rogue planet",
+      "name": "",
+      "_key": "!tables.results!3ygSvVTTKqLXOZA6.f91bt5oGOfb3MBYF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "VWhbgbRZWKD3RHXg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living planet",
+      "name": "",
+      "_key": "!tables.results!3ygSvVTTKqLXOZA6.VWhbgbRZWKD3RHXg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "vNDwCGwsP8vh0HPv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metallic planet",
+      "name": "",
+      "_key": "!tables.results!3ygSvVTTKqLXOZA6.vNDwCGwsP8vh0HPv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "t3wvwvsjb0LdISxQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificial planet",
+      "name": "",
+      "_key": "!tables.results!3ygSvVTTKqLXOZA6.t3wvwvsjb0LdISxQ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "7gQsszYRDKM2aGNY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extradimensional planet",
+      "name": "",
+      "_key": "!tables.results!3ygSvVTTKqLXOZA6.7gQsszYRDKM2aGNY"
+    }
+  ],
+  "_id": "3ygSvVTTKqLXOZA6",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This set of planet oracles is made for rare, exotic planets. These might be mythical planets your explorer searches for, the location of an ancient vault several factions are interested in, or a planet guarded by a fleet of Precursor ships for unknown reasons. They are expected to play a major role in the sector they are located in, and should therefore be placed only when the fiction calls for it.</p><p>These planets are supposed to be rare, exotic, and different from most other planets. The oracle tables regarding atmosphere, settlements, and native life might therefore not apply to every planet in these exotic classes. Feel free to completely ignore them and pick results that fit your idea of this planet class better, or pick those that fit your fiction best.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "EiWsr7iovvp5vY6y",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {},
+    "better-rolltables": {
+      "table-type": null
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703287648569,
+    "modifiedTime": 1703293535259,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.3ygSvVTTKqLXOZA6",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!3ygSvVTTKqLXOZA6"
+}

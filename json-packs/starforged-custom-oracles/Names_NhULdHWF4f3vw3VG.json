@@ -1,0 +1,342 @@
+{
+  "name": "Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "fgZI33JSvGhYbTBw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aorta",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.fgZI33JSvGhYbTBw"
+    },
+    {
+      "range": [
+        9,
+        16
+      ],
+      "_id": "8IjLDF5wMwCLScME",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Appendix",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.8IjLDF5wMwCLScME"
+    },
+    {
+      "range": [
+        17,
+        24
+      ],
+      "_id": "vC5daE1yvYVsnsFq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cell",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.vC5daE1yvYVsnsFq"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "sU1QvxpfyLobAJVi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cerebrum",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.sU1QvxpfyLobAJVi"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "eqW9x717Xgmna3g8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corpus",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.eqW9x717Xgmna3g8"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "38vMKBEyDBeDaZMU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cyst",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.38vMKBEyDBeDaZMU"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "D2lL0ZaBdUWhqNsH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giblet",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.D2lL0ZaBdUWhqNsH"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "aosDHLXpToHgW5AT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Id",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.aosDHLXpToHgW5AT"
+    },
+    {
+      "range": [
+        65,
+        73
+      ],
+      "_id": "E78cfylK0vhdNxLD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neuron",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.E78cfylK0vhdNxLD"
+    },
+    {
+      "range": [
+        74,
+        82
+      ],
+      "_id": "742GyrJLV7gvHWqt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oculus",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.742GyrJLV7gvHWqt"
+    },
+    {
+      "range": [
+        83,
+        91
+      ],
+      "_id": "adKLIrDa2lpRSntd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sarx",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.adKLIrDa2lpRSntd"
+    },
+    {
+      "range": [
+        92,
+        100
+      ],
+      "_id": "yWiVvBRsRVZ1rCUW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Viscera",
+      "name": "",
+      "_key": "!tables.results!NhULdHWF4f3vw3VG.yWiVvBRsRVZ1rCUW"
+    }
+  ],
+  "folder": "e9Mn1qrjtY5qOguu",
+  "sort": 4,
+  "_id": "NhULdHWF4f3vw3VG",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet entirely composed of a single creature or a colony of creatures.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288206603,
+    "modifiedTime": 1703293805004,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!NhULdHWF4f3vw3VG"
+}

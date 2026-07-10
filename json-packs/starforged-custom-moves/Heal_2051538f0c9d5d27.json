@@ -1,0 +1,119 @@
+{
+  "_id": "2051538f0c9d5d27",
+  "type": "sfmove",
+  "name": "Heal",
+  "img": "icons/dice/d10black.svg",
+  "folder": "5ba869fa7c31abdd",
+  "system": {
+    "dfid": "Starforged/Moves/Recover/Heal",
+    "Category": "Starforged/Moves/Recover",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you receive or provide treatment__, envision the situation and roll. If you...\n\n  * Receive care from someone (not an ally): Roll +iron\n  * Mend your own wounds: Roll +iron or +wits, whichever is lower\n  * Obtain treatment for a companion: Roll +heart\n  * Provide care: Roll +wits\n\nOn a __strong hit__, the care is helpful. If you (or the ally under your care) are wounded, clear the impact. Then take or give +2 health. If you make this move as you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3de42d2d3cb78855]{Sojourn} take +1 more.\n\nOn a __weak hit__, as above, but the recovery costs extra time or resources. Choose one: @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1) or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).\n\nOn a __miss__, the aid is ineffective and the situation worsens. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you receive medical care or provide treatment...",
+      "Options": [
+        {
+          "Text": "Receive treatment from someone (not an ally)",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Iron"
+          ]
+        },
+        {
+          "Text": "Mend your own wounds",
+          "Roll type": "Action roll",
+          "Method": "Lowest",
+          "Using": [
+            "Iron",
+            "Wits"
+          ]
+        },
+        {
+          "Text": "Obtain treatment for a companion",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Heart"
+          ]
+        },
+        {
+          "Text": "Provide care",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, the care is helpful. If you (or the ally under your care) are wounded, clear the impact. Then take or give +2 health. If you make this move as you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3de42d2d3cb78855]{Sojourn} take +1 more.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, as above, but the recovery costs extra time or resources. Choose one: @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1) or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, the aid is ineffective and the situation worsens. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 210
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 210,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Recover/Heal",
+      "dsid": "move:starforged/recover/heal"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759358134910,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!2051538f0c9d5d27"
+}

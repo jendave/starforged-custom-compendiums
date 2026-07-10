@@ -1,0 +1,160 @@
+{
+  "name": "Terminus",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "ZPyZ92qEb1vva8ZT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!cgJ1sIPOIjuEIvPh.ZPyZ92qEb1vva8ZT"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "DkDQ3pr6g64e8YXJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!cgJ1sIPOIjuEIvPh.DkDQ3pr6g64e8YXJ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "5Kk7tEFvaoxhbqHd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!cgJ1sIPOIjuEIvPh.5Kk7tEFvaoxhbqHd"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "7rAfrr31GtGGWPrx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple settlements",
+      "name": "",
+      "_key": "!tables.results!cgJ1sIPOIjuEIvPh.7rAfrr31GtGGWPrx"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "1hwxMpFIXF6ADlm4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settlements in conflict",
+      "name": "",
+      "_key": "!tables.results!cgJ1sIPOIjuEIvPh.1hwxMpFIXF6ADlm4"
+    }
+  ],
+  "folder": "AX8ni0XjdFG1FZSf",
+  "sort": 0,
+  "_id": "cgJ1sIPOIjuEIvPh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet entirely composed of a single creature or a colony of creatures.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288221110,
+    "modifiedTime": 1703293815889,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!cgJ1sIPOIjuEIvPh"
+}

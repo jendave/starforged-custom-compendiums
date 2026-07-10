@@ -1,0 +1,102 @@
+{
+  "_id": "ae5994ceb3cba098",
+  "type": "sfmove",
+  "name": "Strike",
+  "img": "icons/dice/d10black.svg",
+  "folder": "0833ccc5eb06cf7e",
+  "system": {
+    "dfid": "Starforged/Moves/Combat/Strike",
+    "Category": "Starforged/Moves/Combat",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you are in control and assault a foe at close quarters__, roll +iron; __when you attack at a distance__, roll +edge.\n\nOn a __strong hit__, mark progress twice and take +1 momentum. You dominate your foe and stay in control.\n\nOn a __weak hit__, mark progress twice, but you expose yourself to danger. You are in a bad spot.\n\nOn a __miss__, the fight turns against you. You are in a bad spot and must @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you are in control and assault a foe at close quarters, or when you attack at a distance...",
+      "Options": [
+        {
+          "Text": "Assault a foe at close quarters",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Iron"
+          ]
+        },
+        {
+          "Text": "Attack at a distance",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Edge"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, mark progress twice and take +1 momentum. You dominate your foe and stay in control.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, mark progress twice, but you expose yourself to danger. You are in a bad spot.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, the fight turns against you. You are in a bad spot and must @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 192
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 192,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Combat/Strike",
+      "dsid": "move:starforged/combat/strike"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759007996159,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!ae5994ceb3cba098"
+}

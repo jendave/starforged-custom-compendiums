@@ -1,0 +1,91 @@
+{
+  "type": "asset",
+  "folder": "RQU0jeVYyTJHSSGQ",
+  "name": "Windbinder",
+  "system": {
+    "requirement": "",
+    "category": "Ritual",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you bind the winds to your will, roll +edge. On a strong hit, the winds are fine; you and your allies take +2 momentum now, and add +1 when you make a move to navigate or maneuver. On a weak hit, the winds are fair; take +2 momentum. On a miss, the capricious winds are foul; you and your allies @Compendium[starforged-custom-oracles.starforgedcustommoves.93d2d69b7e2b85e1]{Lose Momentum} (-2), and face weather-related hazards as appropriate. No matter the outcome, the winds are fair after a few hours.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Once per situation, you may summon a mighty cyclone. Take an automatic miss as defined above, but also wreak havoc on your foes; mark progress on a related quest, or mark progress twice on an objective in a fight.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you perform this ritual, add +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Fair",
+        "selected": false
+      },
+      {
+        "name": "Fine",
+        "selected": false
+      },
+      {
+        "name": "Foul",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/wind-slap.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/path/windbinder",
+      "dsid": "asset:sundered_isles/path/windbinder",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760031143056,
+    "modifiedTime": 1760031143056,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "_id": "OwXSCXDur7lLkVUQ",
+  "sort": 0,
+  "_key": "!items!OwXSCXDur7lLkVUQ"
+}

@@ -1,0 +1,550 @@
+{
+  "name": "Features (1-2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "kto0MyxS9vFj8945",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glassy plains",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.kto0MyxS9vFj8945"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "nlQBmz8sp1DApIgf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opalescent craters",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.nlQBmz8sp1DApIgf"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "9ojmpRrXGeO1GXun",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Color-shifting facets",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.9ojmpRrXGeO1GXun"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "QfecJLK9y1n8KXMH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ultra-dense gravity pull",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.QfecJLK9y1n8KXMH"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "PfE1fhcll1J65mnQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful magnetic field",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.PfE1fhcll1J65mnQ"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "c6OxqOolTUr12bma",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harsh silicate storms",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.c6OxqOolTUr12bma"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "YzVSYK6uL7AsOixa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radiant auroras",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.YzVSYK6uL7AsOixa"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "tqrnwgznesqxizR5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reflective facets",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.tqrnwgznesqxizR5"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "sRgjHiSakBtLdNaL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridescent spires",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.sRgjHiSakBtLdNaL"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "wyqs8PuHNHfnzJVA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange mineral inclusions",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.wyqs8PuHNHfnzJVA"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "Dnz2a4Qz1TZdWTGT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remains of a mining expedition",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.Dnz2a4Qz1TZdWTGT"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "IM97OuVY1Wlmjtr4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diamond clouds",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.IM97OuVY1Wlmjtr4"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "i6VLoO2iFlDVJqvX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding, burning focused lights",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.i6VLoO2iFlDVJqvX"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "B6XQ2eRdSQpKCgnU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Highly radioactive",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.B6XQ2eRdSQpKCgnU"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "Rg3RD8BPD0UqbJct",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare and valuable minerals",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.Rg3RD8BPD0UqbJct"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "J47qlkNiFhF8MGQS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Constant, unsettling hum",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.J47qlkNiFhF8MGQS"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "Q8rT8YLwk2VdLnCe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pearly ridges",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.Q8rT8YLwk2VdLnCe"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "z7elnqn07W9mCWCX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Derelicts\"><i class=\"fa fa-caret-right\"></i> Derelicts</a>",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.z7elnqn07W9mCWCX"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "KZeY7pehxDBqiYrH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.KZeY7pehxDBqiYrH"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "UaHHasCZWNXyuW3B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
+      "name": "",
+      "_key": "!tables.results!BVhF0gVo87eRKIty.UaHHasCZWNXyuW3B"
+    }
+  ],
+  "folder": "aLzHqMbgB59qvVsq",
+  "sort": 1,
+  "_id": "BVhF0gVo87eRKIty",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Strange, colorful moons that change color as the local sun refracts through them. What materials are they made from? Are they artificial? Natural? Cultivated?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690637284,
+    "modifiedTime": 1698872445915,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!BVhF0gVo87eRKIty"
+}

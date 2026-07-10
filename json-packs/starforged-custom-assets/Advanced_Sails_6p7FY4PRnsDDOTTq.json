@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "a7279f7392f32ff4",
+  "name": "Advanced Sails",
+  "system": {
+    "requirement": "",
+    "category": "Ship Upgrade",
+    "color": "#7f5a90",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Your vehicle's finely-tuned sail speed your travel. When you @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} (+edge) and score a strong hit, take +1 momentum; on a strong hit with a 6 on your action die take +2 momentum instead of +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.2f2ba4090b22a122]{Enter the Fray}, choose one (before rolling).</p>\n<ul>\n<li>Manuever: Add +1 and take +1 momentum on a strong hit.</li>\n<li>Boost: Take +2 momentum on a hit.</li>\n</ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you make a desperate move to pursue a foe, escape a threat, or get in range, you may push your sails to their limit. If you do (decide after rolling), reroll any dice and count a weak hit as a strong hit. Then, @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage} (-2).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/sail.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/module/rigged_for_speed",
+      "dsid": "asset:sundered_isles/module/rigged_for_speed",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758313923073,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "6p7FY4PRnsDDOTTq",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_key": "!items!6p7FY4PRnsDDOTTq"
+}

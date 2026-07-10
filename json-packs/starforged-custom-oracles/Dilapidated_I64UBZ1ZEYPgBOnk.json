@@ -1,0 +1,266 @@
+{
+  "name": "Dilapidated",
+  "formula": "1d20",
+  "results": [
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kragc1yinzl5mzr1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural machinery",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.kragc1yinzl5mzr1"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nxfregvvjfwhm4qk",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ammunition",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.nxfregvvjfwhm4qk"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        5,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wjqpp9epxyjrb7ur",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clothing",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.wjqpp9epxyjrb7ur"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        8,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ej4hvjsxiie71xmj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumer goods",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.ej4hvjsxiie71xmj"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        10,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8e9jwzomtxui5ps2",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Furniture",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.8e9jwzomtxui5ps2"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        12,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0gmdhw4du4ac7rwc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ground vehicles",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.0gmdhw4du4ac7rwc"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4axjp99u93ezsblj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Processed foods",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.4axjp99u93ezsblj"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        16,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "su9rpfu4hjp6ilbx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Textiles",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.su9rpfu4hjp6ilbx"
+    },
+    {
+      "type": "text",
+      "weight": 3,
+      "range": [
+        18,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6ocnhkl2qlbhk4c3",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tools",
+      "name": "",
+      "_key": "!tables.results!I64UBZ1ZEYPgBOnk.6ocnhkl2qlbhk4c3"
+    }
+  ],
+  "_id": "I64UBZ1ZEYPgBOnk",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "3kJLjya7El5dNJHc",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697085455780,
+    "modifiedTime": 1697241086505,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.I64UBZ1ZEYPgBOnk",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!I64UBZ1ZEYPgBOnk"
+}

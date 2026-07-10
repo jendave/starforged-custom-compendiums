@@ -1,0 +1,65 @@
+{
+  "folder": "8jBpt7vuLit8cDuy",
+  "name": "Overview",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "ONjptM8ZLp9gL473",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Starforging Ironsworn</strong></p><p><em><strong>Legacy Iron</strong></em> is a <em>Starforged</em> asset deck that compiles asset cards from the original Ironsworn game that didn’t receive a conceptual update in Starforged or Sundered Isles. This conversion was guided by the following principles:</p><ul><li><p><strong>Avoid duplication</strong>: Cards already covered in the <em>Starforged</em> or <em>Sundered Isles</em> asset decks were not converted. If an asset was omitted, its concept is already represented in those decks.</p></li><li><p><strong>Adapt the assets to </strong><em><strong>Starforged</strong></em><strong> mechanics</strong>: <em>Starforged</em> offers a richer array of moves, mechanics, and bonus types for assets. This conversion ensures the deck remains as diverse and mechanically dense as those in <em>Starforged</em> and <em>Sundered Isles</em>.</p></li><li><p><strong>Represent rituals as paths</strong>: Supernatural-focused assets are represented as paths in <em>Starforged</em>. This conversion follows that design philosophy.</p></li><li><p><strong>Reimagine assets for the setting</strong>: Some original cards imply a magical setting. Where possible, these assets have been reimagined with science fiction equivalents, allowing you to use the deck seamlessly in either hard sci-fi or fantasy campaigns.</p></li><li><p><strong>Maintain balance and system economy</strong>: When the above principles didn’t apply or conflicted, adjustments were made to maintain balance consistent with the <em>Starforged</em> system’s economy.</p></li></ul><p>With the flexibility to suit both science fiction and fantasy tones, this deck offers countless opportunities to deepen your journey and bring fresh excitement to your Ironsworn: <em>Starforged</em> or <em>Sundered Isles</em> campaigns.</p><p>Whether your story takes place in distant star systems, mysterious ruins, or shadowed fantasy realms, let these cards inspire new stories, challenges, and companions that fit seamlessly into your chosen setting.</p><p>Included are:</p><ul><li><p>Companion Assets</p></li><li><p>Deed Assets</p></li><li><p>Path Assets</p></li></ul><p>Legacy Iron (Starforged Asset Pack) by Ludic Pen can be found <a href=\"https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack\">here</a>. The resources were <span style=\"font-family:Signika, sans-serif\">used with permission from the author.</span></p><p>Other works by Ludic Pen can be found <a href=\"https://www.drivethrurpg.com/en/publisher/14520/ludic-pen\">here</a>.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": 1760861090189,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!WvsBoyCRb0wK3dLH.ONjptM8ZLp9gL473"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850224786,
+    "modifiedTime": 1760850224786,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "WvsBoyCRb0wK3dLH",
+  "sort": 0,
+  "categories": [],
+  "_key": "!journal!WvsBoyCRb0wK3dLH"
+}

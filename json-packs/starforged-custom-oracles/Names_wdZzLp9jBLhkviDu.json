@@ -1,0 +1,342 @@
+{
+  "name": "Names",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        8
+      ],
+      "_id": "Xfnl29D7MuIxFVqP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alloy",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.Xfnl29D7MuIxFVqP"
+    },
+    {
+      "range": [
+        9,
+        16
+      ],
+      "_id": "g2idBQyUE6NwpwqV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bearing",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.g2idBQyUE6NwpwqV"
+    },
+    {
+      "range": [
+        17,
+        24
+      ],
+      "_id": "92CZIW28dwSw7Ero",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catalyst",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.92CZIW28dwSw7Ero"
+    },
+    {
+      "range": [
+        25,
+        32
+      ],
+      "_id": "KB1IsQVFUh2BQK2w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Compass",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.KB1IsQVFUh2BQK2w"
+    },
+    {
+      "range": [
+        33,
+        40
+      ],
+      "_id": "QA3C8s9gmF41akfW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Core",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.QA3C8s9gmF41akfW"
+    },
+    {
+      "range": [
+        41,
+        48
+      ],
+      "_id": "gZ6S8cWmSJwZJST9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferric",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.gZ6S8cWmSJwZJST9"
+    },
+    {
+      "range": [
+        49,
+        56
+      ],
+      "_id": "6fSiNaeODCFnlfeW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ingot",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.6fSiNaeODCFnlfeW"
+    },
+    {
+      "range": [
+        57,
+        64
+      ],
+      "_id": "Pspio1fOUmk33AUI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mirror",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.Pspio1fOUmk33AUI"
+    },
+    {
+      "range": [
+        65,
+        73
+      ],
+      "_id": "mMKJEYrI5oGpK0xr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nugget",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.mMKJEYrI5oGpK0xr"
+    },
+    {
+      "range": [
+        74,
+        82
+      ],
+      "_id": "DQdiTSrfRQN3062L",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ore",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.DQdiTSrfRQN3062L"
+    },
+    {
+      "range": [
+        83,
+        91
+      ],
+      "_id": "QNQSn3tQoMi0IETC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rust",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.QNQSn3tQoMi0IETC"
+    },
+    {
+      "range": [
+        92,
+        100
+      ],
+      "_id": "dNzK5GBaRwMWopsU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wrought",
+      "name": "",
+      "_key": "!tables.results!wdZzLp9jBLhkviDu.dNzK5GBaRwMWopsU"
+    }
+  ],
+  "folder": "eU4npVOAb4pNqD8R",
+  "sort": 4,
+  "_id": "wdZzLp9jBLhkviDu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of metals and metal alloys.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288269202,
+    "modifiedTime": 1703293858474,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!wdZzLp9jBLhkviDu"
+}

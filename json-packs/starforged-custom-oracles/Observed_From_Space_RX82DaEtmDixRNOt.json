@@ -1,0 +1,290 @@
+{
+  "name": "Observed From Space",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "Gcfo4o0SE6GFqcqc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dimensional portals",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.Gcfo4o0SE6GFqcqc"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "p8I8MTcVWuY63qhE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic particles",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.p8I8MTcVWuY63qhE"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "pynZI5xxJX8cXu7A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impossible colours",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.pynZI5xxJX8cXu7A"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "Y3WlygWu0FHj7WnE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phasing in and out of reality",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.Y3WlygWu0FHj7WnE"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "iElOqdUP3tICL73y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Relativistic effects",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.iElOqdUP3tICL73y"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "9ena0Cd3v4RAM9pU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spatial distortions",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.9ena0Cd3v4RAM9pU"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "5kGWsEECeELWus3F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time flows differently",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.5kGWsEECeELWus3F"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "uTAHAxcIlcQ8aTnX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unidentifiable composition",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.uTAHAxcIlcQ8aTnX"
+    },
+    {
+      "range": [
+        89,
+        98
+      ],
+      "_id": "Cwc9dcpFpSo8RFj3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.Cwc9dcpFpSo8RFj3"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "jjQSwn6wFuUw9CIB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (orbital)",
+      "name": "",
+      "_key": "!tables.results!RX82DaEtmDixRNOt.jjQSwn6wFuUw9CIB"
+    }
+  ],
+  "folder": "GWoYpsHM7VVgDzEm",
+  "sort": 200000,
+  "_id": "RX82DaEtmDixRNOt",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This planet is in another dimension, or came from another dimension to this one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288341845,
+    "modifiedTime": 1703294016622,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!RX82DaEtmDixRNOt"
+}

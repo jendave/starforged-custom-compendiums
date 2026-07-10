@@ -1,0 +1,84 @@
+{
+  "type": "asset",
+  "folder": "EDFcEwZHqDjqM7zq",
+  "name": "Lion",
+  "system": {
+    "requirement": "",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Your lion is a creature eager to take down its prey. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} or @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} by sending your lion to attack, or @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} by using them to intimidate your foes, add +2 as the predetor asserts its primal dominance.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} by sending your inescapable lion to chase down big game, roll +the lion's health. On a hit, give your lion +1 health. On a strong hit, also take +1 supply or +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you or an ally makes a recovery move in the company of your protective lion, they are alert to trouble; add +1 as ever-watchful eyes guard against unseen dangers.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/lion.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Companion/Cave_Lion",
+      "dsid": "asset:classic/companion/cave_lion",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": {
+      "worldId": "starforged-development",
+      "uuid": null,
+      "coreVersion": "12.343",
+      "systemId": "foundry-ironsworn",
+      "systemVersion": "1.25.4"
+    }
+  },
+  "sort": 375000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_id": "efDhO98nrvB0Ffkw",
+  "_key": "!items!efDhO98nrvB0Ffkw"
+}

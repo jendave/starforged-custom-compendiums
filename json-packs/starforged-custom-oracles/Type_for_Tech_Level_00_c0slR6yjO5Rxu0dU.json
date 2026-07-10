@@ -1,0 +1,58 @@
+{
+  "name": "Type for Tech Level 00",
+  "formula": "1d10",
+  "results": [
+    {
+      "_id": "brB2yvoE3fWAjte7",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primitive",
+      "name": "",
+      "_key": "!tables.results!c0slR6yjO5Rxu0dU.brB2yvoE3fWAjte7"
+    }
+  ],
+  "_id": "c0slR6yjO5Rxu0dU",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 6\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">Tech Level 00 and Tech Level 01 Settlements will only ever be “Primitive”.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "1ZOc7BsE3qgmGEBY",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697087020398,
+    "modifiedTime": 1697252817324,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.c0slR6yjO5Rxu0dU",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!c0slR6yjO5Rxu0dU"
+}

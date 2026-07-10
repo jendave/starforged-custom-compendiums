@@ -1,0 +1,550 @@
+{
+  "name": "First Look",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "Auq4cLFJADuE0Sx0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bleeding edge medical tech",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.Auq4cLFJADuE0Sx0"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "rxSSuwpEhafld1vu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dated, stale entertainment",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.rxSSuwpEhafld1vu"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "TQT2CDBos3AlzwSr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment is a few generations behind",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.TQT2CDBos3AlzwSr"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "wF71F6DmGDY5OkcX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extremely frugal practice",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.wF71F6DmGDY5OkcX"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "rcPy5HvyuCl5NsIj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Famous clientele",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.rcPy5HvyuCl5NsIj"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "QwcWUqbrt1M7k5XN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food on offer",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.QwcWUqbrt1M7k5XN"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "I26RoYJxa6544fAZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fresh shipment of meds just arrived",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.I26RoYJxa6544fAZ"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Xn05oBSUwGIaQFrQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Last dose of the thing you need",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.Xn05oBSUwGIaQFrQ"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "DoOkNGeW69TDogXB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Live entertainment",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.DoOkNGeW69TDogXB"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "EWPuK0Muu9jDUkh4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Low success rate",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.EWPuK0Muu9jDUkh4"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "zdBdKIN1YqexjtTi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Makeshift, scavenged, and reused supplies",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.zdBdKIN1YqexjtTi"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "LzSo44xViveiXprA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Other patients are more important",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.LzSo44xViveiXprA"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "EEJMrYgbnoOBeCSy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor medical technology",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.EEJMrYgbnoOBeCSy"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "XV1tYr4rkOf9hhSM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Questionable techniques",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.XV1tYr4rkOf9hhSM"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "UpVIXPFigZXpPBPx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sincerely caring staff",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.UpVIXPFigZXpPBPx"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "BS5Mf0tdQKD2G8L2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slovenly staff, shabby offices",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.BS5Mf0tdQKD2G8L2"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "DIcJjOPY7T2uEuSY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Some drugs are expired",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.DIcJjOPY7T2uEuSY"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "aHWKZPafqc83w8JN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Squabbling staff",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.aHWKZPafqc83w8JN"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "BoKfZD9D5WRFmX8j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suspiciously well-stocked",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.BoKfZD9D5WRFmX8j"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "74wu1EQ6n0ub18nQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waiting room is much nicer than exam room",
+      "name": "",
+      "_key": "!tables.results!PUF34uXbNWID6RGC.74wu1EQ6n0ub18nQ"
+    }
+  ],
+  "folder": "OF49XtJ7mT2Z7Pbs",
+  "sort": 3,
+  "_id": "PUF34uXbNWID6RGC",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You’ve found the medico. What’s the place like? Roll once or twice.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293216808,
+    "modifiedTime": 1699294832562,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!PUF34uXbNWID6RGC"
+}

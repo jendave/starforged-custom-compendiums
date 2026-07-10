@@ -1,0 +1,104 @@
+{
+  "folder": "DQlw2WPLEuWIngwa",
+  "name": "Better + Moons",
+  "_id": "UYYuuQuGDyDKl2RM",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "nRKPXfORb1jIlzNJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.gbK9zJ7jT7pbWjfN]{Better + Moons}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060139655,
+        "modifiedTime": 1758060146395,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!UYYuuQuGDyDKl2RM.nRKPXfORb1jIlzNJ"
+    },
+    {
+      "sort": 200000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "Hi1Q2rBKgHHSdMyS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Artificial Moons</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.N58Y34S1B9ooTmbC]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.V7T0kBSB6SPDDTcb]{Life}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VmXV4O1ICHAcP0ZV]{Form}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh]{Features (1-2)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.As3p71XL94Geqn5w]{Perils}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.7NoCmNWYPO6yEgP9]{Opportunities}</p><h2>Crystalline Moons</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JVnw5VE7w4dL3KAu]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.BVhF0gVo87eRKIty]{Features (1-2)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.I38e71hzVByuAwWf]{Perils}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8DKXh0JvTvFeq0lG]{Opportunities}</p><h2>Dust Rings</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.i9Aeb38RIMsMVqWM]{Atmosphere}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.H2vXAYLxRWS1Ipkz]{Features (1-2)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LkVyAWVWxHaVfOpX]{Perils}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3u05KTcbYUPA8HPc]{Opportunities}</p><h2>Exotic Moons</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.g7xmcQZ1ch2Ei77o]{Exotic Moons Table 1}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tL7jrXCa0Lz2kJW7]{Exotic Moons Table 2}</p><h2>Other Oracles</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.nljiwrUTDvbCErMh]{Expanded World Table}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SUJkUek80DWdqspV]{Moon Types}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060190165,
+        "modifiedTime": 1758060339682,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!UYYuuQuGDyDKl2RM.Hi1Q2rBKgHHSdMyS"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758060126410,
+    "modifiedTime": 1758060126410,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!UYYuuQuGDyDKl2RM"
+}

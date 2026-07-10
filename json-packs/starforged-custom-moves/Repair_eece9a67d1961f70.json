@@ -1,0 +1,102 @@
+{
+  "_id": "eece9a67d1961f70",
+  "type": "sfmove",
+  "name": "Repair",
+  "img": "icons/dice/d10black.svg",
+  "folder": "5ba869fa7c31abdd",
+  "system": {
+    "dfid": "Starforged/Moves/Recover/Repair",
+    "Category": "Starforged/Moves/Recover",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you make or obtain repairs for you assets or other equipment, envision the situation and roll. If you...\n\n  * Do it yourself or direct others: Roll +wits.\n  * Obtain the services of an expert in a community: Roll +heart.\n\nOn a __hit__, you gain repair points as appropriate to the situation, per the table below. Additionally, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (hold) and exchange each -1 of supply for 1 extra repair point (up to 3 points).\n\nSituation     | Strong Hit | Weak Hit\n--------------|--------------|---------\nCommunity Expert | 6 points | 4 points\nSafe Refuge | 4 points | 2 points\nUnderway | 3 points | 1 points\nUnder Seige | 2 points | 0 points\n\nSpend repair points as follows. Unused points are discarded.\n\n  * Clear the battered impact on an asset: 2 points\n  * Fix one broken asset: 2 points\n  * Take +1 integrity on a asset: 1 point\n  * Take +1 health for a mechanical-based companion: 1 point\n  * Robust repair any other equipment or device: 3 points\n  * Rudimentary repair of any other equipment or device leaving it with a lingering complication or malfunction: 2 points\n\nOn a __miss__, the repairs are not made and the situation worsens. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you make or obtain repairs for you assets or other equipment...",
+      "Options": [
+        {
+          "Text": "Do it yourself or direct others",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Wits"
+          ]
+        },
+        {
+          "Text": "Obtain the services of an expert in a community",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Heart"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you gain repair points as appropriate to the situation, per the table below. Additionally, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (hold) and exchange each -1 of supply for 1 extra repair point (up to 3 points).\n\nSituation | Strong Hit\n--------------|------------\nCommunity Expert | 6 points \nSafe Refuge | 4 points \nUnderway | 3 points \nUnder Seige | 2 points \n\nSpend repair points as follows. Unused points are discarded.\n\n  * Clear the battered impact on an asset: 2 points\n  * Fix one broken asset: 2 points\n  * Take +1 integrity on a asset: 1 point\n  * Take +1 health for a mechanical-based companion: 1 point\n  * Robust repair any other equipment or device: 3 points\n  * Rudimentary repair of any other equipment or device leaving it with a lingering complication or malfunction: 2 points",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you gain repair points as appropriate to the situation, per the table below. Additionally, you may @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (hold) and exchange each -1 of supply for 1 extra repair point (up to 3 points).\n\nSituation     | Weak Hit\n--------------|------------\nCommunity Expert | 4 points\nSafe Refuge | 2 points\nUnderway | 1 points\nUnder Seige | 0 points\n\nSpend repair points as follows. Unused points are discarded.\n\n  * Clear the battered impact on an asset: 2 points\n  * Fix one broken asset: 2 points\n  * Take +1 integrity on a asset: 1 point\n  * Take +1 health for a mechanical-based companion: 1 point\n  * Robust repair any other equipment or device: 3 points\n  * Rudimentary repair of any other equipment or device leaving it with a lingering complication or malfunction: 2 points",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, the repairs are not made and the situation worsens. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 214
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 214,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Recover/Repair",
+      "dsid": "move:starforged/recover/repair"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759360326086,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!eece9a67d1961f70"
+}

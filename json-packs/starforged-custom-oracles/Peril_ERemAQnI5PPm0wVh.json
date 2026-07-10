@@ -1,0 +1,186 @@
+{
+  "name": "Peril",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Hwa5gryraGQXeCHv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside Peril - Lifebearing @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2]{5 - 6} or Lifeless @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!ERemAQnI5PPm0wVh.Hwa5gryraGQXeCHv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "eDXRd1NULiTGqzvJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.4689857ac9c1af86]{Infested Theme Peril}",
+      "name": "",
+      "_key": "!tables.results!ERemAQnI5PPm0wVh.eDXRd1NULiTGqzvJ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "34xy9Vfxn4Bbdaz4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.74ke9AgaF8XXelLr]{Flooded Theme Peril}",
+      "name": "",
+      "_key": "!tables.results!ERemAQnI5PPm0wVh.34xy9Vfxn4Bbdaz4"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "WsuL8hZ46tSWnjrW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha]{Overgrown Theme Peril}",
+      "name": "",
+      "_key": "!tables.results!ERemAQnI5PPm0wVh.WsuL8hZ46tSWnjrW"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "8rOk3PNveFURXn2M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Theme @UUID[Compendium.foundry-ironsworn.ironsworndelvethemes.Item.v3jYuNrr1Jt4TzNZ]{Wild} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitethemes.Item.5O7wtNRy7tGrtIXd]{Jurassic} + Domain @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.Dima1MSxxNkacMPG]{Jungle} or @UUID[Compendium.ironsmith-expanded-oracles.ironsmithsitedomains.Item.XKAblbfZRtHXekBy]{World Tree} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.MbJlpR81C4Q4WDV2]{Tanglewood} or @UUID[Compendium.foundry-ironsworn.ironsworndelvedomains.Item.Xn1xz4l3r6AMWzg8]{Shadowfen}",
+      "name": "",
+      "_key": "!tables.results!ERemAQnI5PPm0wVh.8rOk3PNveFURXn2M"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ngtCg5F0twZ9i9eP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pay the Price @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LEycAF6bXh6vOJ05]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jnBW4rcekjOFL5DL]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!ERemAQnI5PPm0wVh.ngtCg5F0twZ9i9eP"
+    }
+  ],
+  "folder": "n69yBnAQ6igvzODZ",
+  "sort": 1,
+  "_id": "ERemAQnI5PPm0wVh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703901668680,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ERemAQnI5PPm0wVh"
+}

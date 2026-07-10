@@ -1,0 +1,89 @@
+{
+  "type": "asset",
+  "folder": "CIMBUlRd6pitnuo0",
+  "name": "Masked",
+  "system": {
+    "requirement": "<p>Once you mark a bond with elves, and are gifted a mask of precious elderwood…</p>",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Choose your mask’s material.</p>\n<ul>\n<li>Thunderwood: Edge / Health</li>\n<li>Bloodwood: Iron / Health</li>\n<li>Ghostwood: Shadow / Spirit</li>\n<li>Whisperwood: Wits / Spirit</li>\n</ul>\n<p>When you wear the mask and make a move which uses its stat, add +1. If you roll a 1 on your action die, suffer -1 to the associated track (in addition to any other outcome of the move).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may instead add +2 and suffer -2 (decide before rolling).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.0cfcd6fbaf6135d0]{Face Death} or @Compendium[foundry-ironsworn.starforgedmoves.Item.ff17e67a59539df4]{Face Desolation} while wearing the mask, you may roll +its stat (instead of +heart).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Bloodwood",
+        "selected": false
+      },
+      {
+        "name": "Ghostwood",
+        "selected": false
+      },
+      {
+        "name": "Thunderwood",
+        "selected": false
+      },
+      {
+        "name": "Whisperwood",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/curly-mask.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Masked",
+      "dsid": "asset:classic/path/masked",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758269612486,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "0xDPCc4xIoYOYauW",
+  "sort": 3700000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_key": "!items!0xDPCc4xIoYOYauW"
+}

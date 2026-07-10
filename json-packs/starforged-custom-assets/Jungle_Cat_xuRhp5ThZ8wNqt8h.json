@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Jungle Cat",
+  "system": {
+    "requirement": "<p>Your fearless jungle cat takes the lead.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Fearsome: Your jungle cat companion leaps into the fight at your side. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} aided by the cat, or if you make a move to intimidate your foes, add +1. If you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash}, take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Venturous: The jungle cat leads the way on treacherous overland journeys. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.3ff03b51f620ab26]{Undertake an Expedition} through wilderness, add +1. On a strong hit with a match, the cat guides you to an otherwise unseen opportunity; envision what you find and take +2 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Staunch: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.c2c2f31f564caa06]{Hearten} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff32c523829d6481]{Endure Stress} in the company of your cat, add +1. On a strong hit with a match, you find inspiration or solace; take +momentum equal to their health.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/tiger-head.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/jungle_cat",
+      "dsid": "asset:sundered_isles/companion/jungle_cat",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906532320,
+    "modifiedTime": 1759653356402,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "xuRhp5ThZ8wNqt8h",
+  "sort": 1400000,
+  "_key": "!items!xuRhp5ThZ8wNqt8h"
+}

@@ -1,0 +1,550 @@
+{
+  "name": "Alien Drives",
+  "formula": "1d100",
+  "description": "<p>Roll twice or thrice</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "qEPAEjLg3y6RytIY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collect body parts",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.qEPAEjLg3y6RytIY"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "E2IriMHqTAu8mtnQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Use other lifeforms as incubators for their offspring",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.E2IriMHqTAu8mtnQ"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "DhahPqYqQzlF5PMc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defend and expand its territory",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.DhahPqYqQzlF5PMc"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "kC51JwoU6u8fDApW",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Revel in fear",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.kC51JwoU6u8fDApW"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "bXYPSZd5jR9EMnFh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Merge with other creatures to grow",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.bXYPSZd5jR9EMnFh"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "mkNxUzPolYrF5JpY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devour every living it seizes",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.mkNxUzPolYrF5JpY"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "AFvaVT8RSv8r9NXN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enslave new lifeforms",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.AFvaVT8RSv8r9NXN"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Iy59RPQavsee3hTo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Serve their leader",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.Iy59RPQavsee3hTo"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "okuCYReWBma24EHf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protect its lair",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.okuCYReWBma24EHf"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "bepTr9tABn2PGO0y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proliferate",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.bepTr9tABn2PGO0y"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "8scBDiXkBvatuke0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escape another lifeform",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.8scBDiXkBvatuke0"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "KhHasY3clbLED3PX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Play with dead bodies",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.KhHasY3clbLED3PX"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "Dal1GgoC6QTXZuOF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infect other lifeforms",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.Dal1GgoC6QTXZuOF"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "IOCaitsFDG7TOCtk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunt",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.IOCaitsFDG7TOCtk"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "ShYIzK8pibvd8Gny",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eliminate its potential predators",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.ShYIzK8pibvd8Gny"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "wmv0VTX7AI9mEUyz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroy other lifeforms",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.wmv0VTX7AI9mEUyz"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "gDwr2QkPkT57ilL3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Build a hoard of human possessions",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.gDwr2QkPkT57ilL3"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "8tF7Z04XrASgNTUP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Use human bones to build its nest",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.8tF7Z04XrASgNTUP"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "Kv0VUB7RiNZWSwcs",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construct totems from its slain enemies",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.Kv0VUB7RiNZWSwcs"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "h8QKHkGP5GeLAjoE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prepare the terrain for its kind",
+      "name": "",
+      "_key": "!tables.results!B7mD4dIeGqoarSo1.h8QKHkGP5GeLAjoE"
+    }
+  ],
+  "_id": "B7mD4dIeGqoarSo1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 287500,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!B7mD4dIeGqoarSo1"
+}

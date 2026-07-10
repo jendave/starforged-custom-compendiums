@@ -1,0 +1,420 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "3rsVrYHpFTQmqRla",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to underground levels",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.3rsVrYHpFTQmqRla"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "NGGpMfN3eGvb6zLi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmospheric instabilities",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.NGGpMfN3eGvb6zLi"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "CPgh1y86iVerpgeH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed structural supports",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.CPgh1y86iVerpgeH"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "ZYWqMzxz8plIUbuO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometrically aligned cliffs",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.ZYWqMzxz8plIUbuO"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "e7K6hjIyEMJKnGV8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hollowed-out hills",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.e7K6hjIyEMJKnGV8"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "EO1pzhWGMwMJd48t",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Identical mountains",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.EO1pzhWGMwMJd48t"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "os3ol3txpCHlCJ4I",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inactive terraforming equipment",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.os3ol3txpCHlCJ4I"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "scik0WjrwoA2E2nm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landscape carved by nanotech",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.scik0WjrwoA2E2nm"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "PUL6u9LNvsSrOAc3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Local weak spots",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.PUL6u9LNvsSrOAc3"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "qiEcXP3VhJ16asAn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Piles of leftover materials",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.qiEcXP3VhJ16asAn"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "0LhbsH67bhzCMtV1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of ecological collapse",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.0LhbsH67bhzCMtV1"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "h7yBA56mwzQuveDh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unfilled riverbeds",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.h7yBA56mwzQuveDh"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "QpIye12CZS80F0SB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weathered residential structures",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.QpIye12CZS80F0SB"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "yiCkEEoakHwPYTv5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.yiCkEEoakHwPYTv5"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "pQVQ7m0DFrBCozXn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (planetside)",
+      "name": "",
+      "_key": "!tables.results!OYh7pT6IKREk3nHf.pQVQ7m0DFrBCozXn"
+    }
+  ],
+  "folder": "jgPn3CXCDYaHWGSS",
+  "sort": 2,
+  "_id": "OYh7pT6IKREk3nHf",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet constructed by a Precursor civilization, often with a strange shape like a torus or a disc</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288301185,
+    "modifiedTime": 1703293905027,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!OYh7pT6IKREk3nHf"
+}

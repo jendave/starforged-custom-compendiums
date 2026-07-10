@@ -1,0 +1,118 @@
+{
+  "_id": "313c82cede0ce9a7",
+  "type": "sfmove",
+  "name": "Escape the Depths",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e9e254f7a3fc7100",
+  "system": {
+    "dfid": "Ironsworn/Moves/Delve/Escape_the_Depths",
+    "Category": "Ironsworn/Moves/Delve",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When __you flee or withdraw from a site__, consider the situation and your approach. If you...\n\n  * Find the fastest way out: Roll +edge.\n  * Fight your way out: Roll +iron.\n  * Keep out of sight or in disguise: Roll +shadow.\n  * Retrace your steps or locate an alternate path: Roll +wits.\n\nOn a __strong hit__, you make your way safely out of the site. Take +1 momentum.\n\nOn a __weak hit__, you find your way out, but this place exacts its price. Choose one.\n\n  * You suffer costs en route: Make a suffer move (-2), or two suffer moves (-1).\n  * You leave behind something important.\n  * You face a new complication as you emerge from the depths.\n  * A denizen plots their revenge.\n\nOn a __miss__, a dire threat or imposing obstacle stands in your way. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.06f78b87b9532437]{Reveal a Danger}. If you survive, you may make your escape.",
+    "Trigger": {
+      "Text": "When you flee or withdraw from a site...",
+      "Options": [
+        {
+          "Text": "Find the fastest way out",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Edge"
+          ]
+        },
+        {
+          "Text": "Fight your way out",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Iron"
+          ]
+        },
+        {
+          "Text": "Keep out of sight or in disguise",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Shadow"
+          ]
+        },
+        {
+          "Text": "Retrace your steps or locate an alternate path",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you make your way safely out of the site. Take +1 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you find your way out, but this place exacts its price. Choose one.\n\n  * You suffer costs en route: Make a suffer move (-2), or two suffer moves (-1).\n  * You leave behind something important.\n  * You face a new complication as you emerge from the depths.\n  * A denizen plots their revenge.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, a dire threat or imposing obstacle stands in your way. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.06f78b87b9532437]{Reveal a Danger}. If you survive, you may make your escape.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Delve",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2020-02-13",
+      "Page": 42
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 42,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Delve/Escape_the_Depths",
+      "dsid": "move:delve/delve/escape_the_depths"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759040506019,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!313c82cede0ce9a7"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Known Space - Terminus",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "GxSPtBG3iP7RHr8H",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a precursor vault",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.GxSPtBG3iP7RHr8H"
+    },
+    {
+      "range": [
+        2,
+        5
+      ],
+      "_id": "h956M4BiZJf0lAO8",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a deep space settlement",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.h956M4BiZJf0lAO8"
+    },
+    {
+      "range": [
+        6,
+        20
+      ],
+      "_id": "8oP4iUIROoCAraQT",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a starship",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.8oP4iUIROoCAraQT"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "vIOK4BCOda5AjzQM",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a derelict starship",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.vIOK4BCOda5AjzQM"
+    },
+    {
+      "range": [
+        26,
+        45
+      ],
+      "_id": "XRdNoG8r0YKEdxHu",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a stellar phenomenon",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.XRdNoG8r0YKEdxHu"
+    },
+    {
+      "range": [
+        46,
+        65
+      ],
+      "_id": "qUmmiYci66gPSFmk",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "an interesting detail",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.qUmmiYci66gPSFmk"
+    },
+    {
+      "range": [
+        66,
+        85
+      ],
+      "_id": "F0uSgZsNbJ3s0iXU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "a character interlude",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.F0uSgZsNbJ3s0iXU"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "B8M5FeWpJhSFQZPW",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "roll twice",
+      "name": "",
+      "_key": "!tables.results!lCTFWTborkYWZsga.B8M5FeWpJhSFQZPW"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 0,
+  "_id": "lCTFWTborkYWZsga",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!lCTFWTborkYWZsga"
+}

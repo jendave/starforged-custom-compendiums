@@ -1,0 +1,316 @@
+{
+  "name": "Cosmic Matter",
+  "formula": "1d100",
+  "description": "These objects and environments might serve as a hazard to avoid, an opportunity for exploration or research, or simply as a scenic backdrop at a waypoint. For details on spacefaring navigation, see pages 68-71 of the Starforged rulebook.",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "kLvRTm4yQ60Am0AY",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic meteoroid storm",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.kLvRTm4yQ60Am0AY"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "tWyihhtzm7Nibv5O",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Creature boneyard",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.tWyihhtzm7Nibv5O"
+    },
+    {
+      "range": [
+        16,
+        25
+      ],
+      "_id": "PcgqHBC1ZzdjIZBP",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Crystalline asteroids",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.PcgqHBC1ZzdjIZBP"
+    },
+    {
+      "range": [
+        26,
+        40
+      ],
+      "_id": "16kjQLS7iOX1WPF6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Frozen asteroids",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.16kjQLS7iOX1WPF6"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "H2jhafTyQDPpiWyH",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Metallic wreckage",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.H2jhafTyQDPpiWyH"
+    },
+    {
+      "range": [
+        51,
+        70
+      ],
+      "_id": "3ZFWt8VxPpoELLAB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Mineral asteroids",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.3ZFWt8VxPpoELLAB"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "gnnGCH51uRWkperE",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense nebula cloud",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.gnnGCH51uRWkperE"
+    },
+    {
+      "range": [
+        76,
+        85
+      ],
+      "_id": "XF7SjnXr95OJBcQb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fiery energy storm",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.XF7SjnXr95OJBcQb"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "uvyK6rYs0vANurIk",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large rogue asteroid",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.uvyK6rYs0vANurIk"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "mnf8X148cyXyyeaZ",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planet-size comet",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.mnf8X148cyXyyeaZ"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "opzKuJeT7KeKX0qC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Turbulent gravitational wave",
+      "name": "",
+      "_key": "!tables.results!uQ6IobVWKN0TjJw4.opzKuJeT7KeKX0qC"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "t6eBryGidTnGQuii",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.3",
+    "createdTime": 1755031877610,
+    "modifiedTime": 1755031881638,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "uQ6IobVWKN0TjJw4",
+  "sort": 100000,
+  "_key": "!tables!uQ6IobVWKN0TjJw4"
+}

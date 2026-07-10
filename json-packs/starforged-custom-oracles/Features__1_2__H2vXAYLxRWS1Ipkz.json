@@ -1,0 +1,550 @@
+{
+  "name": "Features (1-2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "NdYWN3R35Kuh0doG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tiny particles of ice and stone",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.NdYWN3R35Kuh0doG"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "84gfvTsv4kh0G2xl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated minefield",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.84gfvTsv4kh0G2xl"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "E3QVbEBYDtuqkMgv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nanotechnology",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.E3QVbEBYDtuqkMgv"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "FYk0sWRWv1b5jM7c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous asteroids",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.FYk0sWRWv1b5jM7c"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "cGc2fuoIP4XsrZUq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris from spaceflight",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.cGc2fuoIP4XsrZUq"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "MkVOfYwoRSIcFI9j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glittering crystals",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.MkVOfYwoRSIcFI9j"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "DdaOgEmtkYtT8TO0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Highly radioactive",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.DdaOgEmtkYtT8TO0"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "2kYxFPt2cgaH9jlP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvestable fuel ice",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.2kYxFPt2cgaH9jlP"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "grbik9ICIen4IXoS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense, stony ring",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.grbik9ICIen4IXoS"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "PQniixrLSVR3AnpL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful magnetic field",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.PQniixrLSVR3AnpL"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "AgHuqVspZkEnZvSW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragments of ancient starships",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.AgHuqVspZkEnZvSW"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "bI6p8wd6gkOJ2gW1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decorative construction",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.bI6p8wd6gkOJ2gW1"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "OUdQuYHBREjw2CGQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frozen organisms / corpses",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.OUdQuYHBREjw2CGQ"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "PhWD100uhJHhijSv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruins of a space station",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.PhWD100uhJHhijSv"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "vhra15tLrIrpyGte",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remains of a moon",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.vhra15tLrIrpyGte"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "Z6UWAx4N82TqLcL6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare metals",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.Z6UWAx4N82TqLcL6"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "fRJSAURhcldBPhI5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inhabited by exotic life",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.fRJSAURhcldBPhI5"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "0cujZrRBBwcRUTV4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Modern dumping grounds",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.0cujZrRBBwcRUTV4"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "M2blRnG5y6pLEeCN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Derelicts\"><i class=\"fa fa-caret-right\"></i> Derelicts</a>",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.M2blRnG5y6pLEeCN"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "5mTlXjRBCxpopfDR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!H2vXAYLxRWS1Ipkz.5mTlXjRBCxpopfDR"
+    }
+  ],
+  "folder": "y506waZHOkP9qT60",
+  "sort": 1,
+  "_id": "H2vXAYLxRWS1Ipkz",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Dust, debris and ice that encircles a planet in a shimmering ring, but what are the rings made of? How were they formed?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697690598134,
+    "modifiedTime": 1698872409129,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!H2vXAYLxRWS1Ipkz"
+}

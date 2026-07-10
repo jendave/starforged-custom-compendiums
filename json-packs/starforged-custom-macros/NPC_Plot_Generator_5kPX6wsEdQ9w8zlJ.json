@@ -1,0 +1,31 @@
+{
+  "name": "NPC Plot Generator",
+  "type": "script",
+  "scope": "global",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by wilsonam used with permission by the author\n// Modifications by David Hudson\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nlet message = \"\";\nlet Choice = \"\";\nlet Subject = \"\";\nlet Demand = \"\";\nlet Action = \"\";\nlet Object = \"\";\n\n// let table = game.tables.getName(\"Plots - Plot Choice\");\nlet table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ZyEC6JjDaLn6fG4i\");\n\nlet Roll = await table.roll();\nChoice = Roll.results[0].text;\n\n// table = game.tables.getName(\"Plots - First Name\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8flYod7IdN0C5Pw5\");\nRoll = await table.roll();\nSubject = Roll.results[0].text;\n// table = game.tables.getName(\"Plots - Last Name\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hZHeP0Aq9FYWQ0BL\");\nRoll = await table.roll();\nSubject = Subject + \" \" + Roll.results[0].text;\n// table = game.tables.getName(\"Plots - NPC Modifier\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ML5bfefHPVrXaPMq\");\nRoll = await table.roll();\nSubject = Subject + \" (\" + Roll.results[0].text;\n// table = game.tables.getName(\"Plots - NPC Role\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.r9I5WbSGo4BW6hWN\");\nRoll = await table.roll();\nSubject = Subject + \" \" + Roll.results[0].text + \")\";\n\n// table = game.tables.getName(\"Plots - Demand\");\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.wGq6oOlOrjVSyXVf\");\nRoll = await table.roll();\nDemand = Roll.results[0].text;\n\nif (Choice == \"Person\") {\n    // table = game.tables.getName(\"Plots - Action vs Person\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.j5TewCEoidsWvOHz\");\n    Roll = await table.roll();\n    Action = Roll.results[0].text;\n    // table = game.tables.getName(\"Plots - First Name\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8flYod7IdN0C5Pw5\");\n    Roll = await table.roll();\n    Object = Roll.results[0].text;\n    // table = game.tables.getName(\"Plots - Last Name\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hZHeP0Aq9FYWQ0BL\");\n    Roll = await table.roll();\n    Object = Object + \" \" + Roll.results[0].text;\n    // table = game.tables.getName(\"Plots - NPC Modifier\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ML5bfefHPVrXaPMq\");\n    Roll = await table.roll();\n    Object = Object + \" (\" + Roll.results[0].text;\n    // table = game.tables.getName(\"Plots - NPC Role\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.r9I5WbSGo4BW6hWN\");\n    Roll = await table.roll();\n    Object = Object + \" \" + Roll.results[0].text + \")\";\n}\n\nelse if (Choice == \"Object\") {\n    // table = game.tables.getName(\"Plots - Action vs Object\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SP8X4aaKNZhMEUco\");\n    Roll = await table.roll();\n    Action = Roll.results[0].text + \" the\";\n    // table = game.tables.getName(\"Plots - Target Object\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.QIL1ivkyvFfy6GLu\");\n    Roll = await table.roll();\n    Object = Roll.results[0].text;\n}\n\nelse if (Choice == \"Group\") {\n    // table = game.tables.getName(\"Plots - Action vs Group\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LzoSodIXHxOivd26\");\n    Roll = await table.roll();\n    Action = Roll.results[0].text;\n    // table = game.tables.getName(\"Plots - Target Group\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Q5Qn4ilnOjubIkWm\");\n    Roll = await table.roll();\n    Object = Roll.results[0].text;\n}\n\nelse {\n    // table = game.tables.getName(\"Plots - Action vs Abstract\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HR7OGyJtv6WLX1GQ\");\n    Roll = await table.roll();\n    Action = Roll.results[0].text;\n    // table = game.tables.getName(\"Plots - Target Abstract\");\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.J3deDnBD5NwXNC3g\");\n    Roll = await table.roll();\n    Object = Roll.results[0].text;\n}\n\n// Print the message\n\nmessage = \"<h3>Plot Generator</h3>\" + Subject + \" \" + Demand + \" \" + Action + \" \" + Object\n\nprintMessage(message);",
+  "folder": "doiG6KtJAB3QULJl",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750834816,
+    "modifiedTime": 1758066990404,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "5kPX6wsEdQ9w8zlJ",
+  "sort": 200000,
+  "_key": "!macros!5kPX6wsEdQ9w8zlJ"
+}

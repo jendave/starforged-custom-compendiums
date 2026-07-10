@@ -1,0 +1,578 @@
+{
+  "name": "Races/Homeworlds/Territory",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "zbL4FoPG6zWLccGP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Human / Coruscant / Core World",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.zbL4FoPG6zWLccGP"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "zyBhlUmMUtMTIJLZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twi'lek / Ryloth / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.zyBhlUmMUtMTIJLZ"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "ii1IrQqVm7EKX1xp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zabrak / Iridonia / Mid Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.ii1IrQqVm7EKX1xp"
+    },
+    {
+      "range": [
+        36,
+        38
+      ],
+      "_id": "HeSQ1Ja3firKdTrF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jawa / Tatooine / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.HeSQ1Ja3firKdTrF"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "4ldxiyBGI2DI95Tl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Togruta / Shili / Expansion Region",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.4ldxiyBGI2DI95Tl"
+    },
+    {
+      "range": [
+        41,
+        43
+      ],
+      "_id": "6o0e96pzXogB0V0M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wookiee / Kashyyyk / Mid Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.6o0e96pzXogB0V0M"
+    },
+    {
+      "range": [
+        44,
+        48
+      ],
+      "_id": "NeyFxYG5z6VdJjZd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rodian / Rodia / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.NeyFxYG5z6VdJjZd"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "8rEPYvizh6MBeeAX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quarren / Mon Cala / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.8rEPYvizh6MBeeAX"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "rn03cZDMa8CVPNUM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sullustan / Sullust / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.rn03cZDMa8CVPNUM"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "Jc6uf1JY9QdNUpPS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Duros / Duro / Core World",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.Jc6uf1JY9QdNUpPS"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "HmZ0XS0CnzCY2C61",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hutt / Nal Hutta / Outer Rim / Hutt Space",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.HmZ0XS0CnzCY2C61"
+    },
+    {
+      "range": [
+        64,
+        65
+      ],
+      "_id": "qkFIe7gmOZ6RAeek",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mirialan / Mirial / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.qkFIe7gmOZ6RAeek"
+    },
+    {
+      "range": [
+        66,
+        67
+      ],
+      "_id": "bRmhUu3X1TWQ4ZFM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trandoshan / Trandosha / Mid Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.bRmhUu3X1TWQ4ZFM"
+    },
+    {
+      "range": [
+        68,
+        69
+      ],
+      "_id": "ygrQw21YIS7o6e9X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ugnaught / Gentes / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.ygrQw21YIS7o6e9X"
+    },
+    {
+      "range": [
+        70,
+        80
+      ],
+      "_id": "V0yf8MYVhtiF0HJ5",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Droid Type",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XZMdVw9a2tC0XUro",
+      "description": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.V0yf8MYVhtiF0HJ5"
+    },
+    {
+      "range": [
+        81,
+        83
+      ],
+      "_id": "kKVS4KqXprtBMZoD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bith / Bith (Clak'dor VII) / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.kKVS4KqXprtBMZoD"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "zASTw0RmHAFwXbGT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bothan / Bothawui / Mid Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.zASTw0RmHAFwXbGT"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "FEGBNtdpBpgAOyTP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mon Calamari / Mon Cala / Outer Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.FEGBNtdpBpgAOyTP"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "w1q0JBIQlqagIjeg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gran / Kinyen / Expansion Region",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.w1q0JBIQlqagIjeg"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "TUmUDFB7aRMZ1COO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ithorian / Ithor / Mid Rim",
+      "name": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.TUmUDFB7aRMZ1COO"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "Gt9JvKuyEAtm97am",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rare Races/Homeworld/Territory",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hXALfgUJ3uTc1nXN",
+      "description": "",
+      "_key": "!tables.results!xuVQCmKc0zctMiR5.Gt9JvKuyEAtm97am"
+    }
+  ],
+  "folder": "U4BshGwUQWIU6xIt",
+  "sort": 0,
+  "_id": "xuVQCmKc0zctMiR5",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>As for the “Races/Homeworlds/Territory” table, that simply acts as a three-in-one table. Need a quick canon-specific <em>Star Wars</em> race? Roll on the table, and automatically know its homeworld and where it is located. Or, need a random planet for your character(s) to go do a mission on? Roll on this same table. (<em>Example: If you roll up Bothan / Bothawui / Mid Rim, this could serve as either you’ve encountered a Bothan, been assigned a mission to Bothawui, or met someone from the Mid Rim.</em>)</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707544312893,
+    "modifiedTime": 1707593331301,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!xuVQCmKc0zctMiR5"
+}

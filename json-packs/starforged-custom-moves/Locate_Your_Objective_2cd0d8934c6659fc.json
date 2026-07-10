@@ -1,0 +1,94 @@
+{
+  "_id": "2cd0d8934c6659fc",
+  "type": "sfmove",
+  "name": "Locate Your Objective",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e9e254f7a3fc7100",
+  "system": {
+    "dfid": "Ironsworn/Moves/Delve/Locate_Your_Objective",
+    "Category": "Ironsworn/Moves/Delve",
+    "Progress Move": true,
+    "Variant of": "",
+    "Text": "When __your exploration of a site comes to an end__, roll the challenge dice and compare to your progress.\n\nOn a __strong hit__, you locate your objective and the situation favors you. Mark a reward on your discoveries legacy track per the site's rank: troublesome=1 tick; dangerous=2 ticks; formidable=1 box; extreme=2 boxes; epic=3 boxes. Any allies who share this objective also mark the reward. Then choose one.\n\n  * Make another move now (not a progress move), and add +1.\n  * Take +2 momentum.\n\nOn a __weak hit__, as above but you face an unforeseen complication at the end of your exploration. Make the legacy reward one rank lower (none for a troublesome site), and envision what you encounter.\n\nOn a __miss__, your objective falls out of reach, you have been misled about the nature of your objective, or you discover that this site holds unexpected depths. Envision what happens and choose one.\n\n  * Abandon your objective: Envision the cost of this setback and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.\n  * Continue your exploration: Roll both challenge dice, take the lower value, and clear that number of boxes. Then, raise the site's rank by one (if not already epic).",
+    "Trigger": {
+      "Text": "When your exploration of a site comes to an end...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Progress roll",
+          "Method": "Any",
+          "Using": [
+            "Progress Track"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you locate your objective and the situation favors you. Mark a reward on your discoveries legacy track per the site's rank: troublesome=1 tick; dangerous=2 ticks; formidable=1 box; extreme=2 boxes; epic=3 boxes. Any allies who share this objective also mark the reward. Then choose one.\n\n  * Make another move now (not a progress move), and add +1.\n  * Take +2 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, as above but you face an unforeseen complication at the end of your exploration. Make the legacy reward one rank lower (none for a troublesome site), and envision what you encounter.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, your objective falls out of reach, you have been misled about the nature of your objective, or you discover that this site holds unexpected depths. Envision what happens and choose one.\n\n  * Abandon your objective: Envision the cost of this setback and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.\n  * Continue your exploration: Roll both challenge dice, take the lower value, and clear that number of boxes. Then, raise the site's rank by one (if not already epic).",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Delve",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2020-02-13",
+      "Page": 40
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 40,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Delve/Locate_Your_Objective",
+      "dsid": "move:delve/delve/locate_your_objective"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759041849614,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!2cd0d8934c6659fc"
+}

@@ -1,0 +1,683 @@
+{
+  "name": "I’ll Be Home for Life Day!",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "RTY8YKbXRkvnPaIY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1774602288855,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Your starship is attacked.</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XinO3UHhRQk87nbm.RTY8YKbXRkvnPaIY"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "MstMd5btPMLgOtQu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You argue with NPC(s)",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.MstMd5btPMLgOtQu"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "1Q2gcUNbt6QiaRes",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Watch acrobatics troupe perform",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.1Q2gcUNbt6QiaRes"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "9mQ2bHqtqceJisEh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A starship system requires repair",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.9mQ2bHqtqceJisEh"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "QRIjJyNhgX5P7oXc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An ally is behind schedule",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.QRIjJyNhgX5P7oXc"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "iF8MJ1PvaxO5AMw4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An ally provides useful information",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.iF8MJ1PvaxO5AMw4"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "b5ZRKnvZMNCwdSYB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Watch a cooking show",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.b5ZRKnvZMNCwdSYB"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "viejhRiaIrgTaD1B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy blockades planet",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.viejhRiaIrgTaD1B"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "EZlaAQRO2zX5aipE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ally brings supplies. Resupply+1.",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.EZlaAQRO2zX5aipE"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "O7Q4LLTdDIeUFbrW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Watch music hologram",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.O7Q4LLTdDIeUFbrW"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "hX92iIUPFwXnQeQy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ally arrives on planet",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.hX92iIUPFwXnQeQy"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "6QMH0XWmRLxGoO9k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy arrives",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.6QMH0XWmRLxGoO9k"
+    },
+    {
+      "range": [
+        48,
+        52
+      ],
+      "_id": "Q5R30MJqlcqiIaq1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distract enemy with music hologram",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.Q5R30MJqlcqiIaq1"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "KyXcAYifRqrH4gXm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship is in distress for an unknown reason",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.KyXcAYifRqrH4gXm"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "Pu3R5QDeIzN4G8tm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You or your ally is infected with an incapacitating disease",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.Pu3R5QDeIzN4G8tm"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "1rYzDpSbZouEOeni",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "NPC appears on a gargantuan steed",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.1rYzDpSbZouEOeni"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "zgpEO3KQd7zzdnvl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You find an antidote for a disease infecting you or an ally",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.zgpEO3KQd7zzdnvl"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "8W6MSBjglnYfw4iF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An ally is revealed to be an enemy",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.8W6MSBjglnYfw4iF"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "XPGIvYbIualT1uWK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An enemy escapes",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.XPGIvYbIualT1uWK"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "hndlwLgWDS7t0tIo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Annoying ally arrives",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.hndlwLgWDS7t0tIo"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "y9CV1RJWyaUzIh7n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ally arrives and confronts enemy",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.y9CV1RJWyaUzIh7n"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "ixtBfYTHsA0KdrQj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Participate in Life day ritual",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.ixtBfYTHsA0KdrQj"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "qdgAAMeomfN6VYFL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "NPC unexpectedly bursts into song",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.qdgAAMeomfN6VYFL"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "8Mn05IQQY7dbYHJG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enjoy Life Day dinner - Sojourn +2",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.8Mn05IQQY7dbYHJG"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "tNlH6gvyBq7hZuQX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roll twice",
+      "name": "",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.tNlH6gvyBq7hZuQX"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you are celebrating Life Day, roll on this oracle for inspiration for what may happen.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "tzAD5tXjc5eQucuY",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1704357177693,
+    "modifiedTime": 1757748594098,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XinO3UHhRQk87nbm",
+  "sort": 100000,
+  "_key": "!tables!XinO3UHhRQk87nbm"
+}

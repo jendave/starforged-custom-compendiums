@@ -1,0 +1,82 @@
+{
+  "name": "Stellar Phenomena - Expanse",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        50
+      ],
+      "_id": "vUbMKvK9BcX31m6B",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "notable phenomenon",
+      "name": "",
+      "_key": "!tables.results!vxdhTR03ORIkyOVK.vUbMKvK9BcX31m6B"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "9ts5xPdd4Q5EXkSm",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "dangerous phenomenon",
+      "name": "",
+      "_key": "!tables.results!vxdhTR03ORIkyOVK.9ts5xPdd4Q5EXkSm"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 8,
+  "_id": "vxdhTR03ORIkyOVK",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!vxdhTR03ORIkyOVK"
+}

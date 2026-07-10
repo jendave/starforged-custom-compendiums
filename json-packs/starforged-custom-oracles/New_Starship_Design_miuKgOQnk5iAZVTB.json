@@ -1,0 +1,134 @@
+{
+  "name": "New Starship Design",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "LdJwHXf69LjYpULC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boxy",
+      "name": "",
+      "_key": "!tables.results!miuKgOQnk5iAZVTB.LdJwHXf69LjYpULC"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "3H7xBNqjdnUdRcF6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sleek",
+      "name": "",
+      "_key": "!tables.results!miuKgOQnk5iAZVTB.3H7xBNqjdnUdRcF6"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "ffOioCmvZS4AJUPo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organic-looking",
+      "name": "",
+      "_key": "!tables.results!miuKgOQnk5iAZVTB.ffOioCmvZS4AJUPo"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "OYOFjc12sXk0NSG9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asymmetrical",
+      "name": "",
+      "_key": "!tables.results!miuKgOQnk5iAZVTB.OYOFjc12sXk0NSG9"
+    }
+  ],
+  "folder": "CcVD0BrXB5cCacTG",
+  "sort": 600000,
+  "_id": "miuKgOQnk5iAZVTB",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Need a starship? Roll on a table. It will tell you if it is typically affiliated with Empire, Rebel, Smuggler, Hutt, Bounty Hunter, Syndicate, Civilian, or Any characters. These are called <em>tags</em>. The tags are listed from left to right, in order of the likelihood that the ship is affiliated with any of them. (<em>Example: a listing that has the tags Rebel / Empire / Smuggler, is most likely to be Rebel, but can sometimes be affiliated with Smuggler, though that’s less likely since it is farthest to the right.</em>)</p><p></p><p>You may also roll on either the “Large-Scale Ship Table” or the “Small-Scale Ship Table” to simply see what sort of group a new main character is affiliated with. (<em>Example: if you roll up ARC-170 Starfighter / Empire / Rebel, you can ignore the starfighter part of the entry, and determine that the new NPC you just met could either be Imperial or Rebel, but is more likely with the Empire, since that tag is listed first. But it could be neutral, because of course there is always the chance it was simply stolen.</em>) If you just <em>need</em> to know how big a dreadnought is, or the difference in size between, say, a frigate and a cruiser, the “New Starship Type” has all that quick-reference information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545845725,
+    "modifiedTime": 1707552006967,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!miuKgOQnk5iAZVTB"
+}

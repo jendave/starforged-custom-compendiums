@@ -1,0 +1,682 @@
+{
+  "name": "Cultural References and Artifacts from Earth",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "1eU9O6wESDI6iHdZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this piece of music, it sounds most bizarre. What is the song called and do you like it?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.1eU9O6wESDI6iHdZ"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "O0vSKdca4hDb8M4I",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this diary talking about a mundane activity. Describe it and tell your conclusion on what you think people from earth used to be?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.O0vSKdca4hDb8M4I"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "cftfapyUpvCql1R0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this recipe book. The pictures of the food look as odd as they look fantastic. How is food different now and is there a recipe that still exists today (at least in some way)?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.cftfapyUpvCql1R0"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "LS7soPOzZZrX79WD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You got your hands on this movie file. It looks ancient, but still charming. What's the name of the movie and what do you learn about the humans from earth?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.LS7soPOzZZrX79WD"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "zPYVbHYc4hQxVP7V",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You've got a file of a video game. It's from back in the days on earth. Somehow the code survived and somebody got it running. Which game is it and what does it tell you about life on earth?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.zPYVbHYc4hQxVP7V"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "DnMaOzNaizgvmyYi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "There is this old book that's almost falling apart. You've read it a couple of times. Something is so soothing about how life seemed to be back then on earth. Which book is it and why do you keep reading it again and again?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.DnMaOzNaizgvmyYi"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "zLgWSPI4ufsbgwkn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this thing. Someone said it is a musical instrument from earth. It sounds horribly out of tune. But with a little bit of tinkering, you might get it right again. How does this instrument look and sound like, and how are you going to call it, since nobody could tell you its original name so far?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.zLgWSPI4ufsbgwkn"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "Yv6sKbLw89ftoUMs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You've got this little transparent \"stone\". It's called amber. In it, there is a beautiful bug, conserved for eternity. Even during the Exodus, it was already ancient. Envision why someone thought it important enough to bring it with them.",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.Yv6sKbLw89ftoUMs"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "1ZTQPJjp0fSyLwY0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this digital file of a 3D tour through an art gallery called \"Louvre\". As you take your time wandering through this silent treasure of art from earth, one piece of art in particular captures your attention. Which one and why?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.1ZTQPJjp0fSyLwY0"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "IR94hqmDBv23mh5H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone brought a board game from earth and now it's in your possession. You read through the rules and realize that it is similar to a game you played when you were younger. Do you think it was inspired by this game or did they get developed independently. What does it tell you about today's civilization?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.IR94hqmDBv23mh5H"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "RqEPLxDixpEBDqRT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this religious text—at least that is what you think it is. What does the text say and is there something you can learn from it?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.RqEPLxDixpEBDqRT"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "9mv6ZyNkTVxqtBX1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found a collection of graphics files. The folder containing those files is named \"meme collection\". You skim through a few of those files to see what it is. Do you think they are funny? Can you relate to one and are there still memes around in the Forge? Show one to your group if you are in one.",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.9mv6ZyNkTVxqtBX1"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "de9rgwSS6WhwIAkh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this list of \"wonders of the world\" from Earth. One reminds you of a Precursor artefact and a story you heard about it. With this eerie feeling, envision how \"alien life\" might have been present on Earth already.",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.de9rgwSS6WhwIAkh"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "zWmuNa8JhibcfCiM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found a collection of old scientific articles on a specific subject. Which one and has this subject been \"solved\" by now?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.zWmuNa8JhibcfCiM"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "bLhTu6xyfCpKrvwt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You've got this picture gone yellow of a landscape from Earth. What is a unique feature of this landscape that you have never seen before on your travels on all kinds of planets or on stories and pictures of such if you haven't been around the Forge enough?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.bLhTu6xyfCpKrvwt"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "wdXZY9xfcLm6OHPA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this video file of a documentary from Earth. What is it about? Envision seeing or experiencing that matter in the Forge and what it would mean to you.",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.wdXZY9xfcLm6OHPA"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "Ea0PFNGCm1WrZlQg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this cutout from a newspaper. What does it say? Is it obvious why somebody brought it along during the Exodus?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.Ea0PFNGCm1WrZlQg"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "MGcl3NeKKAGylYh3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Well, this is interesting: a book containing a \"role-playing game\". How is it called and is this an odd discovery? And are you going to read it?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.MGcl3NeKKAGylYh3"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "L9Say9mbDnEjAcAN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You've got your hands on this ancient plant seed. You are not sure, but it looks like it might still sprout in the right conditions. Will you try your luck? If yes, envision what kind of plant will grow out of it.",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.L9Say9mbDnEjAcAN"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "dWqfe1DzdauZn0NB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wow, an old fashion magazine. So this is how humans looked like on Earth. What is one of the more obscure fashion choices that stood the test of time and is still prevalent in the Forge? Have you ever tried it?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.dWqfe1DzdauZn0NB"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "3IRJatU13a5fxFe4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found a reference to an old law from Earth. It is not clear why someone would forward such information after the Exodus, but it is there. What does the law say and does it still apply in the Forge? If not, what do you think about it and the people who wrote it?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.3IRJatU13a5fxFe4"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "KjSdaMgCjOlIq2nR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You've got your hands on a blueprint of some sort of vehicle/means of transportation. What kind and how does it compare to such things of today?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.KjSdaMgCjOlIq2nR"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "w2NVGDxlyRxEZet4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this children's book. You don't understand the text. But it has pictures in it. What do these pictures show and what do you think the stories tell? How are children's books/stories today different?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.w2NVGDxlyRxEZet4"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "QQaCCzQiSfcHHK1p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this map of a city from Earth. What is the name of the city and what features of it draw your attention? How does this city compare to settlements you know?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.QQaCCzQiSfcHHK1p"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "nmMwV9kFJlzdU9mR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You have this video file named \"first moon landing\". Well, that is weird, but in a way also impressive. What do you think those people felt like and do you believe they were celebrated heroes on Earth afterwards?",
+      "name": "",
+      "_key": "!tables.results!DyuYidoLdLwwdH96.nmMwV9kFJlzdU9mR"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Not all things from Earth were lost during and after the Exodus. Some things survived, were stored away eventually and forgotten. Until they were found again.</p><p>You obtained such an item. And as always, it sparks ideas, imaginations and wild dreams—something that lets you get a glimpse at what life used to be in this old and forgotten distant world.</p><p>Elaborate how it makes you feel and what you think life used to be back then and there. How are things different now and how did some things stay the same?</p><p>This oracle is intended to allow you to take a step back to take a look at cultural property from our Earth with the perspective from a more distant civilization, even though they are still human. No matter the prompt, feel free to use it in any way you seem fit, as long as it is not hurtful for anyone. For example, you could embrace something from our daily lives, ridicule it or just view it in the most factual manner.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5Jx1rphwuDDiLczK",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696062332337,
+    "modifiedTime": 1696065115861,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "DyuYidoLdLwwdH96",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!DyuYidoLdLwwdH96"
+}

@@ -1,0 +1,550 @@
+{
+  "name": "Roommates",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "7WIaR9YSArZxO0Wq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Augment rejection",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.7WIaR9YSArZxO0Wq"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "cvlMIRzgkIFcKnO6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken bone/severed limb",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.cvlMIRzgkIFcKnO6"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "cSHmvWQ1irKE2whh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coma",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.cSHmvWQ1irKE2whh"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "H8wpqFXcsCO3cuvL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creature attack",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.H8wpqFXcsCO3cuvL"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "6IR3peUH9PVykea0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food poisoning",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.6IR3peUH9PVykea0"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "tlNo2O9FBRxi1aFd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Genetic disease",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.tlNo2O9FBRxi1aFd"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "wd4QG3HLFAVnjJBb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hallucinations",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.wd4QG3HLFAVnjJBb"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "G9MosJR39PCJSCSb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial accident",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.G9MosJR39PCJSCSb"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "EW95oAQKWLyKqnZ3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Injured in a fight",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.EW95oAQKWLyKqnZ3"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "3OOYdgRAcS4S5i28",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanical trauma",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.3OOYdgRAcS4S5i28"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "clxu94hGSc0bmKma",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mental illness",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.clxu94hGSc0bmKma"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "Uasv32aSnRkCc93s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oral surgery",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.Uasv32aSnRkCc93s"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "YVh7Xuqhv8QWfXPn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outpatient treatment",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.YVh7Xuqhv8QWfXPn"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "gyBEvX21F8C9NeET",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plague",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.gyBEvX21F8C9NeET"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "PrCF83xU6yK4L3Wu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recreational injury",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.PrCF83xU6yK4L3Wu"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "2LHjFPKt4BYsFktX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regular checkup",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.2LHjFPKt4BYsFktX"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "pXumS37LOZOukjaf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "STD",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.pXumS37LOZOukjaf"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "j7EP5HYB15zLvaQw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Severe allergy",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.j7EP5HYB15zLvaQw"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "9EuWxwhiHS96dY7E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space-sick",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.9EuWxwhiHS96dY7E"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "v2z4ZAzOH3uMBnho",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship-related mishap",
+      "name": "",
+      "_key": "!tables.results!9IuJRMiLlbhtAcLq.v2z4ZAzOH3uMBnho"
+    }
+  ],
+  "folder": "OF49XtJ7mT2Z7Pbs",
+  "sort": 0,
+  "_id": "9IuJRMiLlbhtAcLq",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You’re not the only one in need of medical attention. Who are you sharing the room with, or who else is in line for the medico? Evens, they are on their way in. Odds, they are on the mend.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293216789,
+    "modifiedTime": 1699294861104,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!9IuJRMiLlbhtAcLq"
+}

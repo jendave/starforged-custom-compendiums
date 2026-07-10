@@ -1,0 +1,420 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "hpXtGx7e82IpNOrN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deserts of metal dust",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.hpXtGx7e82IpNOrN"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "vTYFUqdEKGcX1uDC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dusting of brightly coloured salts",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.vTYFUqdEKGcX1uDC"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "RMJJvrmP6ZBK6m1r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrified surfaces",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.RMJJvrmP6ZBK6m1r"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "Z7739liXb4hKWb2c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enriched radioactive metal deposits",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.Z7739liXb4hKWb2c"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "5hnsFosqzGnBStEH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landscape covered in sharp edges",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.5hnsFosqzGnBStEH"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "B15OHXnztJeAPYqz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mirror-smooth cliffs",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.B15OHXnztJeAPYqz"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "20OX3aPW2LvbATFb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains cracked by metal fatigue",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.20OX3aPW2LvbATFb"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "QJYSy5oE4BmtouVN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nuggets of precious metals",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.QJYSy5oE4BmtouVN"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "obCbtmPCM6nJYcZC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patches of complex alloys",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.obCbtmPCM6nJYcZC"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "IWvmuY4fZfr47McH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of liquid metal",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.IWvmuY4fZfr47McH"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "b6L977WUthO4EpxT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rough patches of corrosion",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.b6L977WUthO4EpxT"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "JmjiiA8gRUaGPaJ4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strongly magnetised metal chunks",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.JmjiiA8gRUaGPaJ4"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "qI3aNCRYN2fPLogk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wiry structures reaching for the sky",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.qI3aNCRYN2fPLogk"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "r83YPdkPbto6TJo1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.r83YPdkPbto6TJo1"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "0INATc24gxASoX37",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (planetside)",
+      "name": "",
+      "_key": "!tables.results!2adX6kgwzZd8IC1n.0INATc24gxASoX37"
+    }
+  ],
+  "folder": "eU4npVOAb4pNqD8R",
+  "sort": 2,
+  "_id": "2adX6kgwzZd8IC1n",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of metals and metal alloys.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288269190,
+    "modifiedTime": 1703293851971,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!2adX6kgwzZd8IC1n"
+}

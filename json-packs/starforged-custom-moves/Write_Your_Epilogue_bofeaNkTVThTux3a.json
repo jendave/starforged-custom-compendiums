@@ -1,0 +1,96 @@
+{
+  "type": "sfmove",
+  "name": "Write Your Epilogue",
+  "img": "icons/dice/d10black.svg",
+  "folder": "b19db00aa083d13e",
+  "system": {
+    "dfid": "Ironsworn/Moves/Relationship/Write_Your_Epilogue",
+    "Category": "Ironsworn/Moves/Relationship",
+    "Progress Move": true,
+    "Variant of": "",
+    "Text": "When __you retire from your life as Ironsworn__, you may recount your story and determine how it sends. Roll the challenge dice and compare to each of your legacy tracks: quests, bonds, and discoveries (one roll per track).\n\nFor each __strong hit__, use the corresponding option from below, or from the weak hit or miss options, as inspriration. Then, envision it.\n\n  * Quests: You are celebrated in song, renowned in a mythic tale, or honored with titles.\n  * Bonds: Your friends are numerous, or you sepnd your remaining days with the one you envisioned.\n  * Discoveries: You retire to an idyllic location, or you are wise in your old age and many seek your counsel.\n\nFor each __weak hit__, use the corresponding option from below, or from the miss option as inspiration. Then, envision it.\n\n  * Quests: Most consider you successful and respect you. But your fame is short lived, or something is left unfinished that troubles you.\n  * Bonds: You can count a few as trusted friends. But you will always live apart or you find yourself tied to someone you did not foresee.\n  * Discoveries: You've seen a thing or two in this world. But a far simpler life awaits you, or you are forced to settle somewhere not of your choosing.\n\nFor each __miss__, use the corresponding option as inspiration. Then, envision it.\n\n  * Quests: Heavy regret haunts you to your grave, or a former foe has gained tremendous power.\n  * Bonds: You are left with no friends, or someone you once held dear stands in stark opposition to your legacy or values.\n  * Discoveries: You have no home to call your own, or something you discovered in your journeys has unexpected dire consequences.",
+    "Trigger": {
+      "Text": "When you retire from your life as Ironsworn...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Progress roll",
+          "Method": "Any",
+          "Using": [
+            "Quests Legacy",
+            "Bonds Legacy",
+            "Discoveries Legacy"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, use the corresponding option from below, or from the weak hit or miss options, as inspriration. Then, envision it.\n\n  * Quests: You are celebrated in song, renowned in a mythic tale, or honored with titles.\n  * Bonds: Your friends are numerous, or you sepnd your remaining days with the one you envisioned.\n  * Discoveries: You retire to an idyllic location, or you are wise in your old age and many seek your counsel.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, use the corresponding option from below, or from the miss option as inspiration. Then, envision it.\n\n  * Quests: Most consider you successful and respect you. But your fame is short lived, or something is left unfinished that troubles you.\n  * Bonds: You can count a few as trusted friends. But you will always live apart or you find yourself tied to someone you did not foresee.\n  * Discoveries: You've seen a thing or two in this world. But a far simpler life awaits you, or you are forced to settle somewhere not of your choosing.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, use the corresponding option as inspiration. Then, envision it.\n\n  * Quests: Heavy regret haunts you to your grave, or a former foe has gained tremendous power.\n  * Bonds: You are left with no friends, or someone you once held dear stands in stark opposition to your legacy or values.\n  * Discoveries: You have no home to call your own, or something you discovered in your journeys has unexpected dire consequences.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2019-06-05",
+      "Page": 77
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Relationship/Write_Your_Epilogue",
+      "dsid": "move:classic/relationship/write_your_epilogue"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759101712370,
+    "modifiedTime": 1759354883550,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "bofeaNkTVThTux3a",
+  "sort": 0,
+  "_key": "!items!bofeaNkTVThTux3a"
+}

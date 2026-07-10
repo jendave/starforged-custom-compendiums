@@ -1,0 +1,134 @@
+{
+  "name": "Fulfill Your Vow",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "fmHUyhZYBK1fkISU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 1 additional tick",
+      "name": "",
+      "_key": "!tables.results!wmhvGEJc2PWnIQNa.fmHUyhZYBK1fkISU"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "VctbmjYMNhhtZIhg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 1 additional tick",
+      "name": "",
+      "_key": "!tables.results!wmhvGEJc2PWnIQNa.VctbmjYMNhhtZIhg"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "NRJ0zXxfOIMjq3Rt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 2 additional ticks",
+      "name": "",
+      "_key": "!tables.results!wmhvGEJc2PWnIQNa.NRJ0zXxfOIMjq3Rt"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "hW24qdB4jWFhZ1dd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mark 2 additional ticks",
+      "name": "",
+      "_key": "!tables.results!wmhvGEJc2PWnIQNa.hW24qdB4jWFhZ1dd"
+    }
+  ],
+  "folder": "Amka1B6N2zuWwKyL",
+  "sort": 1,
+  "_id": "wmhvGEJc2PWnIQNa",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466459511,
+    "modifiedTime": 1728515059706,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!wmhvGEJc2PWnIQNa"
+}

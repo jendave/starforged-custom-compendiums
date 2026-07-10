@@ -1,0 +1,108 @@
+{
+  "name": "Expanse",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        90
+      ],
+      "_id": "9ElVkzEzc8gkA9oV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!snbWV6Ejnq5Wv0L8.9ElVkzEzc8gkA9oV"
+    },
+    {
+      "range": [
+        91,
+        96
+      ],
+      "_id": "XbNOUax9t3HFMV85",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!snbWV6Ejnq5Wv0L8.XbNOUax9t3HFMV85"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "75sXUr2FVpn0Meyd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!snbWV6Ejnq5Wv0L8.75sXUr2FVpn0Meyd"
+    }
+  ],
+  "folder": "9HaOrJO3jTk9ZqBH",
+  "sort": 2,
+  "_id": "snbWV6Ejnq5Wv0L8",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of crystalline matter, shining brightly in the starlight.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703287794573,
+    "modifiedTime": 1703293597276,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!snbWV6Ejnq5Wv0L8"
+}

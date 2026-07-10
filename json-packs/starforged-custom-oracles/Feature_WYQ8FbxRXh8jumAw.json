@@ -1,0 +1,186 @@
+{
+  "name": "Feature",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "AZfaEpJR8YTOHon0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.OYh7pT6IKREk3nHf]{Artificial Planet Feature}",
+      "name": "",
+      "_key": "!tables.results!WYQ8FbxRXh8jumAw.AZfaEpJR8YTOHon0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "5LbiYCv9ohekgETb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.L0zvdOi8NwGlGV4i]{Artificial Planet Observed From Space}",
+      "name": "",
+      "_key": "!tables.results!WYQ8FbxRXh8jumAw.5LbiYCv9ohekgETb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "CH8cV35ogqa7tJvj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh]{Artificial Moon Feature}",
+      "name": "",
+      "_key": "!tables.results!WYQ8FbxRXh8jumAw.CH8cV35ogqa7tJvj"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "JbC8lLoJ7bmK9OKd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bjTD1YHmQeQyJ8lh]{Artificial Moon Feature}",
+      "name": "",
+      "_key": "!tables.results!WYQ8FbxRXh8jumAw.JbC8lLoJ7bmK9OKd"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "LMFKYNIte4CzXBUd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@UUID[Compendium.foundry-ironsworn.starforgedoracles.RollTable.418418906723c8b7]{Mechanical Theme Feature} or other Theme Feature",
+      "name": "",
+      "_key": "!tables.results!WYQ8FbxRXh8jumAw.LMFKYNIte4CzXBUd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "KNcB0xEqFRoQVo7O",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8SO1JnHLK1F7sFwQ]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.02ya1SPztxDlHmV0]{5 - 6} + Focus @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zQO6QiD9dBseAj2n]{1 - 2} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vLrIoBVbDBjNziuq]{3 - 4} @UUID[Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s58V9HjgGqP3tmT2]{5 - 6}",
+      "name": "",
+      "_key": "!tables.results!WYQ8FbxRXh8jumAw.KNcB0xEqFRoQVo7O"
+    }
+  ],
+  "folder": "ZIOLjVi5VjEmkqv3",
+  "sort": 0,
+  "_id": "WYQ8FbxRXh8jumAw",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703901886555,
+    "modifiedTime": 1703906294331,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!WYQ8FbxRXh8jumAw"
+}

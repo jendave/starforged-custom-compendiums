@@ -1,0 +1,134 @@
+{
+  "name": "Magic - You Can Gain Access to Magic by...",
+  "formula": "1d100",
+  "description": "<p>Supernatural abilities are powerful but often require you to put your body and mind through mortal hardships.</p><p>Many who have tried to obtain these cursed powers end up dead. The price is high, but so is the reward.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "KWV6x3I6XMsETnGu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consuming inedible body parts from an alien species",
+      "name": "",
+      "_key": "!tables.results!Z6bUXqpgAdvnh6nS.KWV6x3I6XMsETnGu"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "6y2JMJ1tUY6f38sV",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Learning an alien language that will cost your sanity",
+      "name": "",
+      "_key": "!tables.results!Z6bUXqpgAdvnh6nS.6y2JMJ1tUY6f38sV"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "aCl37KrxbNSwiAf2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accepting to be the host of a parasitic alien species which will eventually consume you",
+      "name": "",
+      "_key": "!tables.results!Z6bUXqpgAdvnh6nS.aCl37KrxbNSwiAf2"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "Hv1CJLvjJ7Qf5S8c",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surviving being the incubator of an alien offspring",
+      "name": "",
+      "_key": "!tables.results!Z6bUXqpgAdvnh6nS.Hv1CJLvjJ7Qf5S8c"
+    }
+  ],
+  "_id": "Z6bUXqpgAdvnh6nS",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!Z6bUXqpgAdvnh6nS"
+}

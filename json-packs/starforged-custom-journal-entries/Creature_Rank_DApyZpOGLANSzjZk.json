@@ -1,0 +1,65 @@
+{
+  "folder": "5ugGm7ATxKj3OPeb",
+  "name": "Creature Rank",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "tUuhh9A6DRa31vGl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.CMaiD8e3YGqYKd40]{Colossal (mountain-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.x3MGiXMGrA6MGHnW]{Huge (whale-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8An6TDVvqcZ1p9au]{Large (vehicle-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VPpaBLJpdO9rW0of]{Medium (person-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.42Zc0gU0LGWRPCK1]{Miniscule (bug-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1fPKhdZE2joyFZlh]{Small (dog-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.a94dwIipMGlDbBrr]{Tiny (rodent-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.dBJnzg3oNOLGixbD]{Titanic (hill-sized)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vIEK7JtQpn1QQSzd]{Vast (planet-sized)}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": 1757750125929,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!DApyZpOGLANSzjZk.tUuhh9A6DRa31vGl"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757749167480,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "DApyZpOGLANSzjZk",
+  "sort": 300000,
+  "categories": [],
+  "_key": "!journal!DApyZpOGLANSzjZk"
+}

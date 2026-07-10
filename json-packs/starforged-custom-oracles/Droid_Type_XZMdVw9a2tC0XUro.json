@@ -1,0 +1,550 @@
+{
+  "name": "Droid Type",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "KMrafA2UTkCVY9H6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.KMrafA2UTkCVY9H6"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "3amVmNTAEZt7YLgH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological science droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.3amVmNTAEZt7YLgH"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "WqIVcpJc46xnZGka",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Physical science droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.WqIVcpJc46xnZGka"
+    },
+    {
+      "range": [
+        28,
+        29
+      ],
+      "_id": "6VdeXQEGr2y8QaoA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mathematics droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.6VdeXQEGr2y8QaoA"
+    },
+    {
+      "range": [
+        30,
+        35
+      ],
+      "_id": "xhUDJ6UVvXLzm7WZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Astromech droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.xhUDJ6UVvXLzm7WZ"
+    },
+    {
+      "range": [
+        36,
+        37
+      ],
+      "_id": "b6CgUgHgWG5Z4F3T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploration droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.b6CgUgHgWG5Z4F3T"
+    },
+    {
+      "range": [
+        38,
+        39
+      ],
+      "_id": "Ze57qhKmiXgppan4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.Ze57qhKmiXgppan4"
+    },
+    {
+      "range": [
+        40,
+        45
+      ],
+      "_id": "UOqXeISkzj22pTIw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.UOqXeISkzj22pTIw"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "jp5EKowRUe7hGXa2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maintenance droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.jp5EKowRUe7hGXa2"
+    },
+    {
+      "range": [
+        51,
+        54
+      ],
+      "_id": "zYiGDKw7oL6RSc8h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protocol droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.zYiGDKw7oL6RSc8h"
+    },
+    {
+      "range": [
+        55,
+        60
+      ],
+      "_id": "FZZgNxNkNCOsieMZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Servant droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.FZZgNxNkNCOsieMZ"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "ZiI5HdYT4JA7Zpsy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tutor droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.ZiI5HdYT4JA7Zpsy"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "CNJw4jMyGyadAE5T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Childcare droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.CNJw4jMyGyadAE5T"
+    },
+    {
+      "range": [
+        66,
+        73
+      ],
+      "_id": "bvKpd0LPC4T5NEPC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.bvKpd0LPC4T5NEPC"
+    },
+    {
+      "range": [
+        74,
+        75
+      ],
+      "_id": "pcjPXaKwp33LcFeR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gladiator droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.pcjPXaKwp33LcFeR"
+    },
+    {
+      "range": [
+        76,
+        77
+      ],
+      "_id": "CjNDkxl69Av4B5Po",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Battle droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.CjNDkxl69Av4B5Po"
+    },
+    {
+      "range": [
+        78,
+        79
+      ],
+      "_id": "b420v4GGiJukYG7a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assassin droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.b420v4GGiJukYG7a"
+    },
+    {
+      "range": [
+        80,
+        89
+      ],
+      "_id": "4B4LEuYOOKpVLe0u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "General labor droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.4B4LEuYOOKpVLe0u"
+    },
+    {
+      "range": [
+        90,
+        98
+      ],
+      "_id": "v93TLXNSB1j18TK4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Labor-specialist droid",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.v93TLXNSB1j18TK4"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "NtLsND0lFaRJCZvX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous-service droid.",
+      "name": "",
+      "_key": "!tables.results!XZMdVw9a2tC0XUro.NtLsND0lFaRJCZvX"
+    }
+  ],
+  "folder": "wdeWc5OpRxFsdU6Y",
+  "sort": 0,
+  "_id": "XZMdVw9a2tC0XUro",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The “Droid Type” also provides a quick, easy way for players unfamiliar with all the ins and outs of <em>Star Wars</em> canon to know exactly which droids are more common, which ones are more/less sentient than others, and what “class” they belong to.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545810921,
+    "modifiedTime": 1707549023942,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!XZMdVw9a2tC0XUro"
+}

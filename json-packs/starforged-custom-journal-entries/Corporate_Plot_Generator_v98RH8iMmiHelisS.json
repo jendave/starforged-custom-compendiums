@@ -1,0 +1,104 @@
+{
+  "folder": "oRGxl5tx5BgYXI2h",
+  "name": "Corporate Plot Generator",
+  "_id": "v98RH8iMmiHelisS",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "7LaZbCVLsEful0Dn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Corporate Plots</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YUbKhY7DV72tES3i]{Evil Deed}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3YicVtK49eI2g87F]{Sucker}</p><h2>Corporate Name</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.vt3n9TYeQr6sQUVz]{Front}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.0GtuQnwiClCBnknY]{Back}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067043670,
+        "modifiedTime": 1758067148196,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!v98RH8iMmiHelisS.7LaZbCVLsEful0Dn"
+    },
+    {
+      "sort": 200000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "lcxDQRZ9h7iWm3Gt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.EKsJChjilUb4fddE]{Corporate Plot Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067046952,
+        "modifiedTime": 1758067052362,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!v98RH8iMmiHelisS.lcxDQRZ9h7iWm3Gt"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758067026751,
+    "modifiedTime": 1758067026751,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!v98RH8iMmiHelisS"
+}

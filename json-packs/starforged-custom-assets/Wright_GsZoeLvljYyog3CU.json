@@ -1,0 +1,77 @@
+{
+  "type": "asset",
+  "folder": "CIMBUlRd6pitnuo0",
+  "name": "Wright",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [
+      {
+        "name": "Specialty",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by crafting a useful item using your specialty, or when you @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger}, @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground}, or @Compendium[foundry-ironsworn.starforgedmoves.Item.eece9a67d1961f70]{Repair} to create or repair an item in a perilous situation, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may @Compendium[foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1, choose after rolling) to add an additional +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you give the item you create as a gift to commemorate an important event or relationship, you may (one time only) reroll any dice when you @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel}, @Compendium[foundry-ironsworn.starforgedmoves.Item.287bb4c2b53ea847]{Forge a Bond}, or @Compendium[foundry-ironsworn.starforgedmoves.Item.8704c945023355fb]{Test Your Relationship}.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/3d-hammer.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Path/Wright",
+      "dsid": "asset:classic/path/wright",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758258748768,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "GsZoeLvljYyog3CU",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "_key": "!items!GsZoeLvljYyog3CU"
+}

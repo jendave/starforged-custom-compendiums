@@ -1,0 +1,104 @@
+{
+  "folder": "oRGxl5tx5BgYXI2h",
+  "name": "NPC Generator",
+  "_id": "9dhXRhhbeLDSi358",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "RbulZDdHltViJdSN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ML5bfefHPVrXaPMq]{NPC Descriptor}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8flYod7IdN0C5Pw5]{NPC First Name}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.hZHeP0Aq9FYWQ0BL]{NPC Last Name}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.r9I5WbSGo4BW6hWN]{NPC Noun}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758065104712,
+        "modifiedTime": 1758065150250,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!9dhXRhhbeLDSi358.RbulZDdHltViJdSN"
+    },
+    {
+      "sort": 200000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "xwU6Y2DdDdpkZthd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.zylbYalGTpbUYKnO]{NPC Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758066732620,
+        "modifiedTime": 1758066740097,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!9dhXRhhbeLDSi358.xwU6Y2DdDdpkZthd"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758065053266,
+    "modifiedTime": 1758065133823,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!9dhXRhhbeLDSi358"
+}

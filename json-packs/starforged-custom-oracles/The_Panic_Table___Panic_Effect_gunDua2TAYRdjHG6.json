@@ -1,0 +1,186 @@
+{
+  "name": "The Panic Table - Panic Effect",
+  "formula": "1d1",
+  "description": "<p>The horrific nature of the Forge takes a toll on any spacer’s mind. Sometimes, keeping your cool under extreme pressure is not possible. A Panic check determines if you’re able to keep control of the situation without losing it.</p><p>A miss with a match triggers a Panic Check. To make a Panic Check, roll a d6 and attempt to roll under your current Spirit. If you roll more than your current Spirit you fail, and you look up your result on the Panic Table.</p><p>Some results prompt you to gain a condition. Record that condition on your character sheet. To clear it, you must Hearten. On a hit, instead of gaining Spirit, you may decide to clear a condition.</p>",
+  "results": [
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ImqIHXPUeD4M1WBy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laser Focus. Take +1 Momentum.",
+      "name": "",
+      "_key": "!tables.results!gunDua2TAYRdjHG6.ImqIHXPUeD4M1WBy"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "LwuEOTzDbSwhoeUI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anxious. Lose -1 Spirit.",
+      "name": "",
+      "_key": "!tables.results!gunDua2TAYRdjHG6.LwuEOTzDbSwhoeUI"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "UC68fKmUdyynKy5K",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelmed. Lose -1 momentum.",
+      "name": "",
+      "_key": "!tables.results!gunDua2TAYRdjHG6.UC68fKmUdyynKy5K"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ZRDaNs3ZtuIYeWDk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nightmares. Gain a New Condition: when you Sojourn, a strong hit with a match is counted as a strong hit, a strong hit as a weak hit and a weak hit as a miss.",
+      "name": "",
+      "_key": "!tables.results!gunDua2TAYRdjHG6.ZRDaNs3ZtuIYeWDk"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "QSm6GkW6DDN09hVI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loss Of Confidence. Gain a New Condition: Choose an asset. You are now unable to use it.",
+      "name": "",
+      "_key": "!tables.results!gunDua2TAYRdjHG6.QSm6GkW6DDN09hVI"
+    },
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "yoh1q03O0mCK0Fia",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collapse. You are no longer in control of this character. Roll up a new character to play.",
+      "name": "",
+      "_key": "!tables.results!gunDua2TAYRdjHG6.yoh1q03O0mCK0Fia"
+    }
+  ],
+  "_id": "gunDua2TAYRdjHG6",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!gunDua2TAYRdjHG6"
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "sZk5AYdsZIM9Lz25",
+  "type": "sfmove",
+  "name": "Wield a Rarity",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e9e254f7a3fc7100",
+  "system": {
+    "dfid": "Ironsworn/Moves/Rarity/Wield_a_Rarity",
+    "Category": "Ironsworn/Moves/Rarity",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When __you make a move aided by an augmented asset__, roll your rarity die in place of your action die.\n\nOn __any result__ with 6 showing on the rarity die, the power of the rarity manifests in a dramatic and obvious way. You score an automatic __strong hit__ and take +2 momentum.\n\nOn a __hit__ with 5 showing on the rarity die, the power of the rarity manifests in a subtle way. Take +1 momentum.\n\nOn a __miss__ with 1 showing on the rarity die, the rarity’s power fails or works against you. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you make a move aided by an augmented asset...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Delve",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2020-02-13",
+      "Page": 176
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 20,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Moves/Rarity/Wield_a_Rarity",
+      "dsid": "move:delve/rarity/wield_a_rarity"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": "Compendium.foundry-ironsworn.ironsworndelvemoves.Item.70c5da168f35295c",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759042258013,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!sZk5AYdsZIM9Lz25"
+}

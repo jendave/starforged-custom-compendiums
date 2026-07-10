@@ -1,0 +1,215 @@
+{
+  "name": "Masculine Expression",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        70
+      ],
+      "_id": "x14wwEOlY1S5Svcn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "He/Him/His",
+      "name": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.x14wwEOlY1S5Svcn"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "G8lr4EJQchm3dh4X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "She/Her/Her",
+      "name": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.G8lr4EJQchm3dh4X"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "9AxbkJQqElBvSJcL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "He/They",
+      "name": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.9AxbkJQqElBvSJcL"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "7HsJvs0XLQj0osfh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "They/He",
+      "name": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.7HsJvs0XLQj0osfh"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "D1scPQRsWkBTxJ3f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "He/She",
+      "name": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.D1scPQRsWkBTxJ3f"
+    },
+    {
+      "range": [
+        91,
+        99
+      ],
+      "_id": "pkd1hx3gqtK0G8XN",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Indeterminate Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.D9sUWjV1LkL2IF2O",
+      "description": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.pkd1hx3gqtK0G8XN"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "ihVmIL0Gd3BotVdS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None (Name only)",
+      "name": "",
+      "_key": "!tables.results!wIvKjzRxQDzWJnyw.ihVmIL0Gd3BotVdS"
+    }
+  ],
+  "_id": "wIvKjzRxQDzWJnyw",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>By <span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif\">kindfulkirby</span></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "Q9caS0REseItFckx",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697528025716,
+    "modifiedTime": 1697528827459,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.wIvKjzRxQDzWJnyw",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!wIvKjzRxQDzWJnyw"
+}

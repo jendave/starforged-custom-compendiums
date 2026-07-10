@@ -1,0 +1,160 @@
+{
+  "name": "Outlands",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        75
+      ],
+      "_id": "nrTRa3yZbkdz1ojs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!w5TuxtuoQUpjiOQd.nrTRa3yZbkdz1ojs"
+    },
+    {
+      "range": [
+        76,
+        87
+      ],
+      "_id": "0dKo0HDrJoZDBGuF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital settlement",
+      "name": "",
+      "_key": "!tables.results!w5TuxtuoQUpjiOQd.0dKo0HDrJoZDBGuF"
+    },
+    {
+      "range": [
+        88,
+        95
+      ],
+      "_id": "vlSx2L70AxeXBlVD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside settlement",
+      "name": "",
+      "_key": "!tables.results!w5TuxtuoQUpjiOQd.vlSx2L70AxeXBlVD"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "zSyvr6EYSv5OAzWp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple settlements",
+      "name": "",
+      "_key": "!tables.results!w5TuxtuoQUpjiOQd.zSyvr6EYSv5OAzWp"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "FaPtrp3zmoJDtGLU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settlements in conflict",
+      "name": "",
+      "_key": "!tables.results!w5TuxtuoQUpjiOQd.FaPtrp3zmoJDtGLU"
+    }
+  ],
+  "folder": "9HaOrJO3jTk9ZqBH",
+  "sort": 1,
+  "_id": "w5TuxtuoQUpjiOQd",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of crystalline matter, shining brightly in the starlight.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703287794568,
+    "modifiedTime": 1703293602709,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!w5TuxtuoQUpjiOQd"
+}

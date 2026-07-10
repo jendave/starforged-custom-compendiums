@@ -1,0 +1,104 @@
+{
+  "folder": "oRGxl5tx5BgYXI2h",
+  "name": "Settlement Weather",
+  "_id": "wXQkE5FWWaykkP18",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "palcDbZ7f3XaS7QZ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Habitable</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xb42QIQbA6Th4hwk]{Cloud Cover}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.N9DC5oU4m9bWJ6wZ]{Clear}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Nsa5h9rynouI7KOX]{Light}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.RLpB27fCBAoftjS7]{Medium}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rAPHdSJ9fkOAm8De]{Heavy}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cGSlMhHJN7dLLrv2]{Storm}</p><h2>Uninhabitable</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9TGH7jvEw3XnkO95]{Cloud Cover}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.un3dD2KPiUw3ogJu]{Clear}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.43frdsUYkvAEMWty]{Light}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.FqN0pRWf5hEidQgn]{Medium}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YHkQaGsWXpVlGxV2]{Heavy}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.zrJNtzdjSD7j7QsY]{Storm}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067217706,
+        "modifiedTime": 1758067342905,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!wXQkE5FWWaykkP18.palcDbZ7f3XaS7QZ"
+    },
+    {
+      "sort": 200000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "6tbfOWNw0G6g4bP2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.nwVBU9NB7155AvDd]{Settlement Weather}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067225145,
+        "modifiedTime": 1758067230436,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!wXQkE5FWWaykkP18.6tbfOWNw0G6g4bP2"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758067190574,
+    "modifiedTime": 1758067190574,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!wXQkE5FWWaykkP18"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "ccQcLinfXn3tatdF",
+  "name": "Starforged Sojourner",
+  "_id": "fxj0Uh51G2gHwCRn",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "LKyM39wZn2R3DK5a",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Heal</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.PUF34uXbNWID6RGC]{First Look}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.z0rnVzIesJh9ZnWs]{Problems}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.rWzGqzaukFqBw0li]{Purpose}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9IuJRMiLlbhtAcLq]{Roommates}</p><h2>Hearten</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HgaIzQYR3M7ooyFa]{Celebration}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HqSEy42g8KB0cEIX]{Companions}</p><h3>Food</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.G9kfLB7Jjzub7WRe]{Mains}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NmS2LJhb8SkuIcfM]{Spice level}</p><h3>Music</h3><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.m4mhHgeGowSgPBWv]{Genre}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NhlQu1n2f4l0aB9E]{Source}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758142280567,
+        "modifiedTime": 1758142407162,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!fxj0Uh51G2gHwCRn.LKyM39wZn2R3DK5a"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758142236518,
+    "modifiedTime": 1758142497532,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!fxj0Uh51G2gHwCRn"
+}

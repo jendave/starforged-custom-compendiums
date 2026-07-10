@@ -1,0 +1,290 @@
+{
+  "name": "Observed From Space",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "4EbrGvSJ5hV9ldce",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brightly reflecting flatlands",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.4EbrGvSJ5hV9ldce"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "nVtXOfZKXe1iFZm3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craters surrounded by fractures",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.nVtXOfZKXe1iFZm3"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "sxho9nEsAxhe8edB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faceted mountains",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.sxho9nEsAxhe8edB"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "ktDRWQuCOdvCFjDr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric shape",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.ktDRWQuCOdvCFjDr"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "hl7WQrVmWLCm2Uto",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iridescent cracks",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.hl7WQrVmWLCm2Uto"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "IREn93YoXu9tV7pV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-coloured surface",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.IREn93YoXu9tV7pV"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "vwKgVv39rWfc1Mgp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symmetrical ridges",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.vwKgVv39rWfc1Mgp"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "BUl2RiYRS83yFTfd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Translucent crust",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.BUl2RiYRS83yFTfd"
+    },
+    {
+      "range": [
+        89,
+        98
+      ],
+      "_id": "drqcrFY08LZ6fDR2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.drqcrFY08LZ6fDR2"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "tFRXEVT02FNpIzWl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (orbital)",
+      "name": "",
+      "_key": "!tables.results!6yhsY0615HtAnbTT.tFRXEVT02FNpIzWl"
+    }
+  ],
+  "folder": "ATKdefOqKWIwmRbd",
+  "sort": 1,
+  "_id": "6yhsY0615HtAnbTT",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet completely composed of crystalline matter, shining brightly in the starlight.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703287706688,
+    "modifiedTime": 1703293585465,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!6yhsY0615HtAnbTT"
+}

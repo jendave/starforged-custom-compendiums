@@ -1,0 +1,160 @@
+{
+  "name": "Company Influence over Government",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "CiFnzyDwD1tTxUIW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company only occasionally influences the government but it always gets its way.",
+      "name": "",
+      "_key": "!tables.results!JJB6gt5lLzLrsapG.CiFnzyDwD1tTxUIW"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "53nJKySpGCdsakRp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company will frequently intervene governmental politics.",
+      "name": "",
+      "_key": "!tables.results!JJB6gt5lLzLrsapG.53nJKySpGCdsakRp"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "D38f1IdjfGXoqIqK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The government representatives are company shills.",
+      "name": "",
+      "_key": "!tables.results!JJB6gt5lLzLrsapG.D38f1IdjfGXoqIqK"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "Gfnw39hOnORdvowY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company secretly controls the government.",
+      "name": "",
+      "_key": "!tables.results!JJB6gt5lLzLrsapG.Gfnw39hOnORdvowY"
+    },
+    {
+      "range": [
+        81,
+        100
+      ],
+      "_id": "fiwymYffd9zqAIOD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Company is the government.",
+      "name": "",
+      "_key": "!tables.results!JJB6gt5lLzLrsapG.fiwymYffd9zqAIOD"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 2,
+  "_id": "JJB6gt5lLzLrsapG",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969145,
+    "modifiedTime": 1733895793298,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!JJB6gt5lLzLrsapG"
+}

@@ -1,0 +1,370 @@
+{
+  "name": "Medium-Large Population: Open Air",
+  "formula": "1d20",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "468i7ogczzajb594",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brewing and distilling",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.468i7ogczzajb594"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kamu6xrnbhyzy52u",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemical plant",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.kamu6xrnbhyzy52u"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ivc1dzseujqkan6l",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep shaft mining",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.ivc1dzseujqkan6l"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        4,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9llf8aieixsxi9f5",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food growing",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.9llf8aieixsxi9f5"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tj06hrf5relpuecq",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Food processing and packing",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.tj06hrf5relpuecq"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "63ykkz2k8398f55n",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information hub",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.63ykkz2k8398f55n"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        8,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vqcle65usq1nlsov",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.vqcle65usq1nlsov"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xcona3jvvvfzqkbm",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metal processing from ore",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.xcona3jvvvfzqkbm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3h7pu6s0ni68nfil",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oil and gas drilling",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.3h7pu6s0ni68nfil"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qvao8trm9t8q1rfs",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oil and gas refining",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.qvao8trm9t8q1rfs"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "36xr7xxmnq3yulrc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Open cast mining",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.36xr7xxmnq3yulrc"
+    },
+    {
+      "type": "text",
+      "weight": 2,
+      "range": [
+        18,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "az9et9brtghxx03q",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small ship repair and construction",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.az9et9brtghxx03q"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yx3cs8ve71ry1w2i",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport hub",
+      "name": "",
+      "_key": "!tables.results!N9Hxj2NlQoHpOLQt.yx3cs8ve71ry1w2i"
+    }
+  ],
+  "_id": "N9Hxj2NlQoHpOLQt",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 9\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">For your Planetside Settlement, Roll d20 and pick 1-2 entries from the relevant column in the Oracle. A population of \"hundreds\" or more are “Medium-Large”. The results are suggestions for the </span><span style=\"font-family:'CIDFont+F5'\">primary </span><span style=\"font-family:'CIDFont+F1'\">industries in the Settlement.</span></p><p><span style=\"font-family:'CIDFont+F1'\">When you roll a result of “Manufacturing” on one of the Industries Oracles, roll 1d20 on the Manufacturing Oracle, referencing the relevant column for the Settlement Type.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "D1u8dTejWa5CGAi7",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697083029705,
+    "modifiedTime": 1697503547892,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.N9Hxj2NlQoHpOLQt",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!N9Hxj2NlQoHpOLQt"
+}

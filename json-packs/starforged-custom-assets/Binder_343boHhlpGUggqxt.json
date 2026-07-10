@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "_id": "343boHhlpGUggqxt",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Binder",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you wear a creature's pelt and dance under the moonlight, roll +wits. On a strong hit, the pelt's wearer adds +1 when making moves with a stat linked to the creature's main essence (swiftness-edge; resilience-iron; kinship-heart; stealthiness-shadow; cleverness-wits). If they roll a 1 on their action die while using the pelt, the effect is lost. On a weak hit, as above, but the spirit of the creature resists your touch; @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-2).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, you may perform this ritual wearing the pelt of a rare creature. If you do, @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-3) on a weak hit, and the wearer adds +2 (instead of +1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the wearer makes a threshold move, the pelt breaks by the weight of fate and releases its essence; they must reroll one die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/animal-hide.svg",
+  "effects": [],
+  "sort": 173438,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Bind",
+      "dsid": "asset:classic/ritual/bind",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5dae96957d13ef59",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!343boHhlpGUggqxt"
+}

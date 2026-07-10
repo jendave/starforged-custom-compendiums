@@ -1,0 +1,290 @@
+{
+  "name": "Observed From Space",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        11
+      ],
+      "_id": "FmelTy1eZ0G0YBfy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmospheric pheromones",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.FmelTy1eZ0G0YBfy"
+    },
+    {
+      "range": [
+        12,
+        22
+      ],
+      "_id": "oXL6gzjQux9ShUGZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Features resembling a face",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.oXL6gzjQux9ShUGZ"
+    },
+    {
+      "range": [
+        23,
+        33
+      ],
+      "_id": "xgSrPKzcbWuGGyIc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large wounds",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.xgSrPKzcbWuGGyIc"
+    },
+    {
+      "range": [
+        34,
+        44
+      ],
+      "_id": "eIidZcc6K1xbZo5z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountainous bone growths",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.eIidZcc6K1xbZo5z"
+    },
+    {
+      "range": [
+        45,
+        55
+      ],
+      "_id": "afcCsAkZwBKCTHO1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orifices expelling gases",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.afcCsAkZwBKCTHO1"
+    },
+    {
+      "range": [
+        56,
+        66
+      ],
+      "_id": "zLw2r7zWRWgplfjS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patches covered in fur",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.zLw2r7zWRWgplfjS"
+    },
+    {
+      "range": [
+        67,
+        77
+      ],
+      "_id": "b6eTI1IO0JUa7DWh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sensory organs",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.b6eTI1IO0JUa7DWh"
+    },
+    {
+      "range": [
+        78,
+        88
+      ],
+      "_id": "HyfM4K2AVGg3SkKX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slowly moving surface",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.HyfM4K2AVGg3SkKX"
+    },
+    {
+      "range": [
+        89,
+        98
+      ],
+      "_id": "AzxVoJDLYXuwPAMn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.AzxVoJDLYXuwPAMn"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "btWWuVKrFWIAuK38",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (orbital)",
+      "name": "",
+      "_key": "!tables.results!us0gm8Xj2Q4aPAwD.btWWuVKrFWIAuK38"
+    }
+  ],
+  "folder": "e9Mn1qrjtY5qOguu",
+  "sort": 1,
+  "_id": "us0gm8Xj2Q4aPAwD",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>A planet entirely composed of a single creature or a colony of creatures.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288206588,
+    "modifiedTime": 1703293809300,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!us0gm8Xj2Q4aPAwD"
+}

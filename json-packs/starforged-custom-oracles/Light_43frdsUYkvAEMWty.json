@@ -1,0 +1,108 @@
+{
+  "name": "Light",
+  "formula": "1d10",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "PcKg9xQl6TwJYr2l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None",
+      "name": "",
+      "_key": "!tables.results!43frdsUYkvAEMWty.PcKg9xQl6TwJYr2l"
+    },
+    {
+      "range": [
+        3,
+        8
+      ],
+      "_id": "iIuLdMO6vIswHwWI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light showers",
+      "name": "",
+      "_key": "!tables.results!43frdsUYkvAEMWty.iIuLdMO6vIswHwWI"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "Q4snkKtwPvxxd1Xt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medium rain",
+      "name": "",
+      "_key": "!tables.results!43frdsUYkvAEMWty.Q4snkKtwPvxxd1Xt"
+    }
+  ],
+  "folder": "Q1mplwevCDvVLfd3",
+  "sort": 300000,
+  "_id": "43frdsUYkvAEMWty",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.7",
+    "coreVersion": "13.350",
+    "createdTime": 1698525012782,
+    "modifiedTime": 1698525023316,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!43frdsUYkvAEMWty"
+}

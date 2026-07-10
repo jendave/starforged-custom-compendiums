@@ -1,0 +1,134 @@
+{
+  "name": "Endure Stress",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "vdMnSEqf2fk5h0aq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both",
+      "name": "",
+      "_key": "!tables.results!sGesNLqJTOQiBoUP.vdMnSEqf2fk5h0aq"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "ZgtdZ6YrQjatvIVX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. Take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!sGesNLqJTOQiBoUP.ZgtdZ6YrQjatvIVX"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "OPxGsgYHcx9AghhH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. Take +1 spirit if not wounded. Take +1 momentum.",
+      "name": "",
+      "_key": "!tables.results!sGesNLqJTOQiBoUP.OPxGsgYHcx9AghhH"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "mng5zPzh5rLb1gTl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take both. Take +1 spirit if not wounded. Take +2 momentum.",
+      "name": "",
+      "_key": "!tables.results!sGesNLqJTOQiBoUP.mng5zPzh5rLb1gTl"
+    }
+  ],
+  "folder": "PRCXSj2LMclLWBy5",
+  "sort": 1,
+  "_id": "sGesNLqJTOQiBoUP",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466506611,
+    "modifiedTime": 1706853313464,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!sGesNLqJTOQiBoUP"
+}

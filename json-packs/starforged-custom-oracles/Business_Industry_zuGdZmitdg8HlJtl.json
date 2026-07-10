@@ -1,0 +1,290 @@
+{
+  "name": "Business/Industry",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "yz4wtPCmpneRhUSU",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agriculture",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.yz4wtPCmpneRhUSU"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "qMxVwF0ExS81RC3v",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing (food, weapon, heavy machinery, cybernetics, electronics, chemicals, materials, robotics)",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.qMxVwF0ExS81RC3v"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "MKvJeyxfxEJ7KANa",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Telecommunications",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.MKvJeyxfxEJ7KANa"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "TACtwhl83wlI14vb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport &amp; Storage",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.TACtwhl83wlI14vb"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "MzQFBMbAtAwouBUq",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.MzQFBMbAtAwouBUq"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "7UPyvyBcgvsOHXQx",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Banking",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.7UPyvyBcgvsOHXQx"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "XGquQNU5OurEyHmC",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment &amp; Leisure",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.XGquQNU5OurEyHmC"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "QMyj5I4vXqcHUMLc",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Media",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.QMyj5I4vXqcHUMLc"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "oFclacYVVoDibP2M",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.oFclacYVVoDibP2M"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "7BjQjn8caCX2ET6o",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pharmaceutical",
+      "name": "",
+      "_key": "!tables.results!zuGdZmitdg8HlJtl.7BjQjn8caCX2ET6o"
+    }
+  ],
+  "_id": "zuGdZmitdg8HlJtl",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 262500,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!zuGdZmitdg8HlJtl"
+}

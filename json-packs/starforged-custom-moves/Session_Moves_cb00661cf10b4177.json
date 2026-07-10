@@ -1,0 +1,27 @@
+{
+  "name": "Session Moves",
+  "color": "#3f8c8a",
+  "description": "The __session moves__ fit into the flow of mechanics and fiction before, during, and after play. They provide methods for setting up content boundaries, adjusting content in the midst of play, and starting and ending your Starforged sessions. They are intended for solo, co-op, and guided modes.\n\nUnlike most other moves, these session moves function primarily from the perspective of the players instead of your characters. They are a tool to moderate and facilitate safe and enjoyable play.",
+  "type": "Item",
+  "_id": "cb00661cf10b4177",
+  "sort": 100000,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Session",
+      "dsid": "move_category:starforged/session"
+    }
+  },
+  "folder": "abckGy042rxAsOiZ",
+  "sorting": "a",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819485,
+    "modifiedTime": 1757745819485,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!folders!cb00661cf10b4177"
+}

@@ -1,0 +1,680 @@
+{
+  "name": "Interesting Details",
+  "formula": "1d100",
+  "description": "<p>This table lists encounters that might occur on an expedition. For wider inspiration, consider a Core oracle like Descriptor + Focus.</p>",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "YV3FkxJvc8EwmDGi",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An anomalous energy field encroaches on your route",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.YV3FkxJvc8EwmDGi"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "58rbdq8ZGv4QqR7K",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An internal alert sounds, then suddenly cuts out",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.58rbdq8ZGv4QqR7K"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "Wn2pUPcJJKWoIbwE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A stellar object eclipses a nearby star",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.Wn2pUPcJJKWoIbwE"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "5qJjchPOmNCH3CHX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A perfect cylinder fashioned from metal sits unmoving",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.5qJjchPOmNCH3CHX"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "VMA6gJzacy3tDsPh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A still figure in an environment suit drifts alone",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.VMA6gJzacy3tDsPh"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "dj6iQfsOuvTtlFza",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A maelstrom appears crossable by a narrow route",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.dj6iQfsOuvTtlFza"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "wZxMm2h3aBIC6G8p",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A distant flash is unmistakably weapons fire",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.wZxMm2h3aBIC6G8p"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "rO4pLsWUAE6hu52s",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A small mining operation picks away at an asteroid",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.rO4pLsWUAE6hu52s"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "gF9iDAscXiE7JiKr",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A sleek vessel immediately engages its e-drive",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.gF9iDAscXiE7JiKr"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "CKDfPnM7X1snNRGP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An unexpected signal reveals a distant observer",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.CKDfPnM7X1snNRGP"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "MbuZN4thbr7Tte8J",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A shockwave implies an explosion outside sensor range",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.MbuZN4thbr7Tte8J"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "rpY2lS9JQWvr4yVX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An asteroid has several tunnels large enough to fly into",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.rpY2lS9JQWvr4yVX"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "cnyu0CbxnwwjAi8M",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A makeshift buoy transmits a confusing claim about whose territory this is",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.cnyu0CbxnwwjAi8M"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "PEm78D9UstZWGSng",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two ships from different factions keep within weapons range of one another",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.PEm78D9UstZWGSng"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "uIexU0fweeAyvge0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A battered beacon warns of hazardous space",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.uIexU0fweeAyvge0"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "gDWfINP5NbHlGZHI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faint signals indicate a recent mass exodus",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.gDWfINP5NbHlGZHI"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "yT8te9QrnazEWs7z",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several wrecks are secured together as a memorial",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.yT8te9QrnazEWs7z"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "Jmj8siL869hdr1cT",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A small cargo floats nearby, jettisoned in a rush",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.Jmj8siL869hdr1cT"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "hqoppKpAOKir8vBy",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A courier ship adjusts course to intercept you",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.hqoppKpAOKir8vBy"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "Oclcmixl3JGlGrJM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A distress signal precedes a spike in unsafe radiation",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.Oclcmixl3JGlGrJM"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "TfL17knk3YFM2Scp",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An intricate probe repeats a message in a language you do not recognize",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.TfL17knk3YFM2Scp"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "lJvIloYizUCnjQ84",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A small grave world's orbit is crammed with space junk",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.lJvIloYizUCnjQ84"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "3kwjcLgGFmK2gC2w",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scaffolding is all that remains of an abandoned project",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.3kwjcLgGFmK2gC2w"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "eHmjlv6uZCpHGCKY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A neighboring system's star pulses irregularly",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.eHmjlv6uZCpHGCKY"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "eMxtiXK4GH9EsUII",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Several ghost ships erroneously appear on your sensors",
+      "name": "",
+      "_key": "!tables.results!n3qoo5aZgPiKZlBa.eMxtiXK4GH9EsUII"
+    }
+  ],
+  "folder": "3wQREHN6DCfDZdoe",
+  "sort": 11,
+  "_id": "n3qoo5aZgPiKZlBa",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.1",
+    "createdTime": 1746045774518,
+    "modifiedTime": 1746045774518,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!n3qoo5aZgPiKZlBa"
+}

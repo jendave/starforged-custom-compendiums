@@ -1,0 +1,81 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Kindred",
+  "system": {
+    "requirement": "<p>Your friend stands by you.</p>",
+    "category": "Companion",
+    "color": null,
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Expertise",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": false,
+        "description": "<p>Skilled: Your friend has a helpful set of skills. When you make a move outside of combat aided by your companion's expertise, you may reroll your action die if its value is less than your companion's health.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Shield-Kin: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash}, @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a903d120af3b1475]{Battle}, or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.d9208f9b7d827aec]{React Under Siege} alongside your companion by standing strong together, add +1.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Bonded: When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ff17e67a59539df4]{Face Desolation} in the presence of your friend, take your friend's health as +momentum before you roll. On a string hit with a match, mark 1 tick on your bonds legacy track.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/shield-bash.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Companion/Kindred",
+      "dsid": "asset:classic/companion/kindred",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906533141,
+    "modifiedTime": 1759654027900,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "qe8m7W1ioeTHFPFR",
+  "sort": 1500000,
+  "_key": "!items!qe8m7W1ioeTHFPFR"
+}

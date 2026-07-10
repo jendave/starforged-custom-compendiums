@@ -1,0 +1,65 @@
+{
+  "folder": "8sbPMQDmNrLFJO9H",
+  "name": "Mothership Conversion",
+  "_id": "sB12PdXq5Kk9541z",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Mothership Conversion",
+      "type": "text",
+      "_id": "1VOVsgpCGrt5bb27",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>STATS &amp; SAVES</h2><p class=\"p2\">Strength = Iron</p><p class=\"p2\">Speed = Edge</p><p class=\"p2\">Intellect = Wits</p><p class=\"p2\">Combat = Iron (melee) or Edge (ranged)</p><p></p><p class=\"p2\">Body = Iron</p><p class=\"p2\">Fear = Heart</p><p class=\"p2\">Sanity = Wits</p><h2>FOES &amp; ENCOUNTERS</h2><p class=\"p2\">A Mothership NPC has the following stat block: Hits(Health), Combat and Instinct.</p><p class=\"p2\">To convert a Mothership character to Ironsworn: Starforged, look at their number of Hits first and refer to the following table as general guidelines. If their Combat or Instinct is particularly good (the closer they are to 100, the better they are), you may raise the rank. If their Combat or Instinct is particularly bad (the closer they are to 0, the worse they are), you may lower the rank.</p><table><tbody><tr><td colspan=\"2\"><p style=\"text-align:center\"><strong>CONVERSION TABLE</strong></p></td></tr><tr><td><p><strong>Hits</strong></p></td><td><p><strong>Rank</strong></p></td></tr><tr><td><p>1</p></td><td><p>Troublesome</p></td></tr><tr><td><p>2</p></td><td><p>Dangerous</p></td></tr><tr><td><p>3</p></td><td><p>Formidable</p></td></tr><tr><td><p>4</p></td><td><p>Extreme</p></td></tr><tr><td><p>5+</p></td><td><p>Epic</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757747957121,
+        "modifiedTime": 1757748253862,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!sB12PdXq5Kk9541z.1VOVsgpCGrt5bb27"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757747927799,
+    "modifiedTime": 1757747927799,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!sB12PdXq5Kk9541z"
+}

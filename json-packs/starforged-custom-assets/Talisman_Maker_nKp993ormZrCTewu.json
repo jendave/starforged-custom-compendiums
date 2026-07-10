@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "_id": "nKp993ormZrCTewu",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Talisman Maker",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>'When you fashion a charm, envision it and name the specific person or creature it protects against. Then roll +wits. On a strong hit, the wearer gains +2 when opposing the designated target through a move. If they roll a 1 on their action die, the effect is lost. On a weak hit, as above, but the wearer gains +1 instead of +2.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may instead fashion a charm which aids the wearer against all supernatural threats, such as mystic rituals or horrors.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>The wearer may make the @Compendium[foundry-ironsworn.starforgedmoves.Item.f4dec946415d8e57]{Aid Your Ally} move by leveraging the artifact's properties. If they do, they take +1 momentum as the talisman lends strength and clarity to those who stand together.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/tribal-pendant.svg",
+  "effects": [],
+  "sort": 168750,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Talisman",
+      "dsid": "asset:classic/ritual/talisman",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.84e9642aa474c8f2",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!nKp993ormZrCTewu"
+}

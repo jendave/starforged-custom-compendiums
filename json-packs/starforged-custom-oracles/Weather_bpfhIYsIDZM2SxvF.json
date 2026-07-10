@@ -1,0 +1,212 @@
+{
+  "name": "Weather",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        14
+      ],
+      "_id": "1Fhn2SBQDEjxi0Uv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raining (the rain may be acidic, it may not be water)",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.1Fhn2SBQDEjxi0Uv"
+    },
+    {
+      "range": [
+        15,
+        29
+      ],
+      "_id": "BZdqJQIn2VTLomIL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fog",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.BZdqJQIn2VTLomIL"
+    },
+    {
+      "range": [
+        30,
+        43
+      ],
+      "_id": "VcEBFKp4BKWUhM0B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clear day",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.VcEBFKp4BKWUhM0B"
+    },
+    {
+      "range": [
+        44,
+        57
+      ],
+      "_id": "qm9yxqhgH7IZmodo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snowing",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.qm9yxqhgH7IZmodo"
+    },
+    {
+      "range": [
+        58,
+        71
+      ],
+      "_id": "VUzytuvApnXGYqWn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thunderstorm",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.VUzytuvApnXGYqWn"
+    },
+    {
+      "range": [
+        72,
+        86
+      ],
+      "_id": "AVcTKziH4xgcFzq9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hot and humid",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.AVcTKziH4xgcFzq9"
+    },
+    {
+      "range": [
+        87,
+        100
+      ],
+      "_id": "pjPiDkiqfzsB0b16",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden shower",
+      "name": "",
+      "_key": "!tables.results!bpfhIYsIDZM2SxvF.pjPiDkiqfzsB0b16"
+    }
+  ],
+  "folder": "s6ePZrRlXQyGLeWh",
+  "sort": 0,
+  "_id": "bpfhIYsIDZM2SxvF",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Space stations and underground settlement might not have any use for this, or maybe someone’s decided to create artificial weather.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829747517,
+    "modifiedTime": 1698831525871,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!bpfhIYsIDZM2SxvF"
+}

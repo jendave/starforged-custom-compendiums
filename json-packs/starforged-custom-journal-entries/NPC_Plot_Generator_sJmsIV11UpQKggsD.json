@@ -1,0 +1,104 @@
+{
+  "folder": "oRGxl5tx5BgYXI2h",
+  "name": "NPC Plot Generator",
+  "_id": "sJmsIV11UpQKggsD",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "jx0NVvlFbLRwtrWA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ZyEC6JjDaLn6fG4i]{Plot Choice}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.wGq6oOlOrjVSyXVf]{Plot Driver}</p><h2>Plot Against a Group</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Q5Qn4ilnOjubIkWm]{Group}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LzoSodIXHxOivd26]{Verb}</p><h2>Plot Against People</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.j5TewCEoidsWvOHz]{Verb}</p><h2>Plot Involving an Object</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.QIL1ivkyvFfy6GLu]{Object}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SP8X4aaKNZhMEUco]{Verb}</p><h2>Plot Involving the Abstract</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.J3deDnBD5NwXNC3g]{Abstract}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.HR7OGyJtv6WLX1GQ]{Verb}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758066818178,
+        "modifiedTime": 1758066947117,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!sJmsIV11UpQKggsD.jx0NVvlFbLRwtrWA"
+    },
+    {
+      "sort": 200000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "XZBGk4CJlErkjjN9",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.5kPX6wsEdQ9w8zlJ]{Plot Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758066822021,
+        "modifiedTime": 1758066828807,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!sJmsIV11UpQKggsD.XZBGk4CJlErkjjN9"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758066804096,
+    "modifiedTime": 1758067013945,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!sJmsIV11UpQKggsD"
+}

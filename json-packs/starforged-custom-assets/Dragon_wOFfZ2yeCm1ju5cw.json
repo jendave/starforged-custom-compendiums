@@ -1,0 +1,82 @@
+{
+  "type": "asset",
+  "folder": "xjhYmEnOeFXwA6f1",
+  "name": "Dragon",
+  "system": {
+    "requirement": "<p>Your dragon fights with fire and fury.</p>",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>Roving: Your dragon companion wards off trouble. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.a2d7793b23c17489]{Secure an Advantage} by letting it roam, roll +its health. You must @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1) once a day to satiate its fierce appetite; otherwise, your @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} (-2).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Trained: The dragon accepts you as a rider; flying under your direction. When you make a move from the saddle to lead an expedition or leverage the dragon as a weapon, you may roll +its health. If you then roll a 1 or 2 on your action die, the dragon must bear the brunt of any cost or counterattack.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>Scaled: When you make the @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} move, take +1 momentum on a strong hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/spiked-dragon-head.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/companion/dragon",
+      "dsid": "asset:sundered_isles/companion/dragon",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906519193,
+    "modifiedTime": 1759637271057,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "wOFfZ2yeCm1ju5cw",
+  "sort": 1700000,
+  "_key": "!items!wOFfZ2yeCm1ju5cw"
+}

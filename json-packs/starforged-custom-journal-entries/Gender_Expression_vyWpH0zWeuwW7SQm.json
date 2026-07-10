@@ -1,0 +1,65 @@
+{
+  "folder": "10B0cFjcFTeym7wO",
+  "name": "Gender Expression",
+  "_id": "vyWpH0zWeuwW7SQm",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "gw0iK4f4TGlL7giK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2Ea8cuj91AOMKRGx]{Feminine Expression}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9BdhXJG5CEzUGdw7]{Gender Expression}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.iwL24GWMd5rRWocy]{Incomprehensible Expression}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.D9sUWjV1LkL2IF2O]{Indeterminate Expression}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.wIvKjzRxQDzWJnyw]{Masculine Expression}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758068088960,
+        "modifiedTime": 1758068103275,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!vyWpH0zWeuwW7SQm.gw0iK4f4TGlL7giK"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758068081786,
+    "modifiedTime": 1758068108519,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!vyWpH0zWeuwW7SQm"
+}

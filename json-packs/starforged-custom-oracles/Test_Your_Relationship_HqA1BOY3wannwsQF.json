@@ -1,0 +1,134 @@
+{
+  "name": "Test Your Relationship",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "vPmfmRruVAlvoCCz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +1 on your Develop Your Relationship move",
+      "name": "",
+      "_key": "!tables.results!HqA1BOY3wannwsQF.vPmfmRruVAlvoCCz"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "LCtCRFN1gSJG1Rlb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +1 on your Develop Your Relationship move",
+      "name": "",
+      "_key": "!tables.results!HqA1BOY3wannwsQF.LCtCRFN1gSJG1Rlb"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "9N2t38IopBp6aBx9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +2 on your Develop Your Relationship move",
+      "name": "",
+      "_key": "!tables.results!HqA1BOY3wannwsQF.9N2t38IopBp6aBx9"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "BDaBgXVEWNcdi1Gg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Add +2 on your Develop Your Relationship move",
+      "name": "",
+      "_key": "!tables.results!HqA1BOY3wannwsQF.BDaBgXVEWNcdi1Gg"
+    }
+  ],
+  "folder": "StU8THiop736QYvl",
+  "sort": 1,
+  "_id": "HqA1BOY3wannwsQF",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466471891,
+    "modifiedTime": 1728515327195,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!HqA1BOY3wannwsQF"
+}

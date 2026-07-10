@@ -1,0 +1,160 @@
+{
+  "name": "Financial State",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "NTlzs3fnsPYzCtjh",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dire",
+      "name": "",
+      "_key": "!tables.results!z3D98uvA0ASrbgEC.NTlzs3fnsPYzCtjh"
+    },
+    {
+      "range": [
+        21,
+        40
+      ],
+      "_id": "uQlaKvDu6pV4dNyB",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bad",
+      "name": "",
+      "_key": "!tables.results!z3D98uvA0ASrbgEC.uQlaKvDu6pV4dNyB"
+    },
+    {
+      "range": [
+        41,
+        60
+      ],
+      "_id": "Oa3oXjeqtk143b1Z",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Struggling",
+      "name": "",
+      "_key": "!tables.results!z3D98uvA0ASrbgEC.Oa3oXjeqtk143b1Z"
+    },
+    {
+      "range": [
+        61,
+        80
+      ],
+      "_id": "cYHE3lIpoUCupJdp",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Good",
+      "name": "",
+      "_key": "!tables.results!z3D98uvA0ASrbgEC.cYHE3lIpoUCupJdp"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "vfZmdC4soNMJ5iXF",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Great",
+      "name": "",
+      "_key": "!tables.results!z3D98uvA0ASrbgEC.vfZmdC4soNMJ5iXF"
+    }
+  ],
+  "_id": "z3D98uvA0ASrbgEC",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 256250,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!z3D98uvA0ASrbgEC"
+}

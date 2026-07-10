@@ -1,0 +1,1592 @@
+{
+  "name": "Evil Deed",
+  "formula": "1d60",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "1jcyeUcOTpi9AAQ8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "adulterating foods",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.1jcyeUcOTpi9AAQ8"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "7MQ2sqoDOd5g6w94",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "adulterating medicines",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.7MQ2sqoDOd5g6w94"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "h5HxYCg1XkdRX99b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "adulterating the water",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.h5HxYCg1XkdRX99b"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "xvVrFa2Hsxb72hFb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "altering consumer law",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.xvVrFa2Hsxb72hFb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "02t69vvntcTT8Qdr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "arming street gangs",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.02t69vvntcTT8Qdr"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "127ffrxOX5JZsmQl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "assassinating rivals",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.127ffrxOX5JZsmQl"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "JoXvs0j7oQffsqjw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "blackmailing scientists",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.JoXvs0j7oQffsqjw"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "l7Shs88Q3NTpbdjb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "brainwashing key figures",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.l7Shs88Q3NTpbdjb"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "JwfH0Y0iearmucGv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bribing oversight group",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.JwfH0Y0iearmucGv"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "6lfcTwf3BHp24UnJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "bribing politicians",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.6lfcTwf3BHp24UnJ"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "nZzxJPMm9w1dKQHx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "building a private army",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.nZzxJPMm9w1dKQHx"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "yXJvgwabrCOAGR63",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "buying a settlement",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.yXJvgwabrCOAGR63"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "gPIi4UgazhQkZHkS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "buying bankers",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.gPIi4UgazhQkZHkS"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "U71zuQKOYB4z9dCX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "buying law enforcers",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.U71zuQKOYB4z9dCX"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "oCxI21AvC9yzz76A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "channeling funds",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.oCxI21AvC9yzz76A"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "ACXai2dYnKFZpcLR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "cloning self",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.ACXai2dYnKFZpcLR"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "lmlso4iq0WZl0jUh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "collecting biometrics",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.lmlso4iq0WZl0jUh"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "4wQYdWeSW1L6hWra",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "controlling alt-media",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.4wQYdWeSW1L6hWra"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "dXirtB23MmiCHNaV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "corrupting technology",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.dXirtB23MmiCHNaV"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "B1AltQdimXlzu36G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "covering up blackmail",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.B1AltQdimXlzu36G"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "nWngGC7sMv1FQcA5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "covering up insane AI",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.nWngGC7sMv1FQcA5"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "hJ2ckywP8NSPlBlo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "covering up suicides",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.hJ2ckywP8NSPlBlo"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "ks8vnGz3KK8GYqm5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "creating a war",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.ks8vnGz3KK8GYqm5"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "95EFnn7ReXs20tOP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "culling management",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.95EFnn7ReXs20tOP"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "6bEqFnKSj3JMZ4bM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "designing bio-plague",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.6bEqFnKSj3JMZ4bM"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "MpkjokmwvLEcxzQG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "doctoring judicial AIs",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.MpkjokmwvLEcxzQG"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "OCYwjhPCo2Q6HeJC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "doctoring records",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.OCYwjhPCo2Q6HeJC"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "dxPgJYimT1jZQsls",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "dumping deadly waste",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.dxPgJYimT1jZQsls"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "7PP8I7JvcppEpgsO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "eliminating flawed stock",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.7PP8I7JvcppEpgsO"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "kcJXzWFC4eWKqGWY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "eliminating R&amp;D failure",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.kcJXzWFC4eWKqGWY"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "cZrxyQxlJzEydkzi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "engaging in financial manipulation",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.cZrxyQxlJzEydkzi"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "rZRhqNe1xiIN1JlA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "engaging in political assassination",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.rZRhqNe1xiIN1JlA"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "SM0YLjPb8JXD6y3F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "engineering a pandemic",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.SM0YLjPb8JXD6y3F"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "sPJryMu5fuxYmcip",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "finding lost bioweapon",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.sPJryMu5fuxYmcip"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "OCLqEZv9zs0gvXfX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fixing stock levels",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.OCLqEZv9zs0gvXfX"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "V8l1t7kHls4zUZoI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "framing rival(s)",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.V8l1t7kHls4zUZoI"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "_id": "SAxeOfQgkSQ55qyJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "funding counterfeits",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.SAxeOfQgkSQ55qyJ"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "_id": "wlYGtPtF0uAs5MXs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "harvesting organs",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.wlYGtPtF0uAs5MXs"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "_id": "fISbOQ5FCP2Y9oaB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "hiring hostile hackers",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.fISbOQ5FCP2Y9oaB"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "_id": "MMkpyeNGqrmKxGOA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "intimidating reviewers",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.MMkpyeNGqrmKxGOA"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "_id": "PsHGmCCDL5qG3ArW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "looking for own cure",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.PsHGmCCDL5qG3ArW"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "_id": "voWAKkgHI2SsSrpi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "manipulating media",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.voWAKkgHI2SsSrpi"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "_id": "CrBMPEZcVJBceyj9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "plotting a land grab",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.CrBMPEZcVJBceyj9"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "_id": "sAfbIT6DZRWjH7Kx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "purchasing hospitals",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.sAfbIT6DZRWjH7Kx"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "_id": "WKnqZaFTW8atDus8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "rigging safety standards",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.WKnqZaFTW8atDus8"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "_id": "PHSZYNY8Eej3Iiqx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "snatching transients",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.PHSZYNY8Eej3Iiqx"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "_id": "TBE3adJyvXwc4J42",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "starting an internal investigation",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.TBE3adJyvXwc4J42"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "_id": "otUhx8ZaZw6BV9Cq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "stockpiling medicines",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.otUhx8ZaZw6BV9Cq"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "_id": "o0ddzWm7odXn5bIB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "supporting coup",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.o0ddzWm7odXn5bIB"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "_id": "3EOpoAsd26sBGIbo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "targeting employees",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.3EOpoAsd26sBGIbo"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "_id": "OYYcdqXhRkRGmIo5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "targeting rivals",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.OYYcdqXhRkRGmIo5"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "_id": "UEE4H9akdQXJxh6C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "targeting undesirables",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.UEE4H9akdQXJxh6C"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "_id": "1zOgcVP1q7mYHxt9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "testing new bioware",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.1zOgcVP1q7mYHxt9"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "_id": "GARGjKqsSG0cB0ZP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "testing new drugs",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.GARGjKqsSG0cB0ZP"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "_id": "5QPCI2SgupsmbwYQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "testing new synthetics",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.5QPCI2SgupsmbwYQ"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "_id": "uho9XkPYSEj5pnfW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "testing new weapons",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.uho9XkPYSEj5pnfW"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "_id": "2BpUItVA0ZKbiv54",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "undermining a rival brand",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.2BpUItVA0ZKbiv54"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "_id": "OyuszpJq2pMSSEh7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "using hidden warehouses",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.OyuszpJq2pMSSEh7"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "_id": "3RASUG5uPe8aVTRE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "using subliminal advertising",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.3RASUG5uPe8aVTRE"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "_id": "tiJRvF7xZ3XikUA2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "wrecking ecosystem",
+      "name": "",
+      "_key": "!tables.results!YUbKhY7DV72tES3i.tiJRvF7xZ3XikUA2"
+    }
+  ],
+  "_id": "YUbKhY7DV72tES3i",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll 1d60 on the \"Evil Deed\" table, to find out what the corporation is up to and, optionally, another 1d60 on the \"Sucker\" table, to find out who (or what) the corporation is using to advance its plot. Obviously, you can replace a roll on the \"Sucker\" table by rolling up a new NPC from the earlier tables.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "icPAHxKyFqt4PZ2U",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696145197251,
+    "modifiedTime": 1696189574797,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.YUbKhY7DV72tES3i",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!YUbKhY7DV72tES3i"
+}

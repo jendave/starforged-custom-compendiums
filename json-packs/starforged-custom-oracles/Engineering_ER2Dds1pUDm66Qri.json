@@ -1,0 +1,186 @@
+{
+  "name": "Engineering",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        17
+      ],
+      "_id": "piYIlhZLcxZiatco",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control room",
+      "name": "",
+      "_key": "!tables.results!ER2Dds1pUDm66Qri.piYIlhZLcxZiatco"
+    },
+    {
+      "range": [
+        18,
+        33
+      ],
+      "_id": "vPY5CclYLhH1AKfP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engine room or power core",
+      "name": "",
+      "_key": "!tables.results!ER2Dds1pUDm66Qri.vPY5CclYLhH1AKfP"
+    },
+    {
+      "range": [
+        34,
+        50
+      ],
+      "_id": "OqUJYEKMlIn8LRbu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering offices",
+      "name": "",
+      "_key": "!tables.results!ER2Dds1pUDm66Qri.OqUJYEKMlIn8LRbu"
+    },
+    {
+      "range": [
+        51,
+        67
+      ],
+      "_id": "HyeCn3Dn4Kye00SP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Life support",
+      "name": "",
+      "_key": "!tables.results!ER2Dds1pUDm66Qri.HyeCn3Dn4Kye00SP"
+    },
+    {
+      "range": [
+        68,
+        83
+      ],
+      "_id": "5TKaKZmvxwLhVlZz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanics",
+      "name": "",
+      "_key": "!tables.results!ER2Dds1pUDm66Qri.5TKaKZmvxwLhVlZz"
+    },
+    {
+      "range": [
+        84,
+        100
+      ],
+      "_id": "5cKgYcBWmx8hTuSK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle bay or garage",
+      "name": "",
+      "_key": "!tables.results!ER2Dds1pUDm66Qri.5cKgYcBWmx8hTuSK"
+    }
+  ],
+  "folder": "6HWOhc1aNrOMGOiH",
+  "sort": 2,
+  "_id": "ER2Dds1pUDm66Qri",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Area types can range from the general (religious establishments) to the specific (diner), but I’ve included examples and alternatives to help inspire ideas that would fit your world truths.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1698829721205,
+    "modifiedTime": 1698831289624,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ER2Dds1pUDm66Qri"
+}

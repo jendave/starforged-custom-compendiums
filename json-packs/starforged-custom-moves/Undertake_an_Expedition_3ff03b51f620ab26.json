@@ -1,0 +1,110 @@
+{
+  "_id": "3ff03b51f620ab26",
+  "type": "sfmove",
+  "name": "Undertake an Expedition",
+  "img": "icons/dice/d10black.svg",
+  "folder": "f57c06b3db7f1676",
+  "system": {
+    "dfid": "Starforged/Moves/Exploration/Undertake_an_Expedition",
+    "Category": "Starforged/Moves/Exploration",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you travel over hazardous or unknown lands, or or sail an unfamilar route through perilous seas__, give the expedition a name and rank. Then, for each segment of the expedition, envision your approach. If you...\n\n  * Move at speed: Roll +edge\n  * Keep a low profile: Roll +shadow\n  * Stay vigilant: Roll +wits\n\nIf you set off well-prepared from a friendly community, add +1 to your initial roll.\n\nOn a __strong hit__, you reach a waypoint. Envision the location. Then choose one.\n\n  * You make good use of your resources: Mark progress.\n  * You make good pace: Mark progress and take +2 momentum, but also @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1). \n\nOn a __weak hit__, you reach a waypoint, incurring costs en route. Mark progress and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).\n\nOn a __miss__, you are waylaid by a crisis, or arrive at a waypoint to confront an immediate hardship or threat. Do not mark progress, and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you travel over hazardous or unknown lands, or or sail an unfamilar route through perilous seas...",
+      "Options": [
+        {
+          "Text": "Move at speed",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Edge"
+          ]
+        },
+        {
+          "Text": "Keep a low profile",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Shadow"
+          ]
+        },
+        {
+          "Text": "Stay vigilant",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you reach a waypoint. Envision the location. Then choose one.\n\n  * You make good use of your resources: Mark progress.\n  * You make good pace: Mark progress and take +2 momentum, but also @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, you reach a waypoint, incurring costs en route. Mark progress and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, you are waylaid by a crisis, or arrive at a waypoint to confront an immediate hardship or threat. Do not mark progress, and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 169
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 169,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Exploration/Undertake_an_Expedition",
+      "dsid": "move:starforged/exploration/undertake_an_expedition"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1759093789009,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!3ff03b51f620ab26"
+}

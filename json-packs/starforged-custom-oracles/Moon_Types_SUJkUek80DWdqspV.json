@@ -1,0 +1,448 @@
+{
+  "name": "Moon Types",
+  "description": "<p>For each moon that a planet has, roll on the table below to determine what kind of moons these are.</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "_id": "cWQH616bifGFjciW",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky Moon: Treat as a tiny Rocky World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.cWQH616bifGFjciW"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false,
+      "_id": "EOTreCco10W7Mqyt",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desert Moon: Treat as a tiny Desert World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.EOTreCco10W7Mqyt"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        11,
+        15
+      ],
+      "drawn": false,
+      "_id": "zMWg54VaZl40Falm",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ice Moon: Treat as a tiny Ice World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.zMWg54VaZl40Falm"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        16,
+        20
+      ],
+      "drawn": false,
+      "_id": "4Q04NWtPOzIOoKM8",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Furnace Moon: Treat as a tiny Furnace World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.4Q04NWtPOzIOoKM8"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        21,
+        25
+      ],
+      "drawn": false,
+      "_id": "l2yNupTUs2AYUnNx",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grave Moon: Treat as a tiny Grave World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.l2yNupTUs2AYUnNx"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        26,
+        30
+      ],
+      "drawn": false,
+      "_id": "zExZaAR0sXkXOhIV",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vital Moon: Treat as a tiny Vital World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.zExZaAR0sXkXOhIV"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        31,
+        35
+      ],
+      "drawn": false,
+      "_id": "ICt7kpdwW1VPecI0",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jungle Moon: Treat as a tiny Jungle World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.ICt7kpdwW1VPecI0"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        36,
+        40
+      ],
+      "drawn": false,
+      "_id": "UjwpEawtTZSOHqnP",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered Moon: Treat as a tiny Shattered World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.UjwpEawtTZSOHqnP"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        41,
+        45
+      ],
+      "drawn": false,
+      "_id": "Z7DETIe4xWyJkUr1",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocean Moon: Treat as a tiny Ocean World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.Z7DETIe4xWyJkUr1"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        46,
+        50
+      ],
+      "drawn": false,
+      "_id": "sNvOZ54ivadQTegI",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tainted Moon: Treat as a tiny Tainted World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.sNvOZ54ivadQTegI"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        51,
+        55
+      ],
+      "drawn": false,
+      "_id": "M4qvz1eis7oUjc1f",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jovian Moon: Treat as a tiny Jovian World",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.M4qvz1eis7oUjc1f"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false,
+      "_id": "sN9qTQwr4hevGj0h",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificial Moon: See tables",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.sN9qTQwr4hevGj0h"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "_id": "6MWIyI9MwhqSOkAw",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dust Ring: See tables",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.6MWIyI9MwhqSOkAw"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "_id": "8R4sP01y7ZUXA4y8",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline Moon: See tables",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.8R4sP01y7ZUXA4y8"
+    },
+    {
+      "type": "text",
+      "weight": 25,
+      "range": [
+        71,
+        95
+      ],
+      "drawn": false,
+      "_id": "Sn18CutIhEW0fale",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic Moon: Roll on the Exotic Moons table",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.Sn18CutIhEW0fale"
+    },
+    {
+      "type": "text",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "_id": "m2hwGYHiWN3y1ync",
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sister Moons: Add a moon to your total and roll again on this table",
+      "name": "",
+      "_key": "!tables.results!SUJkUek80DWdqspV.m2hwGYHiWN3y1ync"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "img": "icons/dice/d10black.svg",
+  "_id": "SUJkUek80DWdqspV",
+  "folder": "P5VuCgnP3GkBqfh6",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697690199688,
+    "modifiedTime": 1698281196461,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.SUJkUek80DWdqspV",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d100",
+  "_key": "!tables!SUJkUek80DWdqspV"
+}

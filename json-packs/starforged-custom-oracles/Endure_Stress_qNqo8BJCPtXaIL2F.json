@@ -1,0 +1,140 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Moves/Endure_Stress",
+      "category": "Starforged/Moves/Suffer",
+      "dsid": "move.oracle_rollable:starforged/suffer/endure_stress.endure_stress"
+    }
+  },
+  "name": "Endure Stress",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "5b00336ba27635b6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are overwhelmed. @Compendium[foundry-ironsworn.starforgedmoves.ff17e67a59539df4]{Face Desolation}.",
+      "name": "",
+      "_key": "!tables.results!qNqo8BJCPtXaIL2F.5b00336ba27635b6"
+    },
+    {
+      "range": [
+        11,
+        25
+      ],
+      "_id": "9f94de3f9b5cd4c5",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You give up. @Compendium[foundry-ironsworn.starforgedmoves.449c1e260c941a40]{Forsake Your Vow}.",
+      "name": "",
+      "_key": "!tables.results!qNqo8BJCPtXaIL2F.9f94de3f9b5cd4c5"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "80c0b41b9a7cc2cb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You give in to fear or compulsion, and act against your better instincts.",
+      "name": "",
+      "_key": "!tables.results!qNqo8BJCPtXaIL2F.80c0b41b9a7cc2cb"
+    },
+    {
+      "range": [
+        51,
+        100
+      ],
+      "_id": "0779da82219fa3b6",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You persevere.",
+      "name": "",
+      "_key": "!tables.results!qNqo8BJCPtXaIL2F.0779da82219fa3b6"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758483711829,
+    "modifiedTime": 1758484142562,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "qNqo8BJCPtXaIL2F",
+  "sort": 500000,
+  "_key": "!tables!qNqo8BJCPtXaIL2F"
+}

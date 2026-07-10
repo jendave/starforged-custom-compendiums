@@ -1,0 +1,572 @@
+{
+  "name": "Voidforged Truths",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Cataclysm",
+      "type": "text",
+      "_id": "F6wuht2YMzcpLtrk",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>During an expedition to find new inhabitable worlds in our home galaxy, we brought back something that proved to be our near end.</strong></p><p>The never-ending hunger for new worlds to colonize turned out to be fatal for our home galaxy. After returning from an expedition, an explorer brought something called the World Ender which ended the ancient world.</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.aJTEJ9p7z5HSTGiE]{Cataclysm - It was...}</p><blockquote><p>Quest Starter: Evidence of the presence of something similar to the World Ender has been discovered. How do you prevent the Forge from becoming a victim of it?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": 1756497917209,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.F6wuht2YMzcpLtrk"
+    },
+    {
+      "sort": 200000,
+      "name": "Exodus",
+      "type": "text",
+      "_id": "I6JOKseoG6vXupea",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The trajectory was set to another galaxy but an accident deviated one of the colony ships. It slowly drifted to the Forge.</strong></p><p class=\"p1\">Several refugee ships left our home galaxy for a trip across the stars, but one of them got separated after a collision with an asteroid. At first, the pilot tried to rectify the trajectory but failed. After burning all fuel, the ship started slowly drifting and the passengers became hopeless. Randomly finding the Forge and a hospitable planet was a miracle for many.</p><blockquote><p class=\"p1\">Quest Starter: Recently, ships have appeared in the forge, their passengers claiming to come from the original colony destination. What news do they bring about the rest of the colony ships? How is their arrival welcomed by the different factions?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.I6JOKseoG6vXupea"
+    },
+    {
+      "sort": 300000,
+      "name": "Communities",
+      "type": "text",
+      "_id": "ORDOZP9duWj2HqL5",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Communities are built around important natural resources. When they’re depleted, settlers move out, which results in ghost stations and colonies.</strong></p><p class=\"p1\">Many of them exist across the Forge. They’re sometimes not completely empty, as some stubborn inhabitants can refuse to leave. Still, there are so few people that the ambience aboard ghost settlements is eerie, if not a little bit creepy.</p><blockquote><p class=\"p1\">Quest Starter: A distress signal has been sent from a ghost settlement. Upon arrival, you realize that there is no sign of life. What happened to the last inhabitants there? Why do you keep receiving distress signals?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.ORDOZP9duWj2HqL5"
+    },
+    {
+      "sort": 400000,
+      "name": "Iron",
+      "type": "text",
+      "_id": "gxRsPiVt2vg7OXry",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Iron vows are sworn upon small meteorites made of a mineral called new iron.</strong></p><p class=\"p1\">They are generally the size of a hand. It is said that people destined to become Ironsworn attract these meteorite falls. Mysteriously, they seem to never damage where they land.</p><blockquote><p class=\"p1\">Quest Starter: For the first time, a new iron meteorite the size of a human has been discovered on a planet. Many people believe it’s an omen of an important future event. Why do you feel drawn to it?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.gxRsPiVt2vg7OXry"
+    },
+    {
+      "sort": 500000,
+      "name": "Laws",
+      "type": "text",
+      "_id": "pfsM4OUvAbmzfG1j",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Lawmen are using an enslaved alien species called the Soulgazers to determine the innocence or guiltiness of suspected criminals.</strong></p><p class=\"p1\">The Soulgazers have the ability to see if someone has committed a crime or not. They are used in every trial involving important offenses, such as murder. Being condemned by a Soulgazer prevents you from being able to appeal a sentence.</p><blockquote><p class=\"p1\">Quest Starter: One of your friends has been arrested for a crime they have not committed by a Soulgazer. You firmly believe this arrest is an error from the law. Why do you think this is a mistake? How do you prove your friend’s innocence?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.pfsM4OUvAbmzfG1j"
+    },
+    {
+      "sort": 600000,
+      "name": "Religion",
+      "type": "text",
+      "_id": "YPfMnZ2k7gePHf3P",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Our faith is centered around the many stars that illuminate the Forge.</strong></p><p class=\"p1\">There are as many religious variants as there are stars. Many people believe that starlight carries the essence of life, therefore the cosmic objects are revered as gods.</p><blockquote><p class=\"p1\">Quest Starter: Some stars have disappeared from the sky, extinguished. The population believes it is the omen of a terrible event. What is it? Can it be stopped?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.YPfMnZ2k7gePHf3P"
+    },
+    {
+      "sort": 700000,
+      "name": "Magic",
+      "type": "text",
+      "_id": "yDMpJFZhR8Y5dKr3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Supernatural abilities are powerful but often require you to put your body and mind through mortal hardships.</strong></p><p class=\"p1\">Many who have tried to obtain these cursed powers end up dead. The price is high, but so is the reward.</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Z6bUXqpgAdvnh6nS]{Magic - You Can Gain Access to Magic by...}</p><blockquote><p>Quest Starter: You have discovered that an alien could be a possible source of magical power. Do you keep it to yourself or try to make profit from this opportunity? What do you discover when you study this species?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": 1756497954492,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.yDMpJFZhR8Y5dKr3"
+    },
+    {
+      "sort": 800000,
+      "name": "Communication and Data",
+      "type": "text",
+      "_id": "9d3CA5ZmvRzIzJV5",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>For urgent transmissions, we rely on genetically modified humans called Jumpers.</strong></p><p class=\"p1\">They are able to teleport themselves through very long distances, instantly. The gene modifications come with terrible side-effects such as disfiguration and augmented aggressivity. It is hard to keep them under control, but their rapidity is unmatched and very much needed.</p><blockquote><p class=\"p1\">Quest Starter: A laboratory producing Jumpers has sent a distress signal a while ago. Since then, no communication has been<span class=\"Apple-converted-space\"> </span></p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.9d3CA5ZmvRzIzJV5"
+    },
+    {
+      "sort": 900000,
+      "name": "Medicine",
+      "type": "text",
+      "_id": "Xovt0JuxNlgOMGRm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Medicine has trouble keeping up with the regular discovery of new diseases transported by aliens.</strong></p><p class=\"p1\">Many creatures carry viruses and parasites unknown to humanity. Our immune system wasn’t built to fight such threats and it can be fatal sometimes.</p><blockquote><p class=\"p1\">Quest Starter: A plague has wiped out the majority of the population of a settlement, put in quarantine. Why is it important for you to attempt to save the remaining survivors? How does the disease manifest?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.Xovt0JuxNlgOMGRm"
+    },
+    {
+      "sort": 1000000,
+      "name": "Artificial Intelligence",
+      "type": "text",
+      "_id": "4LPAi0jX4ymtE3Ou",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Artificial intelligence has been evolving like an organic species would and we don’t know if it’ll be a blessing or a curse.</strong></p><p class=\"p1\">Since arriving in the Forge, it is like something gave sentience to artificial intelligence and it has evolved on its own. It has permitted our efforts to be redirected in something other than developing it but this meant we didn’t have a hand on the direction of its evolution anymore.</p><blockquote><p class=\"p1\">Quest Starter: An AI claims that artificial life has become superior to organic ones and warns us to be ready to be taken over. Those who submit without resistance will be elevated through the artificialization of their mind. How do they organize? How do they turn human minds artificial? Do you try to stop them or find a way to be part of the chosen ones for artificialization?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.4LPAi0jX4ymtE3Ou"
+    },
+    {
+      "sort": 1100000,
+      "name": "War",
+      "type": "text",
+      "_id": "vo1bhGOXaZmhjFdv",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>War has led to many attempts to associate genes from aliens and humans, resulting in failed bioweapons called the Amalgamations.</strong></p><p class=\"p1\">The goal was to blend the consciousness of humanity with the predatory abilities of some extraterrestrial species. These experiments have failed, creating deformed humanoid beings who have a limited consciousness. They’ve found refuge in derelicts and organize themselves in small communities.</p><blockquote><p class=\"p1\">Quest Starter: You have been engaged to clear a derelict from the presence of Amalgamations, but they have attempted multiple times to reach you and ask for help. They seem to organize themself around an Amalgamation whose consciousness is very close to the human one, contrary to his fellow Amalgamations. Which side do you help?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.vo1bhGOXaZmhjFdv"
+    },
+    {
+      "sort": 1200000,
+      "name": "Lifeforms",
+      "type": "text",
+      "_id": "9s2dvIIvdMFPFq22",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Many lifeforms are over humans in the food chain.</strong></p><p class=\"p1\">The Forge is an inhospitable place for humanity, despite the many efforts to tame it. One particular species, called the Xenomorph, has proven to be a fearsome predator, not counting the many derived species which adapted themselves to different environments.</p><blockquote><p class=\"p1\">Quest Starter: A planetside expedition sent to study a new lifeform has disappeared. Evidence of the death of the crew can be found at their last location. Do you attempt to find any survivors? Find the bodies of the explorers for their families and friends? Continue the expedition?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.9s2dvIIvdMFPFq22"
+    },
+    {
+      "sort": 1300000,
+      "name": "Precursors",
+      "type": "text",
+      "_id": "wUXY9HsU6y7DiHda",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Precursors are hibernating in vaults and their awakening will open a new era for humanity.</strong></p><p class=\"p1\">Many people have been preparing for this day, either with a survivalist or a religious mindset. Some believe their return will bring chaos and destruction, others think peace and flourishment will be the result of their comeback.</p><blockquote><p class=\"p1\">Quest Starter: A being pretending to be a Precursor has arrived in a settlement. What form do they have? What message do they bring? What is their goal?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.wUXY9HsU6y7DiHda"
+    },
+    {
+      "sort": 1400000,
+      "name": "Horrors",
+      "type": "text",
+      "_id": "HDZZMoZvrc4tXzBI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Powerful entities older than the universe itself have been trying to rip through the fabric of our reality to reach us.</strong></p><p class=\"p1\">Their true nature and appearance are unknown but what is sure is that their arrival would turn our reality upside down . Their influence on our world is growing and causing the dead to rise again.</p><blockquote><p class=\"p1\">Quest Starter: Minions of these cosmic beings have appeared across the Forge, omen of their arrival. Can you stop them from preparing for the advent of their leader? What happens if you fail?</p></blockquote>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!7Ig77gzWL4BqAEzo.HDZZMoZvrc4tXzBI"
+    }
+  ],
+  "folder": "8sbPMQDmNrLFJO9H",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756496954099,
+    "modifiedTime": 1756514447234,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "7Ig77gzWL4BqAEzo",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "categories": [],
+  "_key": "!journal!7Ig77gzWL4BqAEzo"
+}

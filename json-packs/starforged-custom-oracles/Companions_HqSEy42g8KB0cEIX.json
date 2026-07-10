@@ -1,0 +1,550 @@
+{
+  "name": "Companions",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "yaHiEZicE4AqX2mn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smoky, arresting eyes",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.yaHiEZicE4AqX2mn"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "bjgUTAGrvgxqaLD9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Well-connected, idealistic",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.bjgUTAGrvgxqaLD9"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "Oj9MS181gFQOeWo7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sullen and magnetic",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.Oj9MS181gFQOeWo7"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "LpM1GWCC9tKNiNOk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generous with spending",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.LpM1GWCC9tKNiNOk"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "ewgcvuyYSxmXumNa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Under the influence",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.ewgcvuyYSxmXumNa"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "OSyb4BYTYfUfNuVh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous and charismatic",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.OSyb4BYTYfUfNuVh"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "RTiA4RZCPeL1DhJP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Earthy, sultry, willing",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.RTiA4RZCPeL1DhJP"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Jqv6ewuwUjH0rBzp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frenetic, intense gaze",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.Jqv6ewuwUjH0rBzp"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "aecimBb9Q1SKBcoD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Just plain hot",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.aecimBb9Q1SKBcoD"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "78TJSxrjHe2PsVKU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tragically in need of help",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.78TJSxrjHe2PsVKU"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "XKvlS2ltWvufnAvB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lithe like a dancer",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.XKvlS2ltWvufnAvB"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "VkFVIjeZxwmbGhxm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unbalanced and compatible",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.VkFVIjeZxwmbGhxm"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "kxOI4ISggyx6snrh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charmingly loud, friendly",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.kxOI4ISggyx6snrh"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "zhIc8gEDuH8w9Ttl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stronger than average",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.zhIc8gEDuH8w9Ttl"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "JS4zeaO3kY84EaIZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clever, witty, silver-tongued",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.JS4zeaO3kY84EaIZ"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "0OaT6Nd3dKcJLSwg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fashionable, pursued by others",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.0OaT6Nd3dKcJLSwg"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "ZTAutKip07hqagU2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Well-fed, comfortable",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.ZTAutKip07hqagU2"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "7U2opZdOAQzTKEHJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred, forlorn look",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.7U2opZdOAQzTKEHJ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "lXdniwcW58ygcOhN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emotionally wounded",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.lXdniwcW58ygcOhN"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "oNBQfAZimjOjXkqS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Socially taboo",
+      "name": "",
+      "_key": "!tables.results!HqSEy42g8KB0cEIX.oNBQfAZimjOjXkqS"
+    }
+  ],
+  "folder": "yu8JPkbHDETxzu4h",
+  "sort": 0,
+  "_id": "HqSEy42g8KB0cEIX",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you have found companionship, roll twice. The first result is part of your initial attraction. The second result will be revealed very soon into the conversation. Feel free to use the Character oracles on page 330 as needed. The heart wants what the heart wants.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1699293154094,
+    "modifiedTime": 1699294903756,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!HqSEy42g8KB0cEIX"
+}

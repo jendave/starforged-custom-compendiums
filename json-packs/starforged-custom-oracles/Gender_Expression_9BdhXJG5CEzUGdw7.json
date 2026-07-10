@@ -1,0 +1,140 @@
+{
+  "name": "Gender Expression",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        33
+      ],
+      "_id": "a4vwj8vsaMEs6ohc",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Masculine Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.wIvKjzRxQDzWJnyw",
+      "description": "",
+      "_key": "!tables.results!9BdhXJG5CEzUGdw7.a4vwj8vsaMEs6ohc"
+    },
+    {
+      "range": [
+        34,
+        66
+      ],
+      "_id": "Ns8inz8wd6sgrK79",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Feminine Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.2Ea8cuj91AOMKRGx",
+      "description": "",
+      "_key": "!tables.results!9BdhXJG5CEzUGdw7.Ns8inz8wd6sgrK79"
+    },
+    {
+      "range": [
+        67,
+        99
+      ],
+      "_id": "31yyYGZYmqGjTDCE",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Indeterminate Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.D9sUWjV1LkL2IF2O",
+      "description": "",
+      "_key": "!tables.results!9BdhXJG5CEzUGdw7.31yyYGZYmqGjTDCE"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "TJUvFL22SOCl4YUr",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Incomprehensible Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.iwL24GWMd5rRWocy",
+      "description": "",
+      "_key": "!tables.results!9BdhXJG5CEzUGdw7.TJUvFL22SOCl4YUr"
+    }
+  ],
+  "_id": "9BdhXJG5CEzUGdw7",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>By <span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif\">kindfulkirby</span></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "Q9caS0REseItFckx",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.6",
+    "coreVersion": "13.350",
+    "createdTime": 1697527953941,
+    "modifiedTime": 1697530799634,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.9BdhXJG5CEzUGdw7",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!9BdhXJG5CEzUGdw7"
+}

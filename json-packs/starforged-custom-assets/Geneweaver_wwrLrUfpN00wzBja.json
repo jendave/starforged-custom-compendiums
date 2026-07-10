@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Geneweaver",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you make a bio-adaptive module encoded with a creature's DNA, roll +wits. On a strong hit, the wearer adds +1 when making moves with a stat linked to the creature's main attribute [swiftness-edge; resilience-iron; kinship- heart; stealthiness-shadow; cleverness- wits]. If they roll a 1 on their action die while using the module, the effect is lost. On a weak hit, as above, but the neural feedback is disruptive; @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} [-2].</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may interface using a rare or prime-specimen module. If you do, @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} [-3] on a weak hit, and the wearer adds +2 [instead of +1].</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When the wearer makes a threshold move, the module's failsafe triggers and overloads; they must reroll one die.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/dna2.svg",
+  "effects": [],
+  "sort": 173438,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Bind",
+      "dsid": "asset:classic/ritual/bind",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.5dae96957d13ef59",
+    "duplicateSource": "Item.343boHhlpGUggqxt",
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "wwrLrUfpN00wzBja",
+  "_key": "!items!wwrLrUfpN00wzBja"
+}

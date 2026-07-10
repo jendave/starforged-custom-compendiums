@@ -1,0 +1,260 @@
+{
+  "name": "Genres and Themes",
+  "_id": "8r9vT5ILE25Ky32W",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Star Wars",
+      "type": "text",
+      "_id": "X6EpvET7Om6JbyiE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by cdoghusk</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.U10AYZWqelmLuBKM]{Star Wars}</p><h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.gb1MYGuYf7glrM9w]{Star Wars}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757749198820,
+        "modifiedTime": 1758085118987,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!8r9vT5ILE25Ky32W.X6EpvET7Om6JbyiE"
+    },
+    {
+      "sort": 50000,
+      "name": "Horror",
+      "type": "text",
+      "_id": "NYvYNEEJuZatr4kv",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by Kerys</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.EjC4IPiVZecizyq1]{Voidforged Resources}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.7Ig77gzWL4BqAEzo]{Voidforged Truths}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757749853909,
+        "modifiedTime": 1758144180930,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!8r9vT5ILE25Ky32W.NYvYNEEJuZatr4kv"
+    },
+    {
+      "sort": 550000,
+      "name": "Urban/Cyberpunk",
+      "type": "text",
+      "_id": "QTSq3iH3qInc62fu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.KtNozzRe6OkGN0fi]{The City on the Breeze}</p><h2>Resources by nqjasmine</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.sxkUPREspMbY51Xv]{Crimes Oracles}</p><h2>Resources by vishae</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.4NauVKlntpylwd6O]{Iron City - District Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750476155,
+        "modifiedTime": 1758144185161,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!8r9vT5ILE25Ky32W.QTSq3iH3qInc62fu"
+    },
+    {
+      "sort": 0,
+      "name": "Corporations",
+      "type": "text",
+      "_id": "dn5EQMPKnWFfmnaw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.FkcSZv2Graz2JU2d]{I Owe my Soul to the Company Planet}</p><h2>Resources by lm77</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.N13mqXTPweTUbFHX]{Megacorp Names Hot Sauce}</p><h2>Resources by wilsonam</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.v98RH8iMmiHelisS]{Corporate Plot Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750544511,
+        "modifiedTime": 1758144178293,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!8r9vT5ILE25Ky32W.dn5EQMPKnWFfmnaw"
+    },
+    {
+      "sort": 500000,
+      "name": "Time Travel",
+      "type": "text",
+      "_id": "EpRnpWRdpNZum3S2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by lemunde</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.bHc1EsEtrXUtl0Wo]{Time Traveler Assets}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.2uPJOv13HWxsZ2DY]{Time Traveler Oracles}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758059784087,
+        "modifiedTime": 1758059808486,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!8r9vT5ILE25Ky32W.EpRnpWRdpNZum3S2"
+    },
+    {
+      "sort": 600000,
+      "name": "Water",
+      "type": "text",
+      "_id": "nY296V5jOse6H1V4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by mjatthijs</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.SMM9gfaXrnRWHbJ6]{Water}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758085003330,
+        "modifiedTime": 1758085033585,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!8r9vT5ILE25Ky32W.nY296V5jOse6H1V4"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757749192804,
+    "modifiedTime": 1757750441640,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!8r9vT5ILE25Ky32W"
+}

@@ -1,0 +1,29 @@
+{
+  "folder": "doiG6KtJAB3QULJl",
+  "name": "She Cannae Take It!",
+  "type": "script",
+  "_id": "8flAA4N5K6zBEWRa",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nlet table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.9Lw2GlMyLNqHR4Ri\");\nlet roll = await table.roll();\nlet location = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.J4Pm4dY96dfKUiRz\");\nroll = await table.roll();\nlet adjective = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.atSzGzt43aXIrh1V\");\nroll = await table.roll();\nlet first_part = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.xnan7QVWBABBEImV\");\nroll = await table.roll();\nlet last_part = roll.results[0].text;\n\nlet system = location + \" \" + adjective + \" \" + first_part + \" \" + last_part;\nlet title = \"<h3>She Cannae Take It!</h3>\";\nlet message = \"\";\n\nroll = await new Roll('1d3').evaluate();\n\nif (roll.total == 1) {\n    // \"We need to <need> the <system>.\"\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.WICnxf7Vhz5GOgLR\");\n    roll = await table.roll();\n    let need = roll.results[0].text;\n    message = \"We need to \" + need + \" the \" + system + \".\";\n} else if (roll.total == 2) {\n    // \"The <system> is <problem>.\"\n    table = await fromUuid(\"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.dK8a0tkTZH9xOr4e\");\n    roll = await table.roll();\n    let problem = roll.results[0].text;\n    message = \"The \" + system + \" is \" + problem + \".\";\n} else if (roll.total == 3) {\n    // \"The <system> is offline.\"\n    message = \"The \" + system + \" is offline.\";\n}\n\n// Print the message\nprintMessage(title + message);",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750834816,
+    "modifiedTime": 1757750834816,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!macros!8flAA4N5K6zBEWRa"
+}

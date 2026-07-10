@@ -1,0 +1,728 @@
+{
+  "name": "Gameplay Aids",
+  "_id": "I0Ffj42tIsZu4iW5",
+  "pages": [
+    {
+      "sort": 550000,
+      "name": "NPC/Creature Generation",
+      "type": "text",
+      "_id": "a7tFEcfJeIYfV4ra",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.DApyZpOGLANSzjZk]{Creature Rank}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.VpSy5HANM9ekG0r9]{Generate Creature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.rHWwK4XNK1uFkxo2]{Generate Creature (Starsmith)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.GuGFAYTRMc0eXjmn]{Generate NPC}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.cslFqvcT3oXrdxEt]{Generate NPC (Starsmith)}</p><h2>Resources by lm77</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.0GJez0SJRlWHgDK1]{Creature Tags Hot Sauce}</p><h2>Resources by wilsonam</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.9dhXRhhbeLDSi358]{NPC Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750610007,
+        "modifiedTime": 1758144082815,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.a7tFEcfJeIYfV4ra"
+    },
+    {
+      "sort": 556250,
+      "name": "Oracles to Generate Move Ideas",
+      "type": "text",
+      "_id": "i4IEYDCvfjrI1HRn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by shawn-tomkin</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.11I7sFAvkzrqUFJH]{Spacefaring Interludes}</p><h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.66tj3sj9X1ruwg1p]{Critical Success}</p><h2>Resources by lm77</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.HkMF8ar2FPiW3Jfn]{Sojurn Hot Sauce}</p><h2>Resources by Julius Hennig</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Iz3CSoqHwkL0gl2R]{Hearten Oracle}</p><h2>Resources by rossum</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.fxj0Uh51G2gHwCRn]{Starforged Sojourner}</p><h2>Resources by yourGMJack</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.1iAIrmpeNMM4s6iu]{Character Interludes}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1757750642200,
+        "modifiedTime": 1758144146415,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.i4IEYDCvfjrI1HRn"
+    },
+    {
+      "sort": 656250,
+      "name": "Quest/Plot Generators",
+      "type": "text",
+      "_id": "87A1km5rIoMbkNAT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.jep99Neqt4WvXxBZ]{Sworn Quest Mad Lib}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.gLp4vIXOcVuyi0i5]{Sworn Quest Mad Lib (Starsmith)}</p><h2>Resources by wilsonam</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.sJmsIV11UpQKggsD]{NPC Plot Generator}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.v98RH8iMmiHelisS]{Corporate Plot Generator}</p><h2>Resources by dukethesquirrelking</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.2W31xNthJgzmrkLK]{Postive Plot Twists Oracle}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758057694529,
+        "modifiedTime": 1758144151942,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.87A1km5rIoMbkNAT"
+    },
+    {
+      "sort": 737500,
+      "name": "Roll Macros",
+      "type": "text",
+      "_id": "a6CZDRsgX5OMVWEA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by benstraub</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.ercbTXEiAQ0QM9lr]{Rolling Macros}</p><h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.PmFKR0Upk4mHJLBH]{Gameplay Macros}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758058445291,
+        "modifiedTime": 1758144134848,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.a6CZDRsgX5OMVWEA"
+    },
+    {
+      "sort": 500000,
+      "name": "Moves",
+      "type": "text",
+      "_id": "uEH9gClsmt80vZe2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by shawn-tomkin</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.J0MZMuPt5ovlGOkk]{Failure Moves}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758059011024,
+        "modifiedTime": 1758059074921,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.uEH9gClsmt80vZe2"
+    },
+    {
+      "sort": 818750,
+      "name": "Sector Location Generators",
+      "type": "text",
+      "_id": "Dpk1CeV3cZN1gquB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by ellie-valkyrie</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.UYYuuQuGDyDKl2RM]{Better + Moons}</p><h2>Resources by cdoghusk</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.xDlIgmPUCDUJiQzN]{Exotic Planets}</p><h2>Resources by castelviator</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.7RhxnrEFzW9H9Ol8]{Exploration Oracles Arrays - Planets}</p><h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.cs1jaUX6kxbCS0aa]{Build Starting Sector}</p><h2>Resources by mjatthijs</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.xDlIgmPUCDUJiQzN]{Exotic Planets}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060114335,
+        "modifiedTime": 1765237060139,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.Dpk1CeV3cZN1gquB"
+    },
+    {
+      "sort": 112500,
+      "name": "Equipment and Artifacts",
+      "type": "text",
+      "_id": "N7x7IbzyamGqNTfs",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by illinalta</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Ssi2zPbvWOYGH9SK]{Starforged Gear}</p><h2>Resources by Julius Hennig</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.4uECVM64JkOe1sjd]{Cultural References and Artifacts from Earth}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758060592848,
+        "modifiedTime": 1758144100221,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.N7x7IbzyamGqNTfs"
+    },
+    {
+      "sort": 1150000,
+      "name": "Settlements",
+      "type": "text",
+      "_id": "U6J8UMaQw6hGwYmz",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by wilsonam</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.jGSGxnNUb2WeCtAR]{Settlement Detailing}</p><h2>Resources by castelviator</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.TOKKGNPInrBvbyBR]{Exploration Oracles Arrays - Settlements}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067654822,
+        "modifiedTime": 1758144126890,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.U6J8UMaQw6hGwYmz"
+    },
+    {
+      "sort": 900000,
+      "name": "Settlement Weather",
+      "type": "text",
+      "_id": "5lh6IcG1h6W5SSRR",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by wilsonam</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.wXQkE5FWWaykkP18]{Settlement Weather}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067680902,
+        "modifiedTime": 1758067696790,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.5lh6IcG1h6W5SSRR"
+    },
+    {
+      "sort": 0,
+      "name": "Character Generation",
+      "type": "text",
+      "_id": "NRXieKtlqHzbnFRl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by kindfulkirby</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.vyWpH0zWeuwW7SQm]{Gender Expression}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758067969648,
+        "modifiedTime": 1758144071664,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.NRXieKtlqHzbnFRl"
+    },
+    {
+      "sort": 6250,
+      "name": "Culture",
+      "type": "text",
+      "_id": "bNCKjG5A2d87etJj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by Julius Hennig</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.4uECVM64JkOe1sjd]{Cultural References and Artifacts from Earth}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.dHPiAYx1kylWxQ5n]{Forging Festivities}</p><h2>Resources by rossum</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.fxj0Uh51G2gHwCRn]{Starforged Sojourner}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758082810161,
+        "modifiedTime": 1758144094472,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.bNCKjG5A2d87etJj"
+    },
+    {
+      "sort": 25000,
+      "name": "Derelicts",
+      "type": "text",
+      "_id": "4OTaAGVCnTxVZKAl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by castelviator</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.DuGMyGaOTB6tNZfi]{Exploration Oracles Arrays - Derelicts}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758140502417,
+        "modifiedTime": 1758144089512,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.4OTaAGVCnTxVZKAl"
+    },
+    {
+      "sort": 575000,
+      "name": "Precursor Vaults",
+      "type": "text",
+      "_id": "0zNhQLZee1AYj5zK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by castelviator</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.XrRRij2zCNKTIqH4]{Exploration Oracles Arrays - Precursor Vaults}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758140593274,
+        "modifiedTime": 1758144107621,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.0zNhQLZee1AYj5zK"
+    },
+    {
+      "sort": 1400000,
+      "name": "Space",
+      "type": "text",
+      "_id": "ebMyTmjbB5hG6UW4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by castelviator</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.1N9YFYFnIwAzb1OE]{Exploration Oracles Arrays - Space}</p><h2>Resources by youGMJack</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.vU7N6vGr45bbaP1y]{Spacefaring Waypoints}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758140637533,
+        "modifiedTime": 1758143614150,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.ebMyTmjbB5hG6UW4"
+    },
+    {
+      "sort": 12500,
+      "name": "Districts",
+      "type": "text",
+      "_id": "j1YIp0Xuip1zH39n",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by vishae</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.4NauVKlntpylwd6O]{Iron City - District Generator}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758143114209,
+        "modifiedTime": 1758144091793,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.j1YIp0Xuip1zH39n"
+    },
+    {
+      "sort": 778125,
+      "name": "Scene Helpers",
+      "type": "text",
+      "_id": "XNitxnaEqJeBZZWn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by Sequencer</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.56RaEBQ75KFZ7wrv]{Effects Macros}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.5",
+        "createdTime": 1763266242519,
+        "modifiedTime": 1763266322256,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.XNitxnaEqJeBZZWn"
+    },
+    {
+      "sort": 1500000,
+      "name": "Token Mods",
+      "type": "text",
+      "_id": "Y3QTaicNWR2FPJdj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.Zp5wKCfs4hcOoLAD]{Impacts &amp; Combat Positions Configuration}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "mUpfxOkiDn7bBAUT": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.6",
+        "createdTime": 1765155608587,
+        "modifiedTime": 1765161771606,
+        "lastModifiedBy": "mUpfxOkiDn7bBAUT"
+      },
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.Y3QTaicNWR2FPJdj"
+    },
+    {
+      "sort": 306250,
+      "name": "Factions",
+      "type": "text",
+      "_id": "P21ns0ATSsYt9uJu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.tW0JTh9CVnxFerc9]{Faction Details}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.TPuvmRqN54hxYdw2]{Generate Faction}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.ShVu779cxRGpuEMD]{Generate Faction (Starsmith)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.8126qiBilFLuuGDt]{Generate Faction (Sundered Isles)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.P8wSk2B8XECFRk6f]{Faction Influence Grid}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "createdTime": 1774597189292,
+        "modifiedTime": 1774600807477,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!I0Ffj42tIsZu4iW5.P21ns0ATSsYt9uJu"
+    }
+  ],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750593836,
+    "modifiedTime": 1758084987527,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!I0Ffj42tIsZu4iW5"
+}

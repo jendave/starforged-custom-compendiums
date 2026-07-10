@@ -1,0 +1,296 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Moves/Begin_a_Session",
+      "category": "Starforged/Moves/Session",
+      "dsid": "move.oracle_rollable:starforged/session/begin_a_session.begin_a_session"
+    }
+  },
+  "name": "Begin a Session",
+  "description": "",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "5302fa32f6b54419",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashback reveals an aspect of your background or nature",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.5302fa32f6b54419"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "c9d33abb9d996498",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashback reveals an aspect of another character, place, or faction",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.c9d33abb9d996498"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "f609c53b8404fa68",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Influential character or faction is introduced or given new detail",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.f609c53b8404fa68"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "8baa518197f031bb",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seemingly unrelated situations are shown to be connected",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.8baa518197f031bb"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "54e737f2fda0bf64",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "External factors create new danger, urgency, or importance for a quest",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.54e737f2fda0bf64"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "bf40e8b457d00903",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Important character is put in danger or suffers a misadventure",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.bf40e8b457d00903"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "5e115e866a6d0722",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key location is made unsafe or becomes mired in conflict",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.5e115e866a6d0722"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "39ff6079a5277648",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected return of an enemy or threat",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.39ff6079a5277648"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "75fd8c714bf0edea",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peril lies ahead or lurks just out of view",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.75fd8c714bf0edea"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "5623378f95e55527",
+      "type": "text",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unforeseen aid is on the way or within reach",
+      "name": "",
+      "_key": "!tables.results!JbiAVU1ZUhemIgRN.5623378f95e55527"
+    }
+  ],
+  "folder": "Et6gYyWzqZwieobL",
+  "img": "icons/dice/d10black.svg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758483606280,
+    "modifiedTime": 1758484142562,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_id": "JbiAVU1ZUhemIgRN",
+  "sort": 700000,
+  "_key": "!tables!JbiAVU1ZUhemIgRN"
+}

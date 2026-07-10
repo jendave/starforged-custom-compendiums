@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "_id": "8arqdEipZkzdM61e",
+  "folder": "6jaQwsas0meek7YV",
+  "name": "Invoker",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you absorb the latent energies of your environment, roll +wits. On a strong hit, take the value of your action die as +charge. Then, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} +charge to create a minor effect. If you do, suffer -1 charge and take +1 momentum on a hit. On a weak hit, as above, but capturing these energies is taxing; @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} [-2].</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>As above, and you may also @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} +charge by weaving these energies in your interaction.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you have at least 4 charge, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} by unleashing them all in a dramatic display. On hit, you achieve a major mystical feat and take half the spent charge as +momentum [rounded up].</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Essence",
+      "current": 0,
+      "max": 6,
+      "value": 0,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/embrassed-energy.svg",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Ritual/Invoke",
+      "dsid": "asset:classic/ritual/invoke",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.starforged-custom-oracles.starforgedcustomassets.Item.0f0755a88b6dae09",
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1760850102178,
+    "modifiedTime": 1760850102178,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!8arqdEipZkzdM61e"
+}

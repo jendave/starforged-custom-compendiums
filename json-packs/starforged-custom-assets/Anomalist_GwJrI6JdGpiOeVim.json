@@ -1,0 +1,70 @@
+{
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Anomalist",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/moebius-triangle.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you encounter a strange and unstable phenomena, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.90c1db535c31ad7e]{Begin the Scene} to investigate the source or nature of the anomaly. Then, when you @Compendium[foundry-ironsworn.starforgedmoves.Item.0daf0460e4faa6fa]{Finish the Scene} by proposing a theory:\n<ul>\n<li>Strong hit: The theory proves correct. Mark 1 tick on your discoveries legacy track.</li>\n<li>Weak hit: As with a strong hit, but the knowledge exacts a cost. Pay the Price.</li>\n<li>Miss: You are dangerously wrong. @Compendium[foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}, making it a dire cost.</li>\n</ul>\n</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 8,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>The mysteries deepen. When you score a strong hit to @Compendium[foundry-ironsworn.starforgedmoves.Item.0daf0460e4faa6fa]{Finish the Scene} in a dangerous or formidable challenge, you may also @Compendium[foundry-ironsworn.starforgedmoves.Item.75d5b0762ebab856]{Make a Discovery} or @Compendium[foundry-ironsworn.starforgedmoves.Item.6848983199a497df]{Confront Chaos} if it fits the established nature of the anomaly.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (severe or major) as you confront an anomaly, you may envision how the hardship inspires a helpful recollection or epiphany. If you do, reroll any dice when you make a move (once only) to act on the insight.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.27.0",
+    "createdTime": 1782513824308,
+    "modifiedTime": 1782513824308,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "GwJrI6JdGpiOeVim",
+  "sort": 0,
+  "_key": "!items!GwJrI6JdGpiOeVim"
+}

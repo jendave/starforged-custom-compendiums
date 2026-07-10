@@ -1,0 +1,94 @@
+{
+  "_id": "13b2d777c6fb719d",
+  "type": "sfmove",
+  "name": "Gather Information",
+  "img": "icons/dice/d10black.svg",
+  "folder": "e5b957751be9d2e6",
+  "system": {
+    "dfid": "Starforged/Moves/Adventure/Gather_Information",
+    "Category": "Starforged/Moves/Adventure",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When you search for clues, conduct an investigation, study evidence, or follow a track__, roll +wits.\n\nOn a __strong hit__, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn. Then, take +2 momentum.\n\nOn a __weak hit__, the information provides new insight, but also complicates your quest. Envision what you discover. Then, take +1 momentum.\n\nOn a __miss__, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+    "Trigger": {
+      "Text": "When you search for clues, conduct an investigation, study evidence, or follow a track...",
+      "Options": [
+        {
+          "Text": "",
+          "Roll type": "Action roll",
+          "Method": "Any",
+          "Using": [
+            "Wits"
+          ]
+        }
+      ]
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "On a __strong hit__, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn. Then, take +2 momentum.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": "On a __weak hit__, the information provides new insight, but also complicates your quest. Envision what you discover. Then, take +1 momentum.",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "On a __miss__, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.78baa51694fe37c5]{Pay the Price}.",
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        },
+        "Reroll": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 149
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "sort": 149,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Adventure/Gather_Information",
+      "dsid": "move:starforged/adventure/gather_information"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757745819570,
+    "modifiedTime": 1758856673811,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!items!13b2d777c6fb719d"
+}

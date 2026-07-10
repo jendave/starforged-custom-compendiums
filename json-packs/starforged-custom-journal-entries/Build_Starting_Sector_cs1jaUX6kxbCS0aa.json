@@ -1,0 +1,65 @@
+{
+  "folder": "5ugGm7ATxKj3OPeb",
+  "name": "Build Starting Sector",
+  "_id": "cs1jaUX6kxbCS0aa",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Installation",
+      "type": "text",
+      "_id": "x2zGW0H7h4EmMKyg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"modules/starforged-custom-oracles/docs/build-starting-sector-macro.gif\" alt=\"Build starting Sector Example\" /><ul><li>Use the <a href=\"https://github.com/jendave/starforged-custom-compendiums/blob/main/src/macros/jendave/build-starting-sector.js\">starting sector generation macro</a> to generate an entire starting sector with settlements, planets, stars, passages and a connection. Look for it in the <code>Starforge Custom Macros</code> Compendium under <code>Macros by jendave</code>.</li><li><p>For full functionality, install and activate the following modules:</p><ul><li><a href=\"https://foundryvtt.com/packages/token-attacher\">Token Attacher</a> - for attaching planets to settlements.</li><li><a href=\"https://foundryvtt.com/packages/JB2A_DnD5e\">JB2A - Jules&amp;Ben's Animated Assets</a> - for creating passages between settlements.</li><li><a href=\"https://foundryvtt.com/packages/sequencer\">Sequencer</a> - for creating passages between settlements.</li><li><a href=\"https://foundryvtt.com/packages/starsmith-expanded-oracles\">Starsmith Expanded Oracles for Ironsworn: Starforged</a> to use many more oracles.</li></ul></li><li>Disabling <code>Game Settings</code> - <code>Automated Token Rotation</code> is highly recommended. Otherwise, the planets will move around unexpectedly relative to the settlements.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.6",
+        "createdTime": 1765236854439,
+        "modifiedTime": 1765237028062,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!cs1jaUX6kxbCS0aa.x2zGW0H7h4EmMKyg"
+    }
+  ],
+  "categories": [],
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.6",
+    "createdTime": 1765236841575,
+    "modifiedTime": 1774597270674,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_key": "!journal!cs1jaUX6kxbCS0aa"
+}

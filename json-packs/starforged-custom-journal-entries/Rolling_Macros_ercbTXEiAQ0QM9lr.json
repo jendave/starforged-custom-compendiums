@@ -1,0 +1,65 @@
+{
+  "folder": "hMo2c0iDwW4STW0h",
+  "name": "Rolling Macros",
+  "_id": "ercbTXEiAQ0QM9lr",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Macros",
+      "type": "text",
+      "_id": "19oo9sJsk1WpyWQW",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.q5eDsog2CHHcYyWI]{Ask the Oracle - 50/50}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.EdypCn0AW7rFPO5k]{Ask the Oracle - Almost Certain}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.oJqVwW7IbM181y4X]{Ask the Oracle - Likely}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.Cv1GlIWgFVvKdsdX]{Ask the Oracle - Small Chance}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommacros.Macro.Vmx0m9J02aUnHAGH]{Ask the Oracle - Unlikely}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758058545485,
+        "modifiedTime": 1758058545485,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!ercbTXEiAQ0QM9lr.19oo9sJsk1WpyWQW"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758058540878,
+    "modifiedTime": 1758058540878,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!ercbTXEiAQ0QM9lr"
+}

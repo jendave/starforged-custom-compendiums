@@ -1,0 +1,238 @@
+{
+  "name": "Underwater Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "5OuqRARXWnKZXaXk",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1-25 Useful plantlife or animals",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.5OuqRARXWnKZXaXk"
+    },
+    {
+      "range": [
+        26,
+        40
+      ],
+      "_id": "f78b6W25u9CHlFY9",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clear path through difficult terrain",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.f78b6W25u9CHlFY9"
+    },
+    {
+      "range": [
+        41,
+        55
+      ],
+      "_id": "KPkNhoyE6qiCZnHq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impressive vista offers comfort or inspiration",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.KPkNhoyE6qiCZnHq"
+    },
+    {
+      "range": [
+        56,
+        65
+      ],
+      "_id": "vx2FuSYOCACyRJcv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Source of breathable air",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.vx2FuSYOCACyRJcv"
+    },
+    {
+      "range": [
+        66,
+        85
+      ],
+      "_id": "HPy9zP7Wk1uZJFEX",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to escape or avoid foes",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.HPy9zP7Wk1uZJFEX"
+    },
+    {
+      "range": [
+        86,
+        96
+      ],
+      "_id": "ePISN0BAUCsLTZ77",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cache of cargo or supplies",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.ePISN0BAUCsLTZ77"
+    },
+    {
+      "range": [
+        97,
+        99
+      ],
+      "_id": "GLwFDfeuTmpTdvd1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.sunderedislesoracles.RollTable.a1129f68e66db32a]{Treasure Value (Small)}",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.GLwFDfeuTmpTdvd1"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "VAnDxbiPArUiyFDu",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[foundry-ironsworn.sunderedislesoracles.RollTable.54ada22a5c08f0d2]{Treasure Value (Medium)}",
+      "name": "",
+      "_key": "!tables.results!adarSchsINuPKOfg.VAnDxbiPArUiyFDu"
+    }
+  ],
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>Use this table when encountering an opportunity while diving underwater.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "yf5ut5u758hVDi77",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.9",
+    "createdTime": 1737193952090,
+    "modifiedTime": 1737193952149,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "adarSchsINuPKOfg",
+  "sort": 200000,
+  "_key": "!tables!adarSchsINuPKOfg"
+}

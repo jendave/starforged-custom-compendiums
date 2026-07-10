@@ -1,0 +1,65 @@
+{
+  "folder": "QzPzJS8zrFqy5Uzg",
+  "name": "Exploration Oracles Arrays - Settlements",
+  "_id": "TOKKGNPInrBvbyBR",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracle Arrays",
+      "type": "text",
+      "_id": "rCwdeDnAwkyCTpM3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Planetside</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.f9poZZd4NwQHpjmP]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8eIvh2Tt2GcXayRr]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ERxS3MvsdqxgAj5m]{Peril}</p><h2>Space</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SRSTO7vO6ED6KbmM]{Feature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.T7sI9mjzhSUJLxy0]{Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.lhwv4EcUyyaVuPOI]{Peril}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758140260119,
+        "modifiedTime": 1758140339511,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!TOKKGNPInrBvbyBR.rCwdeDnAwkyCTpM3"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758140254138,
+    "modifiedTime": 1758140254138,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!TOKKGNPInrBvbyBR"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "Planetary Evolution",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "XOdamxceDSk8JcMk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "No noticeable change",
+      "name": "",
+      "_key": "!tables.results!sJo3xnlXbjWZk8XJ.XOdamxceDSk8JcMk"
+    },
+    {
+      "range": [
+        11,
+        35
+      ],
+      "_id": "mxgmfSO37uOT4sKI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subtle changes in the landscape",
+      "name": "",
+      "_key": "!tables.results!sJo3xnlXbjWZk8XJ.mxgmfSO37uOT4sKI"
+    },
+    {
+      "range": [
+        36,
+        75
+      ],
+      "_id": "In8TDxNkPNlmyIkk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant changes to the geography and atmosphere",
+      "name": "",
+      "_key": "!tables.results!sJo3xnlXbjWZk8XJ.In8TDxNkPNlmyIkk"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "iuND8MFlrLAWXjaD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Changes extreme enough to alter the planet's class",
+      "name": "",
+      "_key": "!tables.results!sJo3xnlXbjWZk8XJ.iuND8MFlrLAWXjaD"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "gi2ypdt2o5UM0WaM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planet no longer exists or has yet to form",
+      "name": "",
+      "_key": "!tables.results!sJo3xnlXbjWZk8XJ.gi2ypdt2o5UM0WaM"
+    }
+  ],
+  "folder": "PcJyZSD7q8Wxq6N4",
+  "sort": 0,
+  "_id": "sJo3xnlXbjWZk8XJ",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "F1bbAr0GqBQd66Yt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.350",
+    "createdTime": 1713662132650,
+    "modifiedTime": 1713692711251,
+    "lastModifiedBy": "F1bbAr0GqBQd66Yt",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!sJo3xnlXbjWZk8XJ"
+}

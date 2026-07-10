@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "_id": "dadad68f11e12d1c",
+  "folder": "18b30f608501bf56",
+  "name": "Skirmisher",
+  "system": {
+    "requirement": "<p>If you wield a spear…</p>",
+    "category": "Combat Talent",
+    "color": null,
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Attack} by holding a foe at bay using your spear’s reach, roll +iron or +edge. If you score a hit, you may…</p>\n<ul>\n<li>Iron: @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} if in control or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} now, and add +1.</li>\n<li>Edge: Take +1 momentum.</li>\n</ul>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} in close combat, you may attempt to drive your spear home (decide before rolling). If you do, add +1 and mark progress twice on a hit. If you score a hit and the fight continues, @Compendium[foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Attack} or @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} +iron to recover your spear.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by bracing your spear against a charging foe, add +1 and take +1 momentum on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/spears.svg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "SniXtKGZgRZMhSUB": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Ironsworn/Assets/Combat_Talent/Skirmisher",
+      "dsid": "asset:classic/combat_talent/skirmisher",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.3",
+    "createdTime": 1727721162224,
+    "modifiedTime": 1758310506130,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!items!dadad68f11e12d1c"
+}

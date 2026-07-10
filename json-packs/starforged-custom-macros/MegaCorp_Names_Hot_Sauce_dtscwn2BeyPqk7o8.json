@@ -1,0 +1,29 @@
+{
+  "folder": "TzVEBKAjyO5uRc4c",
+  "name": "MegaCorp Names Hot Sauce",
+  "type": "script",
+  "_id": "dtscwn2BeyPqk7o8",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction randomItemInArray(array) {\n    return array[(Math.floor(Math.random() * array.length))];\n}\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.\";\n\n    let title = \"<h3>MegaCorp Names</h3>\";\n\n    const megaCorpPrefixArray = [\"n2QIJPF0TnYl3HV2\", \"FNdAYylXJaIzHJPl\", \"Cp4ZOvPVaB1gcfsN\"];\n    const megaCorpStylizerArray = [\"24c7utw48KSWuKJk\", \"NAgkcDnEG03d5zvb\", \"qR8ukYM0uiTfp45t\"];\n\n    let megaCorpPrefixTable_1 = await fromUuid(rollTablesUUIDPrefix + randomItemInArray(megaCorpPrefixArray));\n    let megaCorpPrefixRoll_1 = await megaCorpPrefixTable_1.roll();\n    let megaCorpPrefix_1 = megaCorpPrefixRoll_1.results[0].text;\n\n    let megaCorpPrefixTable_2 = \"\";\n    let megaCorpPrefixRoll_2 = \"\";\n    let megaCorpPrefix_2 = \"\";\n\n    do {\n        megaCorpPrefixTable_2 = await fromUuid(rollTablesUUIDPrefix + randomItemInArray(megaCorpPrefixArray));\n        megaCorpPrefixRoll_2 = await megaCorpPrefixTable_2.roll();\n        megaCorpPrefix_2 = megaCorpPrefixRoll_2.results[0].text;\n    } while (megaCorpPrefix_2 == megaCorpPrefix_1);\n\n    let megaCorpStylizerTable = await fromUuid(rollTablesUUIDPrefix + randomItemInArray(megaCorpStylizerArray));\n    let megaCorpStylizerRoll = await megaCorpStylizerTable.roll();\n    let megaCorpStylizer = megaCorpStylizerRoll.results[0].text;\n\n    let message = \"MegaCorp Name: \";\n    message += megaCorpPrefix_1 + megaCorpPrefix_2 + \" \" + megaCorpStylizer;\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750833560,
+    "modifiedTime": 1757750833560,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!macros!dtscwn2BeyPqk7o8"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "NnKmQ9y96WrkHhpc",
+  "name": "Overview",
+  "_id": "XgMEt37E6SF4p30u",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "xe1AfJgkJRzCQtAR",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<ul><li><a href=\"https://cdn.discordapp.com/attachments/468867952033136652/1366915141106663545/si_waypoints_for_starforged_v1_0.pdf?ex=6813572d&amp;is=681205ad&amp;hm=5e4bfe0e0145a3172264d7f5c56eab06dbe00452cbf9b910216c1732e37badcb&amp;\">Spacefaring Waypoints</a> by <a href=\"https://yourgmjack.itch.io/\">yourGMJack</a> used with permission from the author.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1758143333523,
+        "modifiedTime": 1758143364269,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!XgMEt37E6SF4p30u.xe1AfJgkJRzCQtAR"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1758143329538,
+    "modifiedTime": 1758143329538,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!XgMEt37E6SF4p30u"
+}

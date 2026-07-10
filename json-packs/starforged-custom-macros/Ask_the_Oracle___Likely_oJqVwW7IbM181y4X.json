@@ -1,0 +1,28 @@
+{
+  "folder": "nddyvzR6VCu0ZFEO",
+  "name": "Ask the Oracle - Likely",
+  "type": "script",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by benstraub\n\not = await CONFIG.IRONSWORN.OracleTable.getByDsId('move.oracle_rollable:starforged/fate/ask_the_oracle.likely')\not.draw()",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750839512,
+    "modifiedTime": 1758056213215,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "oJqVwW7IbM181y4X",
+  "sort": -100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "_key": "!macros!oJqVwW7IbM181y4X"
+}

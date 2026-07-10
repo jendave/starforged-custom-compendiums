@@ -1,0 +1,134 @@
+{
+  "name": "Gather Information",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        35
+      ],
+      "_id": "af4JzYEnIALzkNEa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +1 additional momentum",
+      "name": "",
+      "_key": "!tables.results!A2VPBNSK1xlKildv.af4JzYEnIALzkNEa"
+    },
+    {
+      "range": [
+        36,
+        70
+      ],
+      "_id": "3FkpQlBcAYNGjuFO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional momentum",
+      "name": "",
+      "_key": "!tables.results!A2VPBNSK1xlKildv.3FkpQlBcAYNGjuFO"
+    },
+    {
+      "range": [
+        71,
+        95
+      ],
+      "_id": "2xqi20vvCvQ1aCmi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional momentum, add +1 on your next move (not a progress move)",
+      "name": "",
+      "_key": "!tables.results!A2VPBNSK1xlKildv.2xqi20vvCvQ1aCmi"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "BIQMe2RxU6cZL8XC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take +2 additional momentum, add +2 on your next move (not a progress move)",
+      "name": "",
+      "_key": "!tables.results!A2VPBNSK1xlKildv.BIQMe2RxU6cZL8XC"
+    }
+  ],
+  "folder": "RKNJOm8ZZ69tNiv7",
+  "sort": 2,
+  "_id": "A2VPBNSK1xlKildv",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1700466446874,
+    "modifiedTime": 1706849375746,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!A2VPBNSK1xlKildv"
+}

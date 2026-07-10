@@ -1,0 +1,420 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "xpY7Aa7gJ3A4QWeX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fractal patterns",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.xpY7Aa7gJ3A4QWeX"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "cmxVkcQqX9m88qu5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Higher-dimensional objects",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.cmxVkcQqX9m88qu5"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "uEr19g8dtyRwfp4b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impossible landforms",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.uEr19g8dtyRwfp4b"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "gN5KR2O0YqhrKoq5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large-scale quantum effects",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.gN5KR2O0YqhrKoq5"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "B51SrSH9z2rK8Snl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Night sky changes constantly",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.B51SrSH9z2rK8Snl"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "JNXEw9oeajKWXEkD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Non-Euclidean cave systems",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.JNXEw9oeajKWXEkD"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "iwonAfjDTQ7bDEP4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parallel lines converge",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.iwonAfjDTQ7bDEP4"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "dhYLrEvH1DjyUpXA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden changes in gravity",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.dhYLrEvH1DjyUpXA"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "7LA18dKBuxxS6xiL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thoughts made real",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.7LA18dKBuxxS6xiL"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "cK7oKhqXoSfrHEbk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time loop regions",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.cK7oKhqXoSfrHEbk"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "MLMnkbOQuqxsKmG2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twisted landscapes",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.MLMnkbOQuqxsKmG2"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "PXZgYJqCxJjxSpgc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unknown states of matter",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.PXZgYJqCxJjxSpgc"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "CFxGFNrSTcLZURHT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable portals",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.CFxGFNrSTcLZURHT"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "9EamBTVlL6M1pXk6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Descriptor + Focus",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.9EamBTVlL6M1pXk6"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Hhtfe5hH08XPG8Lj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor vault (planetside)",
+      "name": "",
+      "_key": "!tables.results!cpq1odNJNIRZ08qP.Hhtfe5hH08XPG8Lj"
+    }
+  ],
+  "folder": "GWoYpsHM7VVgDzEm",
+  "sort": 400000,
+  "_id": "cpq1odNJNIRZ08qP",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This planet is in another dimension, or came from another dimension to this one.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1703288341849,
+    "modifiedTime": 1703294016622,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!cpq1odNJNIRZ08qP"
+}

@@ -1,0 +1,680 @@
+{
+  "name": "Company Domain",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "jmsEgtEBqyk9u4fC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agriculture and Food Production",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.jmsEgtEBqyk9u4fC"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "l7DnYMAROqh7flG8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arts, Music and Media",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.l7DnYMAROqh7flG8"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "kFDsXC5OssSeUNxF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bio-Engineering",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.kFDsXC5OssSeUNxF"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "jbWp7xDz1r0ekKx8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemicals and Pharmaceuticals",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.jbWp7xDz1r0ekKx8"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "2AmUVE1TweejM20d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.2AmUVE1TweejM20d"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "y6DIgdNkSNEgKCFi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumer Goods",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.y6DIgdNkSNEgKCFi"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "c3b3o2eSf6qutGYI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.c3b3o2eSf6qutGYI"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "jbH8yKs5VUAFJqmI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploration",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.jbH8yKs5VUAFJqmI"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "P9xYOqyVOKV6aA0v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Finance",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.P9xYOqyVOKV6aA0v"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "qv6c1ahK73G58x9F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Healthcare",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.qv6c1ahK73G58x9F"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "ENy0TLphv65g6WXa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunting or Raising Animals",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.ENy0TLphv65g6WXa"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "UcUMHzXs7XZl91SR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military Hardware and Weapons",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.UcUMHzXs7XZl91SR"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "uOTM1PtLCyAcibET",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.uOTM1PtLCyAcibET"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "D1gXoVlH1BkeWfuY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor artifact archeology",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.D1gXoVlH1BkeWfuY"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "K0jQQAc8hIFT7edV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Real Estate",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.K0jQQAc8hIFT7edV"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "rK7SiELV6euj7MDl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religion",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.rK7SiELV6euj7MDl"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "ATjZ0yhVwZMHz3is",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Robotics",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.ATjZ0yhVwZMHz3is"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "G7v4Zmqc4Tb6jPVv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Selling Goods",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.G7v4Zmqc4Tb6jPVv"
+    },
+    {
+      "range": [
+        72,
+        76
+      ],
+      "_id": "H6rmqFs9hM1d06Nx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipping and Trade",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.H6rmqFs9hM1d06Nx"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "Y6wM3wrYjrJOjs2K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship Manufacturing",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.Y6wM3wrYjrJOjs2K"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "iHsbbLSuaqO4P8gU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology and Computers",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.iHsbbLSuaqO4P8gU"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "14EzjVAyipVn9psp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Travel and Leisure",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.14EzjVAyipVn9psp"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "ahENQPAb9UoPyG9i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicle Manufacturing",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.ahENQPAb9UoPyG9i"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "0vNUWXjKsxukVwVu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warfare",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.0vNUWXjKsxukVwVu"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "TW4ScDN5ke7wWnEQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "No one understands what the Company really does.",
+      "name": "",
+      "_key": "!tables.results!va1JToybIdjLPyyB.TW4ScDN5ke7wWnEQ"
+    }
+  ],
+  "folder": "DX1qoKVooJAqOpmz",
+  "sort": 1,
+  "_id": "va1JToybIdjLPyyB",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When a planet and its settlements come under the control of a Company, use these oracles in conjunction with the Settlement and Faction oracles for inspiration.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.10",
+    "coreVersion": "13.350",
+    "createdTime": 1701768969138,
+    "modifiedTime": 1733895776087,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!va1JToybIdjLPyyB"
+}

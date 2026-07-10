@@ -1,0 +1,192 @@
+{
+  "name": "Operations",
+  "formula": "1d6",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "hLqnmfP7utBuVTcQ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Operations",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bCOKPsCrOE4rxUdf",
+      "description": "",
+      "_key": "!tables.results!imcjdsL9VwTA5PB9.hLqnmfP7utBuVTcQ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "3YfLeHIuAy2yVX5M",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Operations",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bCOKPsCrOE4rxUdf",
+      "description": "",
+      "_key": "!tables.results!imcjdsL9VwTA5PB9.3YfLeHIuAy2yVX5M"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "JrJsFJZI9gbImk0J",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Area",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4AJ3CSAW3R38267w",
+      "description": "",
+      "_key": "!tables.results!imcjdsL9VwTA5PB9.JrJsFJZI9gbImk0J"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "SwyjO4bVdvtJUptH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Area",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4AJ3CSAW3R38267w",
+      "description": "",
+      "_key": "!tables.results!imcjdsL9VwTA5PB9.SwyjO4bVdvtJUptH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "0oQ7sw0XMUkOmY1j",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Area",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4AJ3CSAW3R38267w",
+      "description": "",
+      "_key": "!tables.results!imcjdsL9VwTA5PB9.0oQ7sw0XMUkOmY1j"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/dice/d10black.svg",
+      "_id": "gJSIHPEUGqq05wOP",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Operations",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.bCOKPsCrOE4rxUdf",
+      "description": "",
+      "_key": "!tables.results!imcjdsL9VwTA5PB9.gJSIHPEUGqq05wOP"
+    }
+  ],
+  "folder": "q7eDBtntWszzVhYn",
+  "sort": 5,
+  "_id": "imcjdsL9VwTA5PB9",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p><em>We sang about the sun and danced among the trees And we listened to the whispers of the city on the breeze - Ancient pre-Cataclysm proverb</em></p><p>A set of oracle arrays for cities and districts for the Ironsworn: Starforged rpg. When determining the features of a settlement district, use these oracle arrays for inspiration.</p><p>The oracle arrays use the following oracles:</p><p>AR - <a href=\"https://p-d-gallagher.itch.io/augmented-reality\" style=\"text-decoration:none\">Augmented Reality The Holistic City Kit</a> by <a href=\"https://itch.io/profile/p-d-gallagher\" style=\"text-decoration:none\">Geist Hack Games</a></p><p>IC - <a href=\"https://vishae.itch.io/ironcity-district-generator\" style=\"text-decoration:none\">Iron City District Generator</a> by <a href=\"https://vishae.itch.io/\" style=\"text-decoration:none\">vishae</a></p><p>SEO – <a href=\"https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles\" style=\"text-decoration:none\">Starsmith: Expanded Oracles&gt; by </a><a href=\"https://preview.drivethrurpg.com/en/publisher/8584/eric-bright\" style=\"text-decoration:none\">Eric Bright</a></p><p>CP - <a href=\"https://jendave.itch.io/i-owe-my-soul-to-the-company-planet\" style=\"text-decoration:none\">I Owe My Soul to the Company Planet</a> by <a href=\"https://jendave.itch.io/\" style=\"text-decoration:none\">David Hudson</a></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707614496214,
+    "modifiedTime": 1733897885638,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!imcjdsL9VwTA5PB9"
+}

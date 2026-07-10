@@ -1,0 +1,134 @@
+{
+  "name": "New Faction Type Oracle",
+  "formula": "1d100",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        25
+      ],
+      "_id": "2GMXBiQdNpFdXXHg",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dominion - Governing power",
+      "name": "",
+      "_key": "!tables.results!t7pSHPhBdyuymESb.2GMXBiQdNpFdXXHg"
+    },
+    {
+      "range": [
+        26,
+        50
+      ],
+      "_id": "Lll2Bc3jwtpRpsNo",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guild - Organization of specialists",
+      "name": "",
+      "_key": "!tables.results!t7pSHPhBdyuymESb.Lll2Bc3jwtpRpsNo"
+    },
+    {
+      "range": [
+        51,
+        75
+      ],
+      "_id": "V1z5zqUw7MhxkAEt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fringe Group - Band of outlaws, outcasts, or rogues",
+      "name": "",
+      "_key": "!tables.results!t7pSHPhBdyuymESb.V1z5zqUw7MhxkAEt"
+    },
+    {
+      "range": [
+        76,
+        100
+      ],
+      "_id": "VcX3YhuEEgtysein",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Business - Corporation",
+      "name": "",
+      "_key": "!tables.results!t7pSHPhBdyuymESb.VcX3YhuEEgtysein"
+    }
+  ],
+  "_id": "t7pSHPhBdyuymESb",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "y4yBdk073XUl4TPy",
+  "sort": 275000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756497857327,
+    "modifiedTime": 1756497857327,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!tables!t7pSHPhBdyuymESb"
+}

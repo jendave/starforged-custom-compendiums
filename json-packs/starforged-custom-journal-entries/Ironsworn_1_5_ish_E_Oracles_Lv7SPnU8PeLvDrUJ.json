@@ -1,0 +1,65 @@
+{
+  "folder": "ZAHuN8i8Pz5HW2nj",
+  "name": "Ironsworn 1.5-ish E Oracles",
+  "_id": "Lv7SPnU8PeLvDrUJ",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Move Oracles",
+      "type": "text",
+      "_id": "RExhlj8h6rYw8WQH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.JbiAVU1ZUhemIgRN]{Begin a Session}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NqN1SNnKiMkLwVGA]{Confront Chaos}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.amNuJnNU7Io40IgM]{Edge}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.56oUUBTTQDNVRDCL]{Endure Harm}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.qNqo8BJCPtXaIL2F]{Endure Stress}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.NGsIOY0wW7eNr7sf]{Find an Opportunity}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.jSc0FRUWOKvH8t2I]{Make a Discovery}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LCirEMIOk8JMNQAY]{Pay the Price}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.PEldOr3UFgeXtokn]{Reveal a Danger}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.MT6guAWRtasg4CMy]{Reveal a Danger (alternate version)}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.0PL7DWClXfmxhCKI]{Shadow}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VetfqC7efZ8qxHqb]{Take Decisive Action}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.DcdDE9YbRpQw0lyf]{Withstand Damage}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.yAtMTN3e58Gd1zzt]{Wits}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1759038340599,
+        "modifiedTime": 1759038381219,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Lv7SPnU8PeLvDrUJ.RExhlj8h6rYw8WQH"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1759038326338,
+    "modifiedTime": 1759038326338,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!Lv7SPnU8PeLvDrUJ"
+}

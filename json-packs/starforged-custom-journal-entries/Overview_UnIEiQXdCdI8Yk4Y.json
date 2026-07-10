@@ -1,0 +1,65 @@
+{
+  "folder": "8sbPMQDmNrLFJO9H",
+  "name": "Overview",
+  "_id": "UnIEiQXdCdI8Yk4Y",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "ONjptM8ZLp9gL473",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><em>Voidforged</em> is an <em>Ironsworn: Starforged</em> unofficial supplement to add a horror flavor to your sci-fi adventure.</p><p>Included are:</p><ul><li><p>Oracles</p></li><li><p>Journal entry with Truths</p></li><li><p>A One-shot Adventure</p></li></ul><p>Voidforged by Kerys can be found <a href=\"https://kerys.itch.io/voidforged\">here</a>.</p><p>Other works by Kerys can be found <a href=\"https://kerys.itch.io/\">here</a>.</p><p>This work adapts some mechanics from the Mothership Sci-Fi Horror RPG (found at <span class=\"s1\">https://www.mothershiprpg.com/home</span>), created by Tuesday Knight Games.</p><p>This work also contains conversion notes for the Mothership Sci-Fi Horror RPG.</p><ul><li><a href=\"https://kerys.itch.io/voidforged\">Voidforged</a> by <a href=\"https://kerys.itch.io/\">Kerys</a> is licensed for use under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License (CC BY)</a>.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.350",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.25.4",
+        "createdTime": 1756523881705,
+        "modifiedTime": 1759476840097,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!UnIEiQXdCdI8Yk4Y.ONjptM8ZLp9gL473"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1756523868378,
+    "modifiedTime": 1756523868378,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!UnIEiQXdCdI8Yk4Y"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Planetary Vehicle Type",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        15
+      ],
+      "_id": "JFvIKKMysk0XnvcG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single-passenger landspeeder",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.JFvIKKMysk0XnvcG"
+    },
+    {
+      "range": [
+        16,
+        35
+      ],
+      "_id": "eveZockDtoupfVJM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-passenger landspeeder",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.eveZockDtoupfVJM"
+    },
+    {
+      "range": [
+        36,
+        45
+      ],
+      "_id": "bXPddYkV7LyJr0E1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single-passenger airspeeder",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.bXPddYkV7LyJr0E1"
+    },
+    {
+      "range": [
+        46,
+        60
+      ],
+      "_id": "Jk4h03IatVZ47nan",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-passenger airspeeder",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.Jk4h03IatVZ47nan"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "27DTrN31jbYlMzBA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single-passenger wheeled vehicle",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.27DTrN31jbYlMzBA"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "JP0lI99I0nLHKgHQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-passenger wheeled vehicle",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.JP0lI99I0nLHKgHQ"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "arXipbr0sUxldDID",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single-passenger speeder bike",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.arXipbr0sUxldDID"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "JIWgQAducFdVf504",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two-passenger speeder bike",
+      "name": "",
+      "_key": "!tables.results!NA3sAed2Syd1a9E8.JIWgQAducFdVf504"
+    }
+  ],
+  "folder": "CcVD0BrXB5cCacTG",
+  "sort": 200000,
+  "_id": "NA3sAed2Syd1a9E8",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Need a starship? Roll on a table. It will tell you if it is typically affiliated with Empire, Rebel, Smuggler, Hutt, Bounty Hunter, Syndicate, Civilian, or Any characters. These are called <em>tags</em>. The tags are listed from left to right, in order of the likelihood that the ship is affiliated with any of them. (<em>Example: a listing that has the tags Rebel / Empire / Smuggler, is most likely to be Rebel, but can sometimes be affiliated with Smuggler, though that’s less likely since it is farthest to the right.</em>)</p><p></p><p>You may also roll on either the “Large-Scale Ship Table” or the “Small-Scale Ship Table” to simply see what sort of group a new main character is affiliated with. (<em>Example: if you roll up ARC-170 Starfighter / Empire / Rebel, you can ignore the starfighter part of the entry, and determine that the new NPC you just met could either be Imperial or Rebel, but is more likely with the Empire, since that tag is listed first. But it could be neutral, because of course there is always the chance it was simply stolen.</em>) If you just <em>need</em> to know how big a dreadnought is, or the difference in size between, say, a frigate and a cruiser, the “New Starship Type” has all that quick-reference information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.350",
+    "createdTime": 1707545845699,
+    "modifiedTime": 1707552040252,
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!NA3sAed2Syd1a9E8"
+}

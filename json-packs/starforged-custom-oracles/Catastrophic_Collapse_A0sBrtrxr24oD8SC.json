@@ -1,0 +1,188 @@
+{
+  "name": "Catastrophic Collapse",
+  "formula": "1d100",
+  "results": [
+    {
+      "_id": "EiduJVj5E9iPGDK7",
+      "type": "text",
+      "weight": 5,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-00 Stone Age: Very basic first steps in technology.",
+      "name": "",
+      "_key": "!tables.results!A0sBrtrxr24oD8SC.EiduJVj5E9iPGDK7"
+    },
+    {
+      "_id": "KAvhGf9fc2LTAJHJ",
+      "type": "text",
+      "weight": 5,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-01 Iron Age: The discovery of agriculture and the ability to work metals allows for technology to appear..",
+      "name": "",
+      "_key": "!tables.results!A0sBrtrxr24oD8SC.KAvhGf9fc2LTAJHJ"
+    },
+    {
+      "_id": "zMGQKVldW8SjoFSQ",
+      "type": "text",
+      "weight": 15,
+      "range": [
+        11,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-02 Renaissance: The scientific method and early understanding of chemistry, physics, biology and astronomy.",
+      "name": "",
+      "_key": "!tables.results!A0sBrtrxr24oD8SC.zMGQKVldW8SjoFSQ"
+    },
+    {
+      "_id": "Jy0QW5qCBjPdDzo4",
+      "type": "text",
+      "weight": 20,
+      "range": [
+        26,
+        45
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-03 Pre-Industrial: Mass production allows for product standardization, bringing the germ of industrial revolution and steam power.",
+      "name": "",
+      "_key": "!tables.results!A0sBrtrxr24oD8SC.Jy0QW5qCBjPdDzo4"
+    },
+    {
+      "_id": "CT5GizRYEJL3ci8C",
+      "type": "text",
+      "weight": 25,
+      "range": [
+        46,
+        70
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-04 Industrial Revolution: The transition to industrial revolution is complete, bringing plastics, radio and other such inventions.",
+      "name": "",
+      "_key": "!tables.results!A0sBrtrxr24oD8SC.CT5GizRYEJL3ci8C"
+    },
+    {
+      "_id": "MtFPYLramd5PZoKO",
+      "type": "text",
+      "weight": 30,
+      "range": [
+        71,
+        100
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "TL-05 Early Atomic: Widespread electrification, tele-communications and internal combustion leads to the first steps in atomic energy.",
+      "name": "",
+      "_key": "!tables.results!A0sBrtrxr24oD8SC.MtFPYLramd5PZoKO"
+    }
+  ],
+  "_id": "A0sBrtrxr24oD8SC",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 4\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">This applies to Planetside only</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "hDSbfBqOIZnfu5bl",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.5",
+    "coreVersion": "13.350",
+    "createdTime": 1697082723558,
+    "modifiedTime": 1697241086505,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": "RollTable.A0sBrtrxr24oD8SC",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!A0sBrtrxr24oD8SC"
+}

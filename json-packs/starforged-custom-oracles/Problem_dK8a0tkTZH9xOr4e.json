@@ -1,0 +1,550 @@
+{
+  "name": "Problem",
+  "formula": "1d20",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "IQVy9jY5ci5j8MGb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "behaving anomalously",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.IQVy9jY5ci5j8MGb"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "vtc8tEuYllyDXQVX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "breaching",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.vtc8tEuYllyDXQVX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "JGLPcHxfJ5rpJVy5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "breaking loose",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.JGLPcHxfJ5rpJVy5"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "uSiHeF6q3CTbmNSG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "crashing",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.uSiHeF6q3CTbmNSG"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "oKdqZRPLPFLmW5Cn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "damaged",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.oKdqZRPLPFLmW5Cn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "nU1GMA44WBe4s3gF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "depolarized",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.nU1GMA44WBe4s3gF"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "N19boDQ9TOLYQFAz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "destabilized",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.N19boDQ9TOLYQFAz"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "t6jj3rEbighDyZVJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "displaying a frequency shift",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.t6jj3rEbighDyZVJ"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ndV9wTWjHgbnbUuv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "faulty",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.ndV9wTWjHgbnbUuv"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "DWW53pGXJFRR2a74",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "fluctuating",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.DWW53pGXJFRR2a74"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "XY831WcJ2WrtFse1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "ion-charged",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.XY831WcJ2WrtFse1"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "TfKi8TRfVw1TZR7h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "leaking",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.TfKi8TRfVw1TZR7h"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "dZ1KGVczv0pJ40je",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "losing cohesion",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.dZ1KGVczv0pJ40je"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "Y5D88GbMmKVD3uIW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "losing power",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.Y5D88GbMmKVD3uIW"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "svOQtOTkfm0hSUOe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "malfunctioning",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.svOQtOTkfm0hSUOe"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "Wne7MvUQwfA1QivX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "overheating",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.Wne7MvUQwfA1QivX"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "sD2WMfX3WCsZZ3L9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "sensitized",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.sD2WMfX3WCsZZ3L9"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "P0n6pQXa3dowdshL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "showing a field variance",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.P0n6pQXa3dowdshL"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "Ct1Q8e5gdXl8MNL5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "spiking",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.Ct1Q8e5gdXl8MNL5"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "4O6UQoMLu25HrL1q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "surging",
+      "name": "",
+      "_key": "!tables.results!dK8a0tkTZH9xOr4e.4O6UQoMLu25HrL1q"
+    }
+  ],
+  "folder": "Ga4YNdjieqQ9jupn",
+  "sort": 5,
+  "_id": "dK8a0tkTZH9xOr4e",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 4\"><div class=\"layoutArea\"><div class=\"column\"><p><span style=\"font-family:'CIDFont+F1'\">Now we have a suitable system, we can now creatively screw it up.</span></p></div></div></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1696912551882,
+    "modifiedTime": 1698873207679,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!dK8a0tkTZH9xOr4e"
+}

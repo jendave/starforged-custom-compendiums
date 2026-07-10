@@ -1,0 +1,1332 @@
+{
+  "name": "Hearten",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "6PQzqZjSGOrtJGIL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You share the memory of the first time you met each other (one other PC or all of them together).",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.6PQzqZjSGOrtJGIL"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "3SrPaDztFnXDpt00",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You gossip about another PC or NPC and try to bond over it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.3SrPaDztFnXDpt00"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "GFFAs1NXHGSoW7ZL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You share a moment of silence. Everyone in this situation can share their thoughts.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.GFFAs1NXHGSoW7ZL"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "kuUUeVNSy9mebyXi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You think of someone you lost some time ago. Who and why?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.kuUUeVNSy9mebyXi"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "9KDIjHd0J1buscVQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You share a fond memory of one other PC.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.9KDIjHd0J1buscVQ"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "KzJUqZ1yMXlKKOqH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You decide to write a message to someone you haven't had contact with in a long time. Who and why now?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.KzJUqZ1yMXlKKOqH"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "pUwpt24xxYbMMQMj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You ask another PC for help in an issue and how they have handled or even overcome it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.pUwpt24xxYbMMQMj"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "hDCdtelL6iGTePyH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You come clean about something you did to another PC some time ago and ask for forgiveness.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.hDCdtelL6iGTePyH"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "EQaWB66FoqXigEVi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You give someone something you hold dear. Tell them why they deserve it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.EQaWB66FoqXigEVi"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "vIkMLH2io6NZxnZO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You share a memory of a shared experience that explicitly reminds you of your current situation.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.vIkMLH2io6NZxnZO"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "pem2IMATDEaiPDn8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You remember a rivalry you had when you were younger. Looking at it now, you feel silly about it. Share it anyway.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.pem2IMATDEaiPDn8"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "AmBjIC4l2Lrjzval",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You have an emotional outbreak and hope for comfort from another PC or NPC.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.AmBjIC4l2Lrjzval"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "OpofFKD0sKgx1g3f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You think another PC has something on their mind. Ask what it is and offer your help.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.OpofFKD0sKgx1g3f"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "WewfiKFKBE9EwA3D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You need a hug. Ask someone you trust.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.WewfiKFKBE9EwA3D"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "s8Jkr9uDbThuvJox",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You come clean about something bad you did some time ago. Maybe it's karma.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.s8Jkr9uDbThuvJox"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "jWDnWeY8e2mdp76d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You spot something so mundane yet beautiful. Tell the others about it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.jWDnWeY8e2mdp76d"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "kJ9ZgGOWRu9YucQv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You share a cool moment of another PC or NPC doing an impressive feat.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.kJ9ZgGOWRu9YucQv"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "xl3gtDyqzfgUUeY5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You feel like dancing or singing, hoping that others will join in. Do they? Describe the scene.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.xl3gtDyqzfgUUeY5"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "S0F3OTzjK3BMxwsy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You're thinking about your favorite thing. What is it?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.S0F3OTzjK3BMxwsy"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "Xj7ce31DwUMU9dW8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You have once before forsaken a vow. Tell somebody about it and how it came around some day.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.Xj7ce31DwUMU9dW8"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "xfRkuP4GrAIzrhGs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You have doubts about yourself and your skills. Ask someone for help or to cheer you up.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.xfRkuP4GrAIzrhGs"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "OUy1hxLJcp7Yyz63",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Just last night, you dreamt about your current situation. What was different?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.OUy1hxLJcp7Yyz63"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "Z6d1RMr5t0qp7olF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You feel the pain of a scar (mental or physical) that you haven't felt in a while. Tell someone about it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.Z6d1RMr5t0qp7olF"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "rm1HOHHLnhn15eFk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You try to lighten the mood. Do something silly.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.rm1HOHHLnhn15eFk"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "jEkkKH3nnoMcpb8Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You've had enough of something. Tell everyone around how you'll overcome it the next time.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.jEkkKH3nnoMcpb8Q"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "csCikEkLGaC2EJdl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You go get something nice to eat or drink that you saved for the right moment. This is the one.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.csCikEkLGaC2EJdl"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "gCqU6hWBv5FXu8he",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are about to do something stupid. Tell someone about it and hint at them to change your mind.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.gCqU6hWBv5FXu8he"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "Ltsq0NumUkVza5vz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You once had a strange pet animal.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.Ltsq0NumUkVza5vz"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "YmkcJWIKKwTRfSgB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reflect on how you've ended up in your current situation. Who's to blame?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.YmkcJWIKKwTRfSgB"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "KE6zLE82aTFChUuJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone once helped you out and you are not sure they are aware of how much you appreciated that. Let them know.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.KE6zLE82aTFChUuJ"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "5YXFxZvmyMUDCVD1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You feel like making a compliment.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.5YXFxZvmyMUDCVD1"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "Hy8DNcPYSgxPTEJb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You once read a novel with protagonists experiencing a similar hardship as you do. Tell someone how they overcame it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.Hy8DNcPYSgxPTEJb"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "jcNubwnUb8K32OdG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You feel regret about a recent situation. Tell others what you initially hoped to accomplish and say sorry if needed.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.jcNubwnUb8K32OdG"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "pU6W5noYd8JOBrPd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this hallucinogenic plant. You are not sure if you should try it. What do the others think? Share your experience.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.pU6W5noYd8JOBrPd"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "c1yM1j8lCzCpqhj9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You share a fond memory of a family member.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.c1yM1j8lCzCpqhj9"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "dRwyFUN9Ufd6zoK9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You're having a déja-vu.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.dRwyFUN9Ufd6zoK9"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "kzmkzx2qmwPYWJtN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this old book and it contains some sort of game... \"roleplaying game\". Which one? What do others think about it and do they want to try it out?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.kzmkzx2qmwPYWJtN"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "azfkqSVs8CgqXcln",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You remember a moment of oppression. Were you able to overcome it? How?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.azfkqSVs8CgqXcln"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "m89LA9MfmZvfJbRB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You remember witnessing someone standing up for somebody else. Tell someone about it and how it gives you hope.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.m89LA9MfmZvfJbRB"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "rG1aeMSQ7Uzn810m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You heard a rumor about the socio-political situation on Earth before the Exodus. Has it gotten better or worse?",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.rG1aeMSQ7Uzn810m"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "33In0yUed9HRKuO0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tell the others how grateful you are that you teamed up for your adventure.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.33In0yUed9HRKuO0"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "vIYGLnr40SeUkcKK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You remember this funny handshake from when you were younger. Get someone to do it with you.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.vIYGLnr40SeUkcKK"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "eOESa3J6Cu4UZdXX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are curious what someone thinks about you. Ask them.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.eOESa3J6Cu4UZdXX"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "f0fr7XaBsFPjtJ5G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You found this old music from Earth. Which song in particular entertains you the most? Show it to others.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.f0fr7XaBsFPjtJ5G"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "ZviAMzFgeAzWIeMM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You wonder what else could be. Tell someone what you'd be doing if you weren't on this adventure.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.ZviAMzFgeAzWIeMM"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "gim6cHR0eNpjfMiO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This moment sparks creativity in you. Write a poem, sing a song, do a painting etc.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.gim6cHR0eNpjfMiO"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "W5l7d7on8v3YD8Aa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You have this ancient plant seed. Envision what kind of plant grows out of it.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.W5l7d7on8v3YD8Aa"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "2B9Y8GsnaozNFkHG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Look around you and embrace the things and people you have around you.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.2B9Y8GsnaozNFkHG"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "mMumnNvfeK55PVvw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You once betrayed a person that trusted you. Confess to someone.",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.mMumnNvfeK55PVvw"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ptlakNWHSihrtNze",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Everyone has to have a bucket list, right? Tell others of one item on your bucket list (swear a troublesome Iron Vow if you like).",
+      "name": "",
+      "_key": "!tables.results!nxXnd6VdHgmulcf2.ptlakNWHSihrtNze"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This oracle can be consulted when looking for inspiration for the Hearten move. When using such a prompt to flesh out your personal background information, current feelings and other interpersonal stories, you can decide to do a regular Hearten move or let everyone involved take +1 spirit. When using an oracle prompt that establishes a truth about another PC, make sure they are okay with it. Try to use the prompts in a way that everyone involved can grow, especially for the ones with a negative touch to it. There should be no hard feelings afterwards.</p><p>You may choose a prompt fitting the current situation or let the dice decide.</p><p>If possible and fitting, try to connect the prompts to your current situation to make them more meaningful.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5Jx1rphwuDDiLczK",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.4",
+    "coreVersion": "13.350",
+    "createdTime": 1696062290110,
+    "modifiedTime": 1696065124003,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "nxXnd6VdHgmulcf2",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "_key": "!tables!nxXnd6VdHgmulcf2"
+}

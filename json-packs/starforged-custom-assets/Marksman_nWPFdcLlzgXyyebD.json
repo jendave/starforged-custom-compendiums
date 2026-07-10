@@ -1,0 +1,72 @@
+{
+  "type": "asset",
+  "folder": "3zrHGetXJsVA5vR2",
+  "name": "Marksman",
+  "system": {
+    "requirement": "<p>If you wield a crossbow...</p>",
+    "category": "Combat Talent",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "enabled": true,
+        "description": "<p>You carry a quiver of 6 bolts. When you @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.723192c97fec4fe2]{Clash} at range, you may add +1 and suffer -1 bolt. To replenish your quiver by crafting bolts, roll +wits. On a strong hit, take up to +6 bolts. On a weak hit, take up to +4 bolts and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1). On a miss, take +1 bolt and @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>You may suffer -1 bolt to @Compendium[starforged-custom-oracles.starforgedcustommoves.Item.2f2ba4090b22a122]{Enter the Fray} +edge by firing your best aimed shot. If you do, add +1 and mark progress on a hit.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      },
+      {
+        "enabled": false,
+        "description": "<p>When you load up a bolt with a specialized tip such as a grappling hook, smoke effect, or flammable substance, suffer -1 bolt. If you then take your shot by making a move, you may preset your action die to 5. On a hit, envision the effects and take +1 momentum.</p>",
+        "hasClock": false,
+        "clockTicks": 0,
+        "clockMax": 4
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Bolts",
+      "current": 0,
+      "max": 6,
+      "value": 6,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starforged-custom-oracles/assets/crossbow.svg",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "asset:sundered_isles/path/musketeer",
+      "dsid": "asset:sundered_isles/path/musketeer",
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757906139980,
+    "modifiedTime": 1759530929349,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "nWPFdcLlzgXyyebD",
+  "sort": 500000,
+  "_key": "!items!nWPFdcLlzgXyyebD"
+}

@@ -1,0 +1,1330 @@
+{
+  "name": "Creature Tags",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "pHTyvDkWjXmTpXfq",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armoured approach",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.pHTyvDkWjXmTpXfq"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "kTDpIzJnb5XZTfqW",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undulating Goliath",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.kTDpIzJnb5XZTfqW"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "DJWrV3eyQOcaR6K8",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy Observer",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.DJWrV3eyQOcaR6K8"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "ou7ENj8pI7KTkuEb",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bio-Luminescent",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.ou7ENj8pI7KTkuEb"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "NSrx6kSZ3w5ETpYY",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peculiar appetite",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.NSrx6kSZ3w5ETpYY"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "E5O4t8l5L24IFNgU",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forge Heart",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.E5O4t8l5L24IFNgU"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "6mhSi9EzPCtmJJqx",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Berserker's Crown",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.6mhSi9EzPCtmJJqx"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "d4CRDH6EeNMS77E0",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exudes darkness",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.d4CRDH6EeNMS77E0"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "xx5efP6pOQYt7noG",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breath thief",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.xx5efP6pOQYt7noG"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "9xePh4DzvkJbOWAe",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accidental Biotech",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.9xePh4DzvkJbOWAe"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "WdvGNSy5ocwjC3eD",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enchanting Allure",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.WdvGNSy5ocwjC3eD"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "6KdXxBIu96ch2aXd",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiform Arsenal",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.6KdXxBIu96ch2aXd"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "lbyEAeo0znuiubdX",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fear Sapper",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.lbyEAeo0znuiubdX"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "FRFkaN4jwTTyRGqq",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elemental Manifestations",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.FRFkaN4jwTTyRGqq"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "RoixluT5pPcQBJ1y",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungal gardener",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.RoixluT5pPcQBJ1y"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "udahRJuDWuk0tRp6",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Joy Feeder",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.udahRJuDWuk0tRp6"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "JwmlxM8cm9wTHdy8",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prismatic Shell",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.JwmlxM8cm9wTHdy8"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "jJU7YYfkfT6QXDtV",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vaporous glider",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.jJU7YYfkfT6QXDtV"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "ykzpFS4wcsKveaDK",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumes light",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.ykzpFS4wcsKveaDK"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "QsM541gy2OqEyGRf",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elemental infuser",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.QsM541gy2OqEyGRf"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "j7w2Gj6t9tnA7jzi",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ocular Overdrive",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.j7w2Gj6t9tnA7jzi"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "cuPSuAvTRNyxX7pB",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Void Visage",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.cuPSuAvTRNyxX7pB"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "1pXg1DcKLEMmb8kY",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Savage Tracker",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.1pXg1DcKLEMmb8kY"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "LKPk5lfysEdVyLW3",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silent Sentry",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.LKPk5lfysEdVyLW3"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "TBtSBMw60t1jmzam",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Youth implanter",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.TBtSBMw60t1jmzam"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "qoGAbxc8efIXnyT7",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gracefully Ornamented",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.qoGAbxc8efIXnyT7"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "iwKJ9pFpBLIzF5kl",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky Swimmer",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.iwKJ9pFpBLIzF5kl"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "2gxkQMrYoS39NiyZ",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tentacled enigma",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.2gxkQMrYoS39NiyZ"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "eXrzkYF7ZJ7m4p8b",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explosive Ambusher",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.eXrzkYF7ZJ7m4p8b"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "YTs7xE9c0fUbb6DW",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decaying waster",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.YTs7xE9c0fUbb6DW"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "6QVQkP7QtDMK9bmj",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underworld denizen",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.6QVQkP7QtDMK9bmj"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "namikZwZPzlF7PAC",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eyeless vision",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.namikZwZPzlF7PAC"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "uzvxijVaryXFJLay",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Headless Nightmare",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.uzvxijVaryXFJLay"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "hZc3sVIOY2Ft3UEt",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Herding Hive-Beasts",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.hZc3sVIOY2Ft3UEt"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "VajLX3WULh8SHNJT",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Detachable Offspring",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.VajLX3WULh8SHNJT"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "atoe7GjydqXnsQfF",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapon implanter",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.atoe7GjydqXnsQfF"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "WoBchcpoHFUrHGtQ",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Voracious Construct",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.WoBchcpoHFUrHGtQ"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "nrQ9xklCH3i3Rhhs",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Adaptive camouflage",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.nrQ9xklCH3i3Rhhs"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ssI1hwu2uBnQUZfd",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living metal",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.ssI1hwu2uBnQUZfd"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "eTVbcRwiPLI1KnXG",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluffy deathtrap",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.eTVbcRwiPLI1KnXG"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "oEOFkJJMboc7JjRV",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ickiness Incarnate",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.oEOFkJJMboc7JjRV"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "YsfCnpngY4hcVAIu",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evolution's Nightmare",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.YsfCnpngY4hcVAIu"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "ibr8Bz9DAVtqiRGm",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corpse adornment",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.ibr8Bz9DAVtqiRGm"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "5W2feUA0WfC1F8Os",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mesmerising Plumage",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.5W2feUA0WfC1F8Os"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "tYVZoW5LRgt756Le",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Countless maws",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.tYVZoW5LRgt756Le"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "IM1WKJv6nFFpfYHk",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light-Carrier",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.IM1WKJv6nFFpfYHk"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "oZ0eeXODnBGoLIH1",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Problematic Proportions",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.oZ0eeXODnBGoLIH1"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "A0eYYPqqJVpDnABE",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swarming Sentience",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.A0eYYPqqJVpDnABE"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "ShpE3FwHHT7xe3mn",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gluttonous Insectoid",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.ShpE3FwHHT7xe3mn"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "sgPPgiWyWqCSohwg",
+      "type": "text",
+      "weight": 2,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oozing Presence",
+      "name": "",
+      "_key": "!tables.results!xiYXB6fynONsvdpc.sgPPgiWyWqCSohwg"
+    }
+  ],
+  "folder": "kllklXIs4n7FUD7o",
+  "sort": 0,
+  "_id": "xiYXB6fynONsvdpc",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This oracle is designed to complement your usual creature creation process.</p><p>Roll once on the table below and use it to envision what you encounter, or combine it with other creature tags.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.9",
+    "coreVersion": "13.350",
+    "createdTime": 1700645797015,
+    "modifiedTime": 1700692314059,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!xiYXB6fynONsvdpc"
+}

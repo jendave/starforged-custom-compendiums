@@ -1,0 +1,29 @@
+{
+  "name": "Sojourn Hot Sauce",
+  "type": "script",
+  "_id": "69zvRdnrGdK4cKug",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let rollTablesUUIDPrefix = \"Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.\";\n\n    let title = \"<h3>Sojourn Hot Sauce</h3>\";\n\n    const flavourTable = await fromUuid(rollTablesUUIDPrefix + \"Wsg6a5AD8qJZ6txw\");\n    let flavourRoll = await flavourTable.roll();\n    let flavour = flavourRoll.results[0].text;\n\n    const downtimeAdjectiveTable = await fromUuid(rollTablesUUIDPrefix + \"kE4Pu6a7fX8jCN5Y\");\n    let downtimeAdjectiveRoll = await downtimeAdjectiveTable.roll();\n    let downtimeAdjective = downtimeAdjectiveRoll.results[0].text;\n\n    const downtimeNounTable = await fromUuid(rollTablesUUIDPrefix + \"OHS1wGYtjWPBS9rT\");\n    let downtimeNounRoll = await downtimeNounTable.roll();\n    let downtimeNoun = downtimeNounRoll.results[0].text;\n\n    let message = \"Flavour: \" + flavour + \"<br>\";\n    message += \"Downtime Adjective: \" + downtimeAdjective + \"<br>\";\n    message += \"Downtime Noun: \" + downtimeNoun + \"<br>\";\n\n    // Print the message\n    printMessage(title + message);\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": "TzVEBKAjyO5uRc4c",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "createdTime": 1757750833560,
+    "modifiedTime": 1757750833560,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_key": "!macros!69zvRdnrGdK4cKug"
+}

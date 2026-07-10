@@ -1,0 +1,264 @@
+{
+  "name": "Faction Influence Grid",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>When detailing or visiting a new area of the isles, consider the presence of known factions. Slot those factions into an appropriate field in the grid: dominant, established, subsisting, diminished, or obscure. The rankings represent the influence a faction wields and the potential frequency of encounters and interactions with representatives of that faction.</p><p>Leave a few fields blank. You may discover new factions or adjust a faction’s influence over time.</p><h4>Using the Grid</h4><p>Each field has a range corresponding to a result on an oracle roll. When you encounter a ship or settlement, you can roll on the grid to randomly reveal its controlling faction. You can also use the matrix when you Ask the Oracle about a situation, such as “Which faction carried out the attack on the settlement?” If a roll lands on a blank field, choose the closest-ranked faction, or use this as a prompt to introduce an independent group or new faction to your world.</p><p>In addition, you can use the influence grid to track the ebb and flow of a faction’s power in an area. When a faction faces a major setback, reduce its rank. If it gains influence, raise the rank. You can even create a “global influence grid” to measure the power of key factions across the entirety of the isles.</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "_id": "VuphJ32J3itsAzw7",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p><span class=\"name\" style=\"box-sizing:border-box;flex-basis:100%;scrollbar-width:thin;scrollbar-color:rgba(82, 224, 224, 0.5) rgba(82, 224, 224, 0.5);--ironsworn-scrollbar-thumb-bg-color:rgba(82,224,224,.5);--ironsworn-scrollbar-thumb-border-color:rgba(0,234,255,.5);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(6px/2);--ironsworn-scrollbar-track-color:rgba(82,224,224,.5);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(82, 224, 224, 0.1);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">&lt;Faction&gt; (Dominant)</span></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602312114
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.VuphJ32J3itsAzw7"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        45
+      ],
+      "_id": "tV8JZFFal0aZ5BA3",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p><span class=\"name\" style=\"box-sizing:border-box;flex-basis:100%;scrollbar-width:thin;scrollbar-color:rgba(82, 224, 224, 0.5) rgba(82, 224, 224, 0.5);--ironsworn-scrollbar-thumb-bg-color:rgba(82,224,224,.5);--ironsworn-scrollbar-thumb-border-color:rgba(0,234,255,.5);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(6px/2);--ironsworn-scrollbar-track-color:rgba(82,224,224,.5);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(82, 224, 224, 0.1);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">&lt;Faction&gt; (Established)</span></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602325030
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.tV8JZFFal0aZ5BA3"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        46,
+        60
+      ],
+      "_id": "LE9gCnqxb9aqyKro",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p><span class=\"name\" style=\"box-sizing:border-box;flex-basis:100%;scrollbar-width:thin;scrollbar-color:rgba(82, 224, 224, 0.5) rgba(82, 224, 224, 0.5);--ironsworn-scrollbar-thumb-bg-color:rgba(82,224,224,.5);--ironsworn-scrollbar-thumb-border-color:rgba(0,234,255,.5);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(6px/2);--ironsworn-scrollbar-track-color:rgba(82,224,224,.5);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(82, 224, 224, 0.1);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">&lt;Faction&gt; (Established)</span></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602332787
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.LE9gCnqxb9aqyKro"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "_id": "OEGDaMPa0AcHVQfX",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p><span class=\"name\" style=\"box-sizing:border-box;flex-basis:100%;scrollbar-width:thin;scrollbar-color:rgba(82, 224, 224, 0.5) rgba(82, 224, 224, 0.5);--ironsworn-scrollbar-thumb-bg-color:rgba(82,224,224,.5);--ironsworn-scrollbar-thumb-border-color:rgba(0,234,255,.5);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(6px/2);--ironsworn-scrollbar-track-color:rgba(82,224,224,.5);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(82, 224, 224, 0.1);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">&lt;Faction&gt; (Subsisting)</span></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602343784
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.OEGDaMPa0AcHVQfX"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        80
+      ],
+      "_id": "VIT5zAZFRSOUBGXm",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p><span class=\"name\" style=\"box-sizing:border-box;flex-basis:100%;scrollbar-width:thin;scrollbar-color:rgba(82, 224, 224, 0.5) rgba(82, 224, 224, 0.5);--ironsworn-scrollbar-thumb-bg-color:rgba(82,224,224,.5);--ironsworn-scrollbar-thumb-border-color:rgba(0,234,255,.5);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(6px/2);--ironsworn-scrollbar-track-color:rgba(82,224,224,.5);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(82, 224, 224, 0.1);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">&lt;Faction&gt; (Subsisting)</span></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602351550
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.VIT5zAZFRSOUBGXm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "_id": "C57BfXvXsUIKm7vV",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p><span class=\"name\" style=\"box-sizing:border-box;flex-basis:100%;scrollbar-width:thin;scrollbar-color:rgba(82, 224, 224, 0.5) rgba(82, 224, 224, 0.5);--ironsworn-scrollbar-thumb-bg-color:rgba(82,224,224,.5);--ironsworn-scrollbar-thumb-border-color:rgba(0,234,255,.5);--ironsworn-scrollbar-thumb-border-width:1px;--ironsworn-scrollbar-thumb-border-radius:calc(6px/2);--ironsworn-scrollbar-track-color:rgba(82,224,224,.5);--ironsworn-scrollbar-track-border-radius:4px;--ironsworn-scrollbar-track-border-width:1px;--ironsworn-scrollbar-width:6px;scrollbar-gutter:auto;color:rgb(82, 224, 224);font-family:Signika, 'Palatino Linotype', sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:left;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgba(82, 224, 224, 0.1);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">&lt;Faction&gt; (Subsisting)</span></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602358598
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.C57BfXvXsUIKm7vV"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        94
+      ],
+      "_id": "aahEiKbp9zxKiSJy",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>&lt;Faction&gt; (Diminished)</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602366080
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.aahEiKbp9zxKiSJy"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        95,
+        98
+      ],
+      "_id": "28UbGRjCqP5jyv3C",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>&lt;Faction&gt; (Diminished)</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602373676
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.28UbGRjCqP5jyv3C"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "_id": "PbvKljuWo03PQbbJ",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>&lt;Faction&gt; (Obscure)</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1774602379907
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!P8wSk2B8XECFRk6f.PbvKljuWo03PQbbJ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "uVy9CQJ5MR1Higiy",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.26.0",
+    "createdTime": 1774600709451,
+    "modifiedTime": 1774600709451,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "formula": "1d100",
+  "_id": "P8wSk2B8XECFRk6f",
+  "sort": 0,
+  "_key": "!tables!P8wSk2B8XECFRk6f"
+}

@@ -1,0 +1,682 @@
+{
+  "name": "Forging Festivities",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "bfY7VeitqRDmSe19",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zero-G Jousting Tournament: Compete in a jousting tournament held in zero gravity, with competitors from various planets.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.bfY7VeitqRDmSe19"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "j66B8tNQU6f7YVZg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Celestial Culinary Contest: Compete in a cooking competition with ingredients from across the Forge, judged by gourmet experts of all sorts.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.j66B8tNQU6f7YVZg"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "cmiSwmxcpXzrfUBj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar Art Installation: Participate in creating a living art installation on an asteroid, viewable from neighboring planets.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.cmiSwmxcpXzrfUBj"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "ZRD95h8wrJdC173x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid Hunt: Embark on a large scavenger hunt on an asteroid belt.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.ZRD95h8wrJdC173x"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "If7ggdIfggHil4ap",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exospecies Expedition Race: Race against other teams to explore and document unknown species on a new planet.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.If7ggdIfggHil4ap"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "i0Wuru8NcRiMYxuJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forge Fashion Fair: Attend a fashion show where designers from different sectors showcase their most avant-garde creations.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.i0Wuru8NcRiMYxuJ"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "nnvO0UNiafjCKkND",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elysium Dance Off: Dance on a stage that morphs in tune with the music, competing against other dance crews. [could be a Remnant artifact]",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.nnvO0UNiafjCKkND"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "4UxakzBvuBPTbKAN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symphonie De La Rupture: Attend a concert where musicians play an epic day long symphony on a Shattered World that is breaking apart. [obviously requires a Shattered World in the sector]",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.4UxakzBvuBPTbKAN"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "qA1pXtYHLlKAWyRl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alien Anthropology Exhibit: Explore an exhibit showcasing the diverse cultural practices of alien civilizations derived by pioneering anthropologists of the Forge.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.qA1pXtYHLlKAWyRl"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "43LonUN2Z2ssa7m5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Soapbox Derby: Orbit a planet in a vessel built by yourself from scrap as fast as you can in one piece.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.43LonUN2Z2ssa7m5"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "UBm2X1qbInYd9Yfp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exotic Exobotany Expo: Discover and trade rare, exotic plants from across the Forge at an exobotanical expo.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.UBm2X1qbInYd9Yfp"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "if9nNh3HJTxZ2Iry",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary Poetry Slam: Compete in a poetry slam narrating the wonders and mysteries of different planets.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.if9nNh3HJTxZ2Iry"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "ZlmBDqfhgqa4CJep",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space Survival Simulation: Engage in a simulated survival scenario on a hostile planet, testing advanced survival gear and strategies.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.ZlmBDqfhgqa4CJep"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "zRYqNiHG3gLHIeyE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forge Trade Fair: Engage in a fair where various human settlements trade (advanced) technology, rare resources, and share knowledge.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.zRYqNiHG3gLHIeyE"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "7qBk9XSMoPxd7g1s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary Pioneer Festival: Compete in challenges to pioneer new settlements on a recently discovered sector, facing both environmental and rival challenges. [should be at least in the Outlands]",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.7qBk9XSMoPxd7g1s"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "xcDJMUGYrDK7gu4d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outlaw Outpost Odyssey: An outlaw endeavor to create more outposts on the fringes of known space and taking over sectors in the Outer Forge.[similar to the previous prompt, but of a more outlawed nature and probably more towards the edges of the Forge]",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.xcDJMUGYrDK7gu4d"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "ADN4sqMPkhYUzUV7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arduous Rally: Race in a rally across a series of planets and moons, showcasing advanced vehicular technology and navigating different terrains.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.ADN4sqMPkhYUzUV7"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "vCxrA9tE9GMjEpXp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pan-Forge Communication Convention: Attend a convention trying to develop and/or establish a Forge-wide communication network, overcoming technological and diplomatic hurdles.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.vCxrA9tE9GMjEpXp"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "TbFzdxOQhlyCl9SR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aerospace Engineering Expo: Attend an expo showcasing cutting-edge aerospace technologies, with interactive workshops and contests.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.TbFzdxOQhlyCl9SR"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "6DkSxVVIlbxm1sgw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space Habitat Hackathon: Participate in a hackathon to design self-sustaining space habitats for long-term exploration missions.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.6DkSxVVIlbxm1sgw"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "2iUwY5l7qMDWaeJG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offworld Farming Festival: Attend a festival showcasing innovative agricultural technologies for off-world farming, with competitions and demonstrations.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.2iUwY5l7qMDWaeJG"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "nMMReVbiQYezCbqS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boulderburg Conference: an annual off-the-record forum of the rich and wealthy, the powerful and the smart, happening unannounced for the public.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.nMMReVbiQYezCbqS"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "Z29ROpM8NfE1yBcm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercenary Melee: Compete in a brutal, underground fighting tournament.",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.Z29ROpM8NfE1yBcm"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "PJpcarqPQqJQyAbt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship Design Contest: Participate in a contest to design a starship in different categories (e.g. style, speed, extravaganza, special operation).",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.PJpcarqPQqJQyAbt"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "on4pzb7XMN3w7R19",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heists &amp; Hacks: An outlawed annual event featuring the exhibition and exchange of new illegal tech and \"hackware\".",
+      "name": "",
+      "_key": "!tables.results!azXVggGIs0lf1TnN.on4pzb7XMN3w7R19"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>While traversing the Forge, it's easy to forget that life continues for the rest of the Forge. Each new sector or settlement you enter bustles with its own unique events, gatherings and challenges. Whether you're seeking opportunities, alliances, or simply a diversion from the vast emptiness of space, these events are not to be missed.</p><p>Roll a die to stumble upon an event by chance, or choose one that piques your interest. Some prompts may have specific requirements or may need a touch of adaptation to fit seamlessly into your narrative. Embrace the endless variety of experiences the Forge has to offer.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5Jx1rphwuDDiLczK",
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.350",
+    "createdTime": 1697838272340,
+    "modifiedTime": 1698872982886,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "azXVggGIs0lf1TnN",
+  "sort": 0,
+  "_key": "!tables!azXVggGIs0lf1TnN"
+}
