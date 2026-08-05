@@ -868,11 +868,11 @@
         100
       ],
       "_id": "y0AngNZa2G7gLkof",
-      "type": "text",
-      "img": "icons/dice/d10black.svg",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -884,9 +884,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Crimes Oracle",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SxJwKRKQqT71KsFW",
       "_key": "!tables.results!SxJwKRKQqT71KsFW.y0AngNZa2G7gLkof"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "CfHeTpjlYah3vyDg",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Crimes Oracle",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.SxJwKRKQqT71KsFW",
+      "_key": "!tables.results!SxJwKRKQqT71KsFW.CfHeTpjlYah3vyDg"
     }
   ],
   "replacement": true,

@@ -590,11 +590,11 @@
         100
       ],
       "_id": "4280455cda9dc43f",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -606,9 +606,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Make a Discovery",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.jSc0FRUWOKvH8t2I",
       "_key": "!tables.results!jSc0FRUWOKvH8t2I.4280455cda9dc43f"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "SsVLYEkGDHDKFwVJ",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Make a Discovery",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.jSc0FRUWOKvH8t2I",
+      "_key": "!tables.results!jSc0FRUWOKvH8t2I.SsVLYEkGDHDKFwVJ"
     }
   ],
   "folder": "Et6gYyWzqZwieobL",

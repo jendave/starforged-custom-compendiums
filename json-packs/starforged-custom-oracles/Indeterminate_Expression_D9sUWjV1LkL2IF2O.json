@@ -398,7 +398,7 @@
         90
       ],
       "_id": "R1luQg4AVwd0pl5W",
-      "type": "text",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
@@ -414,9 +414,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice more on this table, Reroll duplicate pronouns!",
-      "name": "",
+      "description": "<p>Roll twice more on this table, Reroll duplicate pronouns!</p>",
+      "name": "Indeterminate Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.D9sUWjV1LkL2IF2O",
       "_key": "!tables.results!D9sUWjV1LkL2IF2O.R1luQg4AVwd0pl5W"
+    },
+    {
+      "range": [
+        82,
+        90
+      ],
+      "_id": "wwZGr8pFxNaZgn68",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice more on this table, Reroll duplicate pronouns!</p>",
+      "name": "Indeterminate Expression",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.D9sUWjV1LkL2IF2O",
+      "_key": "!tables.results!D9sUWjV1LkL2IF2O.wwZGr8pFxNaZgn68"
     },
     {
       "range": [

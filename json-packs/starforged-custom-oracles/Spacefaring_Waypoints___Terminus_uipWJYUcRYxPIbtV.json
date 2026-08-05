@@ -269,11 +269,11 @@
         98
       ],
       "_id": "Jl3Vg64OPFWREFfn",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -285,9 +285,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Spacefaring Waypoints - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uipWJYUcRYxPIbtV",
       "_key": "!tables.results!uipWJYUcRYxPIbtV.Jl3Vg64OPFWREFfn"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "DnX75XLvgajvAQHK",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Spacefaring Waypoints - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uipWJYUcRYxPIbtV",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.DnX75XLvgajvAQHK"
     },
     {
       "range": [
@@ -295,11 +323,11 @@
         100
       ],
       "_id": "mOtLGog1sg8TP2P4",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -311,9 +339,64 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll three times",
-      "name": "",
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uipWJYUcRYxPIbtV",
       "_key": "!tables.results!uipWJYUcRYxPIbtV.mOtLGog1sg8TP2P4"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "EwEPTx3Ccz4xk7uc",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uipWJYUcRYxPIbtV",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.EwEPTx3Ccz4xk7uc"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "6SAcLwqTHL2X9LaO",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uipWJYUcRYxPIbtV",
+      "_key": "!tables.results!uipWJYUcRYxPIbtV.6SAcLwqTHL2X9LaO"
     }
   ],
   "img": "icons/svg/d20-grey.svg",

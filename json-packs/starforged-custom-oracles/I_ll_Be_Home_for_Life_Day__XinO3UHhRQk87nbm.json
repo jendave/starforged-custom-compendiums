@@ -633,7 +633,7 @@
         100
       ],
       "_id": "tNlH6gvyBq7hZuQX",
-      "type": "text",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
@@ -649,9 +649,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "I’ll Be Home for Life Day!",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XinO3UHhRQk87nbm",
       "_key": "!tables.results!XinO3UHhRQk87nbm.tNlH6gvyBq7hZuQX"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "Q93vS24U1iBfZUnt",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "I’ll Be Home for Life Day!",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.XinO3UHhRQk87nbm",
+      "_key": "!tables.results!XinO3UHhRQk87nbm.Q93vS24U1iBfZUnt"
     }
   ],
   "img": "icons/dice/d10black.svg",

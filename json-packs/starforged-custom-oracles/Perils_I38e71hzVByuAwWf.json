@@ -450,7 +450,7 @@
         100
       ],
       "_id": "sdPSkYW9q57iT9zz",
-      "type": "text",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
@@ -466,9 +466,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Perils",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.I38e71hzVByuAwWf",
       "_key": "!tables.results!I38e71hzVByuAwWf.sdPSkYW9q57iT9zz"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "JWxzdLCAAvk6l1us",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Perils",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.I38e71hzVByuAwWf",
+      "_key": "!tables.results!I38e71hzVByuAwWf.JWxzdLCAAvk6l1us"
     }
   ],
   "folder": "aLzHqMbgB59qvVsq",

@@ -243,11 +243,11 @@
         100
       ],
       "_id": "bOfa2TOfJtjQWEjN",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -259,9 +259,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "roll twice",
-      "name": "",
+      "description": "<p>roll twice</p>",
+      "name": "Known Space - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tifo1olxHyVpK64M",
       "_key": "!tables.results!tifo1olxHyVpK64M.bOfa2TOfJtjQWEjN"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "wodbkakkQk1rnoPr",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>roll twice</p>",
+      "name": "Known Space - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.tifo1olxHyVpK64M",
+      "_key": "!tables.results!tifo1olxHyVpK64M.wodbkakkQk1rnoPr"
     }
   ],
   "folder": "3wQREHN6DCfDZdoe",

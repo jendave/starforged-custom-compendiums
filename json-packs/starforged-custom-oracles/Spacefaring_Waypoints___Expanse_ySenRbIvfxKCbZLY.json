@@ -269,11 +269,11 @@
         98
       ],
       "_id": "ORT82GgYCV24EG9j",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -285,9 +285,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Spacefaring Waypoints - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ySenRbIvfxKCbZLY",
       "_key": "!tables.results!ySenRbIvfxKCbZLY.ORT82GgYCV24EG9j"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "sSVygMkSYHgaFNKP",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Spacefaring Waypoints - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ySenRbIvfxKCbZLY",
+      "_key": "!tables.results!ySenRbIvfxKCbZLY.sSVygMkSYHgaFNKP"
     },
     {
       "range": [
@@ -295,11 +323,11 @@
         100
       ],
       "_id": "N2Nwoju0oBEzMF8o",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -311,9 +339,64 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll three times",
-      "name": "",
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ySenRbIvfxKCbZLY",
       "_key": "!tables.results!ySenRbIvfxKCbZLY.N2Nwoju0oBEzMF8o"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "flkU37MVkxxOPBjr",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ySenRbIvfxKCbZLY",
+      "_key": "!tables.results!ySenRbIvfxKCbZLY.flkU37MVkxxOPBjr"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "i6wkZUpLpqRmhan7",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Expanse",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ySenRbIvfxKCbZLY",
+      "_key": "!tables.results!ySenRbIvfxKCbZLY.i6wkZUpLpqRmhan7"
     }
   ],
   "img": "icons/svg/d20-grey.svg",

@@ -243,11 +243,11 @@
         100
       ],
       "_id": "qYXnkqmG5v9EAGqz",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -259,9 +259,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "roll twice",
-      "name": "",
+      "description": "<p>roll twice</p>",
+      "name": "Known Space - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.kFKf4LQdhKj6BlbF",
       "_key": "!tables.results!kFKf4LQdhKj6BlbF.qYXnkqmG5v9EAGqz"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "L5SuyA9D6UJQpPCT",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>roll twice</p>",
+      "name": "Known Space - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.kFKf4LQdhKj6BlbF",
+      "_key": "!tables.results!kFKf4LQdhKj6BlbF.L5SuyA9D6UJQpPCT"
     }
   ],
   "folder": "3wQREHN6DCfDZdoe",

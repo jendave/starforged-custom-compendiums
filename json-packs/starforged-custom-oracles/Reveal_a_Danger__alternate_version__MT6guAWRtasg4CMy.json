@@ -252,11 +252,11 @@
         100
       ],
       "_id": "6d3721912d3dfc23",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -268,9 +268,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice more on this table. Both results occur. If they are the same result, make it worse.",
-      "name": "",
+      "description": "<p>Roll twice more on this table. Both results occur. If they are the same result, make it worse.</p>",
+      "name": "Reveal a Danger (alternate version)",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.MT6guAWRtasg4CMy",
       "_key": "!tables.results!MT6guAWRtasg4CMy.6d3721912d3dfc23"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "YGin0thPShuAEvv4",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice more on this table. Both results occur. If they are the same result, make it worse.</p>",
+      "name": "Reveal a Danger (alternate version)",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.MT6guAWRtasg4CMy",
+      "_key": "!tables.results!MT6guAWRtasg4CMy.YGin0thPShuAEvv4"
     }
   ],
   "folder": "Et6gYyWzqZwieobL",

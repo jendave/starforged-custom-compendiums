@@ -320,7 +320,7 @@
         100
       ],
       "_id": "loD6G0LsmJJtGwDi",
-      "type": "text",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
@@ -336,9 +336,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Company Planet Peril",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.u6KuWElAsHUu3cBL",
       "_key": "!tables.results!u6KuWElAsHUu3cBL.loD6G0LsmJJtGwDi"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "KVt2I6c9OeIWcVWY",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Company Planet Peril",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.u6KuWElAsHUu3cBL",
+      "_key": "!tables.results!u6KuWElAsHUu3cBL.KVt2I6c9OeIWcVWY"
     }
   ],
   "folder": "DX1qoKVooJAqOpmz",

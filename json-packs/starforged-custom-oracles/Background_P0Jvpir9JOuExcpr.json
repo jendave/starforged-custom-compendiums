@@ -1230,7 +1230,7 @@
         100
       ],
       "_id": "x3wIGyNe5Sc8lkGt",
-      "type": "text",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
@@ -1246,9 +1246,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll Twice",
-      "name": "",
+      "description": "<p>Roll Twice</p>",
+      "name": "Background",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.P0Jvpir9JOuExcpr",
       "_key": "!tables.results!P0Jvpir9JOuExcpr.x3wIGyNe5Sc8lkGt"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "5bGQ4fUKdbnt3hho",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll Twice</p>",
+      "name": "Background",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.P0Jvpir9JOuExcpr",
+      "_key": "!tables.results!P0Jvpir9JOuExcpr.5bGQ4fUKdbnt3hho"
     }
   ],
   "folder": "4WGYlS4dHIeCWcKy",

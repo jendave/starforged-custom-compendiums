@@ -502,11 +502,11 @@
         100
       ],
       "_id": "za5LeWg3X6Ekckn1",
-      "type": "text",
-      "img": "icons/dice/d10black.svg",
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -518,9 +518,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Underwater Peril",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UEQJpG1tK3g4qxJW",
       "_key": "!tables.results!UEQJpG1tK3g4qxJW.za5LeWg3X6Ekckn1"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "PLtpQFZbsOg98h9q",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Underwater Peril",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.UEQJpG1tK3g4qxJW",
+      "_key": "!tables.results!UEQJpG1tK3g4qxJW.PLtpQFZbsOg98h9q"
     }
   ],
   "img": "icons/svg/d20-grey.svg",

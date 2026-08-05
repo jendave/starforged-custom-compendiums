@@ -512,11 +512,11 @@
         100
       ],
       "_id": "98d909e4a1ccf3cf",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -528,9 +528,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Pay the Price",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LCirEMIOk8JMNQAY",
       "_key": "!tables.results!LCirEMIOk8JMNQAY.98d909e4a1ccf3cf"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "q0dTMMiyCh5UZ4qH",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Pay the Price",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.LCirEMIOk8JMNQAY",
+      "_key": "!tables.results!LCirEMIOk8JMNQAY.q0dTMMiyCh5UZ4qH"
     }
   ],
   "folder": "Et6gYyWzqZwieobL",

@@ -269,11 +269,11 @@
         98
       ],
       "_id": "FhlaYaWK9dH7HdnB",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -285,9 +285,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll twice",
-      "name": "",
+      "description": "<p>Roll twice</p>",
+      "name": "Spacefaring Waypoints - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.a0gskiL8HkFX8Uoe",
       "_key": "!tables.results!a0gskiL8HkFX8Uoe.FhlaYaWK9dH7HdnB"
+    },
+    {
+      "range": [
+        96,
+        98
+      ],
+      "_id": "WwPdbdrNiWvk0oq7",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Spacefaring Waypoints - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.a0gskiL8HkFX8Uoe",
+      "_key": "!tables.results!a0gskiL8HkFX8Uoe.WwPdbdrNiWvk0oq7"
     },
     {
       "range": [
@@ -295,11 +323,11 @@
         100
       ],
       "_id": "OcGZPPz4oGdWh6Nl",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -311,9 +339,64 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Roll three times",
-      "name": "",
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.a0gskiL8HkFX8Uoe",
       "_key": "!tables.results!a0gskiL8HkFX8Uoe.OcGZPPz4oGdWh6Nl"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "TqV45Lu0HgZcWzsu",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.a0gskiL8HkFX8Uoe",
+      "_key": "!tables.results!a0gskiL8HkFX8Uoe.TqV45Lu0HgZcWzsu"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "SdkweT89UhQNVdb7",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Spacefaring Waypoints - Outlands",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.a0gskiL8HkFX8Uoe",
+      "_key": "!tables.results!a0gskiL8HkFX8Uoe.SdkweT89UhQNVdb7"
     }
   ],
   "img": "icons/svg/d20-grey.svg",

@@ -191,11 +191,11 @@
         100
       ],
       "_id": "B8M5FeWpJhSFQZPW",
-      "type": "text",
-      "img": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
       "_stats": {
         "coreVersion": "13.350",
         "systemId": null,
@@ -207,9 +207,37 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "roll twice",
-      "name": "",
+      "description": "<p>roll twice</p>",
+      "name": "Known Space - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.lCTFWTborkYWZsga",
       "_key": "!tables.results!lCTFWTborkYWZsga.B8M5FeWpJhSFQZPW"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "9x2n3DcjNqjfiCQl",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.350",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>roll twice</p>",
+      "name": "Known Space - Terminus",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.lCTFWTborkYWZsga",
+      "_key": "!tables.results!lCTFWTborkYWZsga.9x2n3DcjNqjfiCQl"
     }
   ],
   "folder": "3wQREHN6DCfDZdoe",
