@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.1.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-07)
+
+* Add "Roll twice" and "Roll three times" functionality to tables.
+
 ## [3.1.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-07-10)
 
 * Create build process.
