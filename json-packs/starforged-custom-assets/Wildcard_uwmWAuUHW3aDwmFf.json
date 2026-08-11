@@ -1,0 +1,70 @@
+{
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Wildcard",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/poker-hand.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You are gifted with adaptability, and have one wildcard path asset. When you choose or swap the wildcard, set your momentum to its reset (if higher than that value). Then, roll +wits. On a strong hit, gain the asset with all abilities marked. On a weak hit, the asset has two marked abilities and cannot be upgraded. On a miss, as with a weak hit, but you must spend 2 experience when you next swap the wildcard; until you do, the wildcard counts as an impact.\n</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 8,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>As above, and you may let fate guide your path by forming a deck of 6 path assets and drawing one randomly as the wildcard. If you do, reroll any dice. On a match, draw again, choose either asset as the wildcard, and mark 1 tick on your quests legacy track.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you swap the wildcard, spend 3 experience to make the former wildcard a standard asset, keeping its marked abilities.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.0",
+    "createdTime": 1786406849303,
+    "modifiedTime": 1786406849303,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "uwmWAuUHW3aDwmFf",
+  "sort": 0,
+  "_key": "!items!uwmWAuUHW3aDwmFf"
+}

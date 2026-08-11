@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.1.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-07)
+
+* Added [Wildcard path asset](https://discord.com/channels/437120373436186625/470610624842301441/1519157022149574806) by Shawn Tomkin and bandti.
+
 ## [3.1.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-07)
 
 * Add "Roll twice" and "Roll three times" functionality to tables.
