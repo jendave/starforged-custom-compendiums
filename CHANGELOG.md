@@ -5,7 +5,7 @@
 ## [3.2.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-22)
 
 * Added a `Faction` Actor type to the `Create Actor` dialog
-  * Actor Token can be placed onto a Scene.
+  * Faction Actor Token can be placed onto a Scene.
   * Added `Faction Name` template oracles from Sundered Isles.
   * Added a `Faction (Starsmith)` to the `Create Actor` dialog to create factions from the Starsmith Oracles. Shown when the Starsmith module is active.
   * Added a `Faction (Sundered Isles)` to the `Create Actor` dialog to create factions from the Sundered Isles oracles. Shown when the Sundered Isles ruleset is enabled.
