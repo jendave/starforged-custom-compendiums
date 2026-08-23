@@ -1,0 +1,155 @@
+{
+  "folder": "4YBaVgxm6U1r7OMP",
+  "name": "Faction Name: Empire",
+  "_id": "2SlwMddgLG7GM53K",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "_id": "WeBKbPVV8qMxPY07",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.8ff995bc16f63b1a]{Empire Identity}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!2SlwMddgLG7GM53K.WeBKbPVV8qMxPY07"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "_id": "iZf2Wcpu0vasN3Lh",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.1193319d6bd1d1a2]{Faction Name: Culture}</p><p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.8ff995bc16f63b1a]{Empire Identity}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!2SlwMddgLG7GM53K.iZf2Wcpu0vasN3Lh"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "_id": "vrVldeDXVVYPQqWJ",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.8ff995bc16f63b1a]{Empire Identity} of</p><p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.1193319d6bd1d1a2]{Faction Name: Culture}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!2SlwMddgLG7GM53K.vrVldeDXVVYPQqWJ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "_id": "FqxncgBgQnhJhgql",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Aspect @UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.1193319d6bd1d1a2]{Faction Name: Culture} @UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.8ff995bc16f63b1a]{Empire Identity}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!2SlwMddgLG7GM53K.FqxncgBgQnhJhgql"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "_id": "cN3vPA1xlNtzn0fy",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Aspect @UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.8ff995bc16f63b1a]{Empire Identity}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!2SlwMddgLG7GM53K.cN3vPA1xlNtzn0fy"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.1",
+    "createdTime": 1787356618160,
+    "modifiedTime": 1787384897517,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "formula": "1d10",
+  "_key": "!tables!2SlwMddgLG7GM53K"
+}

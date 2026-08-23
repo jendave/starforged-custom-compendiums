@@ -1,0 +1,88 @@
+<header class="faction-header">
+    <img class="faction-portrait" src="{{source.img}}" data-action="editImage" data-edit="img"
+        alt="{{localize "DOCUMENT.FIELDS.img.label"}}">
+    <div class="faction-title">
+        {{formInput fields.name value=source.name placeholder=(localize "DOCUMENT.FIELDS.name.label")
+            aria=(object label=(localize "DOCUMENT.FIELDS.name.label"))}}
+        <button type="button" class="faction-roll" data-action="rollField" data-field="name"
+            data-tooltip="SFCC.FACTION.RollName" aria-label="{{localize "SFCC.FACTION.RollName"}}">
+            <i class="faction-dice" inert></i>
+        </button>
+    </div>
+</header>
+
+{{!-- No fieldset: the system's own sheets frame nothing, so the group role carries the name the legend used
+    to provide. --}}
+<div class="faction-fields" role="group" aria-label="{{localize "SFCC.FACTION.Legend"}}">
+    <div class="form-group">
+        <label>{{localize "SFCC.FACTION.Type"}}</label>
+        <div class="form-fields">
+            {{!-- The labels come from the oracle table, so they are already text rather than i18n keys. --}}
+            <select name="system.type">
+                {{selectOptions typeOptions selected=systemSource.type}}
+            </select>
+            <button type="button" class="faction-roll" data-action="rollField" data-field="type"
+                data-tooltip="SFCC.FACTION.RollType" aria-label="{{localize "SFCC.FACTION.RollType"}}">
+                <i class="faction-dice" inert></i>
+            </button>
+        </div>
+    </div>
+
+    {{!-- Not every set describes its types with an oracle of their own: a Sundered Isles faction is described by
+        the three oracles of its type's collection, all of which read into the description below. --}}
+    {{#if hasAspect}}
+    <div class="form-group">
+        <label>{{aspectLabel}}</label>
+        <div class="form-fields">
+            <input type="text" name="system.aspect" value="{{systemSource.aspect}}">
+            <button type="button" class="faction-roll" data-action="rollField" data-field="aspect"
+                data-tooltip="{{aspectLabel}}" aria-label="{{aspectLabel}}">
+                <i class="faction-dice" inert></i>
+            </button>
+        </div>
+    </div>
+    {{/if}}
+
+    {{#if hasLeadership}}
+    <div class="form-group">
+        <label>{{localize "SFCC.FACTION.Leadership"}}</label>
+        <div class="form-fields">
+            <input type="text" name="system.leadership" value="{{systemSource.leadership}}">
+            <button type="button" class="faction-roll" data-action="rollField" data-field="leadership"
+                data-tooltip="SFCC.FACTION.Leadership"
+                aria-label="{{localize "SFCC.FACTION.Leadership"}}">
+                <i class="faction-dice" inert></i>
+            </button>
+        </div>
+    </div>
+    {{/if}}
+</div>
+
+{{!-- A table rather than a fieldset, the way the system's own Location sheet presents its oracles: the frame
+    is the table's own grid, so the group role carries the name the dropped legend used to provide. The first
+    row holds one cell, which is what makes it span the columns below it. --}}
+<div class="faction-oracles" role="group" aria-label="{{localize "SFCC.FACTION.Oracles"}}">
+    <div class="faction-oracle-row">
+        <button type="button" class="faction-oracle" data-action="rollDetails">
+            <i class="faction-dice" inert></i>
+            {{localize "SFCC.FACTION.RollDetails"}}
+        </button>
+    </div>
+    {{#each oracleRows}}
+    <div class="faction-oracle-row">
+        {{#each this}}
+        <button type="button" class="faction-oracle" data-action="rollOracle" data-oracle="{{this.key}}">
+            <i class="faction-dice" inert></i>
+            {{localize this.label}}
+        </button>
+        {{/each}}
+    </div>
+    {{/each}}
+</div>
+
+{{!-- No fieldset here: the description is the body of the sheet, so it gets no frame of its own. The
+    group role carries the accessible name the dropped legend used to provide. --}}
+<div class="faction-description" role="group" aria-label="{{localize "SFCC.FACTION.Description"}}">
+    {{formInput systemFields.description value=systemSource.description enriched=descriptionHTML
+        toggled=true}}
+</div>

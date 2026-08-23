@@ -1,0 +1,86 @@
+{
+  "TYPES": {
+    "Actor": {
+      "starforged-custom-oracles": {
+        "faction": "Faction"
+      }
+    }
+  },
+  "SFCC": {
+    "SETTINGS": {
+      "FactionActor": {
+        "Name": "Faction Actors",
+        "Hint": "Add a Faction button to the Create Actor dialog to create factions from the Starforged oracles. Disabling this may cause Faction Actors to be unopenable."
+      },
+      "FactionStarsmithActor": {
+        "Name": "Faction (Starsmith) Actors",
+        "Hint": "Add a Faction button to the Create Actor dialog to create factions from the Starsmith  oracles. The Starsmith module must be installed and enabled to use this button."
+      },
+      "FactionSunderedIslesActor": {
+        "Name": "Faction (Sundered Isles) Actors",
+        "Hint": "Add a Faction button to the Create Actor dialog to create factions from the Sundered Isles  oracles. The Sundered Isles ruleset must be enabled to use this button."
+      }
+    },
+    "FACTION": {
+      "Sheet": "Starforged Faction",
+      "Create": "Faction",
+      "CreateStarsmith": "Faction (Starsmith)",
+      "CreateSunderedIsles": "Faction (Sundered Isles)",
+      "Legend": "Faction",
+      "Type": "Type",
+      "Leadership": "Dominion Leadership",
+      "Description": "Description",
+      "Oracles": "Oracles",
+      "RollName": "Roll a faction name",
+      "RollType": "Roll a faction type",
+      "RollDetails": "Roll for faction details",
+      "TYPE": {
+        "dominion": "Dominion",
+        "guild": "Guild",
+        "fringe_group": "Fringe Group",
+        "corporation": "Corporation",
+        "military": "Military",
+        "religious": "Religious",
+        "research_group": "Research Group",
+        "data_harvesters": "Data Harvesters",
+        "ai_hive": "AI Hive",
+        "society": "Society",
+        "organization": "Organization",
+        "empire": "Empire"
+      },
+      "ASPECT": {
+        "dominion": "Dominion",
+        "guild": "Guild",
+        "fringe_group": "Fringe Group",
+        "corporation": "Field",
+        "military": "Specialty",
+        "religious": "Role",
+        "research_group": "Field of Study",
+        "data_harvesters": "Role",
+        "ai_hive": "Prime Directive"
+      },
+      "HEADING": {
+        "cursed": "If the Faction is Cursed"
+      },
+      "ORACLE": {
+        "influence": "Influence",
+        "projects": "Projects",
+        "relationships": "Relationships",
+        "quirks": "Quirks",
+        "rumors": "Rumors",
+        "relationship": "Relationship",
+        "society_chronicles": "Chronicles",
+        "society_overseers": "Overseers",
+        "society_touchstones": "Touchstones",
+        "organization_type": "Organization Type",
+        "organization_methods": "Methods",
+        "organization_secrets": "Secrets",
+        "empire_leadership": "Imperial Leadership",
+        "empire_tactics": "Tactics",
+        "empire_vulnerabilities": "Vulnerabilities",
+        "cursed_role": "Cursed Role",
+        "cursed_aspects": "Cursed Aspects"
+      }
+    }
+  }
+}

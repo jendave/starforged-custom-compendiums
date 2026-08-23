@@ -15,6 +15,26 @@
       "url": "https://jendave.itch.io/"
     }
   ],
+  "esmodules": [
+    "./esmodules/faction.js"
+  ],
+  "styles": [
+    "./styles/faction.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "faction": {
+        "htmlFields": ["description"]
+      }
+    }
+  },
   "packs": [
     {
       "name": "starforgedcustomoracles",

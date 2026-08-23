@@ -1,0 +1,105 @@
+{
+  "folder": "4YBaVgxm6U1r7OMP",
+  "name": "Faction Name: Organization",
+  "_id": "gbisiVcz4HISg1zy",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "_id": "JWWQmCjOaumLDLqy",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Aspect</p><p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Persona</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!gbisiVcz4HISg1zy.JWWQmCjOaumLDLqy"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "_id": "okPB1wasy9VhUmmq",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Aspect @UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.7df40b48bb2f5d8d]{Faction Name: Organization Identity}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!gbisiVcz4HISg1zy.okPB1wasy9VhUmmq"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "_id": "7Y0hbYl5cYobKDX8",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>@UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.7df40b48bb2f5d8d]{Faction Name: Organization Identity} of the @UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Aspect @UUID[Compendium.foundry-ironsworn.sunderedislesoracles.RollTable.20de0f9b4cbd77d5]{Theme Type} Persona</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.1",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!gbisiVcz4HISg1zy.7Y0hbYl5cYobKDX8"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.1",
+    "createdTime": 1787356618160,
+    "modifiedTime": 1787384925075,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "formula": "1d6",
+  "_key": "!tables!gbisiVcz4HISg1zy"
+}

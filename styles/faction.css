@@ -1,0 +1,186 @@
+/*
+ * The sheet's palette. Every colour in this file resolves to an --ironsworn-* custom property, so the sheet
+ * follows whichever palette the system's Theme and Color Scheme settings select: the system defines those
+ * properties on :root and on the .ironcolor__* class it puts on <body>, and they are inherited from there.
+ *
+ * The two label properties are core's own, set here rather than restyled: core reads them from .application,
+ * so setting them on a descendant overrides them for the whole sheet without competing with any core rule.
+ */
+.starforged-custom-oracles.faction .window-content {
+    --color-form-label: var(--ironsworn-color-fg);
+    --color-form-label-hover: var(--ironsworn-color-fg-highlight);
+    background: var(--ironsworn-color-bg);
+    color: var(--ironsworn-color-fg);
+}
+
+/*
+ * Fields take the system's input palette. These set the properties core's own rules read the --input-*
+ * variables into, rather than the variables themselves, because that is the pairing core states at the
+ * lowest specificity — so nothing here depends on this file loading after core's.
+ */
+.starforged-custom-oracles.faction .window-content :is(input, select) {
+    --input-focus-outline-color: var(--ironsworn-color-warm);
+    background: var(--ironsworn-color-input-bg);
+    border-color: var(--ironsworn-color-input-border);
+    box-shadow: none;
+    color: var(--ironsworn-color-fg);
+}
+
+.starforged-custom-oracles.faction .window-content :is(input, select)::placeholder {
+    color: var(--ironsworn-color-fg);
+    opacity: 0.5;
+}
+
+/*
+ * A type label carries the oracle's description as well as its name, which is wider than the sheet. A flex
+ * item does not shrink below its content unless it is told it may, so without this the select would push the
+ * roll button off the row; with it, the closed select truncates and the open list still reads in full.
+ */
+.starforged-custom-oracles.faction .faction-fields select {
+    min-width: 0;
+    text-overflow: ellipsis;
+}
+
+.starforged-custom-oracles.faction .faction-header {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.starforged-custom-oracles.faction .faction-portrait {
+    border: var(--ironsworn-border-width-md) solid var(--ironsworn-color-border);
+    flex: 0 0 64px;
+    height: 64px;
+    object-fit: cover;
+}
+
+.starforged-custom-oracles.faction .faction-title {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    gap: 0.25rem;
+}
+
+.starforged-custom-oracles.faction .faction-title input {
+    font-size: var(--font-size-20);
+}
+
+/*
+ * The rows the dropped fieldset used to hold. It supplied the column layout as well as the frame, so that
+ * part has to be restated here.
+ */
+.starforged-custom-oracles.faction .faction-fields {
+    display: flex;
+    flex-direction: column;
+    gap: var(--ironsworn-spacer-xl);
+}
+
+/*
+ * The dice buttons beside each field carry no chrome, the way the system's own icon buttons do: they are
+ * marks on the field rather than blocks of their own, so they take the "clickable text" palette. Its resting
+ * colour is `inherit`, which is how the system keeps such an icon the same colour as the text beside it.
+ */
+.starforged-custom-oracles.faction .faction-roll {
+    --button-background-color: transparent;
+    --button-border-color: transparent;
+    --button-focus-outline-color: var(--ironsworn-color-border-highlight);
+    --button-hover-background-color: transparent;
+    --button-hover-text-color: var(--ironsworn-color-clickable-text-hover);
+    --button-text-color: var(--ironsworn-color-clickable-text);
+    border: none;
+    /* Keeps the button from stretching to the width of the field it sits beside. */
+    flex: 0 0 var(--input-height);
+    width: var(--input-height);
+}
+
+.starforged-custom-oracles.faction .faction-roll:hover {
+    filter: var(--ironsworn-filter-highlight);
+}
+
+/*
+ * The d10 that marks every roll control. Drawn as a mask rather than an <img> because the SVG carries no
+ * fill of its own: as a mask it takes the button's text colour and so follows the light and dark themes,
+ * whereas an <img> would render it solid black. This is the same technique, and the same artwork, the
+ * system uses for its own dice icons.
+ */
+.starforged-custom-oracles.faction .faction-dice {
+    -webkit-mask-image: url("../assets/d10-tilt.svg");
+    -webkit-mask-position: center;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    background-color: currentColor;
+    display: inline-block;
+    flex: 0 0 auto;
+    height: 1em;
+    mask-image: url("../assets/d10-tilt.svg");
+    mask-position: center;
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    width: 1em;
+}
+
+/*
+ * The oracle table, drawn the way the system draws its own. Every colour and measurement below comes from an
+ * --ironsworn-* custom property, so the table follows whichever palette the system's Theme and Color Scheme
+ * settings select: those properties live on :root and on the .ironcolor__* class the system puts on <body>,
+ * and are inherited into this sheet.
+ */
+.starforged-custom-oracles.faction .faction-oracles {
+    border: var(--ironsworn-border-width-md) solid var(--ironsworn-color-border);
+    border-radius: var(--ironsworn-border-radius-lg);
+    display: flex;
+    flex-direction: column;
+    /* Stops the grid lines below from poking out through the rounded corners. */
+    overflow: hidden;
+}
+
+.starforged-custom-oracles.faction .faction-oracle-row {
+    display: flex;
+}
+
+/* Grid lines, drawn only between cells so they never double up with the frame. */
+.starforged-custom-oracles.faction .faction-oracle-row + .faction-oracle-row {
+    border-top: var(--ironsworn-border-width-md) solid var(--ironsworn-color-border);
+}
+
+.starforged-custom-oracles.faction .faction-oracles .faction-oracle + .faction-oracle {
+    border-left: var(--ironsworn-border-width-md) solid var(--ironsworn-color-border);
+}
+
+/*
+ * Core draws every button from its own --button-* properties, so remapping those onto the system's palette is
+ * enough: no rule of core's has to be fought, and its focus and disabled handling keeps working. The "block"
+ * palette is the one the system's Location sheet buttons use.
+ */
+.starforged-custom-oracles.faction .faction-oracles .faction-oracle {
+    --button-background-color: var(--ironsworn-color-clickable-block-bg);
+    --button-focus-outline-color: var(--ironsworn-color-border-highlight);
+    --button-hover-background-color: var(--ironsworn-color-clickable-block-bg-hover);
+    --button-hover-text-color: var(--ironsworn-color-clickable-block-fg-hover);
+    /* Core sizes a button by --button-size; letting the padding decide instead lets a long label wrap. */
+    --button-size: auto;
+    --button-text-color: var(--ironsworn-color-clickable-block-fg);
+    border: none;
+    border-radius: 0;
+    flex: 1;
+    padding: var(--ironsworn-spacer-lg);
+}
+
+/*
+ * The description takes whatever height is left below the oracles and follows the window as it is resized.
+ * min-height: 0 on both is what allows that: a flex item defaults to min-height: auto, which refuses to
+ * shrink below its content, so a long description would push the sheet's own scrollbar instead of scrolling
+ * inside the editor. Core absolutely positions .editor-content to fill prose-mirror, so giving prose-mirror
+ * a height is all that is needed to make the text area itself grow and scroll.
+ */
+.starforged-custom-oracles.faction .faction-description {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-height: 0;
+}
+
+.starforged-custom-oracles.faction .faction-description prose-mirror {
+    flex: 1;
+    min-height: 0;
+}

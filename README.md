@@ -78,6 +78,18 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
   
 ![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
 
+#### Faction Actor Functionality
+
+* `Faction` Actor type appears in the `Create Actor` dialog.
+  * Actor Tokens can be placed onto a scene.
+  * Added `Faction Name` template oracles from Sundered Isles.
+  * Added a `Faction (Starsmith)` button to the `Create Actor` dialog to create factions from the Starsmith Oracles. Shown when the Starsmith module is active.
+  * Added a `Faction (Sundered Isles)` button to the `Create Actor` dialog to create factions from the Sundered Isles oracles. Shown when the Sundered Isles ruleset is enabled.
+  * Game settings to enable each Faction Actor button.
+  * Compatible with the [Token Note Hover](https://foundryvtt.com/packages/token-note-hover) module.
+  * ![Faction Dialog](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-factions-dialog.gif?raw=true)
+  * ![Faction Sheet](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/custom-factions.gif?raw=true)
+
 #### Impacts & Combat Positions
 
 >The Impacts & Combat Positions macros and configurations have been removed. Please use the [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts) module instead.
