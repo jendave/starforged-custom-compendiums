@@ -1,0 +1,65 @@
+{
+  "folder": "YbucMpQXytJJChLy",
+  "name": "Overview",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "p7JYyk630q5QDBzu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><a href=\"https://discord.com/channels/437120373436186625/468867952033136652/1539124454012227737\">Earn Experience and Heal variant Moves</a> by GrimsonGrudgebringer used with permission from the author.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "modifiedTime": 1787943120839
+      },
+      "category": null,
+      "_key": "!journal.pages!922VxkBokG4LTtRN.p7JYyk630q5QDBzu"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1787942985755,
+    "modifiedTime": 1787942985755,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "categories": [],
+  "_id": "922VxkBokG4LTtRN",
+  "sort": 0,
+  "_key": "!journal!922VxkBokG4LTtRN"
+}

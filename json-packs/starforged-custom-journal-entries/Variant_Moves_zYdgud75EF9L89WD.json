@@ -1,0 +1,103 @@
+{
+  "folder": "YbucMpQXytJJChLy",
+  "name": "Variant Moves",
+  "pages": [
+    {
+      "sort": 700000,
+      "name": "Legacy Moves",
+      "type": "text",
+      "_id": "sZyveWp9CQE2sruN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.ni79eFx2KFyOZ9Ci]{Earn Experience (with Debt)}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "modifiedTime": 1787943487753
+      },
+      "category": null,
+      "_key": "!journal.pages!zYdgud75EF9L89WD.sZyveWp9CQE2sruN"
+    },
+    {
+      "sort": 900000,
+      "name": "Recover Moves",
+      "type": "text",
+      "_id": "xyRpJ0nxRLBYlAZa",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustommoves.Item.fTJEuMRut97YE2sp]{Heal (Variant)}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "modifiedTime": 1787943526273
+      },
+      "category": null,
+      "_key": "!journal.pages!zYdgud75EF9L89WD.xyRpJ0nxRLBYlAZa"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1787943159598,
+    "modifiedTime": 1787943173140,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "categories": [],
+  "_id": "zYdgud75EF9L89WD",
+  "sort": 0,
+  "_key": "!journal!zYdgud75EF9L89WD"
+}

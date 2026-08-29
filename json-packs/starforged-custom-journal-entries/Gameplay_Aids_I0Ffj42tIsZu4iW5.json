@@ -171,7 +171,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Resources by shawn-tomkin</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.J0MZMuPt5ovlGOkk]{Failure Moves}</p>"
+        "content": "<h2>Resources by shawn-tomkin</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.J0MZMuPt5ovlGOkk]{Failure Moves}</p><h2>Resources by GrimsonGrudgebringer</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.zYdgud75EF9L89WD]{Variant Moves}</p>"
       },
       "video": {
         "controls": true,
@@ -186,12 +186,12 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
         "systemVersion": "1.25.4",
         "createdTime": 1758059011024,
-        "modifiedTime": 1758059074921,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1787943815410,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "exportSource": null
       },
       "category": null,
