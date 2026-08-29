@@ -115,7 +115,7 @@ https://github.com/jendave/starforged-custom-compendiums/releases/latest/downloa
 
 ## Credits
 
-Oracles, Assets, Macros and Journal Entries
+Oracles, Assets, Moves, Macros and Journal Entries
 
 * [Positive Plot Twists Oracle](https://discord.com/channels/437120373436186625/473169644698468352/1128160532113932349) by dukethesquirrelking is used with permission from the author.
 * [Gender Expression Oracles](https://gender-oracle.neocities.org) by kindfulkirby is used with permission from the author.
@@ -133,6 +133,7 @@ Oracles, Assets, Macros and Journal Entries
 * [Moments Forged - Starforged Adventure Starters](https://margot-hutton.itch.io/moments-forged-starforged-adventure-starters) by [Margot Hutton](https://margot-hutton.itch.io/) is licensed for use under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
 * [Legacy Iron (Starforged Asset Pack)](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack) by [Ludic Pen](https://www.drivethrurpg.com/en/publisher/14520/ludic-pen) used with permission from the author.
 * [Linked Effect Between Tokens](https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked) tutorial script from [Sequencer Documentation](https://fantasycomputer.works/FoundryVTT-Sequencer/#/) licensed under the [MIT license](https://opensource.org/license/mit/).
+* [Earn Experience and Heal variant Moves](https://discord.com/channels/437120373436186625/468867952033136652/1539124454012227737) by GrimsonGrudgebringer used with permission from the author.
 
 The following resources by [Shawn Tomkin](https://tomkinpress.com/) are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 

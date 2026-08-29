@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.2.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-xx)
+
+* Added [Earn Experience and Heal variant Moves](https://discord.com/channels/437120373436186625/468867952033136652/1539124454012227737) by GrimsonGrudgebringer.
+
 ## [3.2.0](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-22)
 
 * Added a `Faction` Actor type to the `Create Actor` dialog

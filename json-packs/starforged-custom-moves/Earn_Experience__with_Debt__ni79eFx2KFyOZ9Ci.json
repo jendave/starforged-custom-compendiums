@@ -1,0 +1,70 @@
+{
+  "type": "sfmove",
+  "name": "Earn Experience (with Debt)",
+  "img": "icons/dice/d10black.svg",
+  "folder": "FFkA4lZDM2wPC1uR",
+  "system": {
+    "dfid": "Starforged/Moves/Legacy/Earn_Experience",
+    "Category": "Starforged/Moves/Legacy",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "__When the narrative would justify a new asset/ability, but you don't have enough XP yet__, The debt must be \"paid off\" with earned XP before XP can be spent on other things.",
+    "Trigger": {
+      "Text": "When the narrative would justify a new asset/ability, but you don't have enough XP yet...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "With a Match": {
+          "Text": ""
+        }
+      },
+      "Weak Hit": {
+        "Text": ""
+      },
+      "Miss": {
+        "Text": "",
+        "With a Match": {
+          "Text": ""
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "Ironsworn: Starforged Rulebook",
+      "Authors": [
+        "Shawn Tomkin"
+      ],
+      "Date": "2022-05-06",
+      "Page": 224
+    },
+    "Suggestions": {},
+    "dsOracleIds": []
+  },
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Moves/Legacy/Earn_Experience",
+      "dsid": "move:starforged/legacy/earn_experience"
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1787942272054,
+    "modifiedTime": 1787942272054,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "ni79eFx2KFyOZ9Ci",
+  "sort": 0,
+  "_key": "!items!ni79eFx2KFyOZ9Ci"
+}
