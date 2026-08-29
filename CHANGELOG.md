@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.2.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-xx)
+## [3.2.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-29)
 
 * Added [Earn Experience and Heal variant Moves](https://discord.com/channels/437120373436186625/468867952033136652/1539124454012227737) by GrimsonGrudgebringer.
 
