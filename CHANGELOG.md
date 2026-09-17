@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.2.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-xx)
+## [3.2.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-16)
 
 * Added [Star Wars Assets, Species and Truths](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by [cdoghusk](https://cdoghusk.itch.io/).
   * Species have been added as new Paths.
