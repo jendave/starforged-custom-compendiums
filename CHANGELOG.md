@@ -2,6 +2,16 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.2.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-xx)
+
+* Added [Star Wars Assets, Species and Truths](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by [cdoghusk](https://cdoghusk.itch.io/).
+  * Species have been added as new Paths.
+  * Added Force Die Oracle.
+  * Updated Droid Type oracle to include Class.
+  * Added Truths in the Journal Entries compendium.
+  * Added new Starship, Deed, Comnpanion and Path assets.
+* Added [Moonbound path asset](https://discord.com/channels/437120373436186625/470610624842301441/1547240395686285332) by Shawn Tomkin and Colin.
+
 ## [3.2.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-29)
 
 * Added [Earn Experience and Heal variant Moves](https://discord.com/channels/437120373436186625/468867952033136652/1539124454012227737) by GrimsonGrudgebringer.

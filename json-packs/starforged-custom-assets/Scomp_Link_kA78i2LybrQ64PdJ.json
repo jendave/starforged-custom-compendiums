@@ -1,0 +1,87 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Scomp Link",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/big-gear.svg",
+  "system": {
+    "requirement": "<p>Astromech droid only</p>",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You may interact with the Computer Terminal below. When slicing into a system, you may rotate this card once per scene, empowering yourself to be better at one type of system hack. For the entirety of the scene, add +1 to the type facing up. This card always begins each session with “Search Database” facing up, and stays where it is at the end of the scene.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You may turn this card once more per scene...</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>...and once more.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Search database",
+        "selected": true
+      },
+      {
+        "name": "Plant information",
+        "selected": false
+      },
+      {
+        "name": "Conceal something",
+        "selected": false
+      },
+      {
+        "name": "Sabotage system",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "kA78i2LybrQ64PdJ",
+  "sort": 0,
+  "_key": "!items!kA78i2LybrQ64PdJ"
+}

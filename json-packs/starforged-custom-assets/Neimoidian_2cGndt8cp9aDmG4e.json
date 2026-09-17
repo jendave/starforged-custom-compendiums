@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Neimoidian",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/coins.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Shadow. You may start the game with either the @Compendium[foundry-ironsworn.starforgedassets.Item.dabb03f5d0a167f0]{Leader} or the @Compendium[foundry-ironsworn.starforgedassets.Item.d7fbe5fded75531c]{Scoundrel} asset (you still get your usual starting assets). Whenever you collaborate with other Neimoidians in planning or execution of premade plans, add +1.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "2cGndt8cp9aDmG4e",
+  "sort": 2600000,
+  "_key": "!items!2cGndt8cp9aDmG4e"
+}

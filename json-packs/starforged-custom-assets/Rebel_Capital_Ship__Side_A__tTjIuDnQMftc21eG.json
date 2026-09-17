@@ -1,0 +1,93 @@
+{
+  "folder": "Yh6azVJzAGNRPTfs",
+  "name": "Rebel Capital Ship (Side A)",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/orb-direction.svg",
+  "system": {
+    "requirement": "",
+    "category": "Starship",
+    "color": "#9aa3ad",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>You do not yet command this ship, but you desire it. You are crew, and you go where your commander tells you. Set a progress track, difficulty formidable, and call it “Ascend to Command.” When it is full, flip this card to SIDE B and take command of the ship. Until then, as crew, you select a stat to receive specialized training in. Envision your ship’s commander, your rank, and the secret Rebel base where you trained, and then add a permanent +1 to either edge, heart, iron, shadow or wits.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Whenever you commit an act of heroism for your ship or crew, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.141aec8b92efd14b]{Develop Your Relationship}. On a hit, mark two progress on your “Ascend to Command” track. You also gain the @Compendium[foundry-ironsworn.starforgedassets.Item.a2b30d037d7be39e]{Shields} ship module asset.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>If assisted by your crew in anything, take +1.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "current": 0,
+      "max": 7,
+      "value": 7,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "NEBULON-B FRIGATE (+1 to Heal)",
+        "selected": false
+      },
+      {
+        "name": "MON CALAMARI MC80 (+1 to Battle)",
+        "selected": false
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Battered",
+        "ticked": false
+      },
+      {
+        "name": "Cursed",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "tTjIuDnQMftc21eG",
+  "sort": 0,
+  "_key": "!items!tTjIuDnQMftc21eG"
+}

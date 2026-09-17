@@ -1,0 +1,97 @@
+{
+  "folder": "Yh6azVJzAGNRPTfs",
+  "name": "YT models",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/spaceship.svg",
+  "system": {
+    "requirement": "",
+    "category": "Starship",
+    "color": "#9aa3ad",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>This armed, multipurpose starship is suited for interstellar and atmospheric flight. It can comfortably transport several people, has space for cargo, and can carry and launch a single small ground vehicle—such as a speeder bike or a small land- or air-speeder. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.d602da2ce0c05f2c]{Advance}, you may spend experience to equip this module with assets.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.edac426b7c23f060]{Finish an Expedition} (dangerous or greater), and score a hit, this journey strengthened your ties to your ship, and any fellow travelers. You and your allies may mark 1 tick on your bonds legacy track.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage}, you may roll +heart. If you do, @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1) on a weak hit or miss.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "YT-2600 (+1 to chase)",
+        "selected": false
+      },
+      {
+        "name": "YT-1300 (+1 to hide)",
+        "selected": false
+      },
+      {
+        "name": "YT-2400 (+1 to sensors)",
+        "selected": false
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Battered",
+        "ticked": false
+      },
+      {
+        "name": "Cursed",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "Cwj4GpMKlueAf5BS",
+  "sort": 0,
+  "_key": "!items!Cwj4GpMKlueAf5BS"
+}

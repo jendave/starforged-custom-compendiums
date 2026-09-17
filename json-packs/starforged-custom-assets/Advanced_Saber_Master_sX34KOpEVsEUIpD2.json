@@ -1,0 +1,70 @@
+{
+  "folder": "lVpPfTL2aXnbsZsd",
+  "name": "Advanced Saber Master",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/light-sabers.svg",
+  "system": {
+    "requirement": "<p>Requires Saber Master completed</p>",
+    "category": "Deed",
+    "color": "#40834f",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p><strong>Shien:</strong> When you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} before a fight against a lightsaber-wielding foe, roll +spirit. If you do, take +2 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Makashi:</strong> If you are remaining defensive against a Force user, take +1. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} against a lightsaber or Force user, take +1 and do +1 harm. If you miss you must take an extra harm to yourself.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Niman (Jar'Kai):</strong> When it comes to lightsaber combat, you've seen it all, merging all previous styles into this style--the \"Moderation Form\". When you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} to determine an opponent's lightsaber style, take +1. When you dual-wield (a sub-style called Jar'Kai), take +2. It is very difficult for someone to disarm you, if you are ever disarmed, take +1 on a @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} to prevent/reclaim it.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "sX34KOpEVsEUIpD2",
+  "sort": 0,
+  "_key": "!items!sX34KOpEVsEUIpD2"
+}

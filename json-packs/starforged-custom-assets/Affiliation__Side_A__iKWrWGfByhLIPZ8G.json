@@ -1,0 +1,72 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Affiliation (Side A)",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/flying-flag.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Choose an affiliation above. You are often contacted for missions via dead drops, encrypted channels, and secret HoloNet sites. When you are, roll on the Mission Oracle below. As long as you have assistance from your faction, receive the bonus for the entirety of the mission. NOTE: You may be called upon to act against a member of your own faction, or aid an enemy—this might be a traitor, a double agent…or a trap.</p><ul><li><strong>1-10</strong> Assassinate Imperial (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Info})</li><li><strong>11-20</strong> Assassinate Rebel (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Info})</li><li><strong>21-30</strong> Rescue Imperial (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} using iron)</li><li><strong>31-40</strong> Rescue Rebel (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} using shadow)</li><li><strong>41-50</strong> Capture Imperial (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} using wits)</li><li><strong>51-60</strong> Capture Rebel (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} using edge)</li><li><strong>61-70</strong> Locate Imperial (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition})</li><li><strong>71-80</strong> Locate Rebel (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.367804b98f30d5f4]{Explore a Waypoint})</li><li><strong>81-90</strong> Infiltrate base (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection})</li><li><strong>91-100</strong> Infiltrate base (+1 @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} &amp; @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger})</li></ul>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Flip this card to @Compendium[starforged-custom-oracles.starforgedcustomassets.Item.FRNJUUMuDd9AWOZW]{SIDE B}.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Rebel",
+        "selected": false
+      },
+      {
+        "name": "Imperial",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "iKWrWGfByhLIPZ8G",
+  "sort": 0,
+  "_key": "!items!iKWrWGfByhLIPZ8G"
+}

@@ -1,0 +1,56 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Deep Pockets",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/locked-chest.svg",
+  "system": {
+    "requirement": "<p>Muun only</p>",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your family has put money into a trust that none can technically access until all the family’s elders are dead and there is only one of your family left, but you are allowed THREE “Emergency Withdrawals” before then. You have THREE USES. Whenever facing an Extreme or Epic enemy, or trying to convince such an ally, you may spend one of these uses to bribe them. This is an enormous amount of credits. If you convince them to take the bribe using @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel}, it turns out they are completely swayed by such wealth and you may instantly gain a bond with them, foregoing all @Compendium[foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection} moves to do so.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Emergency Withdrawal",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1789492578967,
+    "modifiedTime": 1789492608025,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "L4TbBFORrlhrIngQ",
+  "sort": 0,
+  "_key": "!items!L4TbBFORrlhrIngQ"
+}

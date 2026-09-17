@@ -1,0 +1,92 @@
+{
+  "folder": "Yh6azVJzAGNRPTfs",
+  "name": "Rebel Starfighter",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/starfighter.svg",
+  "system": {
+    "requirement": "",
+    "category": "Starship",
+    "color": "#9aa3ad",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your armed snub fighter carries a single pilot for space or atmospheric flight and combat. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, you may roll +integrity. If you do, take +2 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} add +1. On a strong hit with a match, mark progress.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>If you have the @Compendium[starforged-custom-oracles.starforgedcustomassets.Item.pWKllbXNweJnQ5El]{Astromech Droid} asset, you may integrate the droid into your starfighter. If you do, add +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike}. And whenever you personally defeat a notable foe in your snub fighter, envision the victory mark you make on the fuselage. Tally your victories in the clock below. For every four, mark two ticks on your bonds legacy track.</p>",
+        "enabled": false,
+        "hasClock": true,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "current": 0,
+      "max": 4,
+      "value": 4,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "X-WING (+1 to Undertake an Expedition)",
+        "selected": false
+      },
+      {
+        "name": "A-WING (+1 to evade)",
+        "selected": false
+      },
+      {
+        "name": "Y-WING (Mark progress if bombing)",
+        "selected": false
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Battered",
+        "ticked": false
+      },
+      {
+        "name": "Cursed",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "NwFlob5QjB4riicK",
+  "sort": 0,
+  "_key": "!items!NwFlob5QjB4riicK"
+}

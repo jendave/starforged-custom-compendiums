@@ -1,0 +1,143 @@
+{
+  "name": "3. Organization",
+  "_id": "ZT291UdhcdNalgzy",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "1 - 33",
+      "type": "text",
+      "_id": "WqvS1RBU7KtdFW6E",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We Sabersworn are largely lone operators, a series of small, tight units that operate without the need of central leadership.</strong></p><p>While some “cells” are loose groups of 2-5 operatives, most of us keep to ourselves, to minimize exposure. That way, if one of us is caught, we cannot be tortured into giving up the others. Each cell has its own “fade name,” and we mostly do not get to know the true names of anyone else not currently working with us on a team. We have been trained on a secret location on a faraway planet, individually, without meeting the other Sabersworn, and prepped for deep-cover ops or surprise assault tactics. We are entrusted to make most of the decisions on our own. However, there is one person (or perhaps persons) we report to on occasion, a faceless entity we know only as the “Coordinator” who communicates with us via HoloNet to give us missions, updates on enemy movements, and sometimes resources. Who this person or persons is, we don’t know. We’ve never known.</p><p><em>Quest Starter: This mode of play is perfect for those seeking chaos, looking to blaze their own trail without having to deal with much politics at all. But perhaps one rogue group among the Sabersworn are looking to complicate things, because one of them has decided they should be put in charge, with absolute control over the Sabersworn? Perhaps they are tired of what they call “haphazard and disjointed” operations, and are trying to consolidate power? Will you back their play, or stand against them?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!ZT291UdhcdNalgzy.WqvS1RBU7KtdFW6E"
+    },
+    {
+      "sort": 100000,
+      "name": "34 - 67",
+      "type": "text",
+      "_id": "sCXDuEPJYQlkv8xS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The Sabersworn have a sort of democratic way of deciding on missions.</strong></p><p>Much the way pirates on Earth in the 1700s or so would not raid a ship or village unless the crew voted in favor of it, the Sabersworn will take a democratic approach in deciding on operations, voting on how to proceed. But, once an operation is sanctioned by a majority vote, someone on the team is nominated the Commander and their orders must be followed strictly until the mission is complete. This goes for field orders, combat, taking prisoners, and what to do with new actionable intelligence gained. Several times a year, a majority of the Sabersworn must meet at a randomly chosen destination in order to begin planning the next phases of attacks against the Empire. This has created a sense of complicated politics within the Sabersworn.</p><p><em>Quest Starter: This mode of play is perfect for players wanted to deal heavily in internal politics, certain members of the Sabersworn jockeying for position, promotions, rewards and recognition. So, perhaps you have been issued a new Commander, an NPC/connection who is still green, completely unproven, and yet they’ve been promoted over you for unknown reasons. On their last mission, they completely bungled things up, and not only is their confidence in themselves shaken, but also your confidence in them. How will you address this? Why were they put as Commander over you when they are clearly not cut out for a leadership role? How will you find out?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!ZT291UdhcdNalgzy.sCXDuEPJYQlkv8xS"
+    },
+    {
+      "sort": 200000,
+      "name": "68 - 100",
+      "type": "text",
+      "_id": "CLWwveQ2GkReoBOZ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The Sabersworn are governed strictly by a council called the Closed Room, who have a mobile ship that roams the galaxy, with a massive holographic display in the operations center that shows the shifting alliances of the War and updates on Sabersworn missions abroad.</strong></p><p>The Closed Room are nominated from senior members of the Sabersworn, and they make all the decisions when it comes to the next phase of operations. We Sabersworn don’t often have to go looking for things to do against the Empire, for we receive orders from the Closed Room frequently. While we are sometimes given autonomy on certain missions, it is understood that all the major operational decisions are to be decided by the most senior members of the Closed Room.</p><p><em>Quest Starter: This mode of play is perfect for those players who want structure and strict instructions on what to do next, but also don’t want to deal in politics too much—you are given orders, and you follow those orders. So, perhaps you are issued an order right out of the gate that appears to be a suicide mission to a dangerous Imperial world such as Mustafar? Why would the Closed Room do this to you? Is it merely a test, or are they desperate? Why would someone as inexperienced as you (and your team?) be sent on this mission that is clearly likely to fail? Have the Closed Room lost their minds? How will you approach this?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!ZT291UdhcdNalgzy.CLWwveQ2GkReoBOZ"
+    }
+  ],
+  "folder": "WSkyG8DPHwSw40kb",
+  "categories": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788816412266,
+    "modifiedTime": 1789176954625,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_key": "!journal!ZT291UdhcdNalgzy"
+}

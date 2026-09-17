@@ -1,0 +1,92 @@
+{
+  "folder": "Yh6azVJzAGNRPTfs",
+  "name": "Imperial TIE Fighter",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/scout-ship.svg",
+  "system": {
+    "requirement": "",
+    "category": "Starship",
+    "color": "#9aa3ad",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>This fighter cannot travel between star systems on its own. It carries a single pilot for space or atmospheric flight and combat. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, you may roll +integrity. If you do, take +2 momentum on a hit. On a strong hit with a match, mark progress.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @Compendium[foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} add +1. On a strong hit with a match, mark two progress.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Your starfighter has an advanced sensor suite that you have become expert with. When targeting a single foe, you may roll @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage}. If you get a strong hit, you may downgrade their threat level by one (for example, a dangerous foe becomes only troublesome). And if you are working in coordination with one or more friendly starfighters, you may downgrade twice.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "TIE/LN (+1 to Battle)",
+        "selected": false
+      },
+      {
+        "name": "BOMBER (Mark progress if bombing)",
+        "selected": false
+      },
+      {
+        "name": "INTERCEPTOR (+1 to chase)",
+        "selected": false
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Battered",
+        "ticked": false
+      },
+      {
+        "name": "Cursed",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "1WlTRhIzSe1IMHbX",
+  "sort": 0,
+  "_key": "!items!1WlTRhIzSe1IMHbX"
+}

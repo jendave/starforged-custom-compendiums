@@ -1,0 +1,70 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Gand",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/spider-face.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, choose to add +1 to either Heart OR Shadow. Whenever you @Compendium[foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection}, your affable nature and self-deprecating humor wins you some points, add +1 and take +1 momentum on a hit. If you chose to be a Gand with lungs, you create a custom asset called “Ammonia Respirator.” Right now, it only allows you to breathe normally, but you may spend 2xp to give it its first upgrade called “Backup Tank,” so that if @Compendium[foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price} ever requires that your Ammonia Respirator is damaged, you can immediately use the backup without penalty. You may spend 2xp again to obtain the second (and final) upgrade called “Stim-injecting Respirator.” You may use this once per session to boost any stat by +1 for an entire scene.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Lungless Gand –</strong> You do not respire, and you gain all necessary metabolites from food. You are immune to suffocation, yet you still suffer damage if exposed to the vacuum of space.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Gand with lungs –</strong> Start with 3xp at the beginning of the game, which must be spent now, either to purchase a new asset or upgrade an already purchased asset. You have an ammonia respirator, and whenever you are exposed to oxygen you must @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-3).</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "xwJr7lpd4tAMbcrF",
+  "sort": 1200000,
+  "_key": "!items!xwJr7lpd4tAMbcrF"
+}

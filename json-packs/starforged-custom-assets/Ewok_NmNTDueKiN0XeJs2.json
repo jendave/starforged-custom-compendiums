@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Ewok",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/spears.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Choose to add +1 to all moves dealing with stealth OR to survival moves. Add +1 to all moves dealing with perception. Add +1 to all moves having to do with their willpower. Ewoks are very unfamiliar with advanced technology, and so cannot use it at all, or receive any assets that would upgrade technology through their skill use alone, UNLESS they spend 3xp to educate themselves and earn that ability. Once that 3xp is spent, they can then spend xp on assets dealing with advanced tech.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "NmNTDueKiN0XeJs2",
+  "sort": 1000000,
+  "_key": "!items!NmNTDueKiN0XeJs2"
+}

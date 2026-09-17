@@ -1,0 +1,143 @@
+{
+  "name": "2. The Sabersworn",
+  "_id": "ho8kw5HZ5ZsKxapx",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "1 - 33",
+      "type": "text",
+      "_id": "J7OTEzN4NWFBiVxj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The Sabersworn were a handful of well-trained Jedi, a well-kept secret order of intelligence-gatherers and spies among the Jedi Order, and you are among the last Padawans that were training to be a part of their network.</strong></p><p>You were a Padawan inducted into the Sabersworn by your master, who was themselves a powerful Jedi. You were taught the Sabersworn code: “Twice sworn is a Sabersworn. A Jedi born, without family to mourn, all ties shorn is the Sabersworn.” Only Master Windu and Master Ki-Adi-Mundi knew of your order’s existence, so secret were your missions. You were undergoing the training necessary to gather intel for the Jedi Order, learning the ins and outs of infiltrating or negotiating with Hutts, with Black Sun, with corrupt politicians. But, when Order 66 was issued, your master and most of the other Sabersworn were killed, leaving you to piece together the rest of your training through a Holocron or perhaps a Force ghost of your master or someone else. The Sabersworn are now no longer Jedi proper, but a sub-class of Force-sensitive saber-wielders missing the full Jedi training, and who operate in the shadows, trying to bring peace to the galaxy.</p><ul><li><strong>1-25</strong> We are few, an almost extinct order. There are no records of our existence.</li><li><strong>26-50</strong> There are dozens of us, and to those in the underworld we are a rumor, a whisper.</li><li><strong>51-75</strong> There are several dozen of us, and both the Empire and Rebels have heard of us, and the commonfolk sometimes speak of us as heroes, sometimes as spooks not to be trusted.</li><li><strong>76-100</strong> There are hundreds of us, but that is including our many non-Force-sensitive contacts throughout the galaxy, our networks of droids and criminal informants.</li></ul><p><em>Quest Starter: Knowledge is power, especially when it comes to knowledge in the Force. However, one new clue has spawned interest amongst the Sabersworn—Dathomirian “magick.” There are tales that Dathomiri witches are able to conduce the Force is a complete unique way, even able to teleport or conjure green-glowing blades out of thin air! If we could harness this power, perhaps it can augment our gaps in Force knowledge. How will you investigate the Dathomiri magick? How do you get there? What dangers do you encounter on Dathomir?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!ho8kw5HZ5ZsKxapx.J7OTEzN4NWFBiVxj"
+    },
+    {
+      "sort": 100000,
+      "name": "34 - 67",
+      "type": "text",
+      "_id": "TlJYBFsUwS0lYjBY",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The Sabersworn stem from a single rogue Jedi who was on the brink of becoming a Jedi Knight, and who saw the need for a specialized intel-gathering group of Jedi. He left the order after being refused permission by the Council to train such Jedi operatives. After Order 66, and at the start of Mon Mothma’s rebellion, he began teaching Force-sensitives in secret to undermine the Empire.</strong></p><p>You were never even in the Jedi Order, never met a Jedi until recently, but you were recruited by this rogue former Jedi and now he/she is your master, and the master of the other Sabersworn. However, since this Jedi never even achieved Knighthood, they never fully grasped the full teachings of the Force, and so your master teaches you from the piecemeal knowledge they have gained, and you must uncover the rest for yourself. You use your knowledge to aid those in need and undermine the Empire.</p><ul><li><strong>1-25</strong> Your master is still alive as of the start of the story.</li><li><strong>26-50</strong> Your master <u>was</u> still alive but is recently missing, their fate is unknown.</li><li><strong>51-75</strong> Your master is dead.</li><li><strong>76-100</strong> Your master is alive but fallen to the Dark Side.</li></ul><p><em>Quest Starter: There has long been a rumor amongst the Sabersworn that special Jedi tome not only includes knowledge of lightsaber forms and Force training, but portions of its text may lead to a “Jedi treasure,” but you will have to find this text first, then follow its clues across the galaxy. Will you have to brave through traps? Are their ancient machines guarding hidden temples throughout the galaxy? How will you solve this map and its mysteries? And just what is this “Jedi treasure”?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!ho8kw5HZ5ZsKxapx.TlJYBFsUwS0lYjBY"
+    },
+    {
+      "sort": 200000,
+      "name": "68 - 100",
+      "type": "text",
+      "_id": "kL6KUhEPfeQ54JGA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The Sabersworn are not old, they are relatively new, created either by you or one of your close cohorts. You’ve pieced together knowledge of the Force without any formal master to teach you.</strong></p><p>You were Force-sensitives who were intrigued (or fanatical) about the stories of Jedi heroes and/or their abilities, and came together to study the Force by piecing together old Jedi (or Sith) knowledge in order to fight the Empire. Some of you have learned to gain power in the Force by spiritual means, whereas others of you have tapped into its esoteric energies via strange alchemy and weird science. You do not feel the Rebel Alliance alone can defeat the Empire, and yet you do not feel comfortable fully throwing in with them—you operate from the shadows and assist their cause where you can, but you also have your own designs in mind.</p><ul><li><strong>1-33</strong> Your order is tightknit, you guys generally get along and have a clear, agreed-upon mission.</li><li><strong>36-67</strong> Your order is generally well-organized, but recently there have been too many divergent “takes” on the Force, operatives whose beliefs and perspectives on the Force are so divergent it threatens to tear the Sabersworn apart.</li><li><strong>68-100</strong> Your order is crumbling, their faith is shaken, either by fighting the Empire or by contemplating the inevitability of the Dark Side and the futility of the Light, or some other element that causes a fracture.</li></ul><p><em>Quest Starter: Recent intel suggests a scientist on a remote world has been using advanced technology to artificially “infuse” his blood with midi-chlorians necessary to use the Force. Will you seek this scientist out to destroy their work, or expose them as a fraud, or bargain with them for access to this power? Perhaps it could somehow enhance your own powers in the Force?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!ho8kw5HZ5ZsKxapx.kL6KUhEPfeQ54JGA"
+    }
+  ],
+  "folder": "WSkyG8DPHwSw40kb",
+  "categories": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788816412266,
+    "modifiedTime": 1789176953588,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_key": "!journal!ho8kw5HZ5ZsKxapx"
+}

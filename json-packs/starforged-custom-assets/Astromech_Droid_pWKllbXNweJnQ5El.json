@@ -1,0 +1,80 @@
+{
+  "folder": "ZMxaC5fQ6lG0AuFq",
+  "name": "Astromech Droid",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/robot-grab.svg",
+  "system": {
+    "requirement": "",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Your astromech can scan, repair, slice/hack systems, and even create diversions for you. Choose a specialty for your astromech below. Then, start a progress track to develop your bond, and make it formidable. Every time you overcome a great adventure together, mark progress. If you finish it out, your bond with your astromech becomes very strong, and all your +1 adds become +2.</p><ul><li>Carry +1 Supply</li><li>+1 to slice/hack</li><li>+1 to sabotage</li><li>+1 to scan</li><li>@Compendium[foundry-ironsworn.starforgedmoves.Item.367804b98f30d5f4]{Explore a Waypoint} +1</li><li>@Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} +1</li><li>@Compendium[foundry-ironsworn.starforgedmoves.Item.eece9a67d1961f70]{Repair} +1</li><li>Take @Compendium[starforged-custom-oracles.starforgedcustomassets.Item.K9Sqok3EZHSQ6Lvx]{Counterpart} asset</li></ul>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Choose a second specialty.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Choose a third specialty.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "pWKllbXNweJnQ5El",
+  "sort": 0,
+  "_key": "!items!pWKllbXNweJnQ5El"
+}

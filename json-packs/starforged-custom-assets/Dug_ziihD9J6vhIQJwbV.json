@@ -1,0 +1,63 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Dug",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/camel-head.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Edge.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Born to ride:</strong> Whenever you perform as a pilot for a pod racer, a landspeeder, or an airspeeder, add +1. You may either start with the @Compendium[foundry-ironsworn.starforgedassets.Item.1e03c8d44d0b3ffc]{Infiltrator} asset, the @Compendium[foundry-ironsworn.starforgedassets.Item.c7a0220765d0b579]{Ace} asset, or the @Compendium[foundry-ironsworn.starforgedassets.Item.1ba26529a815a322]{Hoverbike} asset (treating it as a beginner pod racer if you want), (you still get all your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "ziihD9J6vhIQJwbV",
+  "sort": 800000,
+  "_key": "!items!ziihD9J6vhIQJwbV"
+}

@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Bothan",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/lynx-head.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Shadow. Always take +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.0cfcd6fbaf6135d0]{Face Death}. Whenever you try to @Compendium[foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection} with another Bothan, add +1. You may start the game with either the @Compendium[foundry-ironsworn.starforgedassets.Item.1e03c8d44d0b3ffc]{Infiltrator} or @Compendium[foundry-ironsworn.starforgedassets.Item.26787f46840c03ad]{Sleuth} asset (you still get your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "YXgGw21qE5CcD3YU",
+  "sort": 100000,
+  "_key": "!items!YXgGw21qE5CcD3YU"
+}

@@ -1,0 +1,143 @@
+{
+  "name": "4. Our Reach",
+  "_id": "hbLqYMfJgnvVkouc",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "1 - 33",
+      "type": "text",
+      "_id": "60SVr7ZymO1Czmo3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We have no fleet. We Sabersworn are not very well-connected, our secrecy requires that we maintain secret identities, covers (legends), and have few physical resources that could slow us down or make it easy to track us. This makes it difficult to create many long-lasting relationships. The name “Sabersworn” is usually used only amongst ourselves.</strong></p><p>We are struggling to gain a foothold, we have virtually no permanent contacts that we can work with. We are “starting from scratch” right now, trying to build up our operations.</p><p><em>Quest Starter: You can’t get far in this galaxy without hard credits. Recent intel suggests Zurrdog the Hutt is moving a shipment of spice soon—but that’s not the big take. The big take is that, aboard this spice transport, there is a counterfeit machine that make credits that are indistinguishable from the real thing. If the Sabersworn could get a hold of this, it could change the game, and we could start buying more blasters and ship parts, bribing more Imperials and Rebels, perhaps even buying more ships. How will you find the shipment’s travel route? Who will you have to bribe (or impersonate or threaten) in order to find out?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!hbLqYMfJgnvVkouc.60SVr7ZymO1Czmo3"
+    },
+    {
+      "sort": 100000,
+      "name": "34 - 67",
+      "type": "text",
+      "_id": "8RscXylg1CQGMLTf",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We have a few small ships. Sabersworn are growing our reputation, and do not mind spreading some propaganda about who we are and how we operate, not if it will help us with our long-term goals. Therefore, we grow networks of connections. The name “Sabersworn” is spreading, for good or ill.</strong></p><p>We have recently had some major successes. Finally! After operating in the shadows for so long, we can now, at last, emerge and start using some of these new contacts we’ve made. We are starting to build some serious momentum, but we still have several hurdles left—for example, we don’t yet have any major operatives in the “halls of power,” but a few politicians are becoming receptive to us, and a couple of Rebel commanders have been all too happy to have us help out on small operations. We are rising up!</p><p><em>Quest Starter: We need capital ships if we’re going to be any sizable threat to the Empire. The Bilbringi shipyards are important to the Imperial Navy, that’s where all the latest prototype ships come from and are tested. There’s rumors the Imperials are working on a prototype of a ship costly controlled by artificial intelligence, and manned mostly by droids—this would allow a minimal crew to man such a powerful vessel. AI is usually not trusted because droids can be so easily sliced or bolted, but the Imperial scientists seem to have found a way of preventing that. Will you agree to sneak into Bilbringi and either steal the plans for such a ship, or steal the prototype itself? How will you do it? How are you planning to beat security? What are all the obstacles you must overcome?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!hbLqYMfJgnvVkouc.8RscXylg1CQGMLTf"
+    },
+    {
+      "sort": 200000,
+      "name": "68 - 100",
+      "type": "text",
+      "_id": "MFeQ0sAu0WtRjfZE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We have a sizable fleet. Sabersworn are fairly well known, we are proud of our deeds and broadcast them loudly across the HoloNet. We are coming for the Imperials, they cannot hide. The name “Sabersworn” has spread far and wide, the Empire fears us and the Rebels have made overtures to utilize us more.</strong></p><p>We are everywhere, in every shadow. Members of both Imperial and Rebel leadership do regular security sweeps for bugs, in case we have them under surveillance. We have significant influence and reach, even a few high-ranking politicians who are on our side. A few Imperials, who we have blackmail and otherwise compromised, are feeding us intel from the inside. There is nowhere to hide from us. We are coming.</p><p><em>Quest Starter: One of our Sabersworn were actually in deep cover aboard the Death Star (either when it was being built or while it was being destroyed, depending on which era you chose as your first Truth), and they were able to slice into the main computer and extract the Death Star’s schematics. If we can analyze how the Death Star’s superlaser was built, and find the right weapons scientists to assist us, we may be able to construct a weaker (but still extremely powerful) form of that superlaser and attach it to one of our ships, making the superlaser extremely mobile. Do you agree that the Sabersworn should go through with this? What are the benefits and dangers of using a superlaser against the Empire?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!hbLqYMfJgnvVkouc.MFeQ0sAu0WtRjfZE"
+    }
+  ],
+  "folder": "WSkyG8DPHwSw40kb",
+  "categories": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788816412266,
+    "modifiedTime": 1789176958282,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_key": "!journal!hbLqYMfJgnvVkouc"
+}

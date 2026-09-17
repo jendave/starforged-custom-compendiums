@@ -1,0 +1,143 @@
+{
+  "name": "5. The Underworld",
+  "_id": "IFrgsCXWz9lVonua",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "1 - 33",
+      "type": "text",
+      "_id": "17GsUFKeImxowuTu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We Sabersworn will not reduce ourselves to allying with the underworld.</strong></p><p>While it may sometimes be necessary to use the Hutts or Black Sun or some other underworld group to our advantage, we would never join them, nor have them join our ranks, nor enter into any sort of long-term business arrangement if it means benefiting them. If it comes to that, we will find another way to get what we want.</p><p><em>Quest Starter: The Hutt kajidic (clan) known as Desilijic have captured one of our own. A Sabersworn now rests in a cell (or perhaps in carbonite?) on the Hutt homeworld of Nal Hutta, deep in Hutt Space, somewhat close to the Outer Rim. It is a swampy world, hot and humid, with quite a few giant cities rising above the mud and countless small towns. Almost all who live on this world are slaves to the Hutts, in one way or another. But the Hutts are about to either kill our fellow Sabersworn, or torture them for information. This Sabersworn was working undercover as a member of Desilijic, trying to find Imperial connections among them. How will you rescue your fellow Sabersworn? Or how will you make sure they don’t speak to the Hutts about the Sabersworn’s operations?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!IFrgsCXWz9lVonua.17GsUFKeImxowuTu"
+    },
+    {
+      "sort": 100000,
+      "name": "34 - 67",
+      "type": "text",
+      "_id": "WIQiy4t2gqNnCctu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Our relationship with the underworld is complex, we use them when we have to, but may also choose a side in a gang war in order to gain favor with the winner.</strong></p><p>It’s not ethical, and we aren’t proud of it, but sometimes you gotta do what you gotta do. We are careful, though, and always coordinate with our leaders or other Sabersworn to ensure we are not double-crossing an underworld contact that they’ve been cultivating, or likewise befriending someone who other Sabersworn have deemed the enemy. It means being constantly vigil, walking a tightrope.</p><p><em>Quest Starter: Crimson Dawn, a vast group of spies, information brokers, and assassins, have a piece of intel we could really use. They offer an exchange: give them some useful information they’ve been after, and they’ll give you the intel you need. What is this intel you need? What intel do you have that they need? Will you go along with their deal and entangle yourself a little more in the underworld, or find another way instead?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!IFrgsCXWz9lVonua.WIQiy4t2gqNnCctu"
+    },
+    {
+      "sort": 200000,
+      "name": "68 - 100",
+      "type": "text",
+      "_id": "ldZgYOrVQot8JI1w",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We Sabersworn use any means necessary to get the job done, up to and including allying ourselves with the underworld.</strong></p><p>We’ve made several connections with underworld outfits already, and are mixed up in their politics every which way. So much so that it sometimes is hard to remember who you screwed over this week and who now has your back. We rarely have time to coordinate with other Sabersworn, and may make enemies of underworld groups that our fellow Sabersworn only recently made friends with. There is a lot of “stepping on each other’s toes” but it’s all part of the job.</p><p><em>Quest Starter: Black Sun, a shadowy organization spies and assassins, have traditionally been in league with the Empire. However, their leader, Prince Xizor, has recently felt himself betrayed by the Empire, and would like to insert an operative inside a high-ranking Imperial’s inner circle. Prince Xizor must use operatives that he is certain the Empire’s intelligence services are completely unaware of—in other words, he’s outsourcing this mission to you. You must infiltrate a high-ranking Imperial’s inner circle, going deep undercover, and report all that you find to Prince Xizor directly. In exchange for this, you ally the Sabersworn with the most powerful and secretive criminal organization in the galaxy…but it may mean occasionally feeding information to Black Sun that could harm the Rebellion. Will you decide that the “needs of the many outweigh the needs of the few,” and sacrifice a few Rebels to gain influence amongst Black Sun, the Empire’s most powerful intelligence-gathering group?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!IFrgsCXWz9lVonua.ldZgYOrVQot8JI1w"
+    }
+  ],
+  "folder": "WSkyG8DPHwSw40kb",
+  "categories": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788816412266,
+    "modifiedTime": 1789176959647,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_key": "!journal!IFrgsCXWz9lVonua"
+}

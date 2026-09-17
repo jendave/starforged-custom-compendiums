@@ -1,0 +1,70 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Force Enhancement",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/meditation.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You can perform stunning acrobatics and practically defy gravity by using the Force to leap long distances. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} to jump to a higher perch, leap out of the way of a threat, or leap down to a lower spot, take +1. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, if you miss, you can Spend Momentum (-2) to re-roll either your action die, or both challenge dice (your choice).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} from taking a fall, or from taking impact from a heavy object take +1.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You can spend all 10 of your momentum to immediately exit a deadly situation at no penalty, such as leaping out of combat or leaping out of the mouth of an erupting volcano. Assume a strong hit for this move and @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-2). If you do this, you are put into an advantageous position to escape if you wish.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "aDb7iyIWq3ScC7tS",
+  "sort": 0,
+  "_key": "!items!aDb7iyIWq3ScC7tS"
+}

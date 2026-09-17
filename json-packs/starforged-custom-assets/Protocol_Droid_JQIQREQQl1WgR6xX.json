@@ -1,0 +1,80 @@
+{
+  "folder": "ZMxaC5fQ6lG0AuFq",
+  "name": "Protocol Droid",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/talk.svg",
+  "system": {
+    "requirement": "",
+    "category": "Companion",
+    "color": "#3d8b8a",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Your protocol droid companion is programmed with knowledge of cultures, languages, and customs. When you are aided by the droid as you make a move in a formal social interaction, add +1. On a strong hit with a match, you learn something which builds understanding or empathy; also mark 1 tick on your bonds legacy track.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you first visit or interact with a new community or culture, you may ask for the droid’s insight. If you do, envision what you learn and take +1 momentum.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>If you make a move in a charged interaction and the value of your action die is less than the bot’s health, you may reroll it as the droid interjects with their commentary or advice. You qualify for the @Compendium[starforged-custom-oracles.starforgedcustomassets.Item.K9Sqok3EZHSQ6Lvx]{Counterpart} asset.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Health",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Action",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "JQIQREQQl1WgR6xX",
+  "sort": 0,
+  "_key": "!items!JQIQREQQl1WgR6xX"
+}

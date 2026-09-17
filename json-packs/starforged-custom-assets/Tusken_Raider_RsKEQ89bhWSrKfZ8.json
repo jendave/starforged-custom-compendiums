@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Tusken Raider",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/barbed-spear.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Iron. You always add +1 to survival rolls in hot climates, and +2 if you are doing it on Tatooine. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} to go without water and/or endure heat, count a miss as a weak hit instead. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.3de42d2d3cb78855]{Sojourn} in a desert, add +1.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "RsKEQ89bhWSrKfZ8",
+  "sort": 3400000,
+  "_key": "!items!RsKEQ89bhWSrKfZ8"
+}

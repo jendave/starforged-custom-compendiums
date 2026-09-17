@@ -1,0 +1,77 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Verpine",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/praying-mantis.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Wits and Edge.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Microvision:</strong> Add +1 whenever you roll to @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} on close examination.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Radio-wave communication:</strong> As long as you don’t have both your antennae broken, you may produce and hear radio waves, allowing silent communication with other Verpine and special comlinks with a 100-kilometer range.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Damaged antennae:</strong> If you begin as a Verpine with damage antennae, begin with 2xp to upgrade a starting asset now, to reflect how you’ve had to compensate for this detriment in other areas.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "LJaDyTfd83Cro42D",
+  "sort": 3700000,
+  "_key": "!items!LJaDyTfd83Cro42D"
+}

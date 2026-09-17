@@ -1,0 +1,56 @@
+{
+  "folder": "lVpPfTL2aXnbsZsd",
+  "name": "Superior Saber Master - Vaapad",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/ninja-heroic-stance.svg",
+  "system": {
+    "requirement": "<p>Requires Advanced Saber Master completed</p>",
+    "category": "Deed",
+    "color": "#40834f",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p><strong>Vaapad:</strong> Make a progress track called \"FALLEN\" and make it Dangerous. Passion, anger, and intense emotions guide your saber. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, you may ADD +heart to your total action roll (you can do this after rolling). If you do, mark +1 on the track below and mark progress. Whenever the Dark Side tracker below reaches 2, mark progress on your \"FALLEN\" track, and clear the Dark Side tracker. When \"FALLEN\" is full, roll to check. On a strong hit nothing happens, clear all progress. On a weak hit, your struggle to stave off the Dark Side debilitates you, set your Spirit max to 1 for the session, clear all progress. On a miss, the struggle against the Dark Side is destructive, set Spirit and Health caps to 1 until you personally overcome this darkness.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Dark Side",
+      "current": 0,
+      "max": 2,
+      "value": 0,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "IynCSOHVYVHOWT5f",
+  "sort": 0,
+  "_key": "!items!IynCSOHVYVHOWT5f"
+}

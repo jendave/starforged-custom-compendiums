@@ -1,0 +1,63 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Sullustan",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/human-ear.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your stats, add +1 to Edge. Whenever you @Compendium[foundry-ironsworn.starforgedmoves.Item.ed490d43a2533506]{Set a Course} or @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}, add +1. Also, whenever you are piloting a ship against an enemy, or through difficult terrain, add +1. You may also start with either the @Compendium[foundry-ironsworn.starforgedassets.Item.62c8297fab069013]{Explorer} asset or the @Compendium[foundry-ironsworn.starforgedassets.Item.4692e18baff8bd18]{Navigator} asset for free (you still get your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Keen explorer:</strong> Whenever you @Compendium[foundry-ironsworn.starforgedmoves.Item.367804b98f30d5f4]{Explore a Waypoint}, and score a strong hit with a match, you may either @Compendium[foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} or downgrade your expedition (to a minimum of Troublesome), and if you roll a miss to @Compendium[foundry-ironsworn.starforgedmoves.Item.edac426b7c23f060]{Finish an Expedition}, you may reroll once.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "Um1l2gsDkAaxtMO5",
+  "sort": 3000000,
+  "_key": "!items!Um1l2gsDkAaxtMO5"
+}

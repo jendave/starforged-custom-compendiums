@@ -186,7 +186,7 @@
     }
   ],
   "folder": "CqCUmYaboFyZ2SWr",
-  "sort": 1,
+  "sort": 300000,
   "_id": "CYnhRUCufBYhfT46",
   "img": "icons/dice/d10black.svg",
   "description": "<p>The “Lightsaber Forms” table is to give a player some idea about the flavor of lightsaber fighting (in canon terms) and tell you how likely the threat is to be, from TROUBLESOME to EPIC, depending.</p>",
@@ -200,10 +200,10 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "13.350",
+    "coreVersion": "13.351",
     "createdTime": 1707546640513,
-    "modifiedTime": 1707549941201,
-    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "modifiedTime": 1788644775272,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

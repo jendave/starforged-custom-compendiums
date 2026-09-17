@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Hutt",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/grasping-slug.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Iron and +1 to Wits, and -1 to Edge. Throughout the game, you always add +1 to deceive and uncover deception targeting you. You automatically pass any attempt to resist a Jedi-type mind trick. And when you @Compendium[foundry-ironsworn.starforgedmoves.Item.0cfcd6fbaf6135d0]{Face Death}, you add +1, and if you fail, you may (once per campaign ONLY) instead suffer a debility and come back from the dead, either through sheer toughness or by revealing that faking your death was all part of your plan.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "BAIm1EYzdAWH0yIY",
+  "sort": 1600000,
+  "_key": "!items!BAIm1EYzdAWH0yIY"
+}

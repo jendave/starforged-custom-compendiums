@@ -1,0 +1,63 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Mon Calamari",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/angler-fish.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Wits. If you ever must uncover some important piece of knowledge from studying, or must recall something that you would’ve learned about in history classes, add +1.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Underwater breathing:</strong> You may breathe underwater without ever having to surface for air, and when you must do combat underwater against a single foe who cannot breathe underwater, you are ALWAYS considered to be <em>In Control</em>. You may also start with either the @Compendium[foundry-ironsworn.starforgedassets.Item.dabb03f5d0a167f0]{Leader} asset or the @Compendium[foundry-ironsworn.starforgedassets.Item.bcc219b0ebfb5c68]{Diplomat} asset for free (you still get your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "GZ3vAQ27QXln14AS",
+  "sort": 2300000,
+  "_key": "!items!GZ3vAQ27QXln14AS"
+}

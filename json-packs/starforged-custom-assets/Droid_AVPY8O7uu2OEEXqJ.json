@@ -1,0 +1,91 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Droid",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/android-mask.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You do not need to breathe, eat, or sleep. Your health is not affected by the vacuum of space. You start with all three upgrades on <em>one</em> of your assets already filled—this is your specialty. Then, choose which class of droid you are (at least originally), and always take the bonus of that programming and/or chassis:</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Class 1:</strong> [physical sciences, medical droids, etc.] +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} biological life-forms.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Class 2:</strong> [engineering, astromech droids, etc.] +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.eece9a67d1961f70]{Repair}.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Class 3:</strong> [protocol, tutor droids, etc.] +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection} or help others in doing so.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Class 4:</strong> [security droids, battle droids, assassin droids, etc.] +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Class 5:</strong> [general labor, hazardous-service droids, etc.] +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} in your area of expertise.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "AVPY8O7uu2OEEXqJ",
+  "sort": 700000,
+  "_key": "!items!AVPY8O7uu2OEEXqJ"
+}

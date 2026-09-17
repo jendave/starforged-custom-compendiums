@@ -1,0 +1,104 @@
+{
+  "name": "0. Choose Your Truths",
+  "_id": "uk77fDswLRrdwP27",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Choose Your Truths",
+      "type": "text",
+      "_id": "r9BSaFx7KfiwwqMf",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>For the purposes of a cohesive Sabersworn gaming experience, all players should choose their Truths here at the beginning, to determine what exactly the setting is, what is going on, who the enemies are, and what your overall goals should be. But the below statements are generally true, and MOSTLY necessary in order to use the Star Waracle tables, which were created with the Imperial Era/Galactic Civil War Era in mind:</p><p><strong>This is the era of the Galactic Civil War (or thereabouts):</strong> Your campaign may be either at the start, middle, near the end, or even slightly AFTER the end of the Galactic Civil War.</p><p><strong>This is an uncertain time for the galaxy:</strong> Alliances are shifting constantly, one day the planet Kahelg’sh may be on the side of the Empire, and the next day it may side with the Rebels, and then it may eventually go independent and try to stay out of the whole War. New aliens with new tech may emerge at any time, and change the entire landscape of the War.</p><p><strong>This is a heyday for crimelords, bounty hunters, smugglers and other scum:</strong> Both the Empire and the Rebel Alliance make use of all sorts of scoundrels to capture wanted fugitives, smuggle blaster components, trade illicit goods, or gain key information about their enemies.</p><p><strong>There is much room for exploration:</strong> Your story need not stay in the already established canon of Star Wars lore, you may head out to the Unknown Regions, or leave the galaxy entirely, in order to fulfill your quests or create a new story. Remember, these Star Waracle tables still work for anything A LITTLE AFTER or A LITTLE BEFORE the Civil War, so you could establish what happened after the fall of the Second Death Star, or include a mission out into the Unknown Regions before Order 66 was issued to kill all the Jedi.</p><p><strong>There is as much fantasy as science in this galaxy:</strong> Remember, you can explore anything from time travel to time dilation, from hyperspace anomalies to Force-ghost hauntings. You may discover a living, sentient world, or a planet-sized machine lying dormant at the edge of the galaxy, waiting to awaken and move slowly throughout the galaxy, devouring planets as it goes. There is much wonder to be had here.</p><p><strong>There are still small stories to tell, as well as big ones:</strong> As a Sabersworn, you may not choose to help by joining in epic battles. You may simply pursue knowledge by going on archaeological digs throughout the Unknown Regions, or run a bookstore that’s actually a front for moving wanted Rebels secretly off-world. You may split your playtime between running an underground rescue op and running a legitimate sabacc casino!</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!uk77fDswLRrdwP27.r9BSaFx7KfiwwqMf"
+    },
+    {
+      "sort": 100000,
+      "name": "The Questions",
+      "type": "text",
+      "_id": "qPBNFSaLm640q53I",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Roll or choose one option for each of the eight Truths below.</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.7o6mAnZUN6pCq21G]{1. Era of Play}<br />During which portion of the Galactic Civil War are you playing?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.ho8kw5HZ5ZsKxapx]{2. The Sabersworn}<br />Who exactly are the Sabersworn? What are their origins?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.ZT291UdhcdNalgzy]{3. Organization}<br />How are the Sabersworn set up structurally? How are they governed?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.hbLqYMfJgnvVkouc]{4. Our Reach}<br />How well known are the Sabersworn? How much power and influence do we wield?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.IFrgsCXWz9lVonua]{5. The Underworld}<br />What is the Sabersworn’s relationship with criminal elements? How low are we willing to sink to get what we want?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.IrHwPHhxwfQfaC9e]{6. Continuing Knowledge of the Force}<br />With all the Jedi gone, how do the Sabersworn continue gaining knowledge and power in the Force?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.8ZFtPLlVkhk32HvJ]{7. Knowledge of Palpatine’s and Vader’s True Nature}<br />This is an important element. Palpatine being a Sith was a secret to all but the Jedi who died or went into exile. So how much of this monstrous conspiracy of the Sith do the Sabersworn know about?</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.cTbMgDiO3n0S9u0H]{8. The Dark Side & Balance}<br />What is the Sabersworn’s relationship with the Dark Side? Do we use all aspects of the Force to get what we want, up to and including the Dark Side? Or do we revile it, forsaking what extra powers it may provide in order to keep our goals pure and just?</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!uk77fDswLRrdwP27.qPBNFSaLm640q53I"
+    }
+  ],
+  "folder": "WSkyG8DPHwSw40kb",
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788816412266,
+    "modifiedTime": 1789176951089,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_key": "!journal!uk77fDswLRrdwP27"
+}

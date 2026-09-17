@@ -1,0 +1,93 @@
+{
+  "folder": "Yh6azVJzAGNRPTfs",
+  "name": "Imperial Capital Ship (Side B)",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/cog-lock.svg",
+  "system": {
+    "requirement": "",
+    "category": "Starship",
+    "color": "#9aa3ad",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>You now command your capital-class ship, and may travel where you want. Start a progress track, difficulty formidable, and call it “Command the Fleet.” When it is full, you command an entire Imperial fleet and give it a name. When that happens, envision three other capital-class ships to follow you, their commanders, and take +2 on all @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} moves to direct them. Until then, as Commander of your single ship, when you @Compendium[foundry-ironsworn.starforgedmoves.Item.a903d120af3b1475]{Battle}, you may re-roll any challenge dice.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you roll for @Compendium[foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}, you cannot get less than a weak hit, and when you @Compendium[foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} using the threat of your capital ship, add +1.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>If assisted by your crew in anything, take +2.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "current": 0,
+      "max": 7,
+      "value": 7,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "GOZANTI-CLASS ASSAULT CRUISER (+1 to Enter the Fray)",
+        "selected": false
+      },
+      {
+        "name": "VICTORY-CLASS STAR DESTROYER (+2 to Battle)",
+        "selected": false
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Battered",
+        "ticked": false
+      },
+      {
+        "name": "Cursed",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "KrXx7zeyqdXxdJ07",
+  "sort": 0,
+  "_key": "!items!KrXx7zeyqdXxdJ07"
+}

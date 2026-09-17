@@ -1,0 +1,90 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Affiliation (Side B)",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/flying-flag.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [
+      {
+        "name": "Callsign",
+        "value": ""
+      },
+      {
+        "name": "Planet",
+        "value": ""
+      },
+      {
+        "name": "Descriptor & Theme",
+        "value": ""
+      },
+      {
+        "name": "Mission Oracle",
+        "value": ""
+      },
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Focus",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>Your superiors trust you with a special mission. Roll on Oracles to reveal the redacted info below. For the Callsign, create a character. They begin as a powerful ally, you gain +2 when they assist you with their specialty, and take +2 momentum on a hit. The Planet becomes a vital system, with lots of allies to your faction, so add +1 when you @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} there. This is an important mission, you take your normal adds for it, and you mark it as formidable difficulty. For the Focus below, @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1) when interacting with its element. If you complete the mission, reflect on all you’ve learned, and raise any stat by 1.</p><p>You are to report to CODENAME <strong>[CALLSIGN]</strong> on <strong>[PLANET]</strong> and immediately commence OPERATION <strong>[DESCRIPTOR &amp; THEME]</strong> to <strong>[MISSION ORACLE]</strong> by the name of <strong>[NAME]</strong>. Beware of the <strong>[FOCUS]</strong>, or else all may be lost.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Rebel",
+        "selected": false
+      },
+      {
+        "name": "Imperial",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "FRNJUUMuDd9AWOZW",
+  "sort": 0,
+  "_key": "!items!FRNJUUMuDd9AWOZW"
+}

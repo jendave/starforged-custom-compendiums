@@ -1,0 +1,70 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Force Lightning",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/lightning-branches.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>[requires DEVOTANT mastery] You wield electrical energy via the Force. When you rest and meditate to gather this energy, roll +spirit. On a strong hit, take up to +3 lightning. On a weak hit, take +2. On a miss, take +2 lightning but @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-2). Your max lightning is +5. When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 lightning.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} and score a strong hit, you may instead ignore the harm and take +lightning equal to the amount of harm faced (+1, +2, or +3).</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you have at least +3 lightning, you may @Compendium[foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} or @Compendium[foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} by unleashing hell. If you do, take an automatic strong hit and mark progress. Then, set your lightning to 0.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Lightning",
+      "current": 0,
+      "max": 5,
+      "value": 0,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "UXUEh6lrlHgMtlG4",
+  "sort": 0,
+  "_key": "!items!UXUEh6lrlHgMtlG4"
+}

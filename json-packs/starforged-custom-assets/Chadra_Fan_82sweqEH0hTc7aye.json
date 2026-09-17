@@ -1,0 +1,63 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Chadra-Fan",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/rat.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning your starting stats, add +1 to Wits and Edge, and -1 to Iron.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Acute senses:</strong> Whenever making a move to see or maneuver in total darkness, add +2 due to your natural infrared vision, and always add +1 when you @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} to hunt someone or look for an ambush. When attempting to @Compendium[foundry-ironsworn.starforgedmoves.Item.287bb4c2b53ea847]{Forge a Bond} with anyone, add +1.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "82sweqEH0hTc7aye",
+  "sort": 400000,
+  "_key": "!items!82sweqEH0hTc7aye"
+}

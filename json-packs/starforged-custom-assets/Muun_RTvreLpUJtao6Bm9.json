@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Muun",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/receive-money.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Shadow and +1 to Wits. Whenever you @Compendium[foundry-ironsworn.starforgedmoves.Item.bd6278f18bbd6739]{Ask the Oracle} to see if you know some key piece of information about knowledge of the Core Worlds, you always roll on either LIKELY or ALMOST CERTAIN. You start with an extra asset called “@Compendium[starforged-custom-oracles.starforgedcustomassets.Item.L4TbBFORrlhrIngQ]{Deep Pockets}.”</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "RTvreLpUJtao6Bm9",
+  "sort": 2400000,
+  "_key": "!items!RTvreLpUJtao6Bm9"
+}

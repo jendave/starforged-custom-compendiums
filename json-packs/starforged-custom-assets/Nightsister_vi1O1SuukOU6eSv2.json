@@ -1,0 +1,70 @@
+{
+  "folder": "K8x5wKI4Sdzxo74K",
+  "name": "Nightsister",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/galaxy.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Drawing on esoteric energies, and conducting green \"spirit ichor\", you may cloak your form in the veil of the void. When you are veiled and make a move to ambush, hide, or sneak, you may preset your action die to 4. In darkness, make it 5. On a miss, in addition to any other cost, you are revealed and can't veil yourself again until the current situation is resolved.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you bathe yourself in green spirit ichor to @Compendium[foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage}, roll +shadow. On a hit, add +1 to any shadow rolls throughout the scene.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When your momentum is at its max, you may step into deep shadow and teleport yourself great distances. Pay one of the costs: Teleport up to several miles: @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1); across a planet: @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-2); across a star system: @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-3); to another part of the galaxy: @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-4).</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "vi1O1SuukOU6eSv2",
+  "sort": 0,
+  "_key": "!items!vi1O1SuukOU6eSv2"
+}

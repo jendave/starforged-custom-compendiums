@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Kaminoan",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/soul-vessel.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After you assign all your stats, add +1 to Wits. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal}, add +1, and when you @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} to perform research, also add +1, and take +1 momentum on a hit. @Compendium[foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1) when trying to charm, negotiate, or make friends with someone other than a fellow Kaminoan.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "4u9DdByqiblCrxM2",
+  "sort": 1900000,
+  "_key": "!items!4u9DdByqiblCrxM2"
+}

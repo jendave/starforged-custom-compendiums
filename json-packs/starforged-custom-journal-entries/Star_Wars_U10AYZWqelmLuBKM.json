@@ -158,6 +158,45 @@
       },
       "category": null,
       "_key": "!journal.pages!U10AYZWqelmLuBKM.v0WvCrwxMkWk5trE"
+    },
+    {
+      "sort": 500000,
+      "name": "Truths",
+      "type": "text",
+      "_id": "9tbDD6il1dPnAkvN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.uk77fDswLRrdwP27]{0. Choose Your Truths}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.7o6mAnZUN6pCq21G]{1. Era of Play}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.ho8kw5HZ5ZsKxapx]{2. The Sabersworn}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.ZT291UdhcdNalgzy]{3. Organization}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.hbLqYMfJgnvVkouc]{4. Our Reach}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.IFrgsCXWz9lVonua]{5. The Underworld}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.IrHwPHhxwfQfaC9e]{6. Continuing Knowledge of the Force}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.8ZFtPLlVkhk32HvJ]{7. Knowledge of Palpatine’s and Vader’s True Nature}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.cTbMgDiO3n0S9u0H]{8. The Dark Side &amp; Balance}</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "OX4yvkc0FcRTWOpP": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1789176941811,
+        "modifiedTime": 1789177010195,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "_key": "!journal.pages!U10AYZWqelmLuBKM.9tbDD6il1dPnAkvN"
     }
   ],
   "sort": 0,

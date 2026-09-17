@@ -1,0 +1,63 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Toydarian",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/pterodactylus.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Heart and Shadow, and -1 to Edge. You may start with either the @Compendium[foundry-ironsworn.starforgedassets.Item.11de92d262291440]{Scavenger} asset or the @Compendium[foundry-ironsworn.starforgedassets.Item.d7fbe5fded75531c]{Scoundrel} asset (you still get your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p><strong>Hoverer:</strong> You may hover slightly off the ground using your wings. In any situation where that might be advantageous (escaping over lava while being chased by non-flying enemies, preventing yourself from falling into a trap in the floor, etc.), add +1 to any move involving maneuvering in that moment.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "Q3fvxtEVJWIKIBrz",
+  "sort": 3200000,
+  "_key": "!items!Q3fvxtEVJWIKIBrz"
+}

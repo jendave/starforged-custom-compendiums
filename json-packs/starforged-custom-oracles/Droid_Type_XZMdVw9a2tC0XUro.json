@@ -14,18 +14,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608408600,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Medical droid",
-      "name": "",
+      "description": "<p>Medical droid</p>",
+      "name": "CLASS 1: small sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.KMrafA2UTkCVY9H6"
     },
     {
@@ -40,18 +41,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608414510,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Biological science droid",
-      "name": "",
+      "description": "<p>Biological science droid</p>",
+      "name": "CLASS 1: small sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.3amVmNTAEZt7YLgH"
     },
     {
@@ -66,18 +68,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608426683,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Physical science droid",
-      "name": "",
+      "description": "<p>Physical science droid</p>",
+      "name": "CLASS 1: small sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.WqIVcpJc46xnZGka"
     },
     {
@@ -92,18 +95,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608422482,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Mathematics droid",
-      "name": "",
+      "description": "<p>Mathematics droid</p>",
+      "name": "CLASS 1: small sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.6VdeXQEGr2y8QaoA"
     },
     {
@@ -118,18 +122,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608470470,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Astromech droid",
-      "name": "",
+      "description": "<p>Astromech droid</p>",
+      "name": "CLASS 2: elevated sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.xhUDJ6UVvXLzm7WZ"
     },
     {
@@ -144,18 +149,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608466459,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Exploration droid",
-      "name": "",
+      "description": "<p>Exploration droid</p>",
+      "name": "CLASS 2: elevated sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.b6CgUgHgWG5Z4F3T"
     },
     {
@@ -170,18 +176,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608462535,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Environmental droid",
-      "name": "",
+      "description": "<p>Environmental droid</p>",
+      "name": "CLASS 2: elevated sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.Ze57qhKmiXgppan4"
     },
     {
@@ -196,18 +203,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608458715,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Engineering droid",
-      "name": "",
+      "description": "<p>Engineering droid</p>",
+      "name": "CLASS 2: elevated sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.UOqXeISkzj22pTIw"
     },
     {
@@ -222,18 +230,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608454047,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Maintenance droid",
-      "name": "",
+      "description": "<p>Maintenance droid</p>",
+      "name": "CLASS 2: elevated sentience",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.jp5EKowRUe7hGXa2"
     },
     {
@@ -248,18 +257,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608548736,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Protocol droid",
-      "name": "",
+      "description": "<p>Protocol droid</p>",
+      "name": "CLASS 3: most advanced, \"sentient-like\"",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.zYiGDKw7oL6RSc8h"
     },
     {
@@ -274,18 +284,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608553308,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Servant droid",
-      "name": "",
+      "description": "<p>Servant droid</p>",
+      "name": "CLASS 3: most advanced, \"sentient-like\"",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.FZZgNxNkNCOsieMZ"
     },
     {
@@ -300,18 +311,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608563965,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Tutor droid",
-      "name": "",
+      "description": "<p>Tutor droid</p>",
+      "name": "CLASS 3: most advanced, \"sentient-like\"",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.ZiI5HdYT4JA7Zpsy"
     },
     {
@@ -326,18 +338,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608560615,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Childcare droid",
-      "name": "",
+      "description": "<p>Childcare droid</p>",
+      "name": "CLASS 3: most advanced, \"sentient-like\"",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.CNJw4jMyGyadAE5T"
     },
     {
@@ -352,18 +365,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608591640,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Security droid",
-      "name": "",
+      "description": "<p>Security droid</p>",
+      "name": "CLASS 4: programmed to fight",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.bvKpd0LPC4T5NEPC"
     },
     {
@@ -378,18 +392,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608587873,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Gladiator droid",
-      "name": "",
+      "description": "<p>Gladiator droid</p>",
+      "name": "CLASS 4: programmed to fight",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.pcjPXaKwp33LcFeR"
     },
     {
@@ -404,18 +419,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608584025,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Battle droid",
-      "name": "",
+      "description": "<p>Battle droid</p>",
+      "name": "CLASS 4: programmed to fight",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.CjNDkxl69Av4B5Po"
     },
     {
@@ -430,18 +446,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608580433,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Assassin droid",
-      "name": "",
+      "description": "<p>Assassin droid</p>",
+      "name": "CLASS 4: programmed to fight",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.b420v4GGiJukYG7a"
     },
     {
@@ -456,18 +473,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608614689,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "General labor droid",
-      "name": "",
+      "description": "<p>General labor droid</p>",
+      "name": "CLASS 5: simple labor",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.4B4LEuYOOKpVLe0u"
     },
     {
@@ -482,18 +500,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608606253,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Labor-specialist droid",
-      "name": "",
+      "description": "<p>Labor-specialist droid</p>",
+      "name": "CLASS 5: simple labor",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.v93TLXNSB1j18TK4"
     },
     {
@@ -508,18 +527,19 @@
       "flags": {},
       "img": "icons/dice/d10black.svg",
       "_stats": {
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": null,
         "systemVersion": null,
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null,
+        "modifiedTime": 1789608602330,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Hazardous-service droid.",
-      "name": "",
+      "description": "<p>Hazardous-service droid.</p>",
+      "name": "CLASS 5: simple labor",
+      "documentUuid": null,
       "_key": "!tables.results!XZMdVw9a2tC0XUro.NtLsND0lFaRJCZvX"
     }
   ],
@@ -527,7 +547,7 @@
   "sort": 0,
   "_id": "XZMdVw9a2tC0XUro",
   "img": "icons/dice/d10black.svg",
-  "description": "<p>The “Droid Type” also provides a quick, easy way for players unfamiliar with all the ins and outs of <em>Star Wars</em> canon to know exactly which droids are more common, which ones are more/less sentient than others, and what “class” they belong to.</p>",
+  "description": "<p>The “Droid Type” also provides a quick, easy way for players unfamiliar with all the ins and outs of <em>Star Wars</em> canon to know exactly which droids are more common, which ones are more/less sentient than others, and what “class” they belong to.</p><p></p>",
   "replacement": true,
   "displayRoll": true,
   "ownership": {
@@ -538,10 +558,10 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "13.350",
+    "coreVersion": "13.351",
     "createdTime": 1707545810921,
-    "modifiedTime": 1707549023942,
-    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "modifiedTime": 1789608389562,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

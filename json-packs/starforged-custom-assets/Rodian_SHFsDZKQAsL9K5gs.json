@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Rodian",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/triton-head.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>After assigning all your starting stats, add +1 to Edge. Always take +1 to survival and tracking rolls, and +1 again while doing it at night, and +1 again if it is in a jungle-like environment. Always add +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.2051538f0c9d5d27]{Heal} if you use medicinal plants or other natural healing agents/mixtures that you take from a wild environment, and add +1 to @Compendium[foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} to find those natural medicines. You may start the game with either the Hunter or the @Compendium[foundry-ironsworn.starforgedassets.Item.6e439be2dd0bd5a4]{Brawler} asset (you still get your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "SHFsDZKQAsL9K5gs",
+  "sort": 2800000,
+  "_key": "!items!SHFsDZKQAsL9K5gs"
+}

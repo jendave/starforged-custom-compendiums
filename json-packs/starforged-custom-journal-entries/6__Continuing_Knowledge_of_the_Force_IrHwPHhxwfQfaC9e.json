@@ -1,0 +1,143 @@
+{
+  "name": "6. Continuing Knowledge of the Force",
+  "_id": "IrHwPHhxwfQfaC9e",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "1 - 33",
+      "type": "text",
+      "_id": "H9WZ4plvLc4kib10",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We Sabersworn increase our knowledge through a holocron that alone possess.</strong></p><p>Using an ancient holocron, which contains the “recorded essence” (not the spirit) of a long-dead Jedi or Sith, we continue to expand our knowledge of the Force and train in lightsaber combat. It’s difficult, and slow going, but it is our only way to truly tap into the long lost knowledge of the Jedi or Sith.</p><p><em>Quest Starter: The Force essence locked inside the holocron contains a relatively strong “simulated mind” of the Jedi/Sith who recorded their teachings. This holographic person speaks to you sometimes in riddles, but often tells of a world you’ve never heard of, and exists on now galactic map. This holographic person claims there is something there that could have changed the tides of the war, if only the Jedi Council had found it before it was too late. Where is this world? How will you find it? What is the “something” that could potentially help bring about the end of Emperor Palpatine and his Empire?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!IrHwPHhxwfQfaC9e.H9WZ4plvLc4kib10"
+    },
+    {
+      "sort": 100000,
+      "name": "34 - 67",
+      "type": "text",
+      "_id": "HGOuhauQRYqWTVr2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We are sometimes visited by a “Force entity.”</strong></p><p>A Force entity of some sort (either a dead Jedi, Sith, or other entity) seeks to return the knowledge of the Force to the galaxy, and we are its conduits.</p><p><em>Quest Starter: The Force entity has motives of their own, and sometimes directs us to do things that would seem to ultimately harm the Sabersworn. In fact, they’ve definitely given us false information before, sometimes guiding us down wrong paths of knowledge, wasting our time, while on other occasions they’ve revealed to us powerful methods of Force control. Why are they so mercurial? What does this Force entity ultimately want from us?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!IrHwPHhxwfQfaC9e.HGOuhauQRYqWTVr2"
+    },
+    {
+      "sort": 200000,
+      "name": "68 - 100",
+      "type": "text",
+      "_id": "fYD90NQDaH4HLTB3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>We peruse ancient Jedi and Sith text, sifting through them for any details about Force abilities, lightsaber techniques, and mindful meditations.</strong></p><p>Much of our journey as Sabersworn is defined by our constant pursuit of knowledge. Indeed, you could say that the mission of the Sabersworn is twofold: rid the galaxy of the Empire, and return the Jedi Order to the galaxy. However, this is very tricky, as we have no true master to warn us when we stray too far into the Dark Side.</p><p><em>Quest Starter: Recently, we have reached the limits of the Jedi texts that we’ve pieced together. Now, all that’s left are a few pieces of Sith lore we may follow, texts that lead us to worlds like Korriban and Thule, once ruled by the Sith and with massive tombs of ancient Sith Lords. We know Emperor Palpatine has sent Imperial archaeologists there, as well as legions of stormtroopers and digging droids, to try and uncover old Sith knowledge. Will you go there to stop them? Will you try and uncover portions of these Sith texts to go beyond your current limits of Force knowledge?</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788816412266,
+        "modifiedTime": 1788816412266,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg"
+      },
+      "_key": "!journal.pages!IrHwPHhxwfQfaC9e.fYD90NQDaH4HLTB3"
+    }
+  ],
+  "folder": "WSkyG8DPHwSw40kb",
+  "categories": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788816412266,
+    "modifiedTime": 1789176960801,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_key": "!journal!IrHwPHhxwfQfaC9e"
+}

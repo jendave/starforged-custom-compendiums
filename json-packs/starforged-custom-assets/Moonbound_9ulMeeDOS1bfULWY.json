@@ -1,0 +1,79 @@
+{
+  "folder": "jfehFh17G4oIGqrY",
+  "name": "Moonbound",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/moon.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>The Twin Fates guide your destiny. Every few days, check the Fates: set your stats to their normal values, then roll the challenge dice as Cinder and Wraith. If Cinder is higher, raise iron or heart by 1 and lower edge or shadow by 1. If Wraith is higher, reverse this. On a match, choose which holds sway. Mark the adjusted stats as fated. When you make a move with a fated stat, take +1 momentum on a match.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Choose Cinder or Wraith as your favored Fate. While that moon holds sway, increase your momentum reset by 1.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>While Cinder holds sway, you may envision a prophetic glimpse of a fierce foe or ardent lover. While Wraith holds sway, it reveals a secret rival or mysterious benefactor. @Compendium[foundry-ironsworn.starforgedmoves.Item.bd6278f18bbd6739]{Ask the Oracle} for three details about that fated individual. Once per detail, when you make a move acting on the foresight, reroll any dice.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Cinder",
+        "selected": false
+      },
+      {
+        "name": "Wraith",
+        "selected": false
+      }
+    ],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1789398555147,
+    "modifiedTime": 1789398555147,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "9ulMeeDOS1bfULWY",
+  "sort": 500000,
+  "_key": "!items!9ulMeeDOS1bfULWY"
+}

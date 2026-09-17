@@ -1,0 +1,56 @@
+{
+  "folder": "AVNDQwKV1aVwVVOs",
+  "name": "Jawa",
+  "type": "asset",
+  "img": "modules/starforged-custom-oracles/assets/cultist.svg",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3f7faa",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You always add +1 to negotiation, and +1 to hide. When you @Compendium[foundry-ironsworn.starforgedmoves.Item.8d9830fb825057b0]{Check Your Gear}, you may preset your action die to four. You also start with a strong bond with someone, an ally non-player character (NPC) that will give you +1 whenever you make a move with their help, and +2 whenever they help you with their specialty, and you take +1 momentum on a hit. You may start with either the @Compendium[foundry-ironsworn.starforgedassets.Item.11de92d262291440]{Scavenger} or @Compendium[foundry-ironsworn.starforgedassets.Item.f64df27e8f9083bd]{Trader} asset for free (you still get your usual starting assets).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "current": 0,
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788740515091,
+    "modifiedTime": 1788740515091,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "_id": "q41LMH0MuEsEJoun",
+  "sort": 1800000,
+  "_key": "!items!q41LMH0MuEsEJoun"
+}

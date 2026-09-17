@@ -1,0 +1,2491 @@
+{
+  "name": "Force Die",
+  "description": "<p>Let’s talk about the Force Die. If your character is Force-sensitive, or uses the Devotant asset and chooses the Force as a source of power/worship, there are times when the power of the Force will hold sway over your story. When you would roll to Ask the Oracle, you may sometimes roll the Force Die—a third d10— along with the other two d10s. (Use a different color d10 to make sure the Force Die stands out.) If the Force Die lands on 10 (usually signified by a 0 or 00 on a d10), the result is affected by the Force, and you should check the Force Die Oracle on the next page.<br /><br />The results of the Force Die Oracle may require more rolls on other Oracle tables, to fully discern the will of the Force. Also, the entries on the Force Die Oracle that are in italics and with exclamation mark (such as Torrent of Fear!) signified a strong, intense emotion to go along with it.</p>",
+  "formula": "1d100",
+  "results": [
+    {
+      "name": "",
+      "description": "Light Side entity",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "BjoRp0GPX3kuEaRP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.BjoRp0GPX3kuEaRP"
+    },
+    {
+      "name": "",
+      "description": "Something hidden",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "DXol1iAo8rLj7Mvt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.DXol1iAo8rLj7Mvt"
+    },
+    {
+      "name": "",
+      "description": "Dark Side entity",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "ZNKx8fDetkaJCHrI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.ZNKx8fDetkaJCHrI"
+    },
+    {
+      "name": "",
+      "description": "<p>A malcontent</p>",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "2MdzypyRmZWpG8ew",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.2MdzypyRmZWpG8ew"
+    },
+    {
+      "name": "",
+      "description": "Vision of hope",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "pB1KYZQwCj3AlpUx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.pB1KYZQwCj3AlpUx"
+    },
+    {
+      "name": "",
+      "description": "Vision of doom",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "VU054vLzqerOW0sf",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.VU054vLzqerOW0sf"
+    },
+    {
+      "name": "",
+      "description": "A new friend / enemy",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "WvgCBzQP8LkYaYhN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.WvgCBzQP8LkYaYhN"
+    },
+    {
+      "name": "",
+      "description": "<p>A tremor… a warning</p>",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "KiYpVIsWQTfQECZU",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.KiYpVIsWQTfQECZU"
+    },
+    {
+      "name": "",
+      "description": "Vortex",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "yAxyrkLTULNPtgBw",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.yAxyrkLTULNPtgBw"
+    },
+    {
+      "name": "",
+      "description": "<p>Unease… not your own</p>",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "okskwMfKGUDmH7Ky",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.okskwMfKGUDmH7Ky"
+    },
+    {
+      "name": "",
+      "description": "Total ruin",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "IYCOsur0sJJuq34N",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.IYCOsur0sJJuq34N"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Torrent of fear!</em></p>",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "7R5OFgPgAMOEEJv7",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.7R5OFgPgAMOEEJv7"
+    },
+    {
+      "name": "",
+      "description": "Useful tool",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "ijLexkyELb5P8vND",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.ijLexkyELb5P8vND"
+    },
+    {
+      "name": "",
+      "description": "Cascade of love",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "aYaCdsF1nqSxm8Ob",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.aYaCdsF1nqSxm8Ob"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Halt! Go no further!</em></p>",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "HG31P0slHcSc4lof",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.HG31P0slHcSc4lof"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Disgust!</em></p>",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "EOZpQTuzWObFSR4j",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.EOZpQTuzWObFSR4j"
+    },
+    {
+      "name": "",
+      "description": "Droid",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "x4hEnOdU7YumVIt6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.x4hEnOdU7YumVIt6"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Deep mistrust!</em></p>",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "2lZD0goKacjVmwq5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.2lZD0goKacjVmwq5"
+    },
+    {
+      "name": "",
+      "description": "Subtle gravity shift",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "FZpSkpgTx9EFxLaE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.FZpSkpgTx9EFxLaE"
+    },
+    {
+      "name": "",
+      "description": "A liar",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "2NsNqXD0EMQTZLTq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.2NsNqXD0EMQTZLTq"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Defilement</em></p>",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "4gqjpgG4dCvzBeao",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.4gqjpgG4dCvzBeao"
+    },
+    {
+      "name": "",
+      "description": "Desperation",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "mCvavKpKpHxmrS9v",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.mCvavKpKpHxmrS9v"
+    },
+    {
+      "name": "",
+      "description": "Bestowed a gift",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "7AFAyisinToiu3hv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.7AFAyisinToiu3hv"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Fatal error!</em></p>",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "AFqjUuB91AflSHtL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.AFqjUuB91AflSHtL"
+    },
+    {
+      "name": "",
+      "description": "Strange alien presence",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "l9HUlDW6OkRwFk2S",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.l9HUlDW6OkRwFk2S"
+    },
+    {
+      "name": "",
+      "description": "<p>New Force power/curse… potentially yours…</p>",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "pvrdMYIOvjToGA5g",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.pvrdMYIOvjToGA5g"
+    },
+    {
+      "name": "",
+      "description": "Never!",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "GRliIgcWeekVSPmS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.GRliIgcWeekVSPmS"
+    },
+    {
+      "name": "",
+      "description": "A searching entity",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "lReSISsCHI7Htune",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.lReSISsCHI7Htune"
+    },
+    {
+      "name": "",
+      "description": "Time stands still",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "TjMLran1upwUZvCG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.TjMLran1upwUZvCG"
+    },
+    {
+      "name": "",
+      "description": "<p>Barely detectable pain… not your own</p>",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "W3wf3l8oa64nCcoN",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.W3wf3l8oa64nCcoN"
+    },
+    {
+      "name": "",
+      "description": "<p>A crystal…</p>",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "R2HZtuwSD7QhkPnR",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.R2HZtuwSD7QhkPnR"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Dangerous jealousy!</em></p>",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "xujzMB5ducstG8Sq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.xujzMB5ducstG8Sq"
+    },
+    {
+      "name": "",
+      "description": "A cry for help",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "d67HXw0Ea3nyNoUx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.d67HXw0Ea3nyNoUx"
+    },
+    {
+      "name": "",
+      "description": "Trace of deception",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "EfoNiyGCRY8wMYGh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.EfoNiyGCRY8wMYGh"
+    },
+    {
+      "name": "",
+      "description": "Pain!",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "OM8Q5TPh0OCT8f7R",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.OM8Q5TPh0OCT8f7R"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Rapture!</em></p>",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "pIZnYuF4hYdbwd7h",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.pIZnYuF4hYdbwd7h"
+    },
+    {
+      "name": "",
+      "description": "Major plot twist",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "qzbYt0nsKdc0Scc6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.qzbYt0nsKdc0Scc6"
+    },
+    {
+      "name": "",
+      "description": "Inimical thoughts…from the past",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "KSjndj90Ecocj3co",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.KSjndj90Ecocj3co"
+    },
+    {
+      "name": "",
+      "description": "A new alien type",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "jtTYUbMDQNqtcd16",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.jtTYUbMDQNqtcd16"
+    },
+    {
+      "name": "",
+      "description": "Someone close feels exposed",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "Q4vW4vMW1zUHq5b3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.Q4vW4vMW1zUHq5b3"
+    },
+    {
+      "name": "",
+      "description": "Warmth",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "xnQVnvKgtLVkmw6m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.xnQVnvKgtLVkmw6m"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Hide! Now!</em></p>",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "HFMVMcBsXaYLgY9k",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.HFMVMcBsXaYLgY9k"
+    },
+    {
+      "name": "",
+      "description": "Betrayal",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "IorWRkyG0eM5aeUL",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.IorWRkyG0eM5aeUL"
+    },
+    {
+      "name": "",
+      "description": "Force-sensitive animal",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "EjYCa1dX7vW92Fph",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.EjYCa1dX7vW92Fph"
+    },
+    {
+      "name": "",
+      "description": "Vindictive",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "4fTDVedcXWSdpYXh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.4fTDVedcXWSdpYXh"
+    },
+    {
+      "name": "",
+      "description": "Ancient machine",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "JMpnpa80Hyh1fUAl",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.JMpnpa80Hyh1fUAl"
+    },
+    {
+      "name": "",
+      "description": "Surge of radiance",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "YTwQiaFTRf0PpMKD",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.YTwQiaFTRf0PpMKD"
+    },
+    {
+      "name": "",
+      "description": "<p>Paralyzing fear… not yours…</p>",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "88Y9VWf8HryYhoyH",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.88Y9VWf8HryYhoyH"
+    },
+    {
+      "name": "",
+      "description": "The world darkens",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "xfBZzi7SUye8q6iE",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.xfBZzi7SUye8q6iE"
+    },
+    {
+      "name": "",
+      "description": "Force-sensitive location",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "Swy1tDkmWLFwoxpK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.Swy1tDkmWLFwoxpK"
+    },
+    {
+      "name": "",
+      "description": "<p>A voice whispers…</p>",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "TCjeVRhGV1uusADZ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.TCjeVRhGV1uusADZ"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Run!</em></p>",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "zL8Lu0jQozns8n16",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.zL8Lu0jQozns8n16"
+    },
+    {
+      "name": "",
+      "description": "Starship revenant",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "AYzGZPtsgVSeWgM3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.AYzGZPtsgVSeWgM3"
+    },
+    {
+      "name": "",
+      "description": "Force-sensitive object",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "n84OcgVXdThT3VDI",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.n84OcgVXdThT3VDI"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Greed! It’s mine!</em></p>",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "pbl7YPPqNj8MUBvK",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.pbl7YPPqNj8MUBvK"
+    },
+    {
+      "name": "",
+      "description": "A helpful pack animal, ready to be ridden",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "iKxmcH83lbzd639y",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.iKxmcH83lbzd639y"
+    },
+    {
+      "name": "",
+      "description": "A great fall",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "oImdbKkWX8xddk6H",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.oImdbKkWX8xddk6H"
+    },
+    {
+      "name": "",
+      "description": "A chance meeting",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "jGe93iHB0U7MzxA8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.jGe93iHB0U7MzxA8"
+    },
+    {
+      "name": "",
+      "description": "<p>A rival… not yours…</p>",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "M1ja18o9ELLO0m9e",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.M1ja18o9ELLO0m9e"
+    },
+    {
+      "name": "",
+      "description": "Voice speaking gibberish",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "cgRYK6thQhFphpOh",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.cgRYK6thQhFphpOh"
+    },
+    {
+      "name": "",
+      "description": "<p>Injury… not yours…</p>",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "VOd0m94jyEZasWTP",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.VOd0m94jyEZasWTP"
+    },
+    {
+      "name": "",
+      "description": "Force Echo of a past event",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "fxWnyePE34dyrIy6",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.fxWnyePE34dyrIy6"
+    },
+    {
+      "name": "",
+      "description": "Condemnation!",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "AJwvNU73R07iKaFx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.AJwvNU73R07iKaFx"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Climb! Now!</em></p>",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "RQVp1Bh2jvui6WK0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.RQVp1Bh2jvui6WK0"
+    },
+    {
+      "name": "",
+      "description": "Bogus lead",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "If2XcJlR6307sid0",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.If2XcJlR6307sid0"
+    },
+    {
+      "name": "",
+      "description": "Holocron",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "r8U5ZoPjAIGkAIqM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.r8U5ZoPjAIGkAIqM"
+    },
+    {
+      "name": "",
+      "description": "The call of the Dark Side",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "FgCUTcMyejrGyWuB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.FgCUTcMyejrGyWuB"
+    },
+    {
+      "name": "",
+      "description": "<p>Something hiding over there…</p>",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "ozLv9Ggd7qZSRYn5",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.ozLv9Ggd7qZSRYn5"
+    },
+    {
+      "name": "",
+      "description": "The peaceful song of the Light Side",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "GLG1BRQspGFetOVv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.GLG1BRQspGFetOVv"
+    },
+    {
+      "name": "",
+      "description": "Dark Side eddies",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "ICBH7rAgKsjFPsAt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.ICBH7rAgKsjFPsAt"
+    },
+    {
+      "name": "",
+      "description": "<p>A new quest is revealed…</p>",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "G97hHX6DDOkWGQMB",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.G97hHX6DDOkWGQMB"
+    },
+    {
+      "name": "",
+      "description": "Light Side eddies",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "Xudk8p5Ib48nk8lF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.Xudk8p5Ib48nk8lF"
+    },
+    {
+      "name": "",
+      "description": "Manifestation of evil",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "VbYLuCIV73XKSqNS",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.VbYLuCIV73XKSqNS"
+    },
+    {
+      "name": "",
+      "description": "<p>A warning for someone else…</p>",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "KL2mOVoG8eQadfPC",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.KL2mOVoG8eQadfPC"
+    },
+    {
+      "name": "",
+      "description": "Hard to breathe!",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "PIGsZ19QdRsARQsO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.PIGsZ19QdRsARQsO"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Duck!</em></p>",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "bUyN6swyoWLnR0CO",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.bUyN6swyoWLnR0CO"
+    },
+    {
+      "name": "",
+      "description": "Another Force-sensitive/user nearby",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "vjFYoyxYF7cazONx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.vjFYoyxYF7cazONx"
+    },
+    {
+      "name": "",
+      "description": "A hidden message",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "g5phmTmQxKGiPFHM",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.g5phmTmQxKGiPFHM"
+    },
+    {
+      "name": "",
+      "description": "Someone or something forbidding you",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "1G74tgX1kDqNwiTQ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.1G74tgX1kDqNwiTQ"
+    },
+    {
+      "name": "",
+      "description": "Hologram flickering",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "jlZeHyA28Ste2AgF",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.jlZeHyA28Ste2AgF"
+    },
+    {
+      "name": "",
+      "description": "<p>Something terrible took place here…</p>",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "GaP9kZsUJWToMpur",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.GaP9kZsUJWToMpur"
+    },
+    {
+      "name": "",
+      "description": "Adoration",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "PmPUzygsrO6rM32i",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.PmPUzygsrO6rM32i"
+    },
+    {
+      "name": "Force Die",
+      "description": "<p>Roll twice on this Oracle table</p>",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "xAy46A08vQOolnhT",
+      "type": "document",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "modifiedTime": 1788645087266
+      },
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cu4r5PGH994hXIsE",
+      "_key": "!tables.results!cu4r5PGH994hXIsE.xAy46A08vQOolnhT"
+    },
+    {
+      "name": "",
+      "description": "A tightening fist",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "cvQghdSw3HrociCq",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.cvQghdSw3HrociCq"
+    },
+    {
+      "name": "",
+      "description": "Someone or something spying on you",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "Vmu3bQyP7UnnbGP8",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.Vmu3bQyP7UnnbGP8"
+    },
+    {
+      "name": "",
+      "description": "A sense of supreme failure",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "NO9bqKYeJRn1O30m",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.NO9bqKYeJRn1O30m"
+    },
+    {
+      "name": "",
+      "description": "<p>Intense jealousy… not yours…</p>",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "pVELuwum55CTtdhz",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.pVELuwum55CTtdhz"
+    },
+    {
+      "name": "",
+      "description": "Emotional devastation",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "CmLRLxQhO8YhJwDv",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.CmLRLxQhO8YhJwDv"
+    },
+    {
+      "name": "",
+      "description": "<p>Paranoia… not yours…</p>",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "Wx2sg0pbcccFtLVx",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.Wx2sg0pbcccFtLVx"
+    },
+    {
+      "name": "",
+      "description": "Aggression towards someone or something",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "OUmhIZJifnjG0QoY",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.OUmhIZJifnjG0QoY"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Quick! Turn on/off the light!</em></p>",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "CLvTa4Qk02jigBZJ",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.CLvTa4Qk02jigBZJ"
+    },
+    {
+      "name": "",
+      "description": "Fortune",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "jOjk06gT3HzLrPr3",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.jOjk06gT3HzLrPr3"
+    },
+    {
+      "name": "",
+      "description": "Trust!",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "uOkwbFlEukelM3H1",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.uOkwbFlEukelM3H1"
+    },
+    {
+      "name": "",
+      "description": "Shaking",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "zvb3u7pcnp7rpYO2",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.zvb3u7pcnp7rpYO2"
+    },
+    {
+      "name": "",
+      "description": "Kyber",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "jXTdMHn0TbfOMI5t",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.jXTdMHn0TbfOMI5t"
+    },
+    {
+      "name": "",
+      "description": "Infinity",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "a57fwHHx4xb9LXFG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.a57fwHHx4xb9LXFG"
+    },
+    {
+      "name": "",
+      "description": "<p><em>Dread!</em></p>",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "xnYpMlP5gbQ3IsDG",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.xnYpMlP5gbQ3IsDG"
+    },
+    {
+      "name": "",
+      "description": "Heat",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "hQWpBUND97XTyAHt",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.hQWpBUND97XTyAHt"
+    },
+    {
+      "name": "",
+      "description": "Cold",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "PhXrdCPBpPsCDjhc",
+      "type": "text",
+      "img": "icons/dice/d10black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cu4r5PGH994hXIsE.PhXrdCPBpPsCDjhc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "POhvN3gDxI6Seqn5",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Vision of opportunity</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!cu4r5PGH994hXIsE.POhvN3gDxI6Seqn5"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "_id": "kRJ1ft3FEW8eQszK",
+      "name": "Force Die",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll twice on this Oracle table</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1788644985187,
+        "modifiedTime": 1788645111724,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.cu4r5PGH994hXIsE",
+      "_key": "!tables.results!cu4r5PGH994hXIsE.kRJ1ft3FEW8eQszK"
+    }
+  ],
+  "folder": "CqCUmYaboFyZ2SWr",
+  "img": "icons/dice/d10black.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1788644775194,
+    "modifiedTime": 1789609341555,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "_id": "cu4r5PGH994hXIsE",
+  "sort": 400000,
+  "_key": "!tables!cu4r5PGH994hXIsE"
+}
