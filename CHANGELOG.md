@@ -9,7 +9,7 @@
   * Added Force Die Oracle.
   * Updated Droid Type oracle to include Class.
   * Added Truths in the Journal Entries compendium.
-  * Added new Starship, Deed, Comnpanion and Path assets.
+  * Added new Starship, Deed, Companion and Path assets.
 * Added [Moonbound path asset](https://discord.com/channels/437120373436186625/470610624842301441/1547240395686285332) by Shawn Tomkin and Colin.
 
 ## [3.2.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-29)
