@@ -2,7 +2,7 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
-## [3.2.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-17)
+## [3.2.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-19)
 
 * Added [WOMP RATS Roll Tables](https://static1.squarespace.com/static/5990b78fa5790ab65274abc3/t/59d226732aeba5a6d2000844/1506944628037/WOMP+RATS.pdf) by [Chris Ing/SilZeroChris](https://silzero.com/podcasts).
 
