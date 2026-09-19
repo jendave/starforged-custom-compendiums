@@ -2,6 +2,10 @@
 
 [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 
+## [3.2.3](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-17)
+
+* Added [WOMP RATS Roll Tables](https://static1.squarespace.com/static/5990b78fa5790ab65274abc3/t/59d226732aeba5a6d2000844/1506944628037/WOMP+RATS.pdf) by [Chris Ing/SilZeroChris](https://silzero.com/podcasts).
+
 ## [3.2.2](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-09-16)
 
 * Added [Star Wars Assets, Species and Truths](https://cdoghusk.itch.io/star-wars-oracles-for-solo-co-op-roleplay) by [cdoghusk](https://cdoghusk.itch.io/).
@@ -9,7 +13,7 @@
   * Added Force Die Oracle.
   * Updated Droid Type oracle to include Class.
   * Added Truths in the Journal Entries compendium.
-  * Added new Starship, Deed, Companion and Path assets.
+  * Added new Starship, Deed, Comnpanion and Path assets.
 * Added [Moonbound path asset](https://discord.com/channels/437120373436186625/470610624842301441/1547240395686285332) by Shawn Tomkin and Colin.
 
 ## [3.2.1](https://github.com/jendave/starforged-custom-compendiums/blob/main/CHANGELOG.md) (2026-08-29)

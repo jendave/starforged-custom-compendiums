@@ -1,0 +1,1001 @@
+{
+  "name": "Ship/Base Rooms",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "VEeTuWk8I2BAxMyR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Detention Cell</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.VEeTuWk8I2BAxMyR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "6sROawpjnIRY5zVl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hangar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.6sROawpjnIRY5zVl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "LHoEHbutS7qfod77",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Comms Array</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.LHoEHbutS7qfod77"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "lyfjmSRfpoiTnmHH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Droid Bay</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.lyfjmSRfpoiTnmHH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "4aiXAtgL5FUKY6cy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Medical Bay</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.4aiXAtgL5FUKY6cy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "XxTFFjIDEjoqxNic",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Climate Control</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.XxTFFjIDEjoqxNic"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "puignFLORp1EK19b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Turbolifts</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.puignFLORp1EK19b"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "PkugetIPYMJ4Jn7J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Security Station</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.PkugetIPYMJ4Jn7J"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "G52h99n37ofYuYkY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Officer Quarters</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.G52h99n37ofYuYkY"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "O9sDeWs7CatHwxWw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Troop Barracks</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.O9sDeWs7CatHwxWw"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "0BwTsFPZbR7ZqEcD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Control Center</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.0BwTsFPZbR7ZqEcD"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "SSUu57RSchlFfg6F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Briefing Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.SSUu57RSchlFfg6F"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "FC4xLFK2ehUz7OJ4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Training Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.FC4xLFK2ehUz7OJ4"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "l1LHcTn8Z0szucSP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Armory</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.l1LHcTn8Z0szucSP"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "qZIPXQrtmj7TtUn4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lounge</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.qZIPXQrtmj7TtUn4"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "Yb6g5B79zdaHVAL3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Computer Core</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.Yb6g5B79zdaHVAL3"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "RlKk11M2bIBdzBG3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Engineering</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.RlKk11M2bIBdzBG3"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "XWWT7OSaXQDQBRfZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Life Support</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.XWWT7OSaXQDQBRfZ"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "ws8D8mr3DHb2genz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cargo Bay</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.ws8D8mr3DHb2genz"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "ECdhIGsgJ9gvXveb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mess Hall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.ECdhIGsgJ9gvXveb"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "s7LWQJfyitan3dP2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Trash Compactor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.s7LWQJfyitan3dP2"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "KxGde2021xaEgnC1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Interrogation Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.KxGde2021xaEgnC1"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "Gf97aB5ouOn0LCqz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Archives</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.Gf97aB5ouOn0LCqz"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "CxNl784BLrrSEcyI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rec Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.CxNl784BLrrSEcyI"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "RIrObO8dcXooW3nZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Maintenance</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.RIrObO8dcXooW3nZ"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "faxEK42rTxxRZtZt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Slicer Terminal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.faxEK42rTxxRZtZt"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "gekihiyJWLLpwV92",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Laundry Station</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.gekihiyJWLLpwV92"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "CoeVVh4ZuRSn4DLD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Airlock</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.CoeVVh4ZuRSn4DLD"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "tOCnsYgWXON0hWFE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Load-Out Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.tOCnsYgWXON0hWFE"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "wLYGOtcZDNaU9AJi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gym</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.wLYGOtcZDNaU9AJi"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "7qw1QJLDP4HIdVHf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Holovid Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.7qw1QJLDP4HIdVHf"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "Qpd09XxuCxPffZUs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gunnery Control</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.Qpd09XxuCxPffZUs"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "Vp2nqU7hOGUNQ8xP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Artillery</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.Vp2nqU7hOGUNQ8xP"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "1CgCL2Sobz7rMqpW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ordnance Bay</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.1CgCL2Sobz7rMqpW"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "Z76kXU752tx3edjG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Escape Pods</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.Z76kXU752tx3edjG"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "jw8uoEFCmIkBISOy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vehicle Bay</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!8elEfVz3BIaYj5YI.jw8uoEFCmIkBISOy"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "8elEfVz3BIaYj5YI",
+  "sort": 1900000,
+  "_key": "!tables!8elEfVz3BIaYj5YI"
+}

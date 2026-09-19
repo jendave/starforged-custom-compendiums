@@ -1,0 +1,22 @@
+{
+  "name": "Star Wars",
+  "sorting": "a",
+  "folder": "SilZeroChrisWmpR",
+  "type": "RollTable",
+  "_id": "SilZeroChrisSWar",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "description": "",
+  "_key": "!folders!SilZeroChrisSWar"
+}

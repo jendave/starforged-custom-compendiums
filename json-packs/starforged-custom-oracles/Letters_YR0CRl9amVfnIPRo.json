@@ -1,0 +1,1001 @@
+{
+  "name": "Letters",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "ZUoZZl35D8hjYW5g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>R</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.ZUoZZl35D8hjYW5g"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "BpYJzb9ErpI1nYXe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>C</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.BpYJzb9ErpI1nYXe"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "knU6aafMSKB3VyWp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>TK</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.knU6aafMSKB3VyWp"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "nimnUd4n3zeV9dr9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>FN</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.nimnUd4n3zeV9dr9"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "mtiKfxNNMNIRTchk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>AB</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.mtiKfxNNMNIRTchk"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "KhvwSYEcY5ICVNIK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>IG</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.KhvwSYEcY5ICVNIK"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "tihWLL3FL31Epzr0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>QX</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.tihWLL3FL31Epzr0"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "MyatwScEmynochcL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>HK</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.MyatwScEmynochcL"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "pNQ0WovtTy7Ga1th",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>VV</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.pNQ0WovtTy7Ga1th"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "nQqE2EZSOvVgES2x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>P</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.nQqE2EZSOvVgES2x"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "kX7fCbZtNH2qxfzd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>LN</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.kX7fCbZtNH2qxfzd"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "va24HluxFZImX8uX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>K</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.va24HluxFZImX8uX"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "Xzl37bf39RhRGSSx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>YT</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.Xzl37bf39RhRGSSx"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "YWoBZVH1qrNz8PXd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>RX</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.YWoBZVH1qrNz8PXd"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "xc5EyczIvVKPa0Zk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>PN</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.xc5EyczIvVKPa0Zk"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "uQTi8MKV0O4KCxqG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>TB</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.uQTi8MKV0O4KCxqG"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "bHhP1NQNlPcysjxK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>VU</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.bHhP1NQNlPcysjxK"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "UqfblqlYeGtszC09",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>SK</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.UqfblqlYeGtszC09"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "pxU3tqKHPhaBmOn5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>AA</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.pxU3tqKHPhaBmOn5"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "JmdPD4PMjXRAOUue",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>THX</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.JmdPD4PMjXRAOUue"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "7XH3m5fnxyl79t9x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>KO</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.7XH3m5fnxyl79t9x"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "HshMMjbeYV66wn04",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>BB</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.HshMMjbeYV66wn04"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "gLddeeKe4W9N7YgU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>NN</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.gLddeeKe4W9N7YgU"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "ENRJqQD1DBI4d4Ny",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>OP</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.ENRJqQD1DBI4d4Ny"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "E48XFZMZAVNiz1RN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>RST</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.E48XFZMZAVNiz1RN"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "RgmDhHkacdIdajWL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>TNR</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.RgmDhHkacdIdajWL"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "2NcMUcoGKkWeSYM9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>KLK</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.2NcMUcoGKkWeSYM9"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "Jfv8rkWvVWwWVxlD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>OOP</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.Jfv8rkWvVWwWVxlD"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "BfbP6DVhYxZansxM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>QMV</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.BfbP6DVhYxZansxM"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "tULiiSsgjAjRuchw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>TBE</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.tULiiSsgjAjRuchw"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "LTljMpUG8WciF5eA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>CZN</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.LTljMpUG8WciF5eA"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "CcNQAcDYogblHDGq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>SLK</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.CcNQAcDYogblHDGq"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "MMuBf7Yz1QU3Nefo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>BHG</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.MMuBf7Yz1QU3Nefo"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "w6waUm9ra5hW8ZgW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>SUI</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.w6waUm9ra5hW8ZgW"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "fS9zTrvSI72KK9Oe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>QNB</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.fS9zTrvSI72KK9Oe"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "2Mhb2ljeFNM5F2H2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>YFB</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!YR0CRl9amVfnIPRo.2Mhb2ljeFNM5F2H2"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Many things in Star Wars are named with random letters and numbers.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "YR0CRl9amVfnIPRo",
+  "sort": 1100000,
+  "_key": "!tables!YR0CRl9amVfnIPRo"
+}

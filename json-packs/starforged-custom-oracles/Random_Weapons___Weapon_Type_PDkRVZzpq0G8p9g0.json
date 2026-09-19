@@ -1,0 +1,353 @@
+{
+  "name": "Random Weapons - Weapon Type",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "5ba4fprPVju5HGrU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.5ba4fprPVju5HGrU"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "V6PDVjYVX2zL0New",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pistol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.V6PDVjYVX2zL0New"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "hYVq12AfM65e8iZT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.hYVq12AfM65e8iZT"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "FbTNu7COsxMscRnO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Detonator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.FbTNu7COsxMscRnO"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Ri7Jcl6e1nfzDxGJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Knife</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.Ri7Jcl6e1nfzDxGJ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ZhfanBY9afVVL1aw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sword</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.ZhfanBY9afVVL1aw"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "M34WfpGm7GIlAOaV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Repeater</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.M34WfpGm7GIlAOaV"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "YgAuUfmEVfL0G6wg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cannon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.YgAuUfmEVfL0G6wg"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "N4GmSJvMeWvRXOIM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Projector</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.N4GmSJvMeWvRXOIM"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "gLJVod5v8VBxveC3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Missile</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.gLJVod5v8VBxveC3"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "EmgdPodKsclbqhtI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gloves</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.EmgdPodKsclbqhtI"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "Dv61wK4IUKaevjhF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Turret</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!PDkRVZzpq0G8p9g0.Dv61wK4IUKaevjhF"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll a descriptor on <strong>Random Weapons - Descriptor</strong>, then roll a weapon type here.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "PDkRVZzpq0G8p9g0",
+  "sort": 2800000,
+  "_key": "!tables!PDkRVZzpq0G8p9g0"
+}

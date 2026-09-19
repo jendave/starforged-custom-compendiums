@@ -1,0 +1,1001 @@
+{
+  "name": "Temple Rooms",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "QX9P6ESFFzj7P1zR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Throne Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.QX9P6ESFFzj7P1zR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KycwD8LMXbVGb0U5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Council</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.KycwD8LMXbVGb0U5"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "UduR0WhDwRjUYUkF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Meditation</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.UduR0WhDwRjUYUkF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "KNde93DXDQ3C80Ts",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Fountain</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.KNde93DXDQ3C80Ts"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "q8JvzfyYJufOdBFK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hall of Statues</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.q8JvzfyYJufOdBFK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "hCPGcPU2Ykaa6Mul",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ancient Armory</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.hCPGcPU2Ykaa6Mul"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "f6qSdlxgAZY1koLt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Museum</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.f6qSdlxgAZY1koLt"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "bcCMlRTwppEjK3QN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Archives</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.bcCMlRTwppEjK3QN"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "KrwodLxrZKdD46Gw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Quarters</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.KrwodLxrZKdD46Gw"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "AeS3rJabieB2Zaai",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Master’s Study</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.AeS3rJabieB2Zaai"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "9ykffzpZSy1EOaWA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Kitchen</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.9ykffzpZSy1EOaWA"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "5374BFuY72JBew4s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Laundry</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.5374BFuY72JBew4s"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "DArgW81QXOroprQw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Audience Hall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.DArgW81QXOroprQw"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "kAuKZy2rgzDu4v3Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Common Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.kAuKZy2rgzDu4v3Y"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "j4Ch6XQmo0IERdz7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Power Nexus</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.j4Ch6XQmo0IERdz7"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "r1XttPv3lDkwo4R4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Secret Archives</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.r1XttPv3lDkwo4R4"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "tCKoDJTBCs6ymvzr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Secret Passage</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.tCKoDJTBCs6ymvzr"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "N8KgwUZkDJOhvhv7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Secret Study</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.N8KgwUZkDJOhvhv7"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "oc2cZbAvqzZzdbHe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dojo</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.oc2cZbAvqzZzdbHe"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "3yva1vLWc5rBNkYg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Classroom</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.3yva1vLWc5rBNkYg"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "e7q35YEn87ieCBl4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Study Hall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.e7q35YEn87ieCBl4"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "Ncjk7yUQ9sNnGxmO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dining Hall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.Ncjk7yUQ9sNnGxmO"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "GlsetsAfd2mXYic3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Torture Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.GlsetsAfd2mXYic3"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "A0GwJGJrPdWKZgMg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dungeon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.A0GwJGJrPdWKZgMg"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "XmvQPfKuwpgweDJZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Foyer</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.XmvQPfKuwpgweDJZ"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "H9Tum3mWMDNfYoDL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Altar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.H9Tum3mWMDNfYoDL"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "M1MKRvMHZZIt8Lue",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gardens</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.M1MKRvMHZZIt8Lue"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "KTLF867SS4USIoAB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tombs</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.KTLF867SS4USIoAB"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "Mihv1qn0SFhuir2U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Crypt</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.Mihv1qn0SFhuir2U"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "IvSUD3RzwBem3cuH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Graveyard</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.IvSUD3RzwBem3cuH"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "lpdoAVcz8jd5foeG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Music Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.lpdoAVcz8jd5foeG"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "6NvbVnlgmFac15vd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sacrifice Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.6NvbVnlgmFac15vd"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "xzpLehaRIA8ffNaR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ceremony Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.xzpLehaRIA8ffNaR"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "tmb4dCcaARlXXgUC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dangerous Test</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.tmb4dCcaARlXXgUC"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "XEpdwwdvq6sLGfe5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Trapped Room</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.XEpdwwdvq6sLGfe5"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "CM7ftNSfpWIlWhbg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vault</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!3Zz2NXOvT5I7DUXs.CM7ftNSfpWIlWhbg"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "3Zz2NXOvT5I7DUXs",
+  "sort": 1700000,
+  "_key": "!tables!3Zz2NXOvT5I7DUXs"
+}

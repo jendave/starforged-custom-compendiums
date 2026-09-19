@@ -1,0 +1,1001 @@
+{
+  "name": "Pocket Items",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "pJpYi5iRQv7ZiMcZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Comlink</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.pJpYi5iRQv7ZiMcZ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "sUif6UFZlElgYna8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Binders</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.sUif6UFZlElgYna8"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "L6i5m29vrbFyng7p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Restraining Bolt</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.L6i5m29vrbFyng7p"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "8bQQ5NvdX8gg1gDf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tracking Device</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.8bQQ5NvdX8gg1gDf"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "erfOIXw9ykemXih5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Remote Droid</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.erfOIXw9ykemXih5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "oC67tEav9adbcpfl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Holo Projector</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.oC67tEav9adbcpfl"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "TsaMHgViDvYr3MC7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Holo-Recorder</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.TsaMHgViDvYr3MC7"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "UbLDhVMjxJaOYFYA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Chance Cube (2)</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.UbLDhVMjxJaOYFYA"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "xcaOecvxeK5FCAfd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Death Sticks (3)</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.xcaOecvxeK5FCAfd"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "E4P3VOftJ2ffBPol",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Grappling Hook</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.E4P3VOftJ2ffBPol"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "CHiRPGPpliDbGyHY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hydrospanner</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.CHiRPGPpliDbGyHY"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "CZo8vpbM5G1IUBIl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Credit Chip</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.CZo8vpbM5G1IUBIl"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "nl7jDE8Tu2LR5CTM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ration Bars (3)</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.nl7jDE8Tu2LR5CTM"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "hcfEpsnE0vNLoWPF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Power Core</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.hcfEpsnE0vNLoWPF"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "GKPVWtpEYbebdJXq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Utility Belt</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.GKPVWtpEYbebdJXq"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "vl99t5ysd7s0VHUp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Thermal Detonator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.vl99t5ysd7s0VHUp"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "OedxaMDSU0DW9RUc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Glitterstim (1)</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.OedxaMDSU0DW9RUc"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "oz2rBefbIvvHMeGY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vibroblade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.oz2rBefbIvvHMeGY"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "4LR5arbP8gP4ITcB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pazaak Cards</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.4LR5arbP8gP4ITcB"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "9RORVj6bGroRDOBW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Handheld Probe</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.9RORVj6bGroRDOBW"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "juwHjGAytUaHLgTG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Glowrod</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.juwHjGAytUaHLgTG"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "oWMOvca5s2qS6RfD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lock Breaker</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.oWMOvca5s2qS6RfD"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "XlwW1On9oUM2bLAC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Smuggler’s Vest</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.XlwW1On9oUM2bLAC"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "c1raDTWLAEtOTCMr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Backpack</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.c1raDTWLAEtOTCMr"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "GwaLk0xkFSyGGo29",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Drall Flashstick</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.GwaLk0xkFSyGGo29"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "fpnLASMIsRhu9j4d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Electrobinoculars</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.fpnLASMIsRhu9j4d"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "yMvNmMTb3dmD8mpy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cable (10ft)</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.yMvNmMTb3dmD8mpy"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "y6TM5w0nXV0waRVN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sabacc Cards</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.y6TM5w0nXV0waRVN"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "KtMqlxZ7ew42xvBc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Thermal Paste</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.KtMqlxZ7ew42xvBc"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "8P7MCkfzj1jNDFIk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Repair Patch</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.8P7MCkfzj1jNDFIk"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "PmMVEU1rza0weZuZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Datapad</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.PmMVEU1rza0weZuZ"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "T8hUH0XMrvF9ANNr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Coolant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.T8hUH0XMrvF9ANNr"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "shNzBYcaegGYuJZh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Goggles</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.shNzBYcaegGYuJZh"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "Z1WJgGXY0XIYBSLU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Prybar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.Z1WJgGXY0XIYBSLU"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "Us6JcE3eaDQN77pB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stimpak</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.Us6JcE3eaDQN77pB"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "cAQXAlcPYUXVlWcq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Canteen</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!1EcrLUJUXaHDehoe.cAQXAlcPYUXVlWcq"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Found in pockets or lockers, or rolled as starting character items.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "1EcrLUJUXaHDehoe",
+  "sort": 100000,
+  "_key": "!tables!1EcrLUJUXaHDehoe"
+}

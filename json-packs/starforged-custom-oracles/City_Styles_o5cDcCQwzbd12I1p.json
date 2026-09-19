@@ -1,0 +1,1001 @@
+{
+  "name": "City Styles",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "hmVmd3AAsSL42LNQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Floating</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.hmVmd3AAsSL42LNQ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "5c6KABNVNUHtlHCF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Domes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.5c6KABNVNUHtlHCF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "2s9CcRBgc4MSRoTT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bubbles</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.2s9CcRBgc4MSRoTT"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "YF6eSJezUawafW4C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pyramids</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.YF6eSJezUawafW4C"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "NGp2LYDJfSJcLQlg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Spires</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.NGp2LYDJfSJcLQlg"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "TGcmAvINfTX5de9T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Shards</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.TGcmAvINfTX5de9T"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "9nG3IRyIRUyeUWTb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cubes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.9nG3IRyIRUyeUWTb"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "u13PchhcdrRqGNfW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Scrap</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.u13PchhcdrRqGNfW"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "PTTlM4ZeGiZ57Qk7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Old Spaceships</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.PTTlM4ZeGiZ57Qk7"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "bk6xOuceEliIXqAa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Adobe</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.bk6xOuceEliIXqAa"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "7WTDbaWtM0rEvulz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Under hills</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.7WTDbaWtM0rEvulz"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "BaXt6zsds2Zzjim1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Underground</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.BaXt6zsds2Zzjim1"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "qhCOunrlwNpqbb1b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Skyscrapers</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.qhCOunrlwNpqbb1b"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "nMDwqRZfi3Mr3Rh2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hives</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.nMDwqRZfi3Mr3Rh2"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Y7sVfrqkYzskiTo6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Step Pyramids</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.Y7sVfrqkYzskiTo6"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "X0LQXVnR6DjdSb8K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tubes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.X0LQXVnR6DjdSb8K"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "IbxkVBAjtQbJaKQ3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Fortress</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.IbxkVBAjtQbJaKQ3"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "ZMgIdadgK9tVWlfU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sentient</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.ZMgIdadgK9tVWlfU"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "iFfvZddVFFi95gNk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Narrows</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.iFfvZddVFFi95gNk"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "Yajwj3Fw61wofnhm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tents</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.Yajwj3Fw61wofnhm"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "RuCi7wszCZuon90i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Trees</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.RuCi7wszCZuon90i"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "NcsTVz2pRiLHcH6m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Towers</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.NcsTVz2pRiLHcH6m"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "YHTewK8DrgDXDVyj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tunnels</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.YHTewK8DrgDXDVyj"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "oyyBYkYRPspc3hAM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rings</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.oyyBYkYRPspc3hAM"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "jfJDWIM20KV9feDI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Capsules</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.jfJDWIM20KV9feDI"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "x3g4QFq0p5rT0IXT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Modules</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.x3g4QFq0p5rT0IXT"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "TqeDpkxEfymIvkcd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stone</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.TqeDpkxEfymIvkcd"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "2z37bjAo76yJlOKh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Crystals</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.2z37bjAo76yJlOKh"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "JOxOe7kUbW3AVqxv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Walking</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.JOxOe7kUbW3AVqxv"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "y4Zedr65045ODpNG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rolling</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.y4Zedr65045ODpNG"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "m4A4HIqsFojcaH02",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Corporate</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.m4A4HIqsFojcaH02"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "QBNbIz1kybj0ZQtj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Primitive</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.QBNbIz1kybj0ZQtj"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "TdE4SmN6bZJiEZHx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Artistic</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.TdE4SmN6bZJiEZHx"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "C6Ev7z5pNIoeGeHv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Uniform</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.C6Ev7z5pNIoeGeHv"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "UO5BK90sDXcxrWfa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stylish</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.UO5BK90sDXcxrWfa"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "5h1aEYlMZrGuNDZx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tiered</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!o5cDcCQwzbd12I1p.5h1aEYlMZrGuNDZx"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "o5cDcCQwzbd12I1p",
+  "sort": 1400000,
+  "_key": "!tables!o5cDcCQwzbd12I1p"
+}

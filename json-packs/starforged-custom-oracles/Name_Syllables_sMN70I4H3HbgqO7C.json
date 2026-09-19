@@ -1,0 +1,1001 @@
+{
+  "name": "Name Syllables",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "brEkaqVatdc0nhz7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ma</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.brEkaqVatdc0nhz7"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "MmCUv1S1X97QFdfr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tooine</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.MmCUv1S1X97QFdfr"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "0UAeVvvtlQ96FBwq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Shyyk</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.0UAeVvvtlQ96FBwq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "7uWCayySJJxSOnz1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.7uWCayySJJxSOnz1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "mtoijsYHSdDXhAoY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Drila</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.mtoijsYHSdDXhAoY"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "QaJguHeazBhC7AE1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cha</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.QaJguHeazBhC7AE1"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "dxmw5DdGK7tqm6IS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Kash</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.dxmw5DdGK7tqm6IS"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "yHnmXbvDiO0Ldkqe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.yHnmXbvDiO0Ldkqe"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "sutoCJnxjklPM0xH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.sutoCJnxjklPM0xH"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "W39nRYpZVaTub3OL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Aan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.W39nRYpZVaTub3OL"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "DEsbX938A1k9Ab44",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.DEsbX938A1k9Ab44"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "hzoB1C53vQNR853J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Aar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.hzoB1C53vQNR853J"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "RHLhtjBmHnr77pVC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dia</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.RHLhtjBmHnr77pVC"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "9szzZsUGSrK4nsF3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ry</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.9szzZsUGSrK4nsF3"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "rapOE3I7niNRgA64",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Oth</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.rapOE3I7niNRgA64"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "HRJHjAfnJVSL0oQV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ord</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.HRJHjAfnJVSL0oQV"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "rRvRXaCLnbOAO1iI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Otah</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.rRvRXaCLnbOAO1iI"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "dmJEgphA4yhWHJwD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pin</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.dmJEgphA4yhWHJwD"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "50bFomaxlhOw08bP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Kes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.50bFomaxlhOw08bP"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "SsLeFKVfzwcFFOxR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hah</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.SsLeFKVfzwcFFOxR"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "gpDTDeJ1NMqgH2Ld",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tat</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.gpDTDeJ1NMqgH2Ld"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "q3Gx33TphmcS1BvS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Scar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.q3Gx33TphmcS1BvS"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "u7DeLdZkrEViYDn1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Um</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.u7DeLdZkrEViYDn1"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "JdBGGe6NdtHRxwsc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Il</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.JdBGGe6NdtHRxwsc"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "3sb95tiAHZDi9Z6Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.3sb95tiAHZDi9Z6Y"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "0Bo7e6usue5JXolz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mas</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.0Bo7e6usue5JXolz"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "lfhUL7MVaYLoJiAv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pau</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.lfhUL7MVaYLoJiAv"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "ZW5DBAjmkJ059OaI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Far</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.ZW5DBAjmkJ059OaI"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "eTctnI90gon8AMAx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mus</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.eTctnI90gon8AMAx"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "YlwY7wgcmlizKUP3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.YlwY7wgcmlizKUP3"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "MDdtlwkY99lnDU62",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>And</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.MDdtlwkY99lnDU62"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "wVeHwugt6Hq1IhuH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Nar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.wVeHwugt6Hq1IhuH"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "8HmlE11gkzvw4j12",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lia</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.8HmlE11gkzvw4j12"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "1QJ49cRb911LIIfC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ell</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.1QJ49cRb911LIIfC"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "EySoTzdMIUv2Ga0E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.EySoTzdMIUv2Ga0E"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "QXTVFc2QRDVvZGKb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Oz</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!sMN70I4H3HbgqO7C.QXTVFc2QRDVvZGKb"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Combine these to create a name: person or planet. Some syllables fit better as first syllables rather than second, so you may have to adjust the syllable order.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "sMN70I4H3HbgqO7C",
+  "sort": 700000,
+  "_key": "!tables!sMN70I4H3HbgqO7C"
+}

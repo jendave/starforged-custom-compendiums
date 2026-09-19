@@ -1,0 +1,1001 @@
+{
+  "name": "Vehicle Weaknesses",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "S98tRlvAL7CekSU0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Exposed Joint</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.S98tRlvAL7CekSU0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "8TcJakRkGbrOyR7q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Computer Flaw</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.8TcJakRkGbrOyR7q"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "mTW6B14XxcoEK7gr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Weak Shields</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.mTW6B14XxcoEK7gr"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "vIgWJGQR8azabxnA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Open Cockpit</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.vIgWJGQR8azabxnA"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "d3d0TecJBSemf6HC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unreliable Scope</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.d3d0TecJBSemf6HC"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "SqAlv0nm5zPM5eLx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Jury-Rigged</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.SqAlv0nm5zPM5eLx"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "XdOUecuE4twSZUtX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Flawed Coolant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.XdOUecuE4twSZUtX"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "7w0JjebxYU7H31Se",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Weak Sensors</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.7w0JjebxYU7H31Se"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "PcgP7VGQI3xEWaKX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bad Targeting</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.PcgP7VGQI3xEWaKX"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "yNu6ymehvDJ807fP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Needs Big Crew</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.yNu6ymehvDJ807fP"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "YFmp5obVzIdfWHR5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Patched Engine</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.YFmp5obVzIdfWHR5"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "vVIq4Okk0Fqgedmj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Leaky Reactor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.vVIq4Okk0Fqgedmj"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "CHFfWeDOriY0hiI7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Requires a Droid</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.CHFfWeDOriY0hiI7"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "zdyI5Gz2o3bp46zJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Long Power-Up</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.zdyI5Gz2o3bp46zJ"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "3AHxL3kbegdw5Ub8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Failed Locks</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.3AHxL3kbegdw5Ub8"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "Cme0gz35uwsACilW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Out of Ammo</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.Cme0gz35uwsACilW"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "cRK85cOwZ5ltBSiI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Low Fuel</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.cRK85cOwZ5ltBSiI"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "SeenSYZWM9hhDiru",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Explosion Prone</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.SeenSYZWM9hhDiru"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "0dx21VNudGjccfpT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>No Comms</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.0dx21VNudGjccfpT"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "y4n9ZgAOAcFBD469",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>No Climate Control</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.y4n9ZgAOAcFBD469"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "P9xpMVWdakqSo8IW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusually Slow</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.P9xpMVWdakqSo8IW"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "BZSvuzjXiSG6KtAK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Easily Ionized</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.BZSvuzjXiSG6KtAK"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "xqigAHkF9kcH33ly",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Computer Ports</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.xqigAHkF9kcH33ly"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "vbt3FCbprhLeSDHp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bad Life Support</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.vbt3FCbprhLeSDHp"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "0YgqaoidmeoLMkLl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>No Escape Pod</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.0YgqaoidmeoLMkLl"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "CVvs7IeCvjiqZTTB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Volatile Reactors</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.CVvs7IeCvjiqZTTB"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "B3FsS3yfz6FWrxiU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Jammed Control</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.B3FsS3yfz6FWrxiU"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "wU8RVOnNJsbHZivk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Alien Interface</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.wU8RVOnNJsbHZivk"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "av9rJFVDtnSgnmcg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>No Supplies</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.av9rJFVDtnSgnmcg"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "uWEvfZn3qwXjhykk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Flammable</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.uWEvfZn3qwXjhykk"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "wjaZgUEOFPDtFyzt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hard to Control</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.wjaZgUEOFPDtFyzt"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "5kvaOnpwqx1gREgB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Weak Weapons</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.5kvaOnpwqx1gREgB"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "VFGmMjqb0WkgQ5Wv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Known Soft Spot</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.VFGmMjqb0WkgQ5Wv"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "klVfzf0sSnHWriK1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Droid Brain</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.klVfzf0sSnHWriK1"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "KccgNr571uXLHeJz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Easily Sliced</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.KccgNr571uXLHeJz"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "r3JL75fbAd8OOeRA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusually Heavy</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!Ga9Hv8Qm7od4eObM.r3JL75fbAd8OOeRA"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Ga9Hv8Qm7od4eObM",
+  "sort": 2200000,
+  "_key": "!tables!Ga9Hv8Qm7od4eObM"
+}

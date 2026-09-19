@@ -1,0 +1,1001 @@
+{
+  "name": "Droids",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "l2c3aoffvbHxnKRP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Maintenance</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.l2c3aoffvbHxnKRP"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "u1scAtFR38wdJwrk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Load Lifter</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.u1scAtFR38wdJwrk"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "gvvhfI4cKCn22pt4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Assassination</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.gvvhfI4cKCn22pt4"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "vPJHqxuqF0pfxtgF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Protocol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.vPJHqxuqF0pfxtgF"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "hhOvE3INoKmSfUlB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Power</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.hhOvE3INoKmSfUlB"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WVQUsW8LKreXKGQN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Assistant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.WVQUsW8LKreXKGQN"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "GZxRfcxMhwu6GTg2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pilot</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.GZxRfcxMhwu6GTg2"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "aYKjqfGoCdB8fvK2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Farming</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.aYKjqfGoCdB8fvK2"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "7hibCBSHpBu12GmZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Slicer</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.7hibCBSHpBu12GmZ"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "3hLSDNYfSwX3PljM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Administrative</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.3hLSDNYfSwX3PljM"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "NSHPSmjNNkEPi5Cq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Janitorial</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.NSHPSmjNNkEPi5Cq"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "CO1Nkyo0jXNon4Ic",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cook</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.CO1Nkyo0jXNon4Ic"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "qEZ8Ovec4poaIvp4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Astromech</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.qEZ8Ovec4poaIvp4"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "Wy91v4AoKyMg2Ll3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Security</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.Wy91v4AoKyMg2Ll3"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "rWyfUbTBe7siW0JU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Medical</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.rWyfUbTBe7siW0JU"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "kwFaZO7cIJiceJj9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Battle Droid</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.kwFaZO7cIJiceJj9"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "6VfgjG5FoJK7rxib",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Interrogation</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.6VfgjG5FoJK7rxib"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "BVEHlrfFZkwTCpzV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Slicer</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.BVEHlrfFZkwTCpzV"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "nBGbY0Cagn6Y8stc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tactical</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.nBGbY0Cagn6Y8stc"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "24nzxPwbIbPlteoa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Training</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.24nzxPwbIbPlteoa"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "5J940YzgySmnqW8i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Archivist</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.5J940YzgySmnqW8i"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "fyMxvhvZDn4uhJMo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Research</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.fyMxvhvZDn4uhJMo"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "9L5ntcgJO9ZukIyc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Teaching</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.9L5ntcgJO9ZukIyc"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "Ld9jv6fnSAEyYMOH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Probe</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.Ld9jv6fnSAEyYMOH"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "DQFZKSGalXqNFE9h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Scout</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.DQFZKSGalXqNFE9h"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "b3azsKhiVZj5VVvJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rescue</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.b3azsKhiVZj5VVvJ"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "866ThoaVRfc8lP20",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Investigator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.866ThoaVRfc8lP20"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "t5IuBBpRm6aOgZYC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Police</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.t5IuBBpRm6aOgZYC"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "sQcslRmnmLIJQZtb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Entertainment</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.sQcslRmnmLIJQZtb"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "RArRWyzKFZC1JjzE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Nanny</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.RArRWyzKFZC1JjzE"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "LU23KTBus0PLxJlv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mining</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.LU23KTBus0PLxJlv"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "Yq1uCgXRbqJuSbCK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Service</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.Yq1uCgXRbqJuSbCK"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "KKHJelEVmwj3Gp3g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Labor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.KKHJelEVmwj3Gp3g"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "hZo5oaBIVQvlE7qk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Construction</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.hZo5oaBIVQvlE7qk"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "Do2a6WO9AdOloZYt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Housekeeping</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.Do2a6WO9AdOloZYt"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "oBDlIqgqtXnpRSwZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Human-replica</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!VifNOZydpEpHd0lq.oBDlIqgqtXnpRSwZ"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VifNOZydpEpHd0lq",
+  "sort": 1000000,
+  "_key": "!tables!VifNOZydpEpHd0lq"
+}

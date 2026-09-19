@@ -15,7 +15,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Resources by cdoghusk</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.U10AYZWqelmLuBKM]{Star Wars}</p><h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.gb1MYGuYf7glrM9w]{Star Wars}</p>"
+        "content": "<h2>Resources by cdoghusk</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.U10AYZWqelmLuBKM]{Star Wars}</p><h2>Resources by jendave</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.gb1MYGuYf7glrM9w]{Star Wars}</p><h2>Resources by SilZeroChris</h2><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomjournalentries.JournalEntry.agG0jOOjNL4smBiZ]{Star Wars}</p>"
       },
       "video": {
         "controls": true,
@@ -30,12 +30,12 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.351",
         "systemId": "foundry-ironsworn",
         "systemVersion": "1.25.4",
         "createdTime": 1757749198820,
-        "modifiedTime": 1758085118987,
-        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1789854928418,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
         "exportSource": null
       },
       "category": null,

@@ -1,0 +1,1001 @@
+{
+  "name": "Mission Objectives",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "rJEBabLt3eZVmvml",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Plans</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.rJEBabLt3eZVmvml"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "PO22gwl5kPIJpyUZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blueprints</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.PO22gwl5kPIJpyUZ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "HMbCdySk7gxI9Rda",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Nav Records</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.HMbCdySk7gxI9Rda"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "PpVduemRfo8gytYH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Spice</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.PpVduemRfo8gytYH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "oqScEXCg5VFcNT9C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Access Codes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.oqScEXCg5VFcNT9C"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "4ql13qspyWwmN1ft",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Government Leader</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.4ql13qspyWwmN1ft"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "5igoPqn9UHVJ7Kw8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Intel Officer</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.5igoPqn9UHVJ7Kw8"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "UyKXRceQk0qEwewf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>General/Admiral</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.UyKXRceQk0qEwewf"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "swbmWjkLHBxFc0CC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Holocron</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.swbmWjkLHBxFc0CC"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "xuyYc3Q3hKOHXIUO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Local Hero</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.xuyYc3Q3hKOHXIUO"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "6ocQp5nrqtKyuUhD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Credits</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.6ocQp5nrqtKyuUhD"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "vzBxX2xwb8xb5JhS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Weapons</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.vzBxX2xwb8xb5JhS"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "ddxek8ScZjNh8Wpw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Smuggler Baron</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.ddxek8ScZjNh8Wpw"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "pfq4ROSfEPHB6wIe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Business Leader</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.pfq4ROSfEPHB6wIe"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "NeJr8z1igFkMK7XT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Holodrama Actor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.NeJr8z1igFkMK7XT"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "22jzxEW4KuhaEL80",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Experimental Ship</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.22jzxEW4KuhaEL80"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "JlVkm7HHe2iLO0Pm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Experimental Weapon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.JlVkm7HHe2iLO0Pm"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "5s8gNbb5F0wLbrUs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>City</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.5s8gNbb5F0wLbrUs"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "gfAQwatrY0dRIOmK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Experimental Droid</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.gfAQwatrY0dRIOmK"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "AaJI6NafBQCszdUq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Map</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.AaJI6NafBQCszdUq"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "JSL8OnEVfr74J8fb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Senator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.JSL8OnEVfr74J8fb"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "J2MUZcY5PVCTj9Gk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Depot</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.J2MUZcY5PVCTj9Gk"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "tJ8C5H9RiNr6eo2I",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Base</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.tJ8C5H9RiNr6eo2I"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "fW5QbITSjmXRPFO0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Outpost</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.fW5QbITSjmXRPFO0"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "vVYJG00XgWR6jy5P",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Legal Documents</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.vVYJG00XgWR6jy5P"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "uTZ7PoerIdWen5Gj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Message</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.uTZ7PoerIdWen5Gj"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "gN9PU0f6DBn8U4N0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Antique</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.gN9PU0f6DBn8U4N0"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "vFFSzg0igXhBvMvs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Informant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.vFFSzg0igXhBvMvs"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "a80xHh3JBY1B80tG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Property Deed</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.a80xHh3JBY1B80tG"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "Aor6iDy3vFZEzwE1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vehicle Deed</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.Aor6iDy3vFZEzwE1"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "EFbqyaqLSbfjzX16",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hidden Location</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.EFbqyaqLSbfjzX16"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "JIwFgiyE2wpqXzps",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Natural Resource</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.JIwFgiyE2wpqXzps"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "aLicQefhZ4Nrvahc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Force Nexus</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.aLicQefhZ4Nrvahc"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "wceVPvvn3skkP32W",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll on the Force Artifacts oracle.</p>",
+      "name": "Force Artifacts",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.7bCswF8EcmosLtii",
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.wceVPvvn3skkP32W"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "CZIfmHfuczboZa0R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Jedi/Force User</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.CZIfmHfuczboZa0R"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "UEKZmq3kbLaTaNet",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Inquisitor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!C5ptPqb9Ld7Zgdwz.UEKZmq3kbLaTaNet"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "C5ptPqb9Ld7Zgdwz",
+  "sort": 2400000,
+  "_key": "!tables!C5ptPqb9Ld7Zgdwz"
+}

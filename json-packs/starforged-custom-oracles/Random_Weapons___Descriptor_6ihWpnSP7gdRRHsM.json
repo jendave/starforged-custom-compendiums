@@ -1,0 +1,353 @@
+{
+  "name": "Random Weapons - Descriptor",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "NkJzrpsE1hcvNVsr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stun</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.NkJzrpsE1hcvNVsr"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KoLvPRgXJ81jmxCR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Plasma</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.KoLvPRgXJ81jmxCR"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "7y7mOrIfYhjMcIGU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Thermal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.7y7mOrIfYhjMcIGU"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "dwrgbjVmtsjraMPD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blaster</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.dwrgbjVmtsjraMPD"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "eslfT6vr6zoEgfX6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vibro</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.eslfT6vr6zoEgfX6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "6PJRuvzJd9dQhKrf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sonic</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.6PJRuvzJd9dQhKrf"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "UDiUUNZeuwW7h4Fp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Carbonite</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.UDiUUNZeuwW7h4Fp"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "f5RKQbTULeWFvje3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Laser</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.f5RKQbTULeWFvje3"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "ZbaVxNOZevOBFyFn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Proton</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.ZbaVxNOZevOBFyFn"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "SXLHgqXJ8dvzcfUK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Flame</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.SXLHgqXJ8dvzcfUK"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "StIjhKrB1etlLJqE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ion</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.StIjhKrB1etlLJqE"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "DOZs5wo02bkgzpDY",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll on the Species oracle.</p>",
+      "name": "Species",
+      "documentUuid": "Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.f97ckIflSUABtaVf",
+      "_key": "!tables.results!6ihWpnSP7gdRRHsM.DOZs5wo02bkgzpDY"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>To create random weapons that are rare, illegal, insane, or impractical, roll a descriptor here and then roll on <strong>Random Weapons - Weapon Type</strong>.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "6ihWpnSP7gdRRHsM",
+  "sort": 2700000,
+  "_key": "!tables!6ihWpnSP7gdRRHsM"
+}

@@ -1,0 +1,65 @@
+{
+  "folder": "hjXqGBzP2W24NrpX",
+  "name": "Overview",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Overview",
+      "type": "text",
+      "_id": "9AVKtqj7bzhMRP7a",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<ul><li><span><a href=\"https://static1.squarespace.com/static/5990b78fa5790ab65274abc3/t/59d226732aeba5a6d2000844/1506944628037/WOMP+RATS.pdf\">WOMP RATS Roll Tables</a> by <a href=\"https://silzero.com/podcasts/\">Chris Ing/SilZeroChris</a> used with permission from the author.</span></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "modifiedTime": 1789854597888
+      },
+      "category": null,
+      "_key": "!journal.pages!3Qi1nhpy4o31TD7T.9AVKtqj7bzhMRP7a"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1789853965616,
+    "modifiedTime": 1789853965616,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "categories": [],
+  "_id": "3Qi1nhpy4o31TD7T",
+  "sort": 0,
+  "_key": "!journal!3Qi1nhpy4o31TD7T"
+}

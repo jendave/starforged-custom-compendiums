@@ -1,0 +1,353 @@
+{
+  "name": "Tatooine Surnames - First Word",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "45CjLU0ycL7kcdAe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dark</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.45CjLU0ycL7kcdAe"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KWY9fjS1b23eSqSV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Light</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.KWY9fjS1b23eSqSV"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "6dweBUPQQ0WQybgK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sky</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.6dweBUPQQ0WQybgK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "tfvYiGKdHSabmA2h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sun</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.tfvYiGKdHSabmA2h"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "rLBMtZQmrIMDPpMa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Moon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.rLBMtZQmrIMDPpMa"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "yXrWnaiK9FbxIcBH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cloud</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.yXrWnaiK9FbxIcBH"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "rfhvTg8RH7Mvhf8j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Star</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.rfhvTg8RH7Mvhf8j"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Q68yS3gcLfuacnpb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Flame</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.Q68yS3gcLfuacnpb"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "PlAwTXwYAWuT108Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Wind</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.PlAwTXwYAWuT108Y"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "mn5h7LpAstrvGBSR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sand</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.mn5h7LpAstrvGBSR"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "Ok0YgN6A7Z7ZPpqP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rock</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.Ok0YgN6A7Z7ZPpqP"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "mBUzI68Wtp1peKoC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cliff</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!W36oh9HKcQGGjqnW.mBUzI68Wtp1peKoC"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Create names like “Skywalker” and “Darklighter”. Roll once here and once on <strong>Tatooine Surnames - Second Word</strong>.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "W36oh9HKcQGGjqnW",
+  "sort": 800000,
+  "_key": "!tables!W36oh9HKcQGGjqnW"
+}

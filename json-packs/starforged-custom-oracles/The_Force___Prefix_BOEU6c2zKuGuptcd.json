@@ -1,0 +1,191 @@
+{
+  "name": "The Force - Prefix",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Qr1SajsW9LtHuvJH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Force</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!BOEU6c2zKuGuptcd.Qr1SajsW9LtHuvJH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "kc92SFcO9JdJMeXj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Battle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!BOEU6c2zKuGuptcd.kc92SFcO9JdJMeXj"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "fzgYG11lnrN6V6bq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dark</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!BOEU6c2zKuGuptcd.fzgYG11lnrN6V6bq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "qFRJHgkZ07ubf08S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Light</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!BOEU6c2zKuGuptcd.qFRJHgkZ07ubf08S"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Al3m0Eb3L5Nq79mK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mind</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!BOEU6c2zKuGuptcd.Al3m0Eb3L5Nq79mK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "115wcMhKntp4Oztx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lightsaber</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!BOEU6c2zKuGuptcd.115wcMhKntp4Oztx"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll a prefix here, then roll on <strong>The Force - Power</strong> and choose an option.<ul><li>Use the combination to come up with a new Force power description</li><li>Roll a random power and allow the player to use it or not use it at that moment</li><li>Roll a random power limited in context (a Jedi cannot use any “Dark” prefixes, for example)</li></ul></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "BOEU6c2zKuGuptcd",
+  "sort": 2500000,
+  "_key": "!tables!BOEU6c2zKuGuptcd"
+}

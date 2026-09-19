@@ -11,7 +11,9 @@ A FoundryVTT compendium of homebrew resources for the Ironsworn: Starforged syst
 
 ## Features and Notes
 
-* Oracle tables contributed by fans are included in the compendium.
+> [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles) includes many resources that are non-commercial and are used by permission of the author for this module.
+
+* Oracle tables and resources contributed by fans are included in the compendium.
 * Read the documentation in the journal compendium to locate resources by author, utility type, genre and theme.
 * `Faction` Actor types for Starforged, Sundered Isles and Starsmith.
 * Want your Oracle included? Contact us on the [Ironsworn/Starforged Discord Server](https://discord.com/channels/437120373436186625/867434336201605160)!
@@ -134,6 +136,7 @@ Oracles, Assets, Moves, Macros and Journal Entries
 * [Legacy Iron (Starforged Asset Pack)](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack) by [Ludic Pen](https://www.drivethrurpg.com/en/publisher/14520/ludic-pen) used with permission from the author.
 * [Linked Effect Between Tokens](https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked) tutorial script from [Sequencer Documentation](https://fantasycomputer.works/FoundryVTT-Sequencer/#/) licensed under the [MIT license](https://opensource.org/license/mit/).
 * [Earn Experience and Heal variant Moves](https://discord.com/channels/437120373436186625/468867952033136652/1539124454012227737) by GrimsonGrudgebringer used with permission from the author.
+* [WOMP RATS Roll Tables](https://static1.squarespace.com/static/5990b78fa5790ab65274abc3/t/59d226732aeba5a6d2000844/1506944628037/WOMP+RATS.pdf) by [Chris Ing/SilZeroChris](https://silzero.com/podcasts) used with permission from the author.
 
 The following resources by [Shawn Tomkin](https://tomkinpress.com/) are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 

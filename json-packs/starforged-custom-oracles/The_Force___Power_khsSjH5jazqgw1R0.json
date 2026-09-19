@@ -1,0 +1,515 @@
+{
+  "name": "The Force - Power",
+  "formula": "1d18",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "QhS0sMFz7AHvglnR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sense</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.QhS0sMFz7AHvglnR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "j5tb8ts7MQg7UMUt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Meditation</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.j5tb8ts7MQg7UMUt"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "Amlso0pxLpDupI3j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Foresee</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.Amlso0pxLpDupI3j"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "rRogpTc2h8Y6y8Ib",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lightning</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.rRogpTc2h8Y6y8Ib"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "FfloNi9Iwl7WqAh9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Heal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.FfloNi9Iwl7WqAh9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Ok7I6ArK8FLcKRgf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Choke</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.Ok7I6ArK8FLcKRgf"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Ep0xnL75P6tZ4Jrt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Throw</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.Ep0xnL75P6tZ4Jrt"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "zrOWqmSYRgPDTMlF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pull</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.zrOWqmSYRgPDTMlF"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "vo4kb7Vl3mt1uiH6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Imbue</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.vo4kb7Vl3mt1uiH6"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "58RWU8JpI2gR6QKH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Leap</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.58RWU8JpI2gR6QKH"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "Rrz7gCdJgn1b9gQo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vision</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.Rrz7gCdJgn1b9gQo"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "qCBYzh7R4puP5unM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Speed</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.qCBYzh7R4puP5unM"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "EnCKfBcc0NHFy6Jc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Trick</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.EnCKfBcc0NHFy6Jc"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "epu9S0Yn566Ia7NK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dominate</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.epu9S0Yn566Ia7NK"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "S5SMPbOKE7XHyImX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Protect</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.S5SMPbOKE7XHyImX"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "xyLOXQ9hLC2TVbwy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Misdirect</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.xyLOXQ9hLC2TVbwy"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "2kU1T7L6p859ZUV7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Push</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.2kU1T7L6p859ZUV7"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "Kqtxfdg2kg55oLbj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Enhance</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!khsSjH5jazqgw1R0.Kqtxfdg2kg55oLbj"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll a prefix on <strong>The Force - Prefix</strong>, then roll a power here and choose an option.<ul><li>Use the combination to come up with a new Force power description</li><li>Roll a random power and allow the player to use it or not use it at that moment</li><li>Roll a random power limited in context (a Jedi cannot use any “Dark” prefixes, for example)</li></ul></p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "khsSjH5jazqgw1R0",
+  "sort": 2600000,
+  "_key": "!tables!khsSjH5jazqgw1R0"
+}

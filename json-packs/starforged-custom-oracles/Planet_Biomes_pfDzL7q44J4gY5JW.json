@@ -1,0 +1,1001 @@
+{
+  "name": "Planet Biomes",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "ACdhVcvNJ2iLMIEl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mountain</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.ACdhVcvNJ2iLMIEl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "VaNMaVkAl2BcSv46",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Canyon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.VaNMaVkAl2BcSv46"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "qqbJKTaSTL4sbVHf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Valley</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.qqbJKTaSTL4sbVHf"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "9BCXUnoUFXPTZ4xb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Prairie/Plain</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.9BCXUnoUFXPTZ4xb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "aeb0D2jensDCPQsg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Desert</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.aeb0D2jensDCPQsg"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "J9ah6HRvay7uhl4o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Grassland</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.J9ah6HRvay7uhl4o"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "rISAM3t8Wto6el7E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Forests</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.rISAM3t8Wto6el7E"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "gojeoi910jzCoKpn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rainforests</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.gojeoi910jzCoKpn"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "duLSqSUduAmtZu03",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Jungles</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.duLSqSUduAmtZu03"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "hTJpA1U4f0AZ2DDh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Savannahs</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.hTJpA1U4f0AZ2DDh"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "uDXgjqRWxGtXsM1o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Coastal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.uDXgjqRWxGtXsM1o"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "Kj5vbh9BRQhZVhm2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tropical</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.Kj5vbh9BRQhZVhm2"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "g1cEMZcwceEAH5YE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mangroves</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.g1cEMZcwceEAH5YE"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "lbW8w8tIGuMtJ9hB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Caves</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.lbW8w8tIGuMtJ9hB"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "2io3RcK2fGP9YEmg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lava</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.2io3RcK2fGP9YEmg"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "XO0Zjs67IlbgJzME",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Geysers</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.XO0Zjs67IlbgJzME"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "SzpHZGMewTLYupgE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ice</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.SzpHZGMewTLYupgE"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "c30y4myKDgwagTOI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mega-City</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.c30y4myKDgwagTOI"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "ZabgDt2fcUa9uLbB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lakes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.ZabgDt2fcUa9uLbB"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "fgK1ytIZC0ImQEnU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Tundra</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.fgK1ytIZC0ImQEnU"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "M1dGEggQ6Nj5WnEQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Chaparral</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.M1dGEggQ6Nj5WnEQ"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "Q9zdHijlPXHLggrG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bog</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.Q9zdHijlPXHLggrG"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "zxNEVesGdojXSzhb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Crystal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.zxNEVesGdojXSzhb"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "tw1Oh1qJKm1dC1eE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Storms</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.tw1Oh1qJKm1dC1eE"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "tBzkbnhX14YbpGpz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Wetlands</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.tBzkbnhX14YbpGpz"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "3zC74Gbwz1qrXMu7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Steppes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.3zC74Gbwz1qrXMu7"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "S2eu4XlbESh2G5XI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sinkholes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.S2eu4XlbESh2G5XI"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "R3cEMWiS3iuoBG1X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Waterfalls</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.R3cEMWiS3iuoBG1X"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "bCjVHasA6fTNY3r1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Marshes</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.bCjVHasA6fTNY3r1"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "UB5iYjNmjZBBDdJJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Meadows</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.UB5iYjNmjZBBDdJJ"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "BLhLMJp1DbQmHh2N",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Heath</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.BLhLMJp1DbQmHh2N"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "QxsmsIGGfSykkxMv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bayou</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.QxsmsIGGfSykkxMv"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "GPVJixVzDz2oOECY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Swamp</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.GPVJixVzDz2oOECY"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "unCdl0mOGg9MYUJI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Orchard</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.unCdl0mOGg9MYUJI"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "U2Q4L2UL0MzRZIEW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Badland</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.U2Q4L2UL0MzRZIEW"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "hMesVgwMJ8qFe5aV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mist/Fog</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!pfDzL7q44J4gY5JW.hMesVgwMJ8qFe5aV"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Many planets only have one in Star Wars.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pfDzL7q44J4gY5JW",
+  "sort": 1300000,
+  "_key": "!tables!pfDzL7q44J4gY5JW"
+}

@@ -1,0 +1,66 @@
+{
+  "folder": "hjXqGBzP2W24NrpX",
+  "name": "Star Wars",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Oracles",
+      "type": "text",
+      "_id": "VQOO9RstuonAjjvK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.duFF5nAwWVfcxCW4]{Cantina Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.o5cDcCQwzbd12I1p]{City Styles}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ZOfLPt2kfcKpIayO]{Clothing}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.VifNOZydpEpHd0lq]{Droids}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.7bCswF8EcmosLtii]{Force Artifacts}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.YR0CRl9amVfnIPRo]{Letters}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.uE6ZogopjVlPeIFy]{Military Ship Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.ypwTLawafUtd84i3]{Mission Actions}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.C5ptPqb9Ld7Zgdwz]{Mission Objectives}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.sMN70I4H3HbgqO7C]{Name Syllables}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.e2pFlMjWAGtj7jBZ]{Numbers}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.DiQfacXf8qY4rRuL]{Occupation}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.oGw9xw1HpJcn5aRZ]{Personal Quirks}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pfDzL7q44J4gY5JW]{Planet Biomes}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.WA6ZOpwX2uLbdpIs]{Planetside Locations}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1EcrLUJUXaHDehoe]{Pocket Items}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.6ihWpnSP7gdRRHsM]{Random Weapons - Descriptor}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.PDkRVZzpq0G8p9g0]{Random Weapons - Weapon Type}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.8elEfVz3BIaYj5YI]{Ship/Base Rooms}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.pxscsW5bgZ3vyeAa]{Smuggler Ship Names}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.f97ckIflSUABtaVf]{Species}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.W36oh9HKcQGGjqnW]{Tatooine Surnames - First Word}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.1jAWnjykZkytebWh]{Tatooine Surnames - Second Word}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.3Zz2NXOvT5I7DUXs]{Temple Rooms}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.khsSjH5jazqgw1R0]{The Force - Power}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.BOEU6c2zKuGuptcd]{The Force - Prefix}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.Ga9Hv8Qm7od4eObM]{Vehicle Weaknesses}</p><p>@UUID[Compendium.starforged-custom-oracles.starforgedcustomoracles.RollTable.dWVjwHvoxbKQatC1]{Weapons}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "OX4yvkc0FcRTWOpP": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.2",
+        "createdTime": 1789854669444,
+        "modifiedTime": 1789854805100,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "_key": "!journal.pages!agG0jOOjNL4smBiZ.VQOO9RstuonAjjvK"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3,
+    "OX4yvkc0FcRTWOpP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.28.2",
+    "createdTime": 1789853968138,
+    "modifiedTime": 1789853968138,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+  },
+  "categories": [],
+  "_id": "agG0jOOjNL4smBiZ",
+  "sort": 0,
+  "_key": "!journal!agG0jOOjNL4smBiZ"
+}

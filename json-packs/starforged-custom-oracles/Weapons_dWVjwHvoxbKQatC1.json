@@ -1,0 +1,1001 @@
+{
+  "name": "Weapons",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "ayYlVhevMdyMwdZ0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blaster Pistol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.ayYlVhevMdyMwdZ0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "RiednnMaZsyMGlOs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blaster Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.RiednnMaZsyMGlOs"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "r5IEXAXGy4cBScSh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Holdout Blaster</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.r5IEXAXGy4cBScSh"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "O6s0qGDqymrW0t5U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mounted Blaster</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.O6s0qGDqymrW0t5U"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "gDcvPi1taxLiWFiL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Heavy Blaster Pistol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.gDcvPi1taxLiWFiL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "gB3GOAKStsMm8a2T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blaster Carbine</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.gB3GOAKStsMm8a2T"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Wr9ss00Lfuvrz0by",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sniper Blaster Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.Wr9ss00Lfuvrz0by"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "o5swKpPHxyoCQTdl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hunting Blaster Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.o5swKpPHxyoCQTdl"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "cdAlLp0I1YHCKnpm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ion Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.cdAlLp0I1YHCKnpm"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "xqrO92JRvcyUgHVy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stun Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.xqrO92JRvcyUgHVy"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "idra2AjDNS84oDG7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stun Pistol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.idra2AjDNS84oDG7"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "x1FfbZ16MekdUkll",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Disruptor Pistol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.x1FfbZ16MekdUkll"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "mAmiDLUKDLQgal0k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Disruptor Rifle</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.mAmiDLUKDLQgal0k"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "ANQ6UF6dj6ced27H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Frag Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.ANQ6UF6dj6ced27H"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "lny3e3PKULm5keoA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stun Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.lny3e3PKULm5keoA"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "RZR0cGDCvD2yxrhN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ion Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.RZR0cGDCvD2yxrhN"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "dIJPrn1gpavdBTba",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Thermal Detonator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.dIJPrn1gpavdBTba"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "NXcXXktIE4IWXU0J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Flash Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.NXcXXktIE4IWXU0J"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "4sKCMw35UizGOD0b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Missile Launcher</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.4sKCMw35UizGOD0b"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "JsVD8FMUKXzfRec8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Grenade Launcher</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.JsVD8FMUKXzfRec8"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "UofPC2w1unzmY49j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Flame Projector</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.UofPC2w1unzmY49j"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "v0cuBOeFPjuQxc7n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dart Launcher</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.v0cuBOeFPjuQxc7n"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "vAdB8POYoiOSuRPy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Micro Rockets</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.vAdB8POYoiOSuRPy"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "Da4nKHJVctzl0ivX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Slugthrower</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.Da4nKHJVctzl0ivX"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "I9peqDcrfMvUBA6B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vibroblade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.I9peqDcrfMvUBA6B"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "XfxcKa11SH1DlUmB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vibrosword</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.XfxcKa11SH1DlUmB"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "j7KHXCe4NZJSgyLz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vibroaxe</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.j7KHXCe4NZJSgyLz"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "8yjawLo4NAGAHgyv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Force Pike</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.8yjawLo4NAGAHgyv"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "f2RmzFgx9YeZaJbX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Electrostaff</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.f2RmzFgx9YeZaJbX"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "hUfNb2nYbm1xYWav",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Light Blaster Pistol</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.hUfNb2nYbm1xYWav"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "kQLut6XUYE6UY6Fr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stun Baton</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.kQLut6XUYE6UY6Fr"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "kMzGUjhFfWwnRbUj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Plasma Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.kMzGUjhFfWwnRbUj"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "BE8qoFzH6bwkLVkt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Carbonite Grenade</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.BE8qoFzH6bwkLVkt"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "HOnmdYUueYeLfomb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gaffi Stick</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.HOnmdYUueYeLfomb"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "zmIchj9N0kB3yrl1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bowcaster</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.zmIchj9N0kB3yrl1"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "kKyI1fvF8rOg4qIt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Truncheon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!dWVjwHvoxbKQatC1.kKyI1fvF8rOg4qIt"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dWVjwHvoxbKQatC1",
+  "sort": 200000,
+  "_key": "!tables!dWVjwHvoxbKQatC1"
+}

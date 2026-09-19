@@ -1,0 +1,1001 @@
+{
+  "name": "Personal Quirks",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "NBXSG2VN7e9XdI1C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blaster burns</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.NBXSG2VN7e9XdI1C"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "oUwIGYKKjR2g5Idj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Knife scars</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.oUwIGYKKjR2g5Idj"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ArnmntREcbnk4FUs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Brand mark</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.ArnmntREcbnk4FUs"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "DOG59qun1dV4ffWN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Glowing tattoo</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.DOG59qun1dV4ffWN"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "CMdSNRM2vMEz0WPx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Repeats self</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.CMdSNRM2vMEz0WPx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "MvD9JKadom0Fh8IU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Alien slang</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.MvD9JKadom0Fh8IU"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "MvOui0n1HpFEh4hI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Burn scars</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.MvOui0n1HpFEh4hI"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "69Iy2MMfHtpllgj8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Pet</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.69Iy2MMfHtpllgj8"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "FrzN0GZmbF3maZ1F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Accented speech</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.FrzN0GZmbF3maZ1F"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "PWK2wggNjV6Kj7TB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Catchphrase</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.PWK2wggNjV6Kj7TB"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "8iO7zrVBD8Is2i2j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusual skin</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.8iO7zrVBD8Is2i2j"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "aP76OePktmapu0OE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Painfully shy</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.aP76OePktmapu0OE"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "0ULhdeE9q6OCxbHE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lightsaber scar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.0ULhdeE9q6OCxbHE"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "inT4itvQkJwBPr25",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Artificial arm</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.inT4itvQkJwBPr25"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "CxC9IivBbTScWBnq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hoarse voice</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.CxC9IivBbTScWBnq"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "hkokuXguczi9xC7J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Poetic speech</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.hkokuXguczi9xC7J"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "0RQjWuKKDgcXJwb8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Blunt/opinionated</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.0RQjWuKKDgcXJwb8"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "oivgmyPjV2gXOfBA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Addicted to spice</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.oivgmyPjV2gXOfBA"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "bHzd5Ntw46tEnhBa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Melodious voice</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.bHzd5Ntw46tEnhBa"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "arBKGy4gg9qkQRrw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Quick tempered</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.arBKGy4gg9qkQRrw"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "yfs8hwbfjbIbWXsv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Damaged mouth</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.yfs8hwbfjbIbWXsv"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "6IdZDKU2CNg9cxMx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Needs translator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.6IdZDKU2CNg9cxMx"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "ZuQaAKBQyIwIQlFD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Needs respirator</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.ZuQaAKBQyIwIQlFD"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "j4K9trYRZg6487H8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusually tall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.j4K9trYRZg6487H8"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "FxrVqeGPV5ir0aiE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Artificial eye</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.FxrVqeGPV5ir0aiE"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "nUBxXwvwgRlWRJoH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Afraid of space</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.nUBxXwvwgRlWRJoH"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "HaBLzv7sr8ObpFGx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Piercings</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.HaBLzv7sr8ObpFGx"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "RwF7lMVrB9MNWMuZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ritual scars</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.RwF7lMVrB9MNWMuZ"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "h4oN7dxVjBC6gIDR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusually short</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.h4oN7dxVjBC6gIDR"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "95jEsVkLR98ZCkmk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Fidgety</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.95jEsVkLR98ZCkmk"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "e0xdeqYFOUMeShfE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Extra limb</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.e0xdeqYFOUMeShfE"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "JXAgr9NFnBJNIWmb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Superstitious</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.JXAgr9NFnBJNIWmb"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "7iJ6Fc6yIZmwb0Ru",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusually strong</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.7iJ6Fc6yIZmwb0Ru"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "BukdDxTNtBeIwbMv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Constant talker</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.BukdDxTNtBeIwbMv"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "Q6WchZE3wla2nalj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Addicted to data</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.Q6WchZE3wla2nalj"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "XKxu5JxFHK486Fnh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Afraid of droids</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!oGw9xw1HpJcn5aRZ.XKxu5JxFHK486Fnh"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "oGw9xw1HpJcn5aRZ",
+  "sort": 600000,
+  "_key": "!tables!oGw9xw1HpJcn5aRZ"
+}

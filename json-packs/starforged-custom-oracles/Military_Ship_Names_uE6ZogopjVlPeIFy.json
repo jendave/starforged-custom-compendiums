@@ -1,0 +1,1001 @@
+{
+  "name": "Military Ship Names",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "PbSNoKvnqeHfIoye",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stalwart</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.PbSNoKvnqeHfIoye"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "nncgflTd3R3X9iBL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Valiant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.nncgflTd3R3X9iBL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ehY1fE2Z03IBbZog",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Determined</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.ehY1fE2Z03IBbZog"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "V8PK6uJccl56MbIH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stoic</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.V8PK6uJccl56MbIH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "kOpjuVEmtTd7x3oi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Steadfast</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.kOpjuVEmtTd7x3oi"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Ox6TOfkNt3WauKj6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Indomitable</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.Ox6TOfkNt3WauKj6"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "U5WEe3AeFD0gGwDQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vanquish</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.U5WEe3AeFD0gGwDQ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "MZdWdvf7xOWDaQUP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Conquer</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.MZdWdvf7xOWDaQUP"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "cF2Q68olStbffDVO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Destroy</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.cF2Q68olStbffDVO"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "lhXirP0Avgpu7TxI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Enslave</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.lhXirP0Avgpu7TxI"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "HQeSOhahzV51n8G6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Assimilate</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.HQeSOhahzV51n8G6"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "Jev3t05m7piaVeWO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Annex</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.Jev3t05m7piaVeWO"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "0jjCh4WhnwISjS2d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Defiance</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.0jjCh4WhnwISjS2d"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "PCh7ZkL6fd2Xe2x9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rebellion</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.PCh7ZkL6fd2Xe2x9"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "1PixhSdGNowXoLmx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Resistance</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.1PixhSdGNowXoLmx"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "shdYRyE0nwBT9CwC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dissent</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.shdYRyE0nwBT9CwC"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "HtOeHLp0ijMmLQqw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Revolution</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.HtOeHLp0ijMmLQqw"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "qim28sghdlrocSW2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Challenge</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.qim28sghdlrocSW2"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "eiAHeKpJ5jqehEgn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Peacekeeper</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.eiAHeKpJ5jqehEgn"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "TA1cylcN64pwZZE5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Benevolent</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.TA1cylcN64pwZZE5"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "2eGP2f3Jgy1SZEbQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Protector</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.2eGP2f3Jgy1SZEbQ"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "jBhB2IY85SiKsgKU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Defender</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.jBhB2IY85SiKsgKU"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "yGCo2BVvr6O6r22Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Champion</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.yGCo2BVvr6O6r22Q"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "y3EsWRlkWRytjJBR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sentinel</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.y3EsWRlkWRytjJBR"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "5wbrWEgwnrhzDE7U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Avenge</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.5wbrWEgwnrhzDE7U"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "IbAoaOXcjyYmuMfM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Revenge</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.IbAoaOXcjyYmuMfM"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "yU7arBBJSkhFyVeb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hunt</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.yU7arBBJSkhFyVeb"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "SE0LdcZoMn0HOeic",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stalk</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.SE0LdcZoMn0HOeic"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "ZRh0yj4SF4swKHnk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ravage</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.ZRh0yj4SF4swKHnk"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "OQa90BSrw2T4lKdf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Reckoning</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.OQa90BSrw2T4lKdf"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "m8r4P7GsP5vj5n4d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Freedom</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.m8r4P7GsP5vj5n4d"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "iFUADScFpEkgNMPE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Intrepid</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.iFUADScFpEkgNMPE"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "Va7jEsewqXuSYo2B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Halcyon</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.Va7jEsewqXuSYo2B"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "tcfiwxHaVBW6pBnn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Zenith</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.tcfiwxHaVBW6pBnn"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "nlJdWy1XvlcbuiEk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Reliance</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.nlJdWy1XvlcbuiEk"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "xlE77gAqIqswVU1N",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Liberty</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!uE6ZogopjVlPeIFy.xlE77gAqIqswVU1N"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uE6ZogopjVlPeIFy",
+  "sort": 2100000,
+  "_key": "!tables!uE6ZogopjVlPeIFy"
+}

@@ -1,0 +1,1001 @@
+{
+  "name": "Planetside Locations",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "hKPheqhq2oWghLsb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ship Hangar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.hKPheqhq2oWghLsb"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "00j8CIRzBDo60rGl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Warehouse</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.00j8CIRzBDo60rGl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "XFcfqjounitvprqv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cantina</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.XFcfqjounitvprqv"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "d9VgDil6mLRcHhTn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Speeder Rental</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.d9VgDil6mLRcHhTn"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "ddvRaQCWhc4fD9MB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bounty Bar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.ddvRaQCWhc4fD9MB"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "fszdMp4rpwvojQUk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Public Comms</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.fszdMp4rpwvojQUk"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "tVgTNvLJrhAYySw8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ship Repair Shop</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.tVgTNvLJrhAYySw8"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "schcg1QDEQNaNffF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Speeder Repair</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.schcg1QDEQNaNffF"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "CvYA7QPqkJlhjzAf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Droid Repair</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.CvYA7QPqkJlhjzAf"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "4yM7LwqGkGSQiVwH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Weapon Repair</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.4yM7LwqGkGSQiVwH"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "4DKCNM44KtM3fezo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Armor Shop</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.4DKCNM44KtM3fezo"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "3eDtWlhQfYed7Zyr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Spice Den</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.3eDtWlhQfYed7Zyr"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "fUMvZhM7VtE3fDYq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>High-Class Hotel</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.fUMvZhM7VtE3fDYq"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "TsZoL5vo5L9iq41C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Casino</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.TsZoL5vo5L9iq41C"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "besMorcCMhA5d0Ol",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Race Track</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.besMorcCMhA5d0Ol"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "bWcxpEgiPqmOexpT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Seedy Hotel</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.bWcxpEgiPqmOexpT"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "IlPh7yCW6z9XviJf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Imperial Outpost</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.IlPh7yCW6z9XviJf"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "Dr21Jxmbb7XfipYA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Smuggler’s Den</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.Dr21Jxmbb7XfipYA"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "9GD7W3Has4S037SX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gang Hideout</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.9GD7W3Has4S037SX"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "Uy0dtAWKP2a1Szyv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>City Hall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.Uy0dtAWKP2a1Szyv"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "BnerPD3FdhbL2huf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Fine Restaurant</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.BnerPD3FdhbL2huf"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "5WhAyhfOGWdFeTF6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Spacer Diner</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.5WhAyhfOGWdFeTF6"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "09v8skPbhFyPZaAe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Homestead</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.09v8skPbhFyPZaAe"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "jFimTRQ4dlZLRuNY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Power Station</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.jFimTRQ4dlZLRuNY"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "csUdBFBxIYhIMDCT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Police Station</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.csUdBFBxIYhIMDCT"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "kP0IaxM2IgKblVLT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hermit’s Hut</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.kP0IaxM2IgKblVLT"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "Tga26fvXXxTgPwV0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Spaceport</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.Tga26fvXXxTgPwV0"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "RPgUcL2ZeO7i1FUx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dance Club</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.RPgUcL2ZeO7i1FUx"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "ciLqCVcKJE2g5w75",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Lost Temple</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.ciLqCVcKJE2g5w75"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "E0oMPkQ0NdbiMCxu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bantha Ranch</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.E0oMPkQ0NdbiMCxu"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "cVXtVe2k5igMWpq2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hutt Palace</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.cVXtVe2k5igMWpq2"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "TCC4lfRT3hfO5bTM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Black Sun HQ</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.TCC4lfRT3hfO5bTM"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "39qdqJOdoZk6FAM5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>BoSS Station</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.39qdqJOdoZk6FAM5"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "MJAcCBAUhmw2PWkn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bazaar</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.MJAcCBAUhmw2PWkn"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "f0krRcdYcDdwy8Ai",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Junkyard</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.f0krRcdYcDdwy8Ai"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "S9yEyxLGt8zcuesZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Public Transit</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!WA6ZOpwX2uLbdpIs.S9yEyxLGt8zcuesZ"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WA6ZOpwX2uLbdpIs",
+  "sort": 1500000,
+  "_key": "!tables!WA6ZOpwX2uLbdpIs"
+}

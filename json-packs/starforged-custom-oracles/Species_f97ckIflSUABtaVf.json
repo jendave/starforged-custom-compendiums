@@ -1,0 +1,1001 @@
+{
+  "name": "Species",
+  "formula": "1d36",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "KmCOeck9SRkZvwdg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Human</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.KmCOeck9SRkZvwdg"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "b3CjjOAV7GdnQtpT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Twi’lek</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.b3CjjOAV7GdnQtpT"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "h4AYoxfB34Rxh7CH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Trandoshan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.h4AYoxfB34Rxh7CH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "2Y1ZdSi0tHNdvpg7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Wookiee</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.2Y1ZdSi0tHNdvpg7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "p2s79ciGEwQh1g3w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Sullustan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.p2s79ciGEwQh1g3w"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "KXGbE2OjBHLf8Tob",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Droid</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.KXGbE2OjBHLf8Tob"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "YsX9TNgFVWd9IDgQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Chadra Fan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.YsX9TNgFVWd9IDgQ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "MTcdzhFbS3GwW3Ej",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bith</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.MTcdzhFbS3GwW3Ej"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "Yp9ZauZ3kwt66a05",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mon Calamari</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.Yp9ZauZ3kwt66a05"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Ev26YNXD5nSWRqRN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gand</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.Ev26YNXD5nSWRqRN"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "RRPSnAMldv0z8ZrN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Hutt</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.RRPSnAMldv0z8ZrN"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "2mjvr0M1lYhOsvKq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ithorian</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.2mjvr0M1lYhOsvKq"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "_id": "yvByAIQVKWsdpWXq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Toydarian</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.yvByAIQVKWsdpWXq"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "_id": "VYX1iGGXri1qEb3E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Chiss</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.VYX1iGGXri1qEb3E"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "_id": "62g52Irh3xz4O3uU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Bothan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.62g52Irh3xz4O3uU"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "_id": "u8ufj63Np1em4D8F",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Duros</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.u8ufj63Np1em4D8F"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "_id": "7pvbqdpF18iwMoWQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Rodian</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.7pvbqdpF18iwMoWQ"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "_id": "IHeG1yhaTvMQ2Jtx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Defel</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.IHeG1yhaTvMQ2Jtx"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "_id": "cgAqST0sDVpbMMu2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Drall</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.cgAqST0sDVpbMMu2"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "_id": "vmwhq1kRbmXtrRxo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ewok</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.vmwhq1kRbmXtrRxo"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "_id": "7xjQdO8SkYOdymzU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Togruta</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.7xjQdO8SkYOdymzU"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "_id": "xmWV4rZknBvPfEgI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Nautolan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.xmWV4rZknBvPfEgI"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "_id": "9zdcLEJTytCatjJT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gran</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.9zdcLEJTytCatjJT"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "_id": "CgbrYTtEOlMM4yJS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Dug</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.CgbrYTtEOlMM4yJS"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "_id": "GhsUKpzDKGoqimvx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Jawa</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.GhsUKpzDKGoqimvx"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "_id": "Qm7V1plRelkn1bNq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gungan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.Qm7V1plRelkn1bNq"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "_id": "7bnrLWD4JORylJ40",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gamorrean</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.7bnrLWD4JORylJ40"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "_id": "Eugo2lMAvxd2CMFk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Zabrak</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.Eugo2lMAvxd2CMFk"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "_id": "x1A0s8wmACniGd4q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ugnaught</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.x1A0s8wmACniGd4q"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "_id": "6LMyrop1te33GgTa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Besalisk</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.6LMyrop1te33GgTa"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "_id": "mSfvFB18HRZNFm4u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mirialan</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.mSfvFB18HRZNFm4u"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "_id": "vBAv3soso0xLa7WA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Neimoidian</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.vBAv3soso0xLa7WA"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "_id": "raxJea6HsHWV2m8C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Weequay</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.raxJea6HsHWV2m8C"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "_id": "0mfv5dGnYl0RWClF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Cerean</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.0mfv5dGnYl0RWClF"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "_id": "8KpQhFHbvkxlvjUF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Kel Dor</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.8KpQhFHbvkxlvjUF"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "_id": "TJsR8QA4HJh7BjJb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gotal</p>",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!f97ckIflSUABtaVf.TJsR8QA4HJh7BjJb"
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Galaxy is a wide and diverse place. Here are common species that inhabit it.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SilZeroChrisSWar",
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.4",
+    "coreVersion": "13.351",
+    "createdTime": 1789624610807,
+    "modifiedTime": 1789624610807,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "f97ckIflSUABtaVf",
+  "sort": 300000,
+  "_key": "!tables!f97ckIflSUABtaVf"
+}
